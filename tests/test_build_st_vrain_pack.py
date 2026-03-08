@@ -3,9 +3,11 @@ from datetime import datetime
 
 from scripts.build_st_vrain_pack import (
     DISTRICT_TZ,
+    build_split_pack_documents,
     build_seed_source_urls,
     current_board_years,
     is_school_hub_url,
+    section_output_filename,
     specialized_page_text,
     should_exclude_url,
     should_include_discovered_url,
@@ -160,6 +162,50 @@ class BuildStVrainPackTests(unittest.TestCase):
         self.assertIn("Performance Watch Status: Not on Performance Watch", cleaned)
         self.assertIn("Rating Source: Rating based on 1-Year Performance Report", cleaned)
         self.assertNotIn(": :", cleaned)
+
+    def test_section_output_filename_uses_stable_section_names(self) -> None:
+        self.assertEqual(
+            section_output_filename("Board meetings and governance", 5),
+            "05_board_meetings_and_governance.md",
+        )
+        self.assertEqual(
+            section_output_filename("Source Index", 8),
+            "08_source_index.md",
+        )
+
+    def test_build_split_pack_documents_creates_readme_and_section_files(self) -> None:
+        generated_at = datetime(2026, 3, 7, 12, 0, tzinfo=DISTRICT_TZ)
+        markdown = "\n".join(
+            [
+                "---",
+                f"generated_at: {generated_at.isoformat()}",
+                "source_count: 8",
+                "coverage_window_days: 90",
+                "---",
+                "",
+                "# St. Vrain Knowledge Pack",
+                "",
+                "Intro text.",
+                "",
+                "## District snapshot",
+                "",
+                "Snapshot body.",
+                "",
+                "## Source Index",
+                "",
+                "Source body.",
+                "",
+            ]
+        )
+        documents = build_split_pack_documents(markdown, generated_at, 90)
+        self.assertIn("README.md", documents)
+        self.assertIn("01_district_snapshot.md", documents)
+        self.assertIn("08_source_index.md", documents)
+        self.assertIn("[District snapshot](01_district_snapshot.md)", documents["README.md"])
+        self.assertIn("# District snapshot", documents["01_district_snapshot.md"])
+        self.assertIn("Snapshot body.", documents["01_district_snapshot.md"])
+        self.assertIn("# Source Index", documents["08_source_index.md"])
+        self.assertIn("Source body.", documents["08_source_index.md"])
 
 
 if __name__ == "__main__":

@@ -39,6 +39,18 @@ SVVSD_FINANCE_URL = (
 CDE_PROFILE_URL = "https://www.cde.state.co.us/schoolview/explore/profile/0470"
 CDE_FRAMEWORK_URL = "https://www.cde.state.co.us/schoolview/frameworks/official/0470"
 OUTPUT_DEFAULT = Path("knowledge/st_vrain_knowledge_pack.md")
+SPLIT_OUTPUT_DIR_DEFAULT = Path("knowledge/st_vrain_knowledge_pack")
+
+PACK_SECTION_FILENAMES = {
+    "District snapshot": "01_district_snapshot.md",
+    "Latest news and alerts": "02_latest_news_and_alerts.md",
+    "Schools": "03_schools.md",
+    "Departments and programs": "04_departments_and_programs.md",
+    "Board meetings and governance": "05_board_meetings_and_governance.md",
+    "Financial transparency": "06_financial_transparency.md",
+    "CDE accountability and profile": "07_cde_accountability_and_profile.md",
+    "Source Index": "08_source_index.md",
+}
 
 NOISE_LINE_PATTERNS = (
     re.compile(r"^Skip to main content$", re.IGNORECASE),
@@ -953,6 +965,104 @@ def render_source_index(
     return "\n".join(lines).strip()
 
 
+def slugify_heading(title: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "_", title.lower()).strip("_")
+    return slug or "section"
+
+
+def section_output_filename(title: str, position: int) -> str:
+    return PACK_SECTION_FILENAMES.get(title, f"{position:02d}_{slugify_heading(title)}.md")
+
+
+def split_markdown_sections(markdown: str) -> tuple[str, list[tuple[str, str]]]:
+    preamble_lines: list[str] = []
+    sections: list[tuple[str, str]] = []
+    current_title: str | None = None
+    current_lines: list[str] = []
+
+    for line in markdown.splitlines():
+        if line.startswith("## "):
+            if current_title is None:
+                preamble_lines = current_lines
+            else:
+                sections.append((current_title, "\n".join(current_lines).strip()))
+            current_title = line[3:].strip()
+            current_lines = []
+            continue
+        current_lines.append(line)
+
+    if current_title is None:
+        return markdown.strip(), []
+
+    sections.append((current_title, "\n".join(current_lines).strip()))
+    return "\n".join(preamble_lines).strip(), sections
+
+
+def render_split_pack_readme(
+    preamble: str,
+    section_entries: list[tuple[str, str]],
+) -> str:
+    lines = [preamble.strip(), "", "## Section files", ""]
+    for filename, title in section_entries:
+        lines.append(f"- [{title}]({filename})")
+    return "\n".join(line for line in lines if line is not None).strip() + "\n"
+
+
+def render_split_section_document(
+    title: str,
+    body: str,
+    generated_at: datetime,
+    coverage_window_days: int,
+) -> str:
+    lines = [
+        "---",
+        f"generated_at: {generated_at.isoformat()}",
+        f"coverage_window_days: {coverage_window_days}",
+        f"section_title: {title}",
+        "---",
+        "",
+        f"# {title}",
+        "",
+        body.strip() or "No content generated for this section.",
+    ]
+    return "\n".join(lines).strip() + "\n"
+
+
+def build_split_pack_documents(
+    markdown: str,
+    generated_at: datetime,
+    coverage_window_days: int,
+) -> dict[str, str]:
+    preamble, sections = split_markdown_sections(markdown)
+    documents: dict[str, str] = {}
+    section_entries: list[tuple[str, str]] = []
+
+    for position, (title, body) in enumerate(sections, start=1):
+        filename = section_output_filename(title, position)
+        section_entries.append((filename, title))
+        documents[filename] = render_split_section_document(
+            title=title,
+            body=body,
+            generated_at=generated_at,
+            coverage_window_days=coverage_window_days,
+        )
+
+    documents["README.md"] = render_split_pack_readme(preamble, section_entries)
+    return documents
+
+
+def write_split_pack(
+    output_dir: Path,
+    markdown: str,
+    generated_at: datetime,
+    coverage_window_days: int,
+) -> None:
+    documents = build_split_pack_documents(markdown, generated_at, coverage_window_days)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    for filename, content in documents.items():
+        (output_dir / filename).write_text(content, encoding="utf-8")
+
+
 def collect_financial_pages(
     session: requests.Session,
     discovered_urls: dict[str, str | None],
@@ -1037,6 +1147,7 @@ def build_markdown(
     output_path: Path,
     coverage_window_days: int,
     session: requests.Session,
+    split_output_dir: Path | None = None,
 ) -> str:
     generated_at = now_in_district_timezone()
     seed_sources = build_seed_source_urls(generated_at)
@@ -1146,7 +1257,7 @@ def build_markdown(
         "",
         "# St. Vrain Knowledge Pack",
         "",
-        "This markdown file is generated from a small authoritative source set so a RAG system can ingest one GitHub-hosted markdown document instead of hundreds of direct URLs.",
+        "This generated pack is built from a small authoritative source set and published in both combined and split markdown formats so a RAG system can ingest GitHub-hosted documents instead of crawling hundreds of direct URLs.",
         "",
         "## District snapshot",
         "",
@@ -1208,18 +1319,26 @@ def build_markdown(
     markdown = "\n".join(section for section in sections if section is not None).strip() + "\n"
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(markdown, encoding="utf-8")
+    if split_output_dir is not None:
+        write_split_pack(split_output_dir, markdown, generated_at, coverage_window_days)
     return markdown
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Build a single markdown knowledge pack for St. Vrain Valley Schools."
+        description="Build combined and split markdown knowledge packs for St. Vrain Valley Schools."
     )
     parser.add_argument(
         "--output",
         type=Path,
         default=OUTPUT_DEFAULT,
-        help="Output markdown file path.",
+        help="Combined markdown output file path.",
+    )
+    parser.add_argument(
+        "--split-output-dir",
+        type=Path,
+        default=SPLIT_OUTPUT_DIR_DEFAULT,
+        help="Directory for split section markdown files.",
     )
     parser.add_argument(
         "--coverage-window-days",
@@ -1233,7 +1352,12 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
     with build_session() as session:
-        build_markdown(args.output, args.coverage_window_days, session)
+        build_markdown(
+            args.output,
+            args.coverage_window_days,
+            session,
+            split_output_dir=args.split_output_dir,
+        )
 
 
 if __name__ == "__main__":
