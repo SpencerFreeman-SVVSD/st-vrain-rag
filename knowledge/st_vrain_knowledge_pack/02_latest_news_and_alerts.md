@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-07T20:37:39.115969-07:00
+generated_at: 2026-03-11T02:58:29.140067-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,22 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Erie High School Hosts Colorado State High School Robotics Championships
+
+- Published: 2026-03-09T13:17:13-06:00
+- Source URL: https://www.svvsd.org/2026/03/09/erie-high-school-hosts-colorado-state-high-school-robotics-championships/
+
+Forty-two teams from across Colorado gathered at Erie High School March 6-7 for the 2026 Colorado V5RC High School State Championships to compete for one of ten spots at the World Championships. Of the teams in attendance, four were from Erie High School, four were from Silver Creek High School, and two were from Skyline High School.
+The two-day event brought together many students, coaches, and volunteers from across Colorado.
+“This tournament represents the culmination of an entire season’s worth of hard work. Many teams have been preparing for this event since May of last year,” said Chris Schmitz, the STEM focus teacher at Erie High. “With 10 spots for the 2026 World Championships at stake, every team is eager to secure a position.”
+Schmitz also hopes teams see the State Championships as an opportunity to celebrate the high level of success they have achieved throughout the season.
+“Reaching this stage demands considerable dedication, and we are committed to ensuring that every team feels celebrated for their diligent work and accomplishments throughout the entire process,” Schmitz said.
+This is the second year Erie High School has hosted the event, highlighting the strong robotics programming and community support at the school, as well as St. Vrain’s commitment to providing opportunities for students to compete on a large stage.
+“From my perspective, hosting the State Robotics Championships here at Erie High serves as an affirmation that our community deeply values and supports the efforts of our engineering and robotics students,” Schmitz said. “It also validates our concerted efforts and commitment to elevate the State Championships to the status of the premier robotics event within the entire state of Colorado.”
+Two teams from Silver Creek High School and two teams from Erie High School earned spots to compete at the World Championships in Missouri at the end of April.
+
+Source: https://www.svvsd.org/2026/03/09/erie-high-school-hosts-colorado-state-high-school-robotics-championships/
 
 ### Erie Middle School Teacher Named 2026 Best Should Teach Award Recipient
 
@@ -156,24 +172,6 @@ Read the full story on the magazine website
 
 Source: https://www.svvsd.org/2026/02/17/the-sound-of-st-vrain/
 
-### Educators Reflect On the Firsts That Matter Most
-
-- Published: 2026-02-17T15:25:09-07:00
-- Source URL: https://www.svvsd.org/2026/02/17/educators-reflect-on-the-firsts-that-matter-most/
-
-When thinking back to grade school, the idea of “firsts” often brings to mind a familiar scene from the first day of a new year: a carefully chosen outfit, a backpack stuffed with supplies, and a rush of excitement whilst finding your seat, eagerly waiting for the day to begin. These memories evoke a special kind of nostalgia, blending anticipation and possibility that signal the start of something new. But the “firsts” that truly stay with us echo far longer than the first bell of a new school year.
-Read the full story on the magazine website
-
-Source: https://www.svvsd.org/2026/02/17/educators-reflect-on-the-firsts-that-matter-most/
-
 ### District alerts
 
-### Future-Ready Festival: Experience the St. Vrain Advantage
-
-- Published: 2026-03-04T10:57:37-07:00
-- Source URL: https://www.svvsd.org/alerts/future-ready-festival-experience-the-st-vrain-advantage/
-
-...
-Future-Ready Festival: Experience the St. Vrain Advantage
-
-Source: https://www.svvsd.org/alerts/future-ready-festival-experience-the-st-vrain-advantage/
+No recent alert items were found within the configured coverage window.

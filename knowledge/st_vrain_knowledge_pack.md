@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-07T20:37:39.115969-07:00
+generated_at: 2026-03-11T02:58:29.140067-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,22 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Erie High School Hosts Colorado State High School Robotics Championships
+
+- Published: 2026-03-09T13:17:13-06:00
+- Source URL: https://www.svvsd.org/2026/03/09/erie-high-school-hosts-colorado-state-high-school-robotics-championships/
+
+Forty-two teams from across Colorado gathered at Erie High School March 6-7 for the 2026 Colorado V5RC High School State Championships to compete for one of ten spots at the World Championships. Of the teams in attendance, four were from Erie High School, four were from Silver Creek High School, and two were from Skyline High School.
+The two-day event brought together many students, coaches, and volunteers from across Colorado.
+“This tournament represents the culmination of an entire season’s worth of hard work. Many teams have been preparing for this event since May of last year,” said Chris Schmitz, the STEM focus teacher at Erie High. “With 10 spots for the 2026 World Championships at stake, every team is eager to secure a position.”
+Schmitz also hopes teams see the State Championships as an opportunity to celebrate the high level of success they have achieved throughout the season.
+“Reaching this stage demands considerable dedication, and we are committed to ensuring that every team feels celebrated for their diligent work and accomplishments throughout the entire process,” Schmitz said.
+This is the second year Erie High School has hosted the event, highlighting the strong robotics programming and community support at the school, as well as St. Vrain’s commitment to providing opportunities for students to compete on a large stage.
+“From my perspective, hosting the State Robotics Championships here at Erie High serves as an affirmation that our community deeply values and supports the efforts of our engineering and robotics students,” Schmitz said. “It also validates our concerted efforts and commitment to elevate the State Championships to the status of the premier robotics event within the entire state of Colorado.”
+Two teams from Silver Creek High School and two teams from Erie High School earned spots to compete at the World Championships in Missouri at the end of April.
+
+Source: https://www.svvsd.org/2026/03/09/erie-high-school-hosts-colorado-state-high-school-robotics-championships/
+
 ### Erie Middle School Teacher Named 2026 Best Should Teach Award Recipient
 
 - Published: 2026-03-02T14:07:13-07:00
@@ -657,27 +673,9 @@ Read the full story on the magazine website
 
 Source: https://www.svvsd.org/2026/02/17/the-sound-of-st-vrain/
 
-### Educators Reflect On the Firsts That Matter Most
-
-- Published: 2026-02-17T15:25:09-07:00
-- Source URL: https://www.svvsd.org/2026/02/17/educators-reflect-on-the-firsts-that-matter-most/
-
-When thinking back to grade school, the idea of “firsts” often brings to mind a familiar scene from the first day of a new year: a carefully chosen outfit, a backpack stuffed with supplies, and a rush of excitement whilst finding your seat, eagerly waiting for the day to begin. These memories evoke a special kind of nostalgia, blending anticipation and possibility that signal the start of something new. But the “firsts” that truly stay with us echo far longer than the first bell of a new school year.
-Read the full story on the magazine website
-
-Source: https://www.svvsd.org/2026/02/17/educators-reflect-on-the-firsts-that-matter-most/
-
 ### District alerts
 
-### Future-Ready Festival: Experience the St. Vrain Advantage
-
-- Published: 2026-03-04T10:57:37-07:00
-- Source URL: https://www.svvsd.org/alerts/future-ready-festival-experience-the-st-vrain-advantage/
-
-...
-Future-Ready Festival: Experience the St. Vrain Advantage
-
-Source: https://www.svvsd.org/alerts/future-ready-festival-experience-the-st-vrain-advantage/
+No recent alert items were found within the configured coverage window.
 
 ## Schools
 
@@ -8502,7 +8500,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### Middle School Orchestra Festival
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/ms-orchestra-festival/
-- Last modified: 2026-03-06T08:49:45-07:00
+- Last modified: 2026-03-10T13:34:35-06:00
 
 Event Details
 The Middle School Orchestra Festival brings together the best middle school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
@@ -8542,9 +8540,9 @@ Congratulations to all of our students for being selected to participate in this
 Chamber Orchestra
 Order of pieces are subject to change
 :
-Of Lochs and Thistle – Christina Huss
 Dark Journey – Doug Spata
-A Modal Festival – Gerry Marsh
+Of Lochs and Thistles – Christina Huss
+A Modal Festival – Gerry Jon Marsh
 Members are listed below in alphabetical order by instrument.
 Violin I
 June Blankenship, WMS
@@ -8617,15 +8615,15 @@ Samuel Winheld, WMS
 Philharmonic Orchestra
 Order of pieces are subject to change
 :
-Rainbow’s End – Susan H. Day
-Fiddle Faddle Hoedown – Thom Sharp
 Double Trouble – Lauren Bernofsky
+Rainbow’s End – Susan H. Day (ASCAP)
+Fiddle Faddle Hoedown – Thom Sharp
 Members are listed below in alphabetical order by instrument.
 Violin
 Omar Borrego Franco, TRMS
 Logan Bosley, TPCA
 Keerthika Chandana, AMS
-Tucker Crill, WMS
+Gideon Crill, WMS
 Aslynn Finley, TRMS
 Lila Foster, WMS
 Presley Foster, MMS
@@ -8692,7 +8690,6 @@ Raegan Ward, SHPK8
 Raina Week, AMS
 25-26 Special Guests
 Chamber Conductor – Leanne Griffey
-Bio and picture coming soon
 Leanne Griffey is currently in her 16
 th
 year of teaching Orchestra at Kinard Middle School in Fort Collins where she teaches approximately 180 6
@@ -8711,11 +8708,11 @@ At the outset of his teaching career, Jonathan was a teaching assistant during t
 Jonathan is in his 6th year as Director of Orchestras at Creighton Middle School and Lakewood Area Elementary Schools, teaching grades 5 through 8. During his time there, his orchestras have received “Superior” ratings at large group festivals. His students participate in Solo and Ensemble competitions and perform for community organization events like the Lakewood Symphony. Jonathan is now in his 4th season as Director of the Longmont Youth Symphony’s ‘Longmont Youth String Ensemble,’ and is owner and manager of Camp Con Brio: String Camp of the Rockies, a summer youth orchestra camp. Recently, Jonathan and his co-host, Chue Vue, started the podcast “Tired and True” discussing all things strings including pedagogy, philosophy, and how their idea of “winning orchestra” has changed through their careers. Jonathan has recently judged and cliniced several orchestras at various events in Colorado, including the 2024 Nordic Festival in Poudre Public Schools and the 2026 Cherry Creek School District Middle School Honor Orchestra. Jonathan received the 2026 “Outstanding String Teacher Award” from the Colorado chapter of the American String Teachers Association.
 This event is a collaboration made possible by the following directors and principals:
 School
-Director and Principal
+Director(s) and Principal
 Altona Middle School (AMS)
 Courtney Dowling and Jeremy LaCrosse
 Coal Ridge Middle School (CRMS)
-Paul Pompa and Natalee Swan
+Paul Pompa, Laurel Ave and Natalee Swan
 Erie Middle School (EMS)
 Danielle Crisman and Dr. Andrea Smith
 Longs Peak Middle School (LPMS)
@@ -11694,7 +11691,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-05T13:17:06-07:00
+- Last modified: 2026-03-10T15:09:40-06:00
 
 Spring 2026
 Mindful Mondays and Wellbeing Wednesdays
@@ -11713,6 +11710,12 @@ Saturday, March 28 – 10am – 12pm
 Training for Warriors is hosting an open house to kick off a special one-time discount exclusively for St Vrain Valley School District employees. Come see the gym, meet the instructors, and learn what classes are right for you! All skill levels welcome!
 SVVSD employees who attend the open house will be entered to win a prize drawing. No purchase necessary.
 Click here for details
+Virtual Yoga
+Thursdays March 26 – April 30. 4:30 – 5:30pm
+Enjoy yoga from the comfort of your own home or space. Back by popular request, Christine from Mile High Fitness and Wellness will be instructing virtual yoga classes on
+Thursdays for 6 weeks
+!
+Register Here for Virtual Yoga
 Bloom! Spring Step Challenge
 April 6 – May 3
 Get ready for our St Vrain staff springtime step challenge with
@@ -11730,6 +11733,12 @@ April 6: First day to log activity
 April 12: Registration and team formation deadline
 May 3: Last day of the program
 Register for Bloom!
+Investment Basics
+April 8 – 4:30 – 5:30pm via Zoom
+.
+Hosted by ENT Credit Union
+Investing money doesn’t have to be complicated. In this class, we will break down the basics from understanding the power of a dollar and the value of compound interest to the various investment types and different methods to investing.
+Register Here for Investment Basics
 Mammogram Events
 Mochas and Mammos (UMR Members)
 :
@@ -11751,8 +11760,12 @@ Appointments open now! Call
 Mon – Fri 7:30 – 5:00 to schedule your appointment. Mention you’re with the St. Vrain Valley Schools Mochas and Mammos event. Appointments are limited and fill up fast!
 Call 844-723-2778 to Schedule
 Moonlight Mammograms (Kaiser members) – May 6, 7, and 8. Registration details coming soon!
+Art Therapy: Rock Painting
+Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
+In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
+Click here to register by April 20
 Medicare Basics Webinar
-Thursday, April 30th from 4:30-5:30pm
+Thursday, April 30 from 4:30-5:30pm
 Join Boulder County SHIP for Medicare Basics!
 This free, educational class offered via Zoom provides a clear overview of Medicare to help you make informed decisions.
 We’ll cover:
