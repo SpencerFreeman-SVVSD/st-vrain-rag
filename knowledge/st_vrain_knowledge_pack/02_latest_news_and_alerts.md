@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-11T02:58:29.140067-06:00
+generated_at: 2026-03-13T02:57:05.200086-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,43 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Skyline High School Hosts Colorado State Mariachi Festival
+
+- Published: 2026-03-12T13:52:34-06:00
+- Source URL: https://www.svvsd.org/2026/03/12/skyline-high-school-hosts-colorado-state-mariachi-festival/
+
+Performers take their place on stage in Vance Brand Civic Auditorium at Skyline High School, with violins, guitar, trumpets, guitarrón, and even the occasional harp or accordion. But it’s not until the singer steps to the center stage and calls out their “
+grito”
+that the Colorado State Mariachi Festival kicks off.
+This year marked the third annual festival, sponsored by Colorado High School Activities Association (CHSAA) and hosted at Skyline High School. The one-day festival included performances from St. Vrain Valley Schools groups at every level: Indian Peaks Elementary, Sunset Middle, Frederick High, Skyline High, Longmont High, and Niwot High, as well as groups from Denver, Yuma, Salida, and more.
+Longmont High School’s Mariachi de Los Troyanos performs at the 2026 CHSAA Mariachi Festival.
+“The festival not only provides a state-wide recognition and celebration of mariachi as an important part of school music programs in Colorado, but it also gives a stage for these groups to see one another performing,” says Brian Crim, Orchestra and Mariachi Teacher at Skyline High School and event organizer. Historically, there have not been many opportunities for student mariachi ensembles to perform outside their buildings, and many groups across the state may be the only ones in their immediate area, which is one of the primary reasons this festival was created: to bring groups together to learn from one another.
+Niwot High School’s Mariachi Ensemble performs.
+Groups performed up to 3 songs each, then received individualized feedback from clinicians, who are professional performers and instructors. Included in the day’s schedule was also a performance from the group Mariachi Las Dahlias, Colorado’s premier all-female mariachi ensemble.
+“The top aim of this festival has always been to build the overall community of mariachi in Colorado’s public education,” says Crim.
+Statewide, mariachi programming in K-12 education has been growing, as classes, clubs, and after-school groups have steadily increased over the past few years. This growth is reflected in the festival’s participation and in new programs such as a Mariachi degree program introduced at Metropolitan State University last fall. Mariachi’s appeal to students lies in its blend of orchestra, musical skill, performance, tradition, and cultural celebration.
+View the full album of 2026 Mariachi Festival Photos
+
+Source: https://www.svvsd.org/2026/03/12/skyline-high-school-hosts-colorado-state-mariachi-festival/
+
+### ParentSquare: Our New District Communication Tool
+
+- Published: 2026-03-11T12:34:32-06:00
+- Source URL: https://www.svvsd.org/2026/03/11/parentsquare-our-new-district-communication-tool/
+
+St. Vrain Valley Schools will begin using ParentSquare, a new district communication tool that allows families to receive notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with the plan to expand access to schools at the start of the new school year. We’re excited about the opportunities ParentSquare offers to streamline communication and will be working towards consolidating several of the tools families currently use into one convenient platform.
+After spring break, parents and guardians will receive an
+email invitation to activate their ParentSquare account
+. This will allow families to download the mobile app, set language preferences, and choose how and when they receive notifications.
+ParentSquare Tools and Features
+:
+Receive messages via email, app, or text
+Choose to receive communications immediately or in a daily digest
+Access communications in your preferred language
+Visit the Communications Webpage to Learn more about ParentSquare
+
+Source: https://www.svvsd.org/2026/03/11/parentsquare-our-new-district-communication-tool/
 
 ### Erie High School Hosts Colorado State High School Robotics Championships
 
@@ -151,26 +188,6 @@ Dr. Jackie Kapushion officially became St. Vrain Valley Schools’ new superinte
 Read the full story on the magazine website
 
 Source: https://www.svvsd.org/2026/02/17/getting-to-know-our-new-superintendent/
-
-### Opportunities Abound
-
-- Published: 2026-02-17T15:29:11-07:00
-- Source URL: https://www.svvsd.org/2026/02/17/opportunities-abound/
-
-One of the most frequent questions children get asked is, “What do you want to be when you grow up?” Their faces light up with wonder as they imagine a future without limitations. After a moment’s thought, they excitedly share answers ranging from impactful careers like a teacher, first responder, or doctor, to more imaginative ones like a superhero or fairy. These aspirations take shape through the community and experiences that surround them. At home, they see skills in action like an older brother repairing cars or a parent leading a meeting, and start to picture where their own path might lead. At school, an inspirational art teacher encourages them to explore their creativity, or a field trip to the Innovation Center sparks an interest in computer science. Regardless of the destination, many programs can guide a student towards their future career or passion.
-Read the full story on the magazine website
-
-Source: https://www.svvsd.org/2026/02/17/opportunities-abound/
-
-### The Sound of St. Vrain
-
-- Published: 2026-02-17T15:26:38-07:00
-- Source URL: https://www.svvsd.org/2026/02/17/the-sound-of-st-vrain/
-
-As the grand finale of St. Vrain’s districtwide Band Night begins, hundreds of high school musicians take to the stadium field after two hours of individual performances. Thousands of spectators cheer as the percussion, brass, and woodwind musicians from more than ten schools unite in a single soaring sound – a powerful showcase of the scale, creativity, and community engagement that have earned St. Vrain Valley Schools national recognition in music education.
-Read the full story on the magazine website
-
-Source: https://www.svvsd.org/2026/02/17/the-sound-of-st-vrain/
 
 ### District alerts
 

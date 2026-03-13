@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-11T02:58:29.140067-06:00
+generated_at: 2026-03-13T02:57:05.200086-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -5759,7 +5759,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-01-09T15:23:19-07:00
+- Last modified: 2026-03-12T10:58:58-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -5772,19 +5772,19 @@ June 1st – June 19th from 9am – 12pm
 Mandatory IN PERSON class Monday – Thursday with Fridays virtual
 Locations and Courses Offered:
 Erie High School
-– TBD
+– English, Social Studies, Health, & PFL
 Frederick High School
-– TBD
+– English, Social Studies, Science, Math, Health, & PFL
 Longmont High School
-– TBD
+– English, Social Studies, Health, & PFL
 Mead High School
-– TBD
+– Math, Health, & PFL
 Niwot High School
-– TBD
+– English, Social Studies, Science, Health, & PFL
 Silver Creek High School
-– TBD
+– English, Social Studies, Health, & PFL
 Skyline High School
-– TBD
+– English, Social Studies, Health, & PFL
 SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2026 Student Waitlist.
 New Meridian/St. Vrain Virtual
 Summer eCredit runs their own Summer School with slightly different times and dates.
@@ -7947,6 +7947,116 @@ Additional Resources
 Infinite Campus Portal
 
 Source: https://www.svvsd.org/departments/communications/messenger-notification-system/
+
+### ParentSquare Communication Tool
+
+- Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
+- Last modified: 2026-03-11T12:31:10-06:00
+
+ParentSquare: Our New District Communication Tool
+St. Vrain Valley Schools will begin using ParentSquare, a new district communication tool that allows families to receive notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with the plan to expand access to schools at the start of the new school year. We’re excited about the opportunities ParentSquare offers to streamline communication and will be working towards consolidating several of the tools families currently use into one convenient platform.
+After spring break, parents and guardians will receive an
+email invitation to activate their ParentSquare account
+. This will allow families to download the mobile app, set language preferences, and choose how and when they receive notifications.
+ParentSquare Tools and Features
+:
+Receive messages via email, app, or text
+Choose to receive communications immediately or in a daily digest
+Access communications in your preferred language
+Below, you’ll find FAQs, resources, and step-by-step instructions to help you understand how ParentSquare works and how you can access notifications, language settings, and more.
+ParentSquare Resources
+Frequently Asked Questions
+Do I need to download the app and register in order to get communications?
+No, downloading the app and registering is not required. However, using the app offers several advantages, including the ability to customize notification and language preferences, receive push notifications, access communications for multiple children (if applicable) in one convenient location, and view past newsletters and alerts, among other features.
+Will this impact how I receive newsletters from my child’s school?
+We will transition to ParentSquare for school newsletter communications beginning in the 2026-2027 school year. Newsletters will be delivered directly to your email inbox and will also be accessible through your ParentSquare account via the app or desktop platform should you choose to register.
+How often will I be receiving communications from ParentSquare?
+For the remainder of the 2025-2026 school year, ParentSquare will be used to distribute Superintendent Updates, urgent school notifications, and other districtwide communications. Families will continue to receive school-specific updates directly from their child’s school through Infinite Campus or via the school’s newsletter for the remainder of the school year.
+Who do I contact with questions about ParentSquare?
+Please
+fill out this form
+with any questions you may have and the communications team will reach out to you.
+When I change my notification settings, what does “Digest” mean?
+Digest is a feature that only applies to “Posts”. Posts will be how your school sends their newsletter beginning in the 2026-2027 school year. If you choose to utilize the digest setting, it will mean you will get an email once in the evening that will showcase any posts that went out from your child’s school if any were sent that day. The goal of this is to limit the amount of communications families are receiving throughout the day for non-emergency situations. This feature is not required and can be changed in your notification settings if needed. If you choose not to utilize this feature, you will receive the post in your email inbox as soon as it is sent out.
+Additional Resources
+How to Download the App
+Activate My Account
+How to Personalize My Account Settings
+Navigate to Account Settings
+Update Roles and Permissions
+Update Notification Settings and Preferences
+Update Language Preferences
+How to Download the App and Activate My Account
+The app can be downloaded by searching for “ParentSquare” on the App Store or through Google Play. We recommend downloading the app after following the welcome email and activating your account.
+Activate your ParentSquare Account
+Your school will send you an invitation using your email address or phone number on file.
+Open the invitation from ParentSquare in your email.
+Click Activate your account or tap the link to go to the account registration page.
+Enter your email or phone number, then click Get Started. (Optional: You can also sign in with Google or Microsoft.)
+Check your contact information. If it looks correct, click Confirm. You’ll receive a code by text or email.
+Enter the verification code when asked.
+You’ll see your child(ren)’s names. Click Confirm next to each child who should be connected to your account. If a child is listed by mistake, click Not my child.
+If everything looks correct, click Yes, this is me. Now you’re ready to start using ParentSquare.
+Navigate to Account Settings
+From the browser:
+From Home, click your name in the top right and select Manage Account.
+The following options under Settings in the left sidebar are available to view and edit:
+Roles & Permissions
+Notification Settings
+Language Settings
+From the app:
+Tap the triple-bar menu in the top left.
+Tap Account on the left and select Notifications, and Preferences (for Languages and Office Hours).
+Update Roles & Permissions
+View the roles assigned to your account. If needed, reach out to your school or district admin to assign additional roles.
+Note: Roles & Permissions are only available to view from a browser.
+From the browser:
+From Home, click your name and select Manage Account.
+Click Roles & Permissions to view the roles associated with your account.
+Click the arrow before any Secondary role to view where you were assigned the role.
+Notification Settings
+You can customize notification preferences by notification type and select your preferred delivery method for each school and district.
+Notification types include:
+Urgent Alerts & Notices – urgent alerts and auto notices marked as critical notices. These notifications cannot be disabled.
+Posts, Direct Messages & Notices – choose how you want to receive notifications, by Email, Text, and/or App. Notification frequency (Instant vs Digest) applies to posts only.
+School Alerts – smart alerts and other student notices. These notifications can be disabled but cannot be customized by frequency for text, email and/or app.
+How to set Notification Preferences
+From the browser:
+From My Account, click Notification Settings in the left sidebar.
+Choose your preferences:
+Instant: notifications are delivered as soon as possible after a post is sent.
+Digest: notifications are delivered in the evening in the time zone of the institute. Digests only apply to posts. All other message types will still be delivered instantly if the user has their preference set to digest.
+Off: If the user selects Off, no notifications will be delivered to this email/phone/app for the school or district.
+Note: The Off setting is overridden for urgent alerts.
+School Alerts: Set preferences for alerts and notices.
+Note: Ugent alerts are unaffected by these settings – they will be delivered regardless of user preferences.
+On: You will receive all Smart Alerts and Auto Notices from this school or district.
+Off: You will only receive Urgent Alerts and Critical Auto Notices.
+Set preferences separately by school or district.
+If you have multiple emails or phones listed on your account, set the order of your preferred contacts to receive notifications. Notifications will only be sent to one email and one phone on your account.
+Note: the Choose Best Match setting will select the most relevant email and phone to send the notification to. If Digest is selected and there is at least one notification in the Digest that includes parents, the digest will be sent to the parent email.
+From the app:
+Tap the triple-bar menu in the top left.
+Tap Account in the left sidebar and select Notifications.
+Choose your preferences:
+Custom Settings: toggle on/off the ability to set notifications by school site.
+Urgent Alerts & Notices: this setting is managed by your school or district and can not be toggled on/off for individual users.
+School Alerts: toggle on/off receiving alerts and student notices.
+App Notifications: toggle on/off receiving app notifications. If toggled on, tap Digest or Instant to set frequency.
+Text Notifications: toggle on/off receiving text notifications. If toggled on, tap Digest or Instant to set frequency.
+Email Notifications: toggle on/off receiving email notifications. If toggled on, tap Digest or Instant to set frequency.
+Language Preferences
+ParentSquare supports 190+ languages with automatic translation of school communications. Choose your preferred language for receiving school communications.
+From the browser:
+From My Account, click Language Settings in the left sidebar.
+Select your preferred language from the drop-down menu.
+Click Save.
+From the app:
+Tap the triple-bar menu in the top left.
+Tap Account in the left sidebar and select Preferences.
+Tap Language and select from the list.
+
+Source: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
 
 ### Public Records Request (CORA)
 
@@ -10407,7 +10517,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-10T15:09:40-06:00
+- Last modified: 2026-03-11T11:08:49-06:00
 
 Spring 2026
 Mindful Mondays and Wellbeing Wednesdays
@@ -10480,6 +10590,10 @@ Art Therapy: Rock Painting
 Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
 In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
 Click here to register by April 20
+Wills and Trusts 101: Uncommon Solutions to Common Problems
+April 29 – 4:30 – 5:30pm. Virtually hosted by Elevations Credit Union
+Understand wills, trusts, powers of attorney, probate in Colorado, and beneficiary designations.
+Registration Available Soon!
 Medicare Basics Webinar
 Thursday, April 30 from 4:30-5:30pm
 Join Boulder County SHIP for Medicare Basics!
@@ -11409,7 +11523,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-03-02T13:59:48-07:00
+- Last modified: 2026-03-12T11:34:52-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -18047,7 +18161,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-02-13T13:52:19-07:00
+- Last modified: 2026-03-12T15:20:41-06:00
 
 Click on the Circular Chart above to open a traditional version.
 
