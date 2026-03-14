@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-13T02:57:05.200086-06:00
+generated_at: 2026-03-14T02:51:09.797510-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -11818,7 +11818,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-11T11:08:49-06:00
+- Last modified: 2026-03-13T08:21:37-06:00
 
 Spring 2026
 Mindful Mondays and Wellbeing Wednesdays
@@ -11894,7 +11894,7 @@ Click here to register by April 20
 Wills and Trusts 101: Uncommon Solutions to Common Problems
 April 29 – 4:30 – 5:30pm. Virtually hosted by Elevations Credit Union
 Understand wills, trusts, powers of attorney, probate in Colorado, and beneficiary designations.
-Registration Available Soon!
+Register for Wills and Trusts 101
 Medicare Basics Webinar
 Thursday, April 30 from 4:30-5:30pm
 Join Boulder County SHIP for Medicare Basics!
@@ -12824,7 +12824,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-03-12T11:34:52-06:00
+- Last modified: 2026-03-13T07:12:28-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
