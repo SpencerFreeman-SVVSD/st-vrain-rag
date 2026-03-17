@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-16T03:11:44.425283-06:00
+generated_at: 2026-03-17T03:06:40.486188-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -14034,7 +14034,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/
 ### Ala Carte & Smart Snacks
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
-- Last modified: 2023-11-14T14:00:34-07:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 A La Carte Offerings in SVVSD
 Did you know that the Nutrition Service department is self-funded? This means that the money the department earns from selling food items to students, families and staff, as well as federal and state government funding, must cover the cost of food, salary & benefits for approximately 220 employees, equipment and other operational expenses. Nutrition Services does not receive money outside of its meal service operations and grants related to the service of food to students.
@@ -14051,10 +14051,126 @@ Smart Snack Calculator
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
 
+### Department Recognition
+
+- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/department-recognition/
+- Last modified: 2026-03-16T10:12:01-06:00
+
+Director’s Choice Award
+Criteria & Evaluation
+Director’s Choice Awards celebrate employees who make a meaningful difference in our schools and departments. Nominees do not need to meet every criterion below; they should demonstrate excellence in
+one or more
+areas.
+Nominees must:
+Be a current employee in good standing
+Have completed at least one full school year of employment
+In addition, nominees exemplify one or more of the following:
+Meaningful Impact:
+Makes a positive and lasting difference for students, staff, families, or the school community.
+Above & Beyond Spirit:
+Goes beyond job expectations to support others, solve problems, or improve experiences.
+Living Our Values:
+Models our shared values through everyday actions, professionalism, and care for others.
+Positive Influence:
+Lifts others through collaboration, mentorship, leadership, or a consistently supportive presence.
+Initiative & Innovation:
+Sees opportunities for improvement and takes thoughtful action to make things better.
+Director’s Choice Awards recognize both outstanding moments and sustained excellence over time, across all roles and school sites.
+Five award categories are given:
+Heart of the School
+: Builds meaningful connections with students and staff
+Culture Builder Award
+: Strengthens morale and positive workplace culture
+Innovator’s Award
+: Introduces creative ideas that improve systems or outcomes
+Excellence in Service Award
+: Delivers consistent, high-quality service
+Rising Star Award
+: Emerging leader showing strong potential
+Evaluation Timeline (at a glance):
+Nominations Open:
+Monday after spring break
+Nominations Close:
+Last business day in April
+Review Period:
+Nominations are thoughtfully reviewed by the Director of Nutrition Services.
+Selections Finalized:
+May of each year
+Recognition:
+Award recipients will be celebrated during the Nutrition Services annual end of the school year celebration.
+Perfect Attendance Awards Program
+The Perfect Attendance Awards recognize individuals and teams who demonstrate exceptional reliability and commitment to their work. Consistent attendance supports smooth kitchen operations, strong teamwork, and reliable service to students and staff.
+These awards celebrate individuals and teams who consistently show up for their coworkers and the students we serve.
+Two awards are given:
+Show Up Superstar
+– Individual perfect attendance award
+No Call Out Crew
+– Team perfect attendance award
+Eligibility Requirements
+To qualify for perfect attendance recognition, employees must:
+Be actively employed during the applicable award period
+Be in attendance for all scheduled calendar workdays
+Have no call-outs or unexcused absences
+Be in good standing with the department
+The following absences will not count against perfect attendance:
+Civic Duty (jury duty, court subpoena, etc.)
+Bereavement leave
+Approved medical leave
+Note: Employees must follow all normal call-in and leave approval procedures for these exceptions.
+First Year Excellence Award
+Recognizes a new team member who has demonstrated outstanding attendance and performance and who has had a positive impact on their team and the department during their first year in their role.
+Eligibility Requirements (Must Meet All):
+Hired during the current school year
+In position at least 90 days prior to nomination
+In good standing
+No unexcused absences; bereavement, medical leave, and civic duty are not counted toward absences
+Operational Excellence Award
+The
+Operational Excellence Award
+recognizes school teams that demonstrate creativity, efficiency, and a strong commitment to serving students. This award highlights programs that increase meal participation, expand access so all students can enjoy meals, and create welcoming, engaging cafeteria environments.
+Schools are evaluated across several key areas, including
+meal participation and access
+,
+menu and a la carte innovation
+, and
+serving line efficiency
+. Judges also consider how teams promote their programs through
+marketing and student engagement
+, the overall
+kitchen environment
+, and the quality of
+staff–student interactions
+that help create a positive dining experience.
+In addition, the award celebrates teams that elevate the
+presentation and appeal of food
+, using creative displays, promotions, and student-centered ideas to generate excitement around school meals.
+Together, these elements recognize programs that go beyond simply serving food—they build vibrant school dining experiences that encourage participation, foster community, and ensure every student has access to nutritious, appealing meals.
+The Storm Star Award
+The
+Storm Star Award
+celebrates school kitchens that demonstrate excellence in food safety, operational consistency, and high-quality meal service. This recognition highlights teams that consistently uphold the highest standards while creating appealing and engaging meals for students.
+Half of the award score is based on
+food safety and operational compliance
+, including health department performance, SFSPac reporting, and adherence to standardized recipes. Kitchens also earn recognition for
+presentation and plating
+, with monthly featured meals that showcase thoughtful preparation and visual appeal. Staff across the district participate in peer voting through Webex, and student feedback can earn additional bonus points.
+The remaining score reflects overall
+KPI performance
+, evaluated by the Nutrition Services leadership team. These metrics recognize kitchens that demonstrate strong operational results while maintaining high-quality service for students.
+Each year, the
+top three scoring kitchens
+are recognized as
+Storm Elite
+and receive the
+St. Vrain Storm Award
+. Winning schools are honored with a framed certificate recognizing their achievement and year of distinction, celebrating the teams who set the standard for excellence across the district.
+
+Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/department-recognition/
+
 ### Employment Opportunities
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/employment-opportunities/
-- Last modified: 2024-11-08T12:18:01-07:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 Welcome to St Vrain Valley Schools’ Nutrition Team! We are dedicated to providing nutritious meals to support the well-being and learning of our students. Join our dynamic team of professionals committed to making a positive impact every day.
 Why join our team?
@@ -14150,7 +14266,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/emplo
 ### Free & Reduced: The Education Benefit Form
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-reduced-the-education-benefit-form/
-- Last modified: 2025-09-19T07:22:07-06:00
+- Last modified: 2026-03-16T09:53:41-06:00
 
 Education Benefit Form
 All students in St Vrain Valley Schools have access to free healthy, nutritious school meals thanks to the Healthy School Meals for All program approved by Colorado voters in November 2023.
@@ -14243,7 +14359,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2025-01-07T10:08:48-07:00
+- Last modified: 2026-03-16T09:53:43-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -14306,7 +14422,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/local
 ### Meet Our Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-our-leadership-team/
-- Last modified: 2026-01-29T17:47:09-07:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 Department Correspondence
 For questions or comments, please contact us via the department email, and we will connect you with the appropriate subject matter expert.
@@ -14429,7 +14545,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-
 ### School Menus
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/menu/
-- Last modified: 2025-08-26T11:37:22-06:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 St. Vrain Valley School’s Nutrition Service staff believes that serving nutritious school meals is one of the main ingredients in students’ ability to learn in the classroom. It’s hard for students to focus when they are hungry. Our staff takes pride in providing meals that meet the USDA nutritional requirements and include as many local fresh ingredients as possible.
 View
@@ -14470,7 +14586,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/menu/
 ### Nondiscrimination Statement
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondiscrimination-statement/
-- Last modified: 2024-05-22T09:57:45-06:00
+- Last modified: 2026-03-16T09:53:43-06:00
 
 In accordance with federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, this institution is prohibited from discriminating on the basis of race, color, national origin, sex (including gender identity and sexual orientation), disability, age, or reprisal or retaliation for prior civil rights activity.
 Program information may be made available in languages other than English. Persons with disabilities who require alternative means of communication to obtain program information (e.g., Braille, large print, audiotape, American Sign Language), should contact the responsible state or local agency that administers the program or USDA’s TARGET Center at (202) 720-2600 (voice and TTY) or contact USDA through the Federal Relay Service at (800) 877-8339.
@@ -14493,7 +14609,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondi
 ### Nutrition Services Open Solicitations
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
-- Last modified: 2024-05-22T09:18:08-06:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 St Vrain Virtual Solicitations
 Vendors are encouraged to register and become familiar with the Rocky Mountain E-Purchasing System at
@@ -14546,7 +14662,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutri
 ### Parent Portal
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/parent-portal/
-- Last modified: 2024-07-09T07:21:57-06:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 LINQ Connect
 LINQ Connect is a user-friendly platform that simplifies managing your child’s school needs. Parents can easily:
@@ -14576,7 +14692,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/paren
 ### Parent Resources & Parent Advisory Committee (PAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/parent-resources/
-- Last modified: 2025-08-26T11:35:46-06:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 Department Forms
 Refund or Transfer Request of Lunch Balance
@@ -14679,7 +14795,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/paren
 ### Healthy School Meals for All
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/proposition-ff/
-- Last modified: 2025-11-17T08:18:23-07:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 FAQs
 Q: What does “Healthy School Meals for All” cover?
@@ -14706,7 +14822,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/propo
 ### School Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/
-- Last modified: 2022-11-14T11:02:50-07:00
+- Last modified: 2026-03-16T09:53:43-06:00
 
 St. Vrain’s School Wellness program is designed to encourage healthy eating and physical activity at school. Our goal is to make the healthy choice the easy choice every day.
 St. Vrain believes that student health is integrally connected to student achievement and that healthy students feel better, learn better, and grow into healthy adults.
@@ -14875,7 +14991,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/schoo
 ### Special Dietary Needs
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/special-dietary-forms/
-- Last modified: 2024-05-09T14:16:32-06:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 Did you know SVVSD Nutrition Services is allergy aware? But what exactly does that mean?
 This means that we work diligently with staff, parents and students to support those with food allergies. Nutrition Services takes many different steps to help support these students. These includes:
@@ -14896,7 +15012,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/speci
 ### Summer EBT
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-ebt/
-- Last modified: 2024-11-21T11:59:34-07:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 Staring Summer 2024, Summer EBT (S-EBT) is available for eligible Colorado residents. Summer EBT helps families buy food during the summer months. If you qualify, you will get $40 per child for each month when school is not in session. This amounts to up to $120 per child. You’ll receive a card pre-loaded with money in the mail.
 You Are Eligible If…
@@ -14928,7 +15044,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Summer Meals
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-meals-2/
-- Last modified: 2025-04-09T09:41:12-06:00
+- Last modified: 2026-03-16T09:53:42-06:00
 
 “I have the audacity to believe that people everywhere can have three meals a day for their bodies, education and culture for the minds and dignity, equality and freedom for their spirits.”
 Martin Luther King, Jr.
@@ -24486,7 +24602,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 367
+- Department and program pages: 368
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 79
