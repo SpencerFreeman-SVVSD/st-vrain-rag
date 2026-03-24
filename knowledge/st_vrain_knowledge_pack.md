@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-21T02:49:12.614056-06:00
+generated_at: 2026-03-24T03:06:42.988948-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,58 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Student Leaders Experience Government in Action at the Colorado State Capitol
+
+- Published: 2026-03-23T13:12:54-06:00
+- Source URL: https://www.svvsd.org/2026/03/23/student-leaders-experience-government-in-action-at-the-colorado-state-capitol/
+
+On March 13, student leaders from across St. Vrain Valley Schools stepped beyond the classroom and into the heart of Colorado’s legislative process.
+As members of the district’s Student Advisory Council—a group of high school students representing their schools and helping inform district decisions—these students traveled to the Colorado State Capitol for a firsthand look at how laws are debated, shaped, and passed.
+Throughout the day, students observed live legislative sessions, engaged with professionals working behind the scenes, and explored the many pathways that influence public policy. For many, the experience brought their classroom learning to life in a powerful way.
+During their visit, students were invited onto the House floor by State Representative Karen McCormick, who represents House District 11, including St. Vrain Valley Schools. She recognized the group during the session and asked them to stand, acknowledging their presence in front of the full chamber—a moment that underscored the significance of their role as student leaders.
+“Going to the state capitol was a great learning experience for me,” said Amy Calderon, a junior at Niwot High School. “The most interesting part of the trip was watching the legislative sessions where representatives voted on bills and listening to a legislator, bill drafter, and government relations speak. It was interesting to see how the process actually works in real life, rather than just learning about it in class.”
+Amy shared that her involvement in the Student Advisory Council inspired her to take part in the experience, building on her interest in leadership and civic engagement.
+“I think it’s important to understand how the government works and how decisions are made that affect our communities,” she said. “Being part of the Student Advisory Council has already helped me see how leadership and discussion can lead to change, so I wanted to expand that perspective by experiencing how the state government works in person.”
+For Tucker Beasley, a senior at Silver Creek High School, the opportunity to witness the legislative process in real time stood out as a defining moment.
+“The most memorable part of the experience for me was being able to be in the House as they passed real bills through the third reading,” Tucker said. “It was incredibly cool and unique.”
+Tucker emphasized the value of hands-on learning experiences, noting that opportunities like this deepen his understanding of complex issues.
+“I find that practical experiences are the ones I learn from best,” he said. “From interviewing lobbyists to discussing phone policy, I have a better understanding of current issues because I have been a part of these opportunities.”
+Through their time at the Capitol, students also gained insight into the collaborative nature of government, an understanding that extends far beyond elected officials.
+“The largest lesson I learned was that senators and house members are the public faces of a much larger political body,” Tucker added. “Their actions are supported by lawyers, bill writers, librarians, lobbyists; it takes a village to get what they want done.”
+The experience was organized and led by Brandon Shaffer, Executive Director of Legal and Governmental Affairs for St. Vrain Valley Schools and former President of the Colorado State Senate. He emphasized the importance of connecting students with real-world civic experiences.
+“Experiences like this bring learning to life by giving students a firsthand look at how laws are shaped and decisions are made,” Shaffer said. “By engaging directly with legislators, lobbyists, and legal professionals, students gain a deeper understanding of civic processes while also seeing the wide range of roles they can play in them.”
+He added that beyond understanding systems, these opportunities help students grow as leaders.
+“Just as importantly, these experiences help students build confidence, ask thoughtful questions, and see themselves as active...
+
+Source: https://www.svvsd.org/2026/03/23/student-leaders-experience-government-in-action-at-the-colorado-state-capitol/
+
+### You’re Invited to Little Voices, Big Music – An Interactive Musical Experience for Young Learners, April 6
+
+- Published: 2026-03-23T12:58:11-06:00
+- Source URL: https://www.svvsd.org/2026/03/23/youre-invited-to-little-voices-big-music-an-interactive-musical-experience-for-young-learners-april-6/
+
+St. Vrain Valley Schools invites you to
+Little Voices, Big Music
+, a free, interactive musical experience designed for young children and their caregivers, open to all St. Vrain families.
+Event Details:
+Monday, April 6 from 5:15 to 6:15 p.m.
+Doors open at 5 p.m.
+Innovation Center, 33 Quail Rd. Longmont, CO 80504
+Little Voices, Big Music offers children the opportunity to actively explore music through movement, singing, and playful instruction. Guided by experienced music educators and performers, children will engage in hands-on activities that introduce rhythm, melody, and creative expression in an age-appropriate and welcoming environment.
+The evening will feature interactive elements that encourage participation, allowing children to experience music as a joyful and collaborative process. Families will leave with ideas for continuing musical exploration at home.
+What families can expect:
+Interactive music-making experiences for young children
+Opportunities for children to sing, move, and respond to music
+A supportive, engaging environment that celebrates early learning
+Time for families to participate together
+This event is presented in partnership with the St. Vrain’s Innovation Center, Week of the Young Child, St. Vrain’s Early Childhood Department, Colorado Children’s Chorale, and St. Vrain’s Office of Fine Arts.
+For more information, please contact Shela Blankinship at
+blankinship_shela@svvsd.org
+.
+Click here to pre-register
+
+Source: https://www.svvsd.org/2026/03/23/youre-invited-to-little-voices-big-music-an-interactive-musical-experience-for-young-learners-april-6/
+
 ### Skyline High School Hosts Colorado State Mariachi Festival
 
 - Published: 2026-03-12T13:52:34-06:00
@@ -658,37 +710,6 @@ Students at Centennial Elementary participate in a Unified Basketball game.
 The impact of Unified Basketball extends beyond the teams themselves, shaping the culture of the entire school. Teachers and staff rally behind the athletes by wearing Unified gear and building excitement leading up to game days, while classmates and families fill the stands to cheer athletes on. “You see compassion, empathy, and genuine joy from students who are proud to support each other,” Coniglio says.
 
 Source: https://www.svvsd.org/2026/02/23/unified-basketball-program-strengthens-school-culture-at-centennial-elementary/
-
-### Innovation Center supports student-led project for blind students in Vietnam
-
-- Published: 2026-02-20T16:16:02-07:00
-- Source URL: https://www.svvsd.org/2026/02/20/innovation-center-supports-student-led-project-for-blind-students-in-vietnam/
-
-For Niwot High School senior Dinh Pham, a childhood friendship in Vietnam became the inspiration for innovation. Working at the Innovation Center, he designed and 3D-printed educational tools inspired by his childhood and a close friend who gradually lost his vision to cataracts, which limited their time playing games together.
-“I still wanted to play with him, so I tried to make a tactile version of the board game we used to play,” Pham said.
-Using skills developed through the Innovation Center, Pham created tactile board games, custom maps of Vietnam, braille training cells and anatomy models. The tools were distributed to 11 schools for the blind in Vietnam through a nonprofit organization that supports more than 750 students.
-That early experience eventually evolved into a more advanced design project supported by the Innovation Center. Pham used the equipment and workspace at the Innovation Center to design, test and refine each model.
-Many of the tools were created to improve accessibility and reduce the physical effort required by traditional braille learning methods.
-Pham also designed accessible versions of traditional Vietnamese board games to encourage collaboration and social interaction. Game pieces feature engraved animal silhouettes and braille labels, allowing students to identify pieces through touch.
-Throughout the design process, Pham refined the models based on feedback from the nonprofit organization. Representatives visited the Innovation Center to test the tools and provide recommendations, leading to additional improvements.
-Axel Reitzig, Executive Director of Innovation at the Innovation Center, said the project reflects St. Vrain’s approach to student learning.
-“We want students to develop skills, gain access to resources and then tap into a passion that’s in service to others,” Reitzig said. “This project is a powerful example of what happens when students are given agency and support.”
-He said the Innovation Center is designed to give students both independence and guidance as they pursue real-world projects.
-“We want students to have full agency and to be the captains of their ship,” Reitzig said.
-Pham credited the Innovation Center’s equipment, workspace and support as essential to completing the project and turning an idea into a finished product.
-Through projects like this, St. Vrain continues to support student innovation, creativity and service, empowering learners to apply their skills beyond the classroom and make a meaningful difference in their communities and the world.
-
-Source: https://www.svvsd.org/2026/02/20/innovation-center-supports-student-led-project-for-blind-students-in-vietnam/
-
-### Getting to Know Our New Superintendent
-
-- Published: 2026-02-17T15:33:56-07:00
-- Source URL: https://www.svvsd.org/2026/02/17/getting-to-know-our-new-superintendent/
-
-Dr. Jackie Kapushion officially became St. Vrain Valley Schools’ new superintendent on July 1, 2025 after serving as Deputy Superintendent for the past eight years. We sat down with Dr. Kapushion to learn more about her journey, her passion for education, and her vision for our district’s future.
-Read the full story on the magazine website
-
-Source: https://www.svvsd.org/2026/02/17/getting-to-know-our-new-superintendent/
 
 ### District alerts
 
@@ -11818,24 +11839,17 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-13T08:21:37-06:00
+- Last modified: 2026-03-23T15:17:01-06:00
 
 Spring 2026
-Mindful Mondays and Wellbeing Wednesdays
-Monthly, no-cost classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
-Can’t attend live? No problem, register anyway to receive the recordings.
-Monday, March 2:
-Mindful Eating Guided Meditation
-Wednesday, March 18:
-Healthy Weight
-Register Here for Mindful Monday Classes
-Register Here for Wellbeing Wednesday Classes
 Training
 For Warriors Gym Open House
 Saturday, March 28 – 10am – 12pm
 . 950 Boston Ave, Longmont
 Training for Warriors is hosting an open house to kick off a special one-time discount exclusively for St Vrain Valley School District employees. Come see the gym, meet the instructors, and learn what classes are right for you! All skill levels welcome!
-SVVSD employees who attend the open house will be entered to win a prize drawing. No purchase necessary.
+SVVSD employees who attend the open house will be entered to win a
+prize drawing
+! No purchase necessary.
 Click here for details
 Virtual Yoga
 Thursdays March 26 – April 30. 4:30 – 5:30pm
@@ -11886,7 +11900,18 @@ Appointments open now! Call
 844-723-2778
 Mon – Fri 7:30 – 5:00 to schedule your appointment. Mention you’re with the St. Vrain Valley Schools Mochas and Mammos event. Appointments are limited and fill up fast!
 Call 844-723-2778 to Schedule
-Moonlight Mammograms (Kaiser members) – May 6, 7, and 8. Registration details coming soon!
+Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
+Kaiser Medical Office – 2345 Bent Way, Longmont 80503
+Kaiser Permanente is offering special mammography access at our Longmont Medical Office Building just for St. Vrain Valley School District employees who are Kaiser Permanente members. Enjoy a swag bag stuffed with goodies – some lucky participants will receive a
+$50 Mastercard gift card
+tucked inside.
+Register here by April 30
+Note for registration: This unique registration is HIPAA compliant and private. Members will need to set up a new username and password to schedule their appointment (their
+kp.org
+username and password will not work in this registration system).
+Not sure if you are due for a mammogram? Check your health care reminders either through the medical record section of the KP app or at
+kp.org/healthcarereminders/co
+.
 Art Therapy: Rock Painting
 Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
 In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
@@ -11955,7 +11980,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/
 ### Employee Calendars
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/employee-calendars/
-- Last modified: 2026-01-27T15:03:49-07:00
+- Last modified: 2026-03-23T16:28:45-06:00
 
 Employee Calendars
 2026-2027
@@ -12023,8 +12048,8 @@ Employee Calendars
 214 KB
 248 Day Calendar 2026-2027 July – June 10’s
 214 KB
-260 Day Calendar 2026-2027 July – June
-190 KB
+260 Day Calendar 2026-2027 July – June (1)
+187 KB
 Work Calendar Guide 26-27
 38 KB
 2025-2026
@@ -14359,7 +14384,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-03-16T09:53:43-06:00
+- Last modified: 2026-03-23T10:35:48-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -14405,12 +14430,25 @@ Agenda
 March 11th, 2025
 1:30pm-2:30pm
 Via Zoom
-TBD
 June 19th, 2025
 11:00am-2:00pm
 In-Person SVVSD LSC Building
-TBD
-For more information about the DHAC or to join, reach out to Theresa Spires, contact information below!
+2025-2026 DHAC Meeting Schedule
+Date
+Time
+Location
+February 26th, 2026
+12:00 pm – 1:00 pm
+Via Zoom
+View Recording
+April 23rd, 2026
+12:00 pm – 1:00 pm
+Via Zoom
+June 25th, 2026
+12:00 pm – 2:30 pm
+In-Person SVVSD LSC Building,
+Juniper Room
+In-Person
 Questions?
 Theresa Spires, RDN
 School Wellness Coordinator

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-21T02:49:12.614056-06:00
+generated_at: 2026-03-24T03:06:42.988948-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10517,24 +10517,17 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-13T08:21:37-06:00
+- Last modified: 2026-03-23T15:17:01-06:00
 
 Spring 2026
-Mindful Mondays and Wellbeing Wednesdays
-Monthly, no-cost classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
-Can’t attend live? No problem, register anyway to receive the recordings.
-Monday, March 2:
-Mindful Eating Guided Meditation
-Wednesday, March 18:
-Healthy Weight
-Register Here for Mindful Monday Classes
-Register Here for Wellbeing Wednesday Classes
 Training
 For Warriors Gym Open House
 Saturday, March 28 – 10am – 12pm
 . 950 Boston Ave, Longmont
 Training for Warriors is hosting an open house to kick off a special one-time discount exclusively for St Vrain Valley School District employees. Come see the gym, meet the instructors, and learn what classes are right for you! All skill levels welcome!
-SVVSD employees who attend the open house will be entered to win a prize drawing. No purchase necessary.
+SVVSD employees who attend the open house will be entered to win a
+prize drawing
+! No purchase necessary.
 Click here for details
 Virtual Yoga
 Thursdays March 26 – April 30. 4:30 – 5:30pm
@@ -10585,7 +10578,18 @@ Appointments open now! Call
 844-723-2778
 Mon – Fri 7:30 – 5:00 to schedule your appointment. Mention you’re with the St. Vrain Valley Schools Mochas and Mammos event. Appointments are limited and fill up fast!
 Call 844-723-2778 to Schedule
-Moonlight Mammograms (Kaiser members) – May 6, 7, and 8. Registration details coming soon!
+Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
+Kaiser Medical Office – 2345 Bent Way, Longmont 80503
+Kaiser Permanente is offering special mammography access at our Longmont Medical Office Building just for St. Vrain Valley School District employees who are Kaiser Permanente members. Enjoy a swag bag stuffed with goodies – some lucky participants will receive a
+$50 Mastercard gift card
+tucked inside.
+Register here by April 30
+Note for registration: This unique registration is HIPAA compliant and private. Members will need to set up a new username and password to schedule their appointment (their
+kp.org
+username and password will not work in this registration system).
+Not sure if you are due for a mammogram? Check your health care reminders either through the medical record section of the KP app or at
+kp.org/healthcarereminders/co
+.
 Art Therapy: Rock Painting
 Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
 In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
@@ -10654,7 +10658,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/
 ### Employee Calendars
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/employee-calendars/
-- Last modified: 2026-01-27T15:03:49-07:00
+- Last modified: 2026-03-23T16:28:45-06:00
 
 Employee Calendars
 2026-2027
@@ -10722,8 +10726,8 @@ Employee Calendars
 214 KB
 248 Day Calendar 2026-2027 July – June 10’s
 214 KB
-260 Day Calendar 2026-2027 July – June
-190 KB
+260 Day Calendar 2026-2027 July – June (1)
+187 KB
 Work Calendar Guide 26-27
 38 KB
 2025-2026
@@ -13058,7 +13062,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-03-16T09:53:43-06:00
+- Last modified: 2026-03-23T10:35:48-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -13104,12 +13108,25 @@ Agenda
 March 11th, 2025
 1:30pm-2:30pm
 Via Zoom
-TBD
 June 19th, 2025
 11:00am-2:00pm
 In-Person SVVSD LSC Building
-TBD
-For more information about the DHAC or to join, reach out to Theresa Spires, contact information below!
+2025-2026 DHAC Meeting Schedule
+Date
+Time
+Location
+February 26th, 2026
+12:00 pm – 1:00 pm
+Via Zoom
+View Recording
+April 23rd, 2026
+12:00 pm – 1:00 pm
+Via Zoom
+June 25th, 2026
+12:00 pm – 2:30 pm
+In-Person SVVSD LSC Building,
+Juniper Room
+In-Person
 Questions?
 Theresa Spires, RDN
 School Wellness Coordinator
