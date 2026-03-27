@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-24T03:06:42.988948-06:00
+generated_at: 2026-03-27T03:06:37.506030-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,96 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Longmont Estates Hosts Creative Time Travelers, Highlighting Innovation and Exploration
+
+- Published: 2026-03-25T10:44:55-06:00
+- Source URL: https://www.svvsd.org/2026/03/25/longmont-estates-hosts-creative-time-travelers-highlighting-innovation-and-exploration/
+
+In early March, Longmont Estates Elementary transformed into a living time machine during its
+Creative Time Travelers
+event, a school-wide experience for students in grades one through five. Students studied iconic songs and artists from their assigned era, created original artwork inspired by famous styles, and performed music that captured the spirit of the time. The event integrated history, the arts, and STEM to create an immersive learning experience, allowing students to bring the past to life for families and the community.
+Longmont Estates Elementary students explore art projects inspired by different decades.
+One key component of the
+Creative Time Travelers
+event was the school’s
+10th Annual Innovation Fair
+, where students investigated topics through one of three pathways: scientific experimentation, engineering design, or “Genius Hour” projects based on personal interests. Projects ranged from testing everyday questions to designing solutions for real-world challenges and researching global issues. Depending on the project type, they applied structured research models such as the scientific method or the engineering design process. Over six weeks, students refined their ideas through research, prototyping, and feedback.
+A community member discusses a student’s Innovation Fair project.
+The experience culminated with student presentations to an audience of families, community members, and district staff. Students shared their findings and explained their processes, strengthening skills in communication, critical thinking, and problem-solving. Through school-wide opportunities like
+Creative Time Travelers
+, Longmont Estates encourages students to explore their interests while building the confidence to share their learning with others.
+A Longmont Estates Elementary student explains his Innovation Fair project to a community member.
+
+Source: https://www.svvsd.org/2026/03/25/longmont-estates-hosts-creative-time-travelers-highlighting-innovation-and-exploration/
+
+### Parent Teacher Conference Advice Column: Supporting Early Language Development
+
+- Published: 2026-03-24T15:55:40-06:00
+- Source URL: https://www.svvsd.org/2026/03/24/parent-teacher-conference-advice-column-supporting-early-language-development/
+
+Dear Parent Teacher Conference,
+I’m worried about my toddler’s language development. She’s almost two and half and still only says a handful of words. I’m not sure how to practice her language skills at home and I’m concerned that she’s “behind”. How can I help her grow her language skills without stressing both of us out?
+–
+Language Learner in Longmont
+Dear Language Learner,
+It’s completely understandable to feel worried when you’re watching your child grow and wondering if she’s keeping pace. Language development can vary a lot from child to child, and you’re far from alone in your concerns. Many parents worry about this, and there are practical, research-based strategies you can use.
+Treat communication as a two-way dance.
+Toddlers start to recognize that their speech can lead to meaningful responses. When your child gestures, babbles, or attempts a sound, show them that you heard them by responding right away and connecting their attempt to a meaning:
+If your child points to juice, say something like, “You want juice? Juice!” This helps them link meaning with words.
+Follow their lead.
+Instead of steering every conversation, talk about what they are interested in. If they’re focused on a toy truck, describe what’s happening: “That’s a big red truck. The truck goes vroom!” This models vocabulary in context and keeps them engaged. It can also be helpful to ask open-ended questions that allow your child to expand on their answer. For example, rather than asking them the color of the truck which would warrant a one word answer, ask them why they enjoy playing with the truck.
+Expand their language.
+If a toddler says “truck,” rather than correcting, try to expand: “Yes, big red truck!” If they say two words, you might model a short three-word sentence. Always stay just a step above what they can already do. This nudges understanding without pressure. Try to only add one word at a time so they do not get overwhelmed with new language.
+Create opportunities to ask and express.
+You can set up your environment so your child naturally has reasons to communicate:
+Put a desired toy slightly out of reach so they need to ask for it.
+Pause a familiar song and give them the chance to “fill in the blank.”
+Leave out part of a puzzle so they need to request the missing piece.
+Praise communication attempts and emphasize greetings.
+Praising your child when they communicate and placing emphasis on greetings can play a powerful role in speech development. Positive feedback builds confidence, encouraging children to use words more often and take risks with new sounds or phrases. Simple greetings like “hello” and “goodbye” provide clear, repeatable language models that support vocabulary growth and social understanding. This builds confidence and shows language is useful and fun.
+Talk through daily life.
+Emphasizing the power of everyday language can be a great way for your child to emulate and learn from you. When you are getting ready in the morning you can narrate routines (“Now we put on your socks”), talk about objects (“The bubbles are so big!”), and respond to every attempt at communication promptly. Regular language exposure in meaningful moments is essential.
+Avoid stressful “testing”.
+Not all practice has to feel like a quiz. If you know your child knows a word (e.g.“dog”), avoid repeatedly asking them to produce it. Instead, invite them into playful language: “I wonder where the dog is?” This keeps communication positive.
+Toddlers learn best when they feel heard, supported, and confident. What you’re doing right now – talking with her every day and reading together – sets the stage for growth. Adding in responsive language habits, following her interests, and creating natural opportunities for communication can help her vocabulary flourish without pressure or frustration.
+Remember, there is no single “right” timeline for language to evolve. Growth often happens in small, quiet moments that are easy to miss day to day. Trust that your pr...
+
+Source: https://www.svvsd.org/2026/03/24/parent-teacher-conference-advice-column-supporting-early-language-development/
+
+### You’re Invited: Family Resource Fair in Celebration of Week of the Young Child, April 16
+
+- Published: 2026-03-24T08:29:34-06:00
+- Source URL: https://www.svvsd.org/2026/03/24/youre-invited-family-resource-fair-in-celebration-of-week-of-the-young-child-april/
+
+Join St. Vrain’s Department of Early Childhood Education for a fun-filled Family Resource Fair designed for young children and their families! Enjoy hands-on activities, explore local programs, and connect with community resources dedicated to supporting families.
+Event Details:
+Free and open to the public
+Thursday, April 16 from 4:00 p.m. – 6:00 p.m.
+St. Vrain Innovation Center, 33 Quail Road, Longmont, CO
+Enjoy fun giveaways and take-home activities. Don’t miss this community event celebrating Week of the Young Child, a special time to recognize the importance of early learning and family connections.
+
+Source: https://www.svvsd.org/2026/03/24/youre-invited-family-resource-fair-in-celebration-of-week-of-the-young-child-april/
+
+### St. Vrain’s Early Childhood Education Department Hosts Developmental Screenings for Young Children, April 10
+
+- Published: 2026-03-24T08:25:40-06:00
+- Source URL: https://www.svvsd.org/2026/03/24/st-vrains-early-childhood-education-department-hosts-developmental-screenings-for-young-children/
+
+As part of St. Vrain’s celebration of
+Week of the Young Child
+, the Early Childhood Education Department is pleased to offer developmental screenings available at no cost for families with children aged 2 to 5 years. During the event, parents will meet with early childhood education staff and children will engage in fun activities while completing a developmental screening tool designed for use by early educators and health care professionals. Developmental screenings play an important role in identifying early intervention needs, ensuring that the necessary support is provided for optimal early growth and development. The Early Childhood Education team will answer questions and connect families with additional resources.
+Event Details:
+Date: April 10, from 8:00 a.m. to 5:00 p.m.
+Location: Early Childhood Education Office: 820 Main St, Longmont, CO 80501
+(Entrance is off of 9th Ave.)
+Walk-ins welcome! If possible, families are asked to
+sign up using the online form
+to support planning purposes. For any questions regarding this event, please reach out to the
+Early Childhood Education Department
+.
+
+Source: https://www.svvsd.org/2026/03/24/st-vrains-early-childhood-education-department-hosts-developmental-screenings-for-young-children/
 
 ### Student Leaders Experience Government in Action at the Colorado State Capitol
 
@@ -125,90 +215,6 @@ Martinez is also a dedicated mentor, welcoming student teachers and practicum st
 The Best Should Teach Awards Ceremony will take place on Thursday, March 5, 2026, at 6:00 p.m. in Chancellor’s Hall at CU Boulder. The event is free and open to the public.
 
 Source: https://www.svvsd.org/2026/03/02/erie-middle-school-teacher-named-2026-best-should-teach-award-recipient/
-
-### St. Vrain Valley Schools to Host Colorado Education Recruitment Fair at Frederick High School, March 7
-
-- Published: 2026-03-02T11:34:07-07:00
-- Source URL: https://www.svvsd.org/2026/03/02/st-vrain-valley-schools-to-host-colorado-education-recruitment-fair-at-frederick-high-school-march-7/
-
-St. Vrain Valley Schools will host the 2026 Colorado Education Recruitment Fair (CERF) on Saturday, March 7 from 9 a.m. to 4:00 p.m., at Frederick High School.
-Organized by the Colorado Association of School Personnel Administrators and the Colorado Association of School Executives, CERF is the only statewide consortium recruitment fair in Colorado that connects licensed educator candidates directly with school district hiring officials.
-The event provides aspiring and experienced educators with face-to-face opportunities to speak with hiring teams from across the state. More than 57 Colorado school districts are expected to participate.
-CERF is open to:
-Licensed educator candidates
-Special service providers
-School leaders and administrators
-Educators seeking opportunities in Colorado school districts
-Additional details and registration information are available on
-the official CERF webpage
-.
-
-Source: https://www.svvsd.org/2026/03/02/st-vrain-valley-schools-to-host-colorado-education-recruitment-fair-at-frederick-high-school-march-7/
-
-### You’re Invited: Technology Careers Family Night, March 4
-
-- Published: 2026-02-26T15:25:07-07:00
-- Source URL: https://www.svvsd.org/2026/02/26/youre-invited-technology-careers-family-night-march-4/
-
-St. Vrain Valley Schools high school students and families are invited to attend the Opportunity CLIMB and Boulder Chamber Technology Industry Family Night, an engaging evening designed to connect students with professionals and explore the rapidly evolving world of technology careers.
-Hosted in partnership with the Boulder Chamber, this event provides a unique opportunity to learn directly from industry experts about the current climate in technology fields and the expertise and professional skills essential for success in today’s evolving workforce.
-Students and families will hear insights on topics including artificial intelligence and emerging technologies, as well as the skills and competencies employers are seeking in today’s tech-driven economy. The event also offers valuable time for networking and personalized conversations – families are encouraged to come with questions and curiosity.
-Event Details
-Date:
-Wednesday, March 4, 2026
-Time:
-6:00-8:30 p.m.
-Location:
-Kyndryl, 6300 Diagonal Highway, Boulder, CO 80301
-Registration:
-Space is limited. Families can
-register here
-.
-What to Expect
-The evening will feature:
-6:00-6:20 p.m.
-– Networking and opening session
-6:20-7:00 p.m.
-– Panel discussion with technology industry experts
-7:00-8:00 p.m.
-– One-on-one mentor chats with tech professionals
-
-Source: https://www.svvsd.org/2026/02/26/youre-invited-technology-careers-family-night-march-4/
-
-### St. Vrain Valley Schools to host the SMART Team Colorado Symposium, March 28
-
-- Published: 2026-02-25T14:02:59-07:00
-- Source URL: https://www.svvsd.org/2026/02/25/st-vrain-valley-schools-to-host-the-smart-team-colorado-symposium-march-28/
-
-St. Vrain Valley Schools is pleased to host the SMART (Students Modeling A Research Topic) Team Colorado Symposium. This event will bring together high school students, teachers, scientists, and community members from across the nation to celebrate a unique hands-on learning experience.
-Through SMART Teams, a program developed by
-3D Molecular Designs
-, students work in small research teams to dive into scientific literature. They read authentic research papers, explore protein structure data, and translate complex molecular information into simplified, accurate 3D-printed models. “Presenting at a symposium allows students to truly shine as scholars and to engage with other young scientists in an authentic research setting,” said Chris Chou, science teacher at Longmont High School. “Many of our former SMART Team students who are now in college share their reflections on how transformative this experience was in shaping their confidence, scientific thinking, and communication skills,” she shares.
-The symposium serves as the capstone to their journey. St. Vrain students and teams from other states will present their projects, sharing not only their models but the scientific reasoning and collaboration behind them. Attendees can expect to see students confidently explaining complex biomedical concepts, engaging in thoughtful conversations with scientists, and demonstrating communication skills that extend far beyond the classroom.
-Event Details:
-Date:
-Saturday, March 28
-Time:
-9:00 a.m. to 11:00 a.m.
-Locatio
-n: Innovation Center, 33 Quail Rd, Longmont, CO 80501
-
-Source: https://www.svvsd.org/2026/02/25/st-vrain-valley-schools-to-host-the-smart-team-colorado-symposium-march-28/
-
-### Unified Basketball Program Strengthens School Culture at Centennial Elementary
-
-- Published: 2026-02-23T08:26:40-07:00
-- Source URL: https://www.svvsd.org/2026/02/23/unified-basketball-program-strengthens-school-culture-at-centennial-elementary/
-
-Earlier this month, students at Centennial Elementary took part in Unified Basketball, an opportunity designed to bring athletes with special needs and their peers together through sport.
-A group of students warm up for their Unified Basketball game.
-The Unified Sports program at Centennial began during the 2022-23 school year under the leadership of Special Education teacher Amanda Krell, and with the support of a dedicated team of paraprofessionals and student families. The program continues to expand, committed to the school’s focus on inclusive, student-centered opportunities. Throughout the year, local partners such as the Firestone Police Department regularly participate in games with students.
-A Centennial Elementary student shoots the ball during Unified Basketball.
-“Unified Sports gives our students a space where everyone belongs, and where differences are not just accepted, but celebrated,” said Sarah Coniglio, the Dean of Students at Centennial Elementary. The Unified Basketball teams include student-athletes with a wide range of needs, paired with third- through fifth-grade partners who apply to participate by writing essays about their interest in the program. Teams are formed to balance skills, personalities, and support needs, allowing students to learn cooperation, communication, and sportsmanship in real time. “When students are learning something like a bounce pass, they’re also learning how to take turns, follow sequences, and interact with peers in ways that carry over to the classroom,” said Coniglio.
-Students at Centennial Elementary participate in a Unified Basketball game.
-The impact of Unified Basketball extends beyond the teams themselves, shaping the culture of the entire school. Teachers and staff rally behind the athletes by wearing Unified gear and building excitement leading up to game days, while classmates and families fill the stands to cheer athletes on. “You see compassion, empathy, and genuine joy from students who are proud to support each other,” Coniglio says.
-
-Source: https://www.svvsd.org/2026/02/23/unified-basketball-program-strengthens-school-culture-at-centennial-elementary/
 
 ### District alerts
 

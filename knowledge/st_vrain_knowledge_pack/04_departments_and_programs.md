@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-24T03:06:42.988948-06:00
+generated_at: 2026-03-27T03:06:37.506030-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -594,14 +594,15 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Concurrent Enrollment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/concurrent-enrollment/
-- Last modified: 2026-01-29T10:20:47-07:00
+- Last modified: 2026-03-26T13:32:42-06:00
 
 You have indicated that you are interested in enrolling in a college course while a high school student. The State of Colorado provides several options for students who meet high school standards to begin college early. The purpose of these options is to extend what may not be offered at your high school.
 The final grade received will appear on the district’s official high school and postsecondary transcripts
 . To enroll at an eligible post-secondary institution, a student must have completed the minimum course prerequisites and all required assessments.
 Please complete the following checklist
 each year
-, and observe the important dates and deadlines in the table below.
+, and observe the important dates and deadline
+s.
 Meet with your School Counselor
 – Your counselor can share information about the Concurrent Enrollment Program that allows students who have exhausted high school course options to concurrently enroll in postsecondary courses. Your counselor will examine your ICAP to approve moving forward with postsecondary courses or other challenging courses that align with your plan.
 Prerequisites
@@ -14455,7 +14456,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-02-26T16:07:18-07:00
+- Last modified: 2026-03-26T11:52:24-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -14475,6 +14476,23 @@ CLICK HERE
 .
 Learn more
 Upcoming Events & Opportunities
+2026 Advanced Study Scholarship Mu Chapter Delta Kappa Gamma
+Mu Chapter Delta Kappa Gamma of the St. Vrain Valley Schools is proud to offer one $500 scholarship to a teacher in SVVSD pursuing advanced studies.
+Applications are due by Saturday, April 25, 2026
+Mu Chapter began in 1939 in Longmont and has a history of supporting excellence in education over the years. Current projects include Books for Kids, Scholarships, and Adopt-a-Classroom. Members are active within the community in a variety of ways. Delta Kappa Gamma was founded in 1929 as a way to support and promote women in education. DKG expanded to include numerous international chapters.
+Please visit
+https://dkg.org/
+for more information.
+As educators ourselves, we understand the challenges within the profession. We also believe that a strong public education system is a gift to our entire community. We want to support you as you begin the road to making a positive difference.
+A scholarship award gathering will be on Saturday, May 16, 2026. The recipient of the scholarship will be notified before then.
+If you are having difficulty with this form, please contact Faith Halverson-Ramos:
+[email protected]
+Click to Access the Application
+New Teacher Orientation and Teach to REACH Conference
+New Teacher Orientation 2026
+will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
+Teach to REACH Conference
+: Join St. Vrain educators on Monday August 10 for a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas.The Teach to REACH Conference fulfills 7.5 hours of the 45-hour state ELPD requirement. Watch for more information and the link to register.
 Exploration AI Conversations Beyond the Algorithm
 Go
 Beyond the Algorithm
@@ -14486,13 +14504,6 @@ Exploration AI Conversations Beyond the Algorithm
 .
 Beyond the Algorithm
 is a low-stakes, bite-sized way to grow your practice with AI. Each episode comes with a downloadable PDF to guide your reflection and application. Just listen and explore. That’s it.
-October’s episode
-focuses on the
-E in our ETHOS
-framework
-(Ethical, Transparent, Human-centered, Opportunity-focused, Safe). We also spotlight guests Shane Saeed’s and Cody Wild’s work on SchoolAI Spaces developed in alignment with our elementary writing curriculum and standards.
-Listen now:
-tinyurl.com/Beyond1025
 Whether you’re dipping your toes into AI or helping students lead the way, this is for you.
 Let’s keep going
 beyond the algorithm
@@ -14722,7 +14733,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2025-10-06T15:34:49-06:00
+- Last modified: 2026-03-26T11:51:02-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -14747,7 +14758,7 @@ classes you can take to meet these requirements (Classes with a link are current
 Elevating Instruction for Multilingual Learners Book Study
 (up to 52.5 hours): Empower your instruction and maximize student achievement with this self-paced book study focused on creating accessible learning opportunities for all students in SVVSD. Choose the resource that best addresses your students’ needs, deepen your pedagogical expertise, and earn professional development credit.
 Teach to REACH Conference
-(15 hours): Join St. Vrain educators at a two-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas. This is a late-summer conference.
+(7.5 hours): Join St. Vrain educators at a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas. This is a late-summer conference.
 WIDA Professional Learning
 (Hours depend on the modules completed): Register in WisdomWhere, for access to WIDA modules. Once you register in WisdomWhere, please email
 [email protected]
@@ -15038,7 +15049,7 @@ Source: https://www.svvsd.org/departments/professional-development/parent-univer
 ### Parent Teacher Conference Advice Column
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/parent-university/parent-teacher-conference-advice-column/
-- Last modified: 2025-11-20T11:07:59-07:00
+- Last modified: 2026-03-24T15:56:32-06:00
 
 The
 Parent Teacher Conference Advice Column
@@ -15049,6 +15060,10 @@ Families are invited to submit their parenting questions for consideration in fu
 Click here to submit your question
 Listen to this Month’s Episode
 Check Out Previous Episodes
+Parent Teacher Conference
+Supporting Early Language Developement
+Learn more about how to support early language development for your youngest learner.
+Learn More
 Parent Teacher Conference
 Mindful Technology Use at Home
 Learn more about managing phone use at home and how to implement tools to create a better relationship with technology.
@@ -17220,9 +17235,9 @@ Source: https://www.svvsd.org/departments/student-services/characteristics-of-gi
 ### Community Resources
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/community-resources/
-- Last modified: 2025-02-18T11:00:32-07:00
+- Last modified: 2026-03-25T13:05:54-06:00
 
-The following are community resources that connect families to support in various areas, including assistance with housing, food, health, and more.
+The following are community resources that connect families to support in various areas, including assistance with housing, food, health, safety, and more.
 211 Colorado
 211 Colorado is a confidential and multilingual service connecting people to vital resources across the state. St. Vrain families can find information about resources in our local community, ensuring comprehensive support across a wide range of categories.
 Search 211 Colorado
@@ -17232,6 +17247,9 @@ Search FindHelp.org
 988 Suicide and Crisis Lifeline
 The 988 Lifeline provides 24/7, free and confidential support for people in distress.
 988 Suicide Crisis Lifeline
+Blue Sky Bridge
+Blue Sky Bridge was established to provide a safe and supportive environment for abuse victims where a neutral, professionally-led forensic interview provides case information for all participating law enforcement, judicial and social service agencies.
+Blue Sky Bridge
 Please contact your school principal, or counseling team if you have questions related to accessing resources (i.e. housing, food, clothing, health, mental health, etc…) for students and families.
 For additional questions related to accessing resources feel free to reach out to the following individuals in Student Services:
 Savannah Bingaman, Community Outreach Liaison (303-702-7836)
