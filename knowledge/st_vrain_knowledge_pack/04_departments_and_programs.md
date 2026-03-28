@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-27T03:06:37.506030-06:00
+generated_at: 2026-03-28T02:55:43.779863-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -8686,7 +8686,7 @@ Source: https://www.svvsd.org/departments/communityschools/community-schools-and
 ### Policies, Fees and Registration
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/cs-registration-information/
-- Last modified: 2026-02-24T12:14:33-07:00
+- Last modified: 2026-03-27T08:31:11-06:00
 
 Registration Open Now for 26-27 Pre-K Care
 Register Now
@@ -8704,8 +8704,6 @@ How to Register in the Web Store (video)
 How to Update a Payment Method in the Web Store (pdf & video)
 How to Make a Payment in Parent Portal (pdf & video)
 Fee Schedule and Parent Handbook
-Parent Handbook 25-26
-25-26 SPN Parent Handbook
 26-27 Parent Handbook
 26-27 SPN Parent Handbook
 Illness Policies

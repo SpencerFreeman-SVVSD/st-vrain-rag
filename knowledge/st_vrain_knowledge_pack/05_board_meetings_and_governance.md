@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-27T03:06:37.506030-06:00
+generated_at: 2026-03-28T02:55:43.779863-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -1162,9 +1162,9 @@ Board of Education Regular Meeting
 April 8, 2026
 Board of Education Member Events for April
 April 1, 2026
-Board of Education Study Session
-March 25, 2026
 Board of Education Regular Meeting
+March 25, 2026
+Board of Education Study Session
 March 25, 2026
 Board of Education Regular Meeting
 March 11, 2026
@@ -1586,15 +1586,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-april-9/
 
-### Board of Education Study Session
-
-- Meeting date: March 25, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-110/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-110/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: March 25, 2026
@@ -1603,6 +1594,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-110
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-167/
+
+### Board of Education Study Session
+
+- Meeting date: March 25, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-110/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-110/
 
 ### Board of Education Regular Meeting
 
