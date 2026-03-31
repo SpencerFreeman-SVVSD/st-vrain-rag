@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-30T03:45:24.009017-06:00
+generated_at: 2026-03-31T03:15:28.937127-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -6049,13 +6049,13 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletic
 ### Fine Arts
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/
-- Last modified: 2025-01-09T10:30:30-07:00
+- Last modified: 2026-03-30T08:21:51-06:00
 
 “What I love most about SVVSD is that I know they wholeheartedly believe that music, art, and theatre opportunities are important for positive school culture, student engagement, and student development. We have a great system of support for these programs and love to show them off! We encourage students to take part in all kinds of activities and when you walk through the halls of our schools you see each of them being celebrated. It’s a really great place to be and I’m proud to be here.”
-— Janay Bird, Fine Arts Coordinator
+— Janay Bird, Fine Arts Director
 The St. Vrain Valley School District is committed to developing excellence in education and each teacher will establish, develop and refine curriculum designed to cultivate potential within each student. Comprehensive and systematic art, music and theatre education is imperative to achieving these goals of reaching the potential within each student and providing students with a well rounded education.
-78% Engagement
-Over 78% of St. Vrain secondary students are engaged in co-curricular or extra curricular activities outside the regular school day.
+80% Engagement
+Over 80% of St. Vrain secondary students are engaged in co-curricular or extra curricular activities outside the regular school day.
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/
 
@@ -7537,7 +7537,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### Communications
 
 - Canonical URL: https://www.svvsd.org/departments/communications/
-- Last modified: 2025-08-19T11:39:15-06:00
+- Last modified: 2026-03-30T16:21:58-06:00
 
 District Communications
 The communications team focuses on advancing community engagement and connectivity, while promoting strong, impact-driven stories about our students and schools. Areas of oversight include:
@@ -10516,18 +10516,9 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-23T15:17:01-06:00
+- Last modified: 2026-03-30T13:31:26-06:00
 
 Spring 2026
-Training
-For Warriors Gym Open House
-Saturday, March 28 – 10am – 12pm
-. 950 Boston Ave, Longmont
-Training for Warriors is hosting an open house to kick off a special one-time discount exclusively for St Vrain Valley School District employees. Come see the gym, meet the instructors, and learn what classes are right for you! All skill levels welcome!
-SVVSD employees who attend the open house will be entered to win a
-prize drawing
-! No purchase necessary.
-Click here for details
 Virtual Yoga
 Thursdays March 26 – April 30. 4:30 – 5:30pm
 Enjoy yoga from the comfort of your own home or space. Back by popular request, Christine from Mile High Fitness and Wellness will be instructing virtual yoga classes on

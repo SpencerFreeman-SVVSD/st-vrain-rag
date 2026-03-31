@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-30T03:45:24.009017-06:00
+generated_at: 2026-03-31T03:15:28.937127-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,42 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### St. Vrain’s Unframed Art Show live at the Boulder County Fairgrounds Exhibition Hall from April 14-19
+
+- Published: 2026-03-30T10:31:01-06:00
+- Source URL: https://www.svvsd.org/2026/03/30/st-vrains-unframed-art-show-is-live/
+
+St. Vrain’s Unframed Art Show live at the Boulder County Fairgrounds Exhibition Hall from April 14-19
+St. Vrain Valley Schools invites the community to experience the creativity and talent of students across the district at the annual district art show, held at the Boulder County Fairgrounds Exhibition Hall. The exhibition will showcase artwork from students across all grade levels and schools from April 14-19.
+The event is free and open to the public, offering families and community members an opportunity to explore a wide range of student artwork.
+Public Viewing Hours:
+Tuesday, April 14 through Saturday, April 18: 9:00 a.m. – 8:00 p.m.
+Sunday, April 19: 9:00 a.m. – 5:00 p.m.
+Artists’ Night Open House:
+Thursday, April 16 from 5:00 – 6:30 p.m.
+The show highlights the creativity, dedication, and artistic growth of St. Vrain students through a variety of mediums, including ceramics, digital art and photography, drawing, jewelry, metalwork, mixed media, painting, and printmaking.Award-winning pieces will be featured online following the event at
+svvsd.org/artshow
+.
+
+Source: https://www.svvsd.org/2026/03/30/st-vrains-unframed-art-show-is-live/
+
+### Silver Creek Students Bring the Joy of Music to Assisted Living Facility
+
+- Published: 2026-03-30T09:02:20-06:00
+- Source URL: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
+
+A string quartet warms up in the sun-drenched community room at Cinnamon Park Assisted Living Residence in Longmont, as residents filter in to claim a seat. The quartet, made up of students from Silver Creek High School, launches into the first song of this performance, and residents smile and chuckle as they recognize the opening notes to ABBA’s “Mamma Mia”.
+Featuring Nehemiah Crill on cello, Michelle Smith on viola, and Jorah Foote and Hannah Crill on violin, the performance included sweeping instrumental covers, a duet by Hannah and Nehemiah, and a few lively numbers on the accordion, played by Anna Iverson.
+This performance is part of a “Music as Medicine”, a Silver Creek Leadership Academy capstone project led by Nehemiah Crill and Elsa Wirkkanen, which has performed at two additional assisted living facilities, and is planning a performance at a local children’s hospital. The goal, Elsa shares, is to bring music directly to people who could not physically go to concerts, so that everyone can enjoy and experience music.
+The students hope to share the therapeutic nature of music with those they perform for, with Nehemiah adding, “We also hope that we can bring some joy to people by playing for them and connecting with them. The senior citizens especially seem to love seeing young performers and having us take the time to prepare pieces just for them.”
+Elsa, who runs the group’s rehearsals and manages logistics, enjoys seeing both parts of the performance: the performers shining as they play, and the faces of the audience members lighting up as they enjoy it. Afterwards, the students answer any questions from the audience, chatting and laughing with the residents.
+The Leadership Academy, hosted at Silver Creek High School, culminates with a capstone project, in which students apply their leadership skills and collect at least 75 volunteer hours in the community. Learn more about all of the outstanding community projects at
+stvra.in/scla
+, or by following along on social media @SilverCreek_HS.
+View photo gallery from this performance.
+
+Source: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
+
 ### Longmont Estates Hosts Creative Time Travelers, Highlighting Innovation and Exploration
 
 - Published: 2026-03-25T10:44:55-06:00
@@ -687,35 +723,6 @@ Access communications in your preferred language
 Visit the Communications Webpage to Learn more about ParentSquare
 
 Source: https://www.svvsd.org/2026/03/11/parentsquare-our-new-district-communication-tool/
-
-### Erie High School Hosts Colorado State High School Robotics Championships
-
-- Published: 2026-03-09T13:17:13-06:00
-- Source URL: https://www.svvsd.org/2026/03/09/erie-high-school-hosts-colorado-state-high-school-robotics-championships/
-
-Forty-two teams from across Colorado gathered at Erie High School March 6-7 for the 2026 Colorado V5RC High School State Championships to compete for one of ten spots at the World Championships. Of the teams in attendance, four were from Erie High School, four were from Silver Creek High School, and two were from Skyline High School.
-The two-day event brought together many students, coaches, and volunteers from across Colorado.
-“This tournament represents the culmination of an entire season’s worth of hard work. Many teams have been preparing for this event since May of last year,” said Chris Schmitz, the STEM focus teacher at Erie High. “With 10 spots for the 2026 World Championships at stake, every team is eager to secure a position.”
-Schmitz also hopes teams see the State Championships as an opportunity to celebrate the high level of success they have achieved throughout the season.
-“Reaching this stage demands considerable dedication, and we are committed to ensuring that every team feels celebrated for their diligent work and accomplishments throughout the entire process,” Schmitz said.
-This is the second year Erie High School has hosted the event, highlighting the strong robotics programming and community support at the school, as well as St. Vrain’s commitment to providing opportunities for students to compete on a large stage.
-“From my perspective, hosting the State Robotics Championships here at Erie High serves as an affirmation that our community deeply values and supports the efforts of our engineering and robotics students,” Schmitz said. “It also validates our concerted efforts and commitment to elevate the State Championships to the status of the premier robotics event within the entire state of Colorado.”
-Two teams from Silver Creek High School and two teams from Erie High School earned spots to compete at the World Championships in Missouri at the end of April.
-
-Source: https://www.svvsd.org/2026/03/09/erie-high-school-hosts-colorado-state-high-school-robotics-championships/
-
-### Erie Middle School Teacher Named 2026 Best Should Teach Award Recipient
-
-- Published: 2026-03-02T14:07:13-07:00
-- Source URL: https://www.svvsd.org/2026/03/02/erie-middle-school-teacher-named-2026-best-should-teach-award-recipient/
-
-Erie Middle School Choir Teacher Abigail Martinez has been honored with the 2026 Best Should Teach Award from the University of Colorado Boulder. The award recognizes educators whose teaching, mentorship, and impact on their school communities set a standard of excellence.
-Martinez was nominated for her exceptional teaching and dedication to mentoring pre-service and early-career teachers, while creating classrooms where students thrive and feel a sense of belonging.
-A 2006 Boettcher Scholar and CU Boulder graduate, Martinez has led nearly 400 students daily in grade-level and extracurricular choirs since 2010. Her ensembles have performed nationally, and she has been named a 2025 GRAMMY Music Educator Quarterfinalist and a 2026 GRAMMY Legacy Award recipient.
-Martinez is also a dedicated mentor, welcoming student teachers and practicum students for over a decade, and sharing her expertise in community-centered music education. She believes every child deserves the space to be their authentic self, and that together we can use music to make a positive change in our communities and our world.
-The Best Should Teach Awards Ceremony will take place on Thursday, March 5, 2026, at 6:00 p.m. in Chancellor’s Hall at CU Boulder. The event is free and open to the public.
-
-Source: https://www.svvsd.org/2026/03/02/erie-middle-school-teacher-named-2026-best-should-teach-award-recipient/
 
 ### District alerts
 
@@ -7377,13 +7384,13 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletic
 ### Fine Arts
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/
-- Last modified: 2025-01-09T10:30:30-07:00
+- Last modified: 2026-03-30T08:21:51-06:00
 
 “What I love most about SVVSD is that I know they wholeheartedly believe that music, art, and theatre opportunities are important for positive school culture, student engagement, and student development. We have a great system of support for these programs and love to show them off! We encourage students to take part in all kinds of activities and when you walk through the halls of our schools you see each of them being celebrated. It’s a really great place to be and I’m proud to be here.”
-— Janay Bird, Fine Arts Coordinator
+— Janay Bird, Fine Arts Director
 The St. Vrain Valley School District is committed to developing excellence in education and each teacher will establish, develop and refine curriculum designed to cultivate potential within each student. Comprehensive and systematic art, music and theatre education is imperative to achieving these goals of reaching the potential within each student and providing students with a well rounded education.
-78% Engagement
-Over 78% of St. Vrain secondary students are engaged in co-curricular or extra curricular activities outside the regular school day.
+80% Engagement
+Over 80% of St. Vrain secondary students are engaged in co-curricular or extra curricular activities outside the regular school day.
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/
 
@@ -8865,7 +8872,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### Communications
 
 - Canonical URL: https://www.svvsd.org/departments/communications/
-- Last modified: 2025-08-19T11:39:15-06:00
+- Last modified: 2026-03-30T16:21:58-06:00
 
 District Communications
 The communications team focuses on advancing community engagement and connectivity, while promoting strong, impact-driven stories about our students and schools. Areas of oversight include:
@@ -11844,18 +11851,9 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-23T15:17:01-06:00
+- Last modified: 2026-03-30T13:31:26-06:00
 
 Spring 2026
-Training
-For Warriors Gym Open House
-Saturday, March 28 – 10am – 12pm
-. 950 Boston Ave, Longmont
-Training for Warriors is hosting an open house to kick off a special one-time discount exclusively for St Vrain Valley School District employees. Come see the gym, meet the instructors, and learn what classes are right for you! All skill levels welcome!
-SVVSD employees who attend the open house will be entered to win a
-prize drawing
-! No purchase necessary.
-Click here for details
 Virtual Yoga
 Thursdays March 26 – April 30. 4:30 – 5:30pm
 Enjoy yoga from the comfort of your own home or space. Back by popular request, Christine from Mile High Fitness and Wellness will be instructing virtual yoga classes on

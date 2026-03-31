@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-30T03:45:24.009017-06:00
+generated_at: 2026-03-31T03:15:28.937127-06:00
 coverage_window_days: 90
 section_title: CDE accountability and profile
 ---
