@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-03-31T03:15:28.937127-06:00
+generated_at: 2026-04-01T03:20:35.671026-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -9287,23 +9287,27 @@ Source: https://www.svvsd.org/departments/communications/messenger-notification-
 ### ParentSquare Communication Tool
 
 - Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
-- Last modified: 2026-03-11T12:31:10-06:00
+- Last modified: 2026-03-31T15:50:45-06:00
 
 ParentSquare: Our New District Communication Tool
-St. Vrain Valley Schools will begin using ParentSquare, a new district communication tool that allows families to receive notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with the plan to expand access to schools at the start of the new school year. We’re excited about the opportunities ParentSquare offers to streamline communication and will be working towards consolidating several of the tools families currently use into one convenient platform.
-After spring break, parents and guardians will receive an
-email invitation to activate their ParentSquare account
-. This will allow families to download the mobile app, set language preferences, and choose how and when they receive notifications.
+Clear, consistent communication is essential to keeping our community informed and connected. St. Vrain Valley Schools has been exploring ways to strengthen districtwide communication and simplify how information reaches families and staff. To support these efforts, we will begin using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with plans to expand access to all schools at the start of the new school year.
+On April 1, St. Vrain families and staff will receive an email invitation directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
+While registration or downloading the app is not required, and communications will continue to be sent via email, text, and voice to the contact information listed in Infinite Campus, doing so allows users to confirm their information and school associations are accurate and to customize notification settings.
 ParentSquare Tools and Features
 :
-Receive messages via email, app, or text
+Receive messages via email, app, voice, or text
 Choose to receive communications immediately or in a daily digest
 Access communications in your preferred language
+We’re excited about the opportunities ParentSquare offers to streamline communication and will be working toward consolidating several tools currently used into one convenient platform.
 Below, you’ll find FAQs, resources, and step-by-step instructions to help you understand how ParentSquare works and how you can access notifications, language settings, and more.
 ParentSquare Resources
 Frequently Asked Questions
 Do I need to download the app and register in order to get communications?
 No, downloading the app and registering is not required. However, using the app offers several advantages, including the ability to customize notification and language preferences, receive push notifications, access communications for multiple children (if applicable) in one convenient location, and view past newsletters and alerts, among other features.
+How does ParentSquare determine my email and phone number?
+ParentSquare pulls your information, including email and phone number, from Infinite Campus. If any updates are needed to your personal information, please make changes in Infinite Campus directly by using the
+Parent Portal
+or contact your school’s registrar to make those changes for you.
 Will this impact how I receive newsletters from my child’s school?
 We will transition to ParentSquare for school newsletter communications beginning in the 2026-2027 school year. Newsletters will be delivered directly to your email inbox and will also be accessible through your ParentSquare account via the app or desktop platform should you choose to register.
 How often will I be receiving communications from ParentSquare?
@@ -9312,6 +9316,17 @@ Who do I contact with questions about ParentSquare?
 Please
 fill out this form
 with any questions you may have and the communications team will reach out to you.
+ParentSquare also offers a variety of resources for additional help. Once logged into your account, you can select the question mark icon in the top right hand corner for a variety of help options including
+help articles
+, an
+email portal
+, a chat portal, or a phone number to call. Please note, you will need to be logged in to your ParentSquare account to access these help options.
+What if I am a staff member and also have a student in St. Vrain?
+Staff members who have a child attending a St. Vrain school will receive a separate invitation sent to their staff email and will need to register a parent account in addition to their staff account. Once both accounts are registered, they will be able to toggle between their staff and parent profiles in the ParentSquare app. The ParentSquare app is the quickest and easiest way to see both staff and parent notifications in one place.
+Please note: ParentSquare supports one email per user. Staff members who are also parents in St. Vrain will receive school communications through their district email.
+For more information about Parent and Staff accounts,
+visit ParentSquare to view their help article
+. You must first create your account and be logged in to view any help articles.
 When I change my notification settings, what does “Digest” mean?
 Digest is a feature that only applies to “Posts”. Posts will be how your school sends their newsletter beginning in the 2026-2027 school year. If you choose to utilize the digest setting, it will mean you will get an email once in the evening that will showcase any posts that went out from your child’s school if any were sent that day. The goal of this is to limit the amount of communications families are receiving throughout the day for non-emergency situations. This feature is not required and can be changed in your notification settings if needed. If you choose not to utilize this feature, you will receive the post in your email inbox as soon as it is sent out.
 Additional Resources
@@ -9343,13 +9358,6 @@ Language Settings
 From the app:
 Tap the triple-bar menu in the top left.
 Tap Account on the left and select Notifications, and Preferences (for Languages and Office Hours).
-Update Roles & Permissions
-View the roles assigned to your account. If needed, reach out to your school or district admin to assign additional roles.
-Note: Roles & Permissions are only available to view from a browser.
-From the browser:
-From Home, click your name and select Manage Account.
-Click Roles & Permissions to view the roles associated with your account.
-Click the arrow before any Secondary role to view where you were assigned the role.
 Notification Settings
 You can customize notification preferences by notification type and select your preferred delivery method for each school and district.
 Notification types include:
@@ -11473,7 +11481,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/dental/
 ### Employee Assistance Program
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
-- Last modified: 2026-02-27T13:14:42-07:00
+- Last modified: 2026-03-31T15:57:49-06:00
 
 Employee Assistance Program
 Call ComPsych EAP at
@@ -11490,10 +11498,12 @@ to gain access to the site).
 Call ComPsych EAP at 855.699.6908 to be connected to licensed counselors who can provide you and all members of your household with face-to-face counseling (up to six free visits per episode) and provide discounted rates or referrals.
 Up to 3 additional face-to-face emotional or work-life counseling sessions are available to all SVVSD employees who are covered on the district’s Basic Life Plan. For access, call 1-800-964-3577. Your Web ID # is HLF902 and the Company Name is: ABILI.
 This Month
-Guidance Resource Flyer –
-Tax Prep 2026
+Guidance Resource Flyers –
+Women’s Health Awareness Month: Perimenopause/ Menopause
+,
+World Autism Acceptance Month
 This month’s huddles, webinars, and guided practices –
-March schedule and sign ups
+April schedule and sign ups
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
 
@@ -11942,15 +11952,15 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-03-03T09:39:35-07:00
+- Last modified: 2026-03-31T15:55:10-06:00
 
 This Month
-March Wellbeing Flyer:
-March is National Nutrition Month
-March Well Newsletter:
-What is Financial Wellness?
+April Wellbeing Flyer:
+Earth Day is April 22nd!
+April Well Newsletter:
+Stress vs. Anxiety: Understanding the Difference
 Guidance Resource Flyer –
-Tax Prep 2026
+Women’s Health Awareness Month: Perimenopause/ Menopause
 Ongoing Resources
 Active&Fit
 Wherever you are on your health journey, the Active&Fit Direct program is here to help. Active&Fit offers discount rates at local gyms, free on-demand videos, 1:1 well-being coaching, and spouse enrollment. Choose from a network of over 12,800 gyms and exercise studios.
