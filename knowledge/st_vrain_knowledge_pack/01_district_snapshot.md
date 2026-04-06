@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-01T03:20:35.671026-06:00
+generated_at: 2026-04-06T03:22:28.407449-06:00
 coverage_window_days: 90
 section_title: District snapshot
 ---
@@ -269,7 +269,7 @@ Source: https://www.svvsd.org/about/excellence-in-st-vrain/
 ### Partnerships
 
 - Canonical URL: https://www.svvsd.org/about/partnerships/
-- Last modified: 2025-12-05T15:43:43-07:00
+- Last modified: 2026-04-03T08:04:39-06:00
 
 We believe that in order for students to graduate with a strong, competitive advantage, they need to have an understanding of the world that they will be entering. They need hopes and dreams for themselves beyond school, and to see their path forward.
 When students can see themselves in a future career, they will persevere through the obstacles on their path. We believe that every person, business, and organization has expertise and resources that can help students see their futures – while at the same time benefitting our community by building nimble workforce pathways.

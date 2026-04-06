@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-01T03:20:35.671026-06:00
+generated_at: 2026-04-06T03:22:28.407449-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -282,7 +282,7 @@ Source: https://www.svvsd.org/about/excellence-in-st-vrain/
 ### Partnerships
 
 - Canonical URL: https://www.svvsd.org/about/partnerships/
-- Last modified: 2025-12-05T15:43:43-07:00
+- Last modified: 2026-04-03T08:04:39-06:00
 
 We believe that in order for students to graduate with a strong, competitive advantage, they need to have an understanding of the world that they will be entering. They need hopes and dreams for themselves beyond school, and to see their path forward.
 When students can see themselves in a future career, they will persevere through the obstacles on their path. We believe that every person, business, and organization has expertise and resources that can help students see their futures – while at the same time benefitting our community by building nimble workforce pathways.
@@ -509,6 +509,119 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Sunset Middle School Community Celebrates IB Eighth Grade Showcase
+
+- Published: 2026-04-03T16:07:05-06:00
+- Source URL: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
+
+On Thursday, April 3, Sunset Middle School welcomed families and community members for a vibrant Community Night celebrating the culminating experience of the International Baccalaureate Middle Years Programme (IB MYP).
+The event featured student-led community projects, live performances, interactive displays, and guest speakers, including the Mayor of Longmont. Attendees also experienced a variety of food presentations that reflected the cultures and communities explored through student research.
+As part of the IB MYP, students completed projects focused on both research and direct service, identifying real needs within their community and taking action to address them.
+Principal Alicia Bono shared, “This is an impactful experience. Students learn what it means to be part of a community and that they can already play a role in making a difference. Through their projects, they identify community needs and find ways to give back. They come to see they are capable of far more than they initially thought.”
+Students echoed that growth and said the experience strengthened communication skills, deepened understanding of community needs, and built trust in their peers. Many also described a shift in perspective and recognized the value of contributing to something larger than themselves.
+The evening highlighted the power of authentic learning and the meaningful connections formed between students and the community they serve.
+View the Event Album
+
+Source: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
+
+### Longs Peak Middle School Celebrated Eighth Grade Students Accepted into High School Focus Programs
+
+- Published: 2026-04-03T15:38:45-06:00
+- Source URL: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
+
+Longs Peak Middle School recently held a special signing ceremony honoring more than 40 eighth grade students who have been accepted into high school focus programs. Inspired by traditional athletic signing days, the all-school assembly took place on Wednesday, April 1 from 2:30 to 3:15 p.m., celebrating students’ dedication and preparation for advanced academic opportunities.
+Students from Longs Peak earned acceptance into specialized pathways at two local high schools. Programs include the Medical & Bioscience Academy (MBSA) and the High School of Business at Longmont High School, as well as FalconTECH at Skyline High School.
+The celebration included performances by the school’s mariachi and percussion ensembles, along with appearances by cheerleaders. Principals and program representatives from each high school were present to welcome future students into their programs. As part of the ceremony, each student was recognized individually and signed a commitment letter, marking an important milestone in their academic journey. The event wrapped up with performances from the Longmont High School drum line and cheerleaders, followed by closing remarks and group photos. Families were also in attendance to share in the celebration.
+“This event showcased the value of hard work, encouraged younger students, and generated excitement for what lies ahead in high school,” said Karin Blough, Principal of Longs Peak Middle School. “We have built programs that connect directly to advanced high school coursework and help prepare students for what comes next. We are proud of the dedication shown by our students and their families and look forward to seeing their continued success in these programs.”
+
+Source: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
+
+### Facility Use Rate Update
+
+- Published: 2026-04-03T13:14:43-06:00
+- Source URL: https://www.svvsd.org/2026/04/03/facility-use-rate-update/
+
+Dear St. Vrain Valley Community,
+St. Vrain Valley Schools values the strong connection between our schools and the community, and we are proud to provide access to our facilities for a wide range of programs, events, and activities.
+We are sharing an upcoming update regarding facility use rates across the district.
+Beginning July 1, 2026, updated pricing will take effect for the use of district facilities.
+This adjustment supports the ongoing care and maintenance of our buildings and spaces while continuing to provide meaningful access for community use.
+All reservations and contracts* that take place on or after July 1, 2026 will reflect the updated rates.
+We understand the importance of our facilities as shared community resources and remain committed to balancing accessibility with responsible financial stewardship.
+If you have any questions or would like additional information, please reach out to the Facility Use team.
+Thank you for your continued partnership.
+Sincerely,
+Facility Use
+St. Vrain Valley Schools
+*With the exception of exterior areas included in the
+Temporary Closure of District Athletic Fields and Exterior Play Areas
+document on the Facility Use website.
+
+Source: https://www.svvsd.org/2026/04/03/facility-use-rate-update/
+
+### Temporary Closure of District Athletic Fields and Exterior Play Areas
+
+- Published: 2026-04-03T12:49:06-06:00
+- Source URL: https://www.svvsd.org/2026/04/03/temporary-closure-of-district-athletic-fields-and-exterior-play-areas/
+
+Dear St. Vrain Valley Community,
+St. Vrain Valley Schools values our community and the many ways our shared spaces bring people together. We are proud to make our athletic fields and exterior play areas available for community use and appreciate the partnerships that make these opportunities possible.
+To that end, we have made the difficult decision to temporarily close all district athletic fields and exterior play spaces from May 20 through September 2026 due to unusually dry conditions this past winter and a significant lack of soil moisture. This proactive step protects the long-term health and playability of these spaces.
+Our fields are a valued district asset that support a wide range of athletic programs, activities, and community experiences. Taking care of them now ensures they remain safe, high-quality environments that support school-based opportunities throughout the academic year.
+We recognize the impact this closure may have for community groups and partners. District staff will continue to monitor weather patterns and field conditions. If moisture levels improve or weather conditions shift, we will reassess this decision and share any updates to field availability as soon as possible.
+Thank you for your partnership in caring for these important community resources.
+Sincerely,
+Brian Lamer
+Assistant Superintendent of Operations
+St. Vrain Valley Schools
+
+Source: https://www.svvsd.org/2026/04/03/temporary-closure-of-district-athletic-fields-and-exterior-play-areas/
+
+### More Than Storytime: Stuffy Book Club at Alpine Elementary
+
+- Published: 2026-04-03T12:09:54-06:00
+- Source URL: https://www.svvsd.org/2026/04/03/more-than-storytime-stuffy-book-club-at-alpine-elementary/
+
+Tucked into a cozy corner of Alpine Elementary, a group of kindergarten and first grade students gather at the end of the school day, arms full of stuffed animals and blankets in tow. The room hums with excitement as students recognize something special is about to begin.
+Led by third grade teacher Michelle Drangeid, the Stuffy Book Club invites the school’s youngest learners to slow down, get comfortable, and fall in love with stories. Students settle in beside their favorite stuffies, sharing snacks and anticipation as Drangeid opens a book. Each week introduces a new author or theme, expanding their world one page at a time.
+On this particular day, the group dives into
+The Dot
+by Peter H. Reynolds – a story about courage and the power of creativity. Students bring the story to life through a fun watercolor activity. Starting with a single dot on their page, they quickly transform it into unique shapes and patterns.
+For many of these students, this is their first opportunity to be part of a school club, a space designed just for them. “The club is light. It’s a chance for them to take a breath and play,” Drangeid shares, describing the intention behind each gathering.
+Along with crafts and stories, the Stuffy Book Club quietly builds something deeper. It increases connections across grade levels, turning familiar faces in the hallway into friendly waves and conversations. As Drangeid explains, “I love including other grade levels because I get a chance to meet kids that I don’t normally get to see. When I’m walking around the building, they see me and say hi. There is a connection that builds community, which is one of the best parts about this.”
+​​Long after the club ends, its effects continue to unfold. Students return home to read aloud to their stuffed animals, build blanket forts, and recreate the cozy magic of reading. In these small, meaningful moments, a lifelong love of reading begins to take root for Alpine Elementary students.
+
+Source: https://www.svvsd.org/2026/04/03/more-than-storytime-stuffy-book-club-at-alpine-elementary/
+
+### Westview Middle School Re-Designated as National School to Watch
+
+- Published: 2026-04-02T14:00:23-06:00
+- Source URL: https://www.svvsd.org/2026/04/02/westview-middle-school-re-designated-as-national-school-to-watch/
+
+Westview Middle School has once again earned national recognition as a National School to Watch, a distinction awarded by the National Forum to Accelerate Middle Grades Reform in partnership with leading education organizations.
+The
+Schools to Watch
+program identifies middle schools across the country that demonstrate exceptional performance and a commitment to continuous improvement. Schools receiving this designation are recognized for being academically excellent, developmentally responsive to the needs of young adolescents, and socially equitable — ensuring high levels of learning and support for every student.
+Westview’s re-designation reflects sustained excellence and a schoolwide commitment to meeting the evolving needs of students. The recognition is not permanent; schools must reapply every three years, demonstrating ongoing growth, innovation, and impact.
+The school celebrated the achievement with a full school assembly, recognizing the collective efforts of staff and students. District leadership were there to help celebrate and make sure everyone felt the significance of this recognition. The event also highlighted two Westview robotics teams who have advanced to the VEX Robotics World Championships, showcasing the school’s continued success both in and beyond the classroom.
+As part of the national network, Westview joins a select group of middle schools across the United States that serve as models for effective teaching, student support, and school culture. This honor reflects the dedication of Westview’s educators, staff, students, and families — and reinforces the school’s role in preparing students for success in high school and beyond.
+
+Source: https://www.svvsd.org/2026/04/02/westview-middle-school-re-designated-as-national-school-to-watch/
+
+### Niwot Elementary Welcomes Newbery Medalist Katherine Applegate for Author Visit
+
+- Published: 2026-04-02T08:29:25-06:00
+- Source URL: https://www.svvsd.org/2026/04/02/niwot-elementary-welcomes-newbery-medalist-katherine-applegate-for-author-visit/
+
+During a special visit from author Katherine Applegate, students at Niwot Elementary had the opportunity to go behind the scenes of the writing process and learn how stories can evolve across formats and audiences. Applegate offered insight into how her ideas develop into published books, including collaboration with illustrators who help bring her characters to life. She highlighted this process in her newest picture book, “The Littlest Elephant,” which is based on her novel, “The One and Only Ruby.”
+Katherine Applegate presents to students at Niwot Elementary.
+Applegate, a Newbery Medal-winning author, has written numerous books for young readers, many inspired by real-life events and animals. Her 2013 Newbery Medal recognized the impact of “The One and Only Ivan,” which was later adapted into a film in 2020. During her visit, she shared how Ivan’s story was based on a real gorilla who once lived in a shopping mall before being relocated to a zoo. She also spoke about her broader body of work, emphasizing themes of empathy, resilience, and curiosity.
+A Niwot Elementary student asks Applegate a question regarding her writing process.
+Throughout the event, Applegate encouraged students to discover their “best friend book,” a story that feels as though it was written just for them, and reminded them that inspiration can come from simply asking “what if.” Students had the opportunity to ask questions about her writing process and the characters she has created, learning how stories develop from an idea into a publication. The visit concluded with a book signing, where students were able to meet Applegate and have their books personally signed. For students, this event became a memorable experience celebrating the power of reading and storytelling.
+Applegate signs a Niwot Elementary student’s book after her presentation.
+
+Source: https://www.svvsd.org/2026/04/02/niwot-elementary-welcomes-newbery-medalist-katherine-applegate-for-author-visit/
+
 ### St. Vrain’s Unframed Art Show live at the Boulder County Fairgrounds Exhibition Hall from April 14-19
 
 - Published: 2026-03-30T10:31:01-06:00
@@ -566,163 +679,6 @@ Creative Time Travelers
 A Longmont Estates Elementary student explains his Innovation Fair project to a community member.
 
 Source: https://www.svvsd.org/2026/03/25/longmont-estates-hosts-creative-time-travelers-highlighting-innovation-and-exploration/
-
-### Parent Teacher Conference Advice Column: Supporting Early Language Development
-
-- Published: 2026-03-24T15:55:40-06:00
-- Source URL: https://www.svvsd.org/2026/03/24/parent-teacher-conference-advice-column-supporting-early-language-development/
-
-Dear Parent Teacher Conference,
-I’m worried about my toddler’s language development. She’s almost two and half and still only says a handful of words. I’m not sure how to practice her language skills at home and I’m concerned that she’s “behind”. How can I help her grow her language skills without stressing both of us out?
-–
-Language Learner in Longmont
-Dear Language Learner,
-It’s completely understandable to feel worried when you’re watching your child grow and wondering if she’s keeping pace. Language development can vary a lot from child to child, and you’re far from alone in your concerns. Many parents worry about this, and there are practical, research-based strategies you can use.
-Treat communication as a two-way dance.
-Toddlers start to recognize that their speech can lead to meaningful responses. When your child gestures, babbles, or attempts a sound, show them that you heard them by responding right away and connecting their attempt to a meaning:
-If your child points to juice, say something like, “You want juice? Juice!” This helps them link meaning with words.
-Follow their lead.
-Instead of steering every conversation, talk about what they are interested in. If they’re focused on a toy truck, describe what’s happening: “That’s a big red truck. The truck goes vroom!” This models vocabulary in context and keeps them engaged. It can also be helpful to ask open-ended questions that allow your child to expand on their answer. For example, rather than asking them the color of the truck which would warrant a one word answer, ask them why they enjoy playing with the truck.
-Expand their language.
-If a toddler says “truck,” rather than correcting, try to expand: “Yes, big red truck!” If they say two words, you might model a short three-word sentence. Always stay just a step above what they can already do. This nudges understanding without pressure. Try to only add one word at a time so they do not get overwhelmed with new language.
-Create opportunities to ask and express.
-You can set up your environment so your child naturally has reasons to communicate:
-Put a desired toy slightly out of reach so they need to ask for it.
-Pause a familiar song and give them the chance to “fill in the blank.”
-Leave out part of a puzzle so they need to request the missing piece.
-Praise communication attempts and emphasize greetings.
-Praising your child when they communicate and placing emphasis on greetings can play a powerful role in speech development. Positive feedback builds confidence, encouraging children to use words more often and take risks with new sounds or phrases. Simple greetings like “hello” and “goodbye” provide clear, repeatable language models that support vocabulary growth and social understanding. This builds confidence and shows language is useful and fun.
-Talk through daily life.
-Emphasizing the power of everyday language can be a great way for your child to emulate and learn from you. When you are getting ready in the morning you can narrate routines (“Now we put on your socks”), talk about objects (“The bubbles are so big!”), and respond to every attempt at communication promptly. Regular language exposure in meaningful moments is essential.
-Avoid stressful “testing”.
-Not all practice has to feel like a quiz. If you know your child knows a word (e.g.“dog”), avoid repeatedly asking them to produce it. Instead, invite them into playful language: “I wonder where the dog is?” This keeps communication positive.
-Toddlers learn best when they feel heard, supported, and confident. What you’re doing right now – talking with her every day and reading together – sets the stage for growth. Adding in responsive language habits, following her interests, and creating natural opportunities for communication can help her vocabulary flourish without pressure or frustration.
-Remember, there is no single “right” timeline for language to evolve. Growth often happens in small, quiet moments that are easy to miss day to day. Trust that your pr...
-
-Source: https://www.svvsd.org/2026/03/24/parent-teacher-conference-advice-column-supporting-early-language-development/
-
-### You’re Invited: Family Resource Fair in Celebration of Week of the Young Child, April 16
-
-- Published: 2026-03-24T08:29:34-06:00
-- Source URL: https://www.svvsd.org/2026/03/24/youre-invited-family-resource-fair-in-celebration-of-week-of-the-young-child-april/
-
-Join St. Vrain’s Department of Early Childhood Education for a fun-filled Family Resource Fair designed for young children and their families! Enjoy hands-on activities, explore local programs, and connect with community resources dedicated to supporting families.
-Event Details:
-Free and open to the public
-Thursday, April 16 from 4:00 p.m. – 6:00 p.m.
-St. Vrain Innovation Center, 33 Quail Road, Longmont, CO
-Enjoy fun giveaways and take-home activities. Don’t miss this community event celebrating Week of the Young Child, a special time to recognize the importance of early learning and family connections.
-
-Source: https://www.svvsd.org/2026/03/24/youre-invited-family-resource-fair-in-celebration-of-week-of-the-young-child-april/
-
-### St. Vrain’s Early Childhood Education Department Hosts Developmental Screenings for Young Children, April 10
-
-- Published: 2026-03-24T08:25:40-06:00
-- Source URL: https://www.svvsd.org/2026/03/24/st-vrains-early-childhood-education-department-hosts-developmental-screenings-for-young-children/
-
-As part of St. Vrain’s celebration of
-Week of the Young Child
-, the Early Childhood Education Department is pleased to offer developmental screenings available at no cost for families with children aged 2 to 5 years. During the event, parents will meet with early childhood education staff and children will engage in fun activities while completing a developmental screening tool designed for use by early educators and health care professionals. Developmental screenings play an important role in identifying early intervention needs, ensuring that the necessary support is provided for optimal early growth and development. The Early Childhood Education team will answer questions and connect families with additional resources.
-Event Details:
-Date: April 10, from 8:00 a.m. to 5:00 p.m.
-Location: Early Childhood Education Office: 820 Main St, Longmont, CO 80501
-(Entrance is off of 9th Ave.)
-Walk-ins welcome! If possible, families are asked to
-sign up using the online form
-to support planning purposes. For any questions regarding this event, please reach out to the
-Early Childhood Education Department
-.
-
-Source: https://www.svvsd.org/2026/03/24/st-vrains-early-childhood-education-department-hosts-developmental-screenings-for-young-children/
-
-### Student Leaders Experience Government in Action at the Colorado State Capitol
-
-- Published: 2026-03-23T13:12:54-06:00
-- Source URL: https://www.svvsd.org/2026/03/23/student-leaders-experience-government-in-action-at-the-colorado-state-capitol/
-
-On March 13, student leaders from across St. Vrain Valley Schools stepped beyond the classroom and into the heart of Colorado’s legislative process.
-As members of the district’s Student Advisory Council—a group of high school students representing their schools and helping inform district decisions—these students traveled to the Colorado State Capitol for a firsthand look at how laws are debated, shaped, and passed.
-Throughout the day, students observed live legislative sessions, engaged with professionals working behind the scenes, and explored the many pathways that influence public policy. For many, the experience brought their classroom learning to life in a powerful way.
-During their visit, students were invited onto the House floor by State Representative Karen McCormick, who represents House District 11, including St. Vrain Valley Schools. She recognized the group during the session and asked them to stand, acknowledging their presence in front of the full chamber—a moment that underscored the significance of their role as student leaders.
-“Going to the state capitol was a great learning experience for me,” said Amy Calderon, a junior at Niwot High School. “The most interesting part of the trip was watching the legislative sessions where representatives voted on bills and listening to a legislator, bill drafter, and government relations speak. It was interesting to see how the process actually works in real life, rather than just learning about it in class.”
-Amy shared that her involvement in the Student Advisory Council inspired her to take part in the experience, building on her interest in leadership and civic engagement.
-“I think it’s important to understand how the government works and how decisions are made that affect our communities,” she said. “Being part of the Student Advisory Council has already helped me see how leadership and discussion can lead to change, so I wanted to expand that perspective by experiencing how the state government works in person.”
-For Tucker Beasley, a senior at Silver Creek High School, the opportunity to witness the legislative process in real time stood out as a defining moment.
-“The most memorable part of the experience for me was being able to be in the House as they passed real bills through the third reading,” Tucker said. “It was incredibly cool and unique.”
-Tucker emphasized the value of hands-on learning experiences, noting that opportunities like this deepen his understanding of complex issues.
-“I find that practical experiences are the ones I learn from best,” he said. “From interviewing lobbyists to discussing phone policy, I have a better understanding of current issues because I have been a part of these opportunities.”
-Through their time at the Capitol, students also gained insight into the collaborative nature of government, an understanding that extends far beyond elected officials.
-“The largest lesson I learned was that senators and house members are the public faces of a much larger political body,” Tucker added. “Their actions are supported by lawyers, bill writers, librarians, lobbyists; it takes a village to get what they want done.”
-The experience was organized and led by Brandon Shaffer, Executive Director of Legal and Governmental Affairs for St. Vrain Valley Schools and former President of the Colorado State Senate. He emphasized the importance of connecting students with real-world civic experiences.
-“Experiences like this bring learning to life by giving students a firsthand look at how laws are shaped and decisions are made,” Shaffer said. “By engaging directly with legislators, lobbyists, and legal professionals, students gain a deeper understanding of civic processes while also seeing the wide range of roles they can play in them.”
-He added that beyond understanding systems, these opportunities help students grow as leaders.
-“Just as importantly, these experiences help students build confidence, ask thoughtful questions, and see themselves as active...
-
-Source: https://www.svvsd.org/2026/03/23/student-leaders-experience-government-in-action-at-the-colorado-state-capitol/
-
-### You’re Invited to Little Voices, Big Music – An Interactive Musical Experience for Young Learners, April 6
-
-- Published: 2026-03-23T12:58:11-06:00
-- Source URL: https://www.svvsd.org/2026/03/23/youre-invited-to-little-voices-big-music-an-interactive-musical-experience-for-young-learners-april-6/
-
-St. Vrain Valley Schools invites you to
-Little Voices, Big Music
-, a free, interactive musical experience designed for young children and their caregivers, open to all St. Vrain families.
-Event Details:
-Monday, April 6 from 5:15 to 6:15 p.m.
-Doors open at 5 p.m.
-Innovation Center, 33 Quail Rd. Longmont, CO 80504
-Little Voices, Big Music offers children the opportunity to actively explore music through movement, singing, and playful instruction. Guided by experienced music educators and performers, children will engage in hands-on activities that introduce rhythm, melody, and creative expression in an age-appropriate and welcoming environment.
-The evening will feature interactive elements that encourage participation, allowing children to experience music as a joyful and collaborative process. Families will leave with ideas for continuing musical exploration at home.
-What families can expect:
-Interactive music-making experiences for young children
-Opportunities for children to sing, move, and respond to music
-A supportive, engaging environment that celebrates early learning
-Time for families to participate together
-This event is presented in partnership with the St. Vrain’s Innovation Center, Week of the Young Child, St. Vrain’s Early Childhood Department, Colorado Children’s Chorale, and St. Vrain’s Office of Fine Arts.
-For more information, please contact Shela Blankinship at
-blankinship_shela@svvsd.org
-.
-Click here to pre-register
-
-Source: https://www.svvsd.org/2026/03/23/youre-invited-to-little-voices-big-music-an-interactive-musical-experience-for-young-learners-april-6/
-
-### Skyline High School Hosts Colorado State Mariachi Festival
-
-- Published: 2026-03-12T13:52:34-06:00
-- Source URL: https://www.svvsd.org/2026/03/12/skyline-high-school-hosts-colorado-state-mariachi-festival/
-
-Performers take their place on stage in Vance Brand Civic Auditorium at Skyline High School, with violins, guitar, trumpets, guitarrón, and even the occasional harp or accordion. But it’s not until the singer steps to the center stage and calls out their “
-grito”
-that the Colorado State Mariachi Festival kicks off.
-This year marked the third annual festival, sponsored by Colorado High School Activities Association (CHSAA) and hosted at Skyline High School. The one-day festival included performances from St. Vrain Valley Schools groups at every level: Indian Peaks Elementary, Sunset Middle, Frederick High, Skyline High, Longmont High, and Niwot High, as well as groups from Denver, Yuma, Salida, and more.
-Longmont High School’s Mariachi de Los Troyanos performs at the 2026 CHSAA Mariachi Festival.
-“The festival not only provides a state-wide recognition and celebration of mariachi as an important part of school music programs in Colorado, but it also gives a stage for these groups to see one another performing,” says Brian Crim, Orchestra and Mariachi Teacher at Skyline High School and event organizer. Historically, there have not been many opportunities for student mariachi ensembles to perform outside their buildings, and many groups across the state may be the only ones in their immediate area, which is one of the primary reasons this festival was created: to bring groups together to learn from one another.
-Niwot High School’s Mariachi Ensemble performs.
-Groups performed up to 3 songs each, then received individualized feedback from clinicians, who are professional performers and instructors. Included in the day’s schedule was also a performance from the group Mariachi Las Dahlias, Colorado’s premier all-female mariachi ensemble.
-“The top aim of this festival has always been to build the overall community of mariachi in Colorado’s public education,” says Crim.
-Statewide, mariachi programming in K-12 education has been growing, as classes, clubs, and after-school groups have steadily increased over the past few years. This growth is reflected in the festival’s participation and in new programs such as a Mariachi degree program introduced at Metropolitan State University last fall. Mariachi’s appeal to students lies in its blend of orchestra, musical skill, performance, tradition, and cultural celebration.
-View the full album of 2026 Mariachi Festival Photos
-
-Source: https://www.svvsd.org/2026/03/12/skyline-high-school-hosts-colorado-state-mariachi-festival/
-
-### ParentSquare: Our New District Communication Tool
-
-- Published: 2026-03-11T12:34:32-06:00
-- Source URL: https://www.svvsd.org/2026/03/11/parentsquare-our-new-district-communication-tool/
-
-St. Vrain Valley Schools will begin using ParentSquare, a new district communication tool that allows families to receive notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with the plan to expand access to schools at the start of the new school year. We’re excited about the opportunities ParentSquare offers to streamline communication and will be working towards consolidating several of the tools families currently use into one convenient platform.
-After spring break, parents and guardians will receive an
-email invitation to activate their ParentSquare account
-. This will allow families to download the mobile app, set language preferences, and choose how and when they receive notifications.
-ParentSquare Tools and Features
-:
-Receive messages via email, app, or text
-Choose to receive communications immediately or in a daily digest
-Access communications in your preferred language
-Visit the Communications Webpage to Learn more about ParentSquare
-
-Source: https://www.svvsd.org/2026/03/11/parentsquare-our-new-district-communication-tool/
 
 ### District alerts
 
@@ -9287,11 +9243,11 @@ Source: https://www.svvsd.org/departments/communications/messenger-notification-
 ### ParentSquare Communication Tool
 
 - Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
-- Last modified: 2026-03-31T15:50:45-06:00
+- Last modified: 2026-04-03T14:15:22-06:00
 
 ParentSquare: Our New District Communication Tool
 Clear, consistent communication is essential to keeping our community informed and connected. St. Vrain Valley Schools has been exploring ways to strengthen districtwide communication and simplify how information reaches families and staff. To support these efforts, we will begin using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with plans to expand access to all schools at the start of the new school year.
-On April 1, St. Vrain families and staff will receive an email invitation directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
+St. Vrain families and staff received an email invitation directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
 While registration or downloading the app is not required, and communications will continue to be sent via email, text, and voice to the contact information listed in Infinite Campus, doing so allows users to confirm their information and school associations are accurate and to customize notification settings.
 ParentSquare Tools and Features
 :
@@ -9304,10 +9260,30 @@ ParentSquare Resources
 Frequently Asked Questions
 Do I need to download the app and register in order to get communications?
 No, downloading the app and registering is not required. However, using the app offers several advantages, including the ability to customize notification and language preferences, receive push notifications, access communications for multiple children (if applicable) in one convenient location, and view past newsletters and alerts, among other features.
-How does ParentSquare determine my email and phone number?
-ParentSquare pulls your information, including email and phone number, from Infinite Campus. If any updates are needed to your personal information, please make changes in Infinite Campus directly by using the
+You can download the app here:
+iOS App
+–
+Apple Store
+Android App
+–
+Google Play Store
+How does ParentSquare determine my email and phone number and how can I change my information?
+ParentSquare pulls your information, including email and phone number, from Infinite Campus and will sync to ParentSquare.
+How to make updates to personal information for parents:
+If any updates are needed to your personal information, please make changes in Infinite Campus directly by using the
 Parent Portal
-or contact your school’s registrar to make those changes for you.
+or contact your school’s registrar to make those changes for you. For instructions on how to make these changes in Infinite Campus, visit our
+help article
+.
+How to make updates to personal information for staff members:
+Changes to staff member information must be requested in Infinite Campus. For instructions on how to do this, visit our
+help article
+.
+How to make updates to personal information for staff members who have a student attending a St. Vrain school:
+ParentSquare supports one email per user. Staff members who are also parents in St. Vrain will receive all staff and parent communications through their district email. Your ParentSquare staff account and ParentSquare account will be registered through your district email, not a personal email. We highly recommend downloading the app so that you can enable push notifications so no communications are missed and both accounts can be found in one place.
+For more information about Parent and Staff accounts,
+visit ParentSquare to view their help article
+. You must first create your account and be logged in to view any help articles.
 Will this impact how I receive newsletters from my child’s school?
 We will transition to ParentSquare for school newsletter communications beginning in the 2026-2027 school year. Newsletters will be delivered directly to your email inbox and will also be accessible through your ParentSquare account via the app or desktop platform should you choose to register.
 How often will I be receiving communications from ParentSquare?
@@ -9322,7 +9298,7 @@ help articles
 email portal
 , a chat portal, or a phone number to call. Please note, you will need to be logged in to your ParentSquare account to access these help options.
 What if I am a staff member and also have a student in St. Vrain?
-Staff members who have a child attending a St. Vrain school will receive a separate invitation sent to their staff email and will need to register a parent account in addition to their staff account. Once both accounts are registered, they will be able to toggle between their staff and parent profiles in the ParentSquare app. The ParentSquare app is the quickest and easiest way to see both staff and parent notifications in one place.
+Staff members who have a child attending a St. Vrain school will receive a separate invitation sent to their staff email and will need to register a parent account in addition to their staff account. Once both accounts are registered, they will be able to toggle between their staff and parent profiles in the ParentSquare app. (This is different than “merging accounts”; staff and parent accounts can not be “merged”). The ParentSquare app is the quickest and easiest way to see both staff and parent notifications in one place.
 Please note: ParentSquare supports one email per user. Staff members who are also parents in St. Vrain will receive school communications through their district email.
 For more information about Parent and Staff accounts,
 visit ParentSquare to view their help article
@@ -9338,7 +9314,13 @@ Update Roles and Permissions
 Update Notification Settings and Preferences
 Update Language Preferences
 How to Download the App and Activate My Account
-The app can be downloaded by searching for “ParentSquare” on the App Store or through Google Play. We recommend downloading the app after following the welcome email and activating your account.
+The app can be downloaded by searching for “ParentSquare” on the App Store or through Google Play or by clicking the links below. We recommend downloading the app following the welcome email and activating your account.
+iOS App
+–
+Apple Store
+Android App
+–
+Google Play Store
 Activate your ParentSquare Account
 Your school will send you an invitation using your email address or phone number on file.
 Open the invitation from ParentSquare in your email.
@@ -9429,17 +9411,19 @@ Public Records Request (CORA) Form
 
 Source: https://www.svvsd.org/departments/communications/public-records-request-cora/
 
-### #StVrainStorm
+### This is the St. Vrain Advantage
 
-- Canonical URL: https://www.svvsd.org/departments/communications/publications-initiatives/stvrainstorm/
+- Canonical URL: https://www.svvsd.org/departments/communications/publications-initiatives/this-is-the-st-vrain-advantage/
 - Last modified: 2020-10-15T11:09:47-06:00
 
-Join the #StVrainStorm
-In St. Vrain Valley Schools, we are all part of a greater purpose in advancing public education across our community and beyond. We have a vision for a strong public education system that is not only preparing our students for graduation and postsecondary success, but is giving them a strong competitive advantage to compete with anyone, anywhere, anytime, for any job in the world.
-We believe public education is the foundation that drives the success of our nation. It is through our public schools that our communities are safer, our economies are stronger, our property values are higher, and our future is brighter. Across St. Vrain Valley Schools, we are taking public education by #StVrainStorm – our shared passion and commitment to advancing academic excellence and student success. Whether we are in our classrooms, competing and performing across the state, hiking with our families, or traveling the world, we keep public education close to our hearts and champion academic excellence wherever we go.
-Follow our #StVrainStorm hashtag on Twitter to see the outstanding things taking place every day across all of our schools and departments.
+This is the St. Vrain Advantage
+The St. Vrain Advantage is the difference our teachers and staff make every day by creating high-quality, innovative learning experiences that support the success and well-being of every student. Rigorous academics, hands-on learning, strong relationships, and real-world opportunities are made possible by the people at the heart of our schools.
+To highlight the exceptional work happening across our system, we’re launching a new campaign for the 2026-27 school year. Schools will receive “This is the St. Vrain Advantage” signs and are encouraged to submit photos with them showcasing what the St. Vrain Advantage looks like in their community, including student learning, staff collaboration, and school programming.
+Photos will be featured throughout the year as part of an ongoing campaign celebrating the people, programs, and experiences that define the St. Vrain Advantage.
+Show us Your St. Vrain Advantage
+Submit your photos
 
-Source: https://www.svvsd.org/departments/communications/publications-initiatives/stvrainstorm/
+Source: https://www.svvsd.org/departments/communications/publications-initiatives/this-is-the-st-vrain-advantage/
 
 ### Publication Library
 
@@ -9476,6 +9460,20 @@ We believe public education is the foundation that drives the success of our nat
 Follow our #StVrainStorm hashtag on Twitter to see the outstanding things taking place every day across all of our schools and departments.
 
 Source: https://www.svvsd.org/departments/communications/publications-initiatives/stvrainstorm/
+
+### This is the St. Vrain Advantage
+
+- Canonical URL: https://www.svvsd.org/departments/communications/publications-initiatives/this-is-the-st-vrain-advantage/
+- Last modified: 2026-04-02T09:01:42-06:00
+
+This is the St. Vrain Advantage
+The St. Vrain Advantage is the difference our teachers and staff make every day by creating high-quality, innovative learning experiences that support the success and well-being of every student. Rigorous academics, hands-on learning, strong relationships, and real-world opportunities are made possible by the people at the heart of our schools.
+To highlight the exceptional work happening across our system, we’re launching a new campaign for the 2026-27 school year. Schools will receive “This is the St. Vrain Advantage” signs and are encouraged to submit photos with them showcasing what the St. Vrain Advantage looks like in their community, including student learning, staff collaboration, and school programming.
+Photos will be featured throughout the year as part of an ongoing campaign celebrating the people, programs, and experiences that define the St. Vrain Advantage.
+Show us Your St. Vrain Advantage
+Submit your photos
+
+Source: https://www.svvsd.org/departments/communications/publications-initiatives/this-is-the-st-vrain-advantage/
 
 ### Video Library
 
@@ -9837,7 +9835,7 @@ Source: https://www.svvsd.org/departments/communityschools/
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/about-us/
-- Last modified: 2026-01-22T13:12:59-07:00
+- Last modified: 2026-04-03T14:30:49-06:00
 
 Meet the Team
 Esperanza Ruiz
@@ -9897,8 +9895,8 @@ Tarah Sable
 Program Manager, Grand View Elementary
 303-702-8000
 [email protected]
-Sanaa Alyemeni
-Program Manager, Highlands Elementary
+Deidre Taylor
+Program Manager, Highlands
 303-702-8040
 [email protected]
 Veronica Vigil
@@ -9959,24 +9957,24 @@ Source: https://www.svvsd.org/departments/communityschools/about-us/
 ### Community Schools and Child Care Locations
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/community-schools-and-child-care-locations/
-- Last modified: 2026-01-22T12:55:45-07:00
+- Last modified: 2026-04-03T14:20:37-06:00
 
 Community School Locations
 The offerings at each school may change from time to time. The most up to date information is available on individual school’s Community Schools page. Click the school below and it will take you directly to that information.
 Alpine Elementary
 – K-5 Care and Enrichment Classes
 Big Sky PK8
-– K-5 Care, Pre-K Care and Enrichment Classes – opening Fall 2026
+– K-5 Care, Full Day Early Childcare, Wraparound Pre-K Care and Enrichment Classes – opening Fall 2026
 Black Rock Elementary
 – K-5 Care and Enrichment Classes
 Blue Mountain Elementary
 – K-5 Care and Enrichment Classes
 Burlington Elementary
-– K-5 Care, Pre-K Care, and Enrichment Classes
+– K-5 Care, Full Day Early Childcare, Wraparound Pre-K Care, and Enrichment Classes
 Centennial Elementary
 – K-5 Care and Enrichment Classes
 Central Elementary
-– K-5 Care, Pre-K Care, and Enrichment Classes
+– K-5 Care, Full Day Early Childcare, Wraparound Pre-K Care, and Enrichment Classes
 Columbine Elementary
 – Enrichment Classes
 Eagle Crest Elementary
@@ -9984,7 +9982,7 @@ Eagle Crest Elementary
 Erie Elementary
 – K-5 Care and Enrichment Classes
 Fall River Elementary
-– K-5 Care, Pre-K Care, and Enrichment Classes
+– K-5 Care, Full Day Early Childcare, Wraparound Pre-K Care, and Enrichment Classes
 Grand View Elementary
 – K-5 Care and Enrichment Classes
 Highlands Elementary
@@ -9992,7 +9990,7 @@ Highlands Elementary
 Hygiene Elementary
 – K-5 Care and Enrichment Classes
 Indian Peaks Elementary
-– Enrichment Classes
+– K-5 Care offered at Burlington and Enrichment Classes
 Legacy Elementary
 – K-5 Care and Enrichment Classes
 Longmont Estates Elementary
@@ -10002,11 +10000,11 @@ Lyons Elementary
 Mead Elementary
 – K-5 Care and Enrichment Classes
 Mountain View Elementary & Longs Peak Middle School
-– K-5 Care, Pre-K Care, and Enrichment Classes
+– K-5 Care, Full Day Toddler Care, Full Day Early Childcare, Wraparound Pre-K Care, and Enrichment Classes
 Niwot Elementary
-– K-5 Care , Pre-K Care, and Enrichment Classes
+– K-5 Care, Full Day Early Childcare, Wraparound Pre-K Care, and Enrichment Classes
 Northridge Elementary
-– Enrichment Classes
+– K-5 Care Offered at Mountain View and Enrichment Classes
 Prairie Ridge Elementary
 – K-5 Care and Enrichment Classes
 Red Hawk Elementary School
@@ -10014,15 +10012,15 @@ Red Hawk Elementary School
 Rocky Mountain Elementary
 – Enrichment Classes
 Sanborn Elementary
-– K-5 Care and Enrichment Classes
+– K-5 Care Offered at Mountain View and Enrichment Classes
 Soaring Heights PK-8
 – K-8 Care and Enrichment Classes
 SPARK! Discovery Preschool
-– Pre-K Care
+– Full Day Infant & Toddler Care, Full Day Early Childcare, Wraparound Pre-K Care
 Thunder Valley K-8
 – K-8 Care and Enrichment Classes
 Timberline K-8
-– Enrichment Classes
+– K-5 Care offered at Alpine and Enrichment Classes
 
 Source: https://www.svvsd.org/departments/communityschools/community-schools-and-child-care-locations/
 
@@ -10067,10 +10065,36 @@ Enrichment classes are offerred throughout the district.
 
 Source: https://www.svvsd.org/departments/communityschools/enrichment/
 
+### High-Quality Childcare Options
+
+- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/
+- Last modified: 2026-04-02T16:16:24-06:00
+
+Your schedule, your needs, your childcare solution.
+Our programs engage students in early learning experiences, in partnership with families and the community, to develop a strong foundation, enrich the whole child, build friendships and socialization skills, and inspire lifelong learning. We provide a safe environment which welcomes each child and their unique personality and abilities. Parents can feel confident that their children are in a safe, nurturing, and engaging environment that will cultivate a lifelong love of learning.
+Care by Age Group and Educational Needs
+Full-Day Infant Care: 6 weeks to 18 months
+Our infant childcare program at Spark! Discovery Preschool provides a nurturing, safe environment designed to support the unique developmental needs of our youngest learners.
+Learn more about Infant Care
+Full-Day Toddler Care: 18 months to 3 years
+The toddler care program, available at both Spark! Discovery Preschool and Mountain View Elementary, creates an engaging and supportive environment where young children can explore, learn, and grow with high-quality staff.
+Learn more about Toddler Care
+Full-Day Early Childcare: 3 to 4 years
+This program is designed for children who are not currently enrolled in a preschool program, offering a full-day experience that supports early development and learning. Children participate in enriching, age-appropriate activities that promote curiosity, independence, and school readiness in a welcoming environment.
+Learn more about childcare
+Wraparound Care: 3 to 5 years – Currently enrolled in St. Vrain Preschool
+This program is designed for children already enrolled in preschool, providing extended-day care that builds on and complements their classroom learning. With a balance of structured activities and play, students continue to develop important skills while benefiting from a consistent, supportive environment beyond the traditional school day.
+Learn more about Wraparound care
+K-5 Care: 5 to 13 years
+St. Vrain Valley Schools offers inclusive, enriching and licensed care for children 5 to 13 before and after the school bell.
+Learn more about K-5 Care
+
+Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/
+
 ### Full-Day Early Childcare
 
-- Canonical URL: https://www.svvsd.org/departments/communityschools/full-day-early-childcare/
-- Last modified: 2025-10-14T12:19:27-06:00
+- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-early-childcare/
+- Last modified: 2026-04-02T15:46:57-06:00
 
 St. Vrain Valley Schools offers flexible options that support both learning and care for children aged 3 to 4 who are not quite ready for the preschool classroom. Our licensed early childcare program is designed to provide a full day of care for our youngest learners. Full-day care offers families a safe, enriching, and developmentally supportive environment.
 Your Partner in Early Learning
@@ -10128,12 +10152,53 @@ $55 if attending full-day childcare only
 *Families must commit to a 2-day minimum weekly attendance to enroll in wraparound care.
 For program details or registration questions, please contact the onsite program manager at the school or the Community Schools central office at 303-702-7924.
 
-Source: https://www.svvsd.org/departments/communityschools/full-day-early-childcare/
+Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-early-childcare/
+
+### Full-Day Infant Care
+
+- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-infant-care/
+- Last modified: 2026-04-02T15:45:57-06:00
+
+Our infant care program provides a warm, responsive environment where our youngest learners begin building a strong foundation for growth, development, and learning. Through close relationships with caregivers and meaningful interactions, infants are supported in developing early communication, motor, and social-emotional skills in ways that honor their individual needs and rhythms. Parents can feel confident knowing their child is cared for in a safe, engaging setting designed to promote comfort, connection, and a positive start to lifelong learning.
+Program Details:
+Location
+Spark! Discovery Preschool
+Hours:
+7:00 a.m. – 5:00 p.m.
+Cost:
+Infant Care: $1,870.91 per month
+Schedule:
+Follows the St. Vrain Valley school year calendar, August 18, 2026 – June 30, 2027
+Register Here
+
+Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-infant-care/
+
+### Full-Day Toddler Care
+
+- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-toddler-care/
+- Last modified: 2026-04-02T15:45:49-06:00
+
+Our toddler care program provides a safe, engaging environment where children are encouraged to explore, discover, and grow through hands-on, play-based experiences. With a focus on developing early language, social-emotional, and motor skills, toddlers build confidence and independence while forming meaningful connections with peers and caregivers.
+In partnership with families, we create a supportive space that recognizes each child’s unique personality and developmental pace. Parents can feel confident knowing their child is in a nurturing, structured setting that encourages curiosity, fosters friendships, and lays the groundwork for a lifelong love of learning.
+Program Details:
+Locations:
+Spark! Discovery Preschool
+Mountain View Elementary
+Hours:
+7:00 a.m. – 5:00 p.m.
+Cost:
+$1,692.73 per month
+Schedule:
+Follows the St. Vrain Valley school year calendar, August 18, 2026 – June 30, 2027
+Register at Spark! Discovery Preschool
+Register at Mountain View
+
+Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-toddler-care/
 
 ### K-5 Care
 
-- Canonical URL: https://www.svvsd.org/departments/communityschools/k-5-care/
-- Last modified: 2026-01-27T08:45:56-07:00
+- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/k-5-care/
+- Last modified: 2026-04-02T15:50:24-06:00
 
 Licensed Before & After Care Program
 Registration for the 2026-2027 school will be open on April 2
@@ -10197,56 +10262,12 @@ AM Care: $16/day
 PM Care: $20/day
 To ensure we continue to provide high-quality, dedicated staff and robust programming, we are implementing new pricing for the first time in nearly a decade. Scholarships to support financial aid are available. Please contact the Community Schools office for additional information.
 
-Source: https://www.svvsd.org/departments/communityschools/k-5-care/
-
-### Summer and Non School Days
-
-- Canonical URL: https://www.svvsd.org/departments/communityschools/summer-and-non-school-days/
-- Last modified: 2026-01-22T12:59:04-07:00
-
-Summer Camps and Non School Days Care
-Registration for Summer 2026 Begins February 11
-Community Schools provides high-quality non-school day and summer camp care for St. Vrain Valley families. Our summer camps offer children opportunities to build new friendships, develop confidence and independence, and feel a sense of belonging in safe, engaging environments.
-Camps are designed to spark creativity with staff-led, energizing activities that blend learning and fun. While maintaining structure, summer camps offer a relaxed atmosphere with time for spontaneous play and incorporate onsite and offsite exploration.
-Age Groups:
-Wraparound Pre-K Camp: Open to children aged 3-5 years.
-School Age Camp: Open to children aged 5-12 years.
-Summer 2026 Details
-Rates:
-To ensure we continue to provide high-quality, dedicated staff and robust programming, we are implementing new pricing for the first time in nearly a decade. Scholarships to support financial aid are available. Please contact the Community Schools office for additional information.
-Registration Fee: $50 per individual or $75 per family
-Daily Rate: $60 per day
-Dates:
-May 28 – August 4 (Closed July 3)
-Hours of Operation:
-Wraparound Pre-K Camp:
-7:00 a.m. – 5:30 p.m.
-School Age Camp:
-7:00 a.m. – 6:00 p.m.
-Locations:
-Wraparound Pre-K Camp
-Open to children ages 3–5 and incoming kindergarteners
-:
-Mountain View Elementary, Longmont
-Spark! Discovery Preschool, Frederick
-School Age Camps:
-Open to children enrolled in St. Vrain Valley Schools, incoming kindergarteners (must be 5) through outgoing fourth grade students.
-Blue Mountain Elementary, Longmont
-Central Elementary, Longmont
-Fall River Elementary, Longmont
-Highlands Elementary, Erie
-Lyons Middle/Senior, Lyons
-Prairie Ridge Elementary, Longmont
-2026 Summer Camp Parent Handbook
-Registration Guide for Summer Camp
-How to Pick Days
-
-Source: https://www.svvsd.org/departments/communityschools/summer-and-non-school-days/
+Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/k-5-care/
 
 ### Wraparound Pre-K Care
 
-- Canonical URL: https://www.svvsd.org/departments/communityschools/wraparound-pre-k-care/
-- Last modified: 2026-01-26T13:01:53-07:00
+- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/wraparound-pre-k-care/
+- Last modified: 2026-04-02T15:48:06-06:00
 
 Extend Your Child’s Preschool Experience with Pre-K Childcare
 Registration for the 2026-2027 school will be open on January 27
@@ -10313,7 +10334,51 @@ $55 if attending pre-k/wraparound care only
 *Families must commit to a 2-day minimum weekly attendance to enroll in wraparound care.
 For program details or registration questions, please contact the onsite program manager at the school or the Community Schools central office at 303-702-7924.
 
-Source: https://www.svvsd.org/departments/communityschools/wraparound-pre-k-care/
+Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/wraparound-pre-k-care/
+
+### Summer and Non School Days
+
+- Canonical URL: https://www.svvsd.org/departments/communityschools/summer-and-non-school-days/
+- Last modified: 2026-01-22T12:59:04-07:00
+
+Summer Camps and Non School Days Care
+Registration for Summer 2026 Begins February 11
+Community Schools provides high-quality non-school day and summer camp care for St. Vrain Valley families. Our summer camps offer children opportunities to build new friendships, develop confidence and independence, and feel a sense of belonging in safe, engaging environments.
+Camps are designed to spark creativity with staff-led, energizing activities that blend learning and fun. While maintaining structure, summer camps offer a relaxed atmosphere with time for spontaneous play and incorporate onsite and offsite exploration.
+Age Groups:
+Wraparound Pre-K Camp: Open to children aged 3-5 years.
+School Age Camp: Open to children aged 5-12 years.
+Summer 2026 Details
+Rates:
+To ensure we continue to provide high-quality, dedicated staff and robust programming, we are implementing new pricing for the first time in nearly a decade. Scholarships to support financial aid are available. Please contact the Community Schools office for additional information.
+Registration Fee: $50 per individual or $75 per family
+Daily Rate: $60 per day
+Dates:
+May 28 – August 4 (Closed July 3)
+Hours of Operation:
+Wraparound Pre-K Camp:
+7:00 a.m. – 5:30 p.m.
+School Age Camp:
+7:00 a.m. – 6:00 p.m.
+Locations:
+Wraparound Pre-K Camp
+Open to children ages 3–5 and incoming kindergarteners
+:
+Mountain View Elementary, Longmont
+Spark! Discovery Preschool, Frederick
+School Age Camps:
+Open to children enrolled in St. Vrain Valley Schools, incoming kindergarteners (must be 5) through outgoing fourth grade students.
+Blue Mountain Elementary, Longmont
+Central Elementary, Longmont
+Fall River Elementary, Longmont
+Highlands Elementary, Erie
+Lyons Middle/Senior, Lyons
+Prairie Ridge Elementary, Longmont
+2026 Summer Camp Parent Handbook
+Registration Guide for Summer Camp
+How to Pick Days
+
+Source: https://www.svvsd.org/departments/communityschools/summer-and-non-school-days/
 
 ### Early Childhood
 
@@ -11952,7 +12017,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-03-31T15:55:10-06:00
+- Last modified: 2026-04-03T08:58:12-06:00
 
 This Month
 April Wellbeing Flyer:
@@ -11963,6 +12028,7 @@ Guidance Resource Flyer –
 Women’s Health Awareness Month: Perimenopause/ Menopause
 Ongoing Resources
 Active&Fit
+Make your move with Active&Fit Direct
 Wherever you are on your health journey, the Active&Fit Direct program is here to help. Active&Fit offers discount rates at local gyms, free on-demand videos, 1:1 well-being coaching, and spouse enrollment. Choose from a network of over 12,800 gyms and exercise studios.
 NEW! All enrolled Active&Fit Direct members have access to the Active&Fit Direct Marketplace, the new go-to destination for big discounts on top-tier health & fitness brands.
 Learn more about the Active&Fit program here
@@ -13750,8 +13816,15 @@ Source: https://www.svvsd.org/departments/operations-maintenance/environmental-c
 ### Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/
-- Last modified: 2025-08-07T12:20:27-06:00
+- Last modified: 2026-04-03T13:20:48-06:00
 
+Temporary Field Closures
+St. Vrain has made the difficult decision to temporarily close all district athletic fields and exterior play spaces from May 20 through September 2026 due to unusually dry conditions this past winter and a significant lack of soil moisture.
+Read more about temporary closures
+.
+Updated Facility Use Rates
+Beginning July 1, 2026, updated pricing will take effect for the use of district facilities. This adjustment supports the ongoing care and maintenance of our buildings and spaces while continuing to provide meaningful access for community use.
+Read more about facility use rate updates.
 Facility Use
 Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. Schools are centrally located in most neighborhoods and are a logical focal point for community activities. We support and encourage community use with priority given to youth activities.
 Board Policy KF
@@ -15790,7 +15863,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-03-26T11:52:24-06:00
+- Last modified: 2026-04-03T15:49:28-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -15810,6 +15883,24 @@ CLICK HERE
 .
 Learn more
 Upcoming Events & Opportunities
+April 6, from 5:30pm – 6:30pm on Zoom
+Discover dynamic online programs with multiple start dates throughout the year.
+Programs for
+Practicing
+Teachers:
+— Certificate in Educational Leadership (Principal Licensure)
+— M.Ed Educational Leadership w/Principal Licensure
+— M.Ed. Reading Specialist
+— M.Ed. Special Education Added Endorsement
+Initial
+Teacher Licensure Programs:
+— M.Ed. Elementary Education w/Initial Teaching Licensure
+— M.Ed. Secondary Education w/Initial Teaching Licensure
+— M.Ed. Special Education w/Initial Teaching Licensure
+Graduate Education Scholarships Available:
+— $3,000 for students who start any Division of Education Master’s Program in Summer 2026
+— $2,000 for students who start the Certificate in Educational Leadership (Principal Licensure) program Summer 2026
+Click Here to Register
 2026 Advanced Study Scholarship Mu Chapter Delta Kappa Gamma
 Mu Chapter Delta Kappa Gamma of the St. Vrain Valley Schools is proud to offer one $500 scholarship to a teacher in SVVSD pursuing advanced studies.
 Applications are due by Saturday, April 25, 2026
@@ -15822,11 +15913,15 @@ A scholarship award gathering will be on Saturday, May 16, 2026. The recipient o
 If you are having difficulty with this form, please contact Faith Halverson-Ramos:
 [email protected]
 Click to Access the Application
-New Teacher Orientation and Teach to REACH Conference
 New Teacher Orientation 2026
 will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
-Teach to REACH Conference
-: Join St. Vrain educators on Monday August 10 for a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas.The Teach to REACH Conference fulfills 7.5 hours of the 45-hour state ELPD requirement. Watch for more information and the link to register.
+August 10, 2026 at Longmont High School
+.5 Salary Credit — 7.5 ELPD Hours — No cost!
+Click Here for More Information
+The Blueprint for Belonging: Building Classrooms Where Every Identity Drives Excellence
+Choose from over 20 breakout sessions to advance your instruction, build classroom community, and grow as a connected educator.
+Sessions will expand your skills in advancing literacy, thinking, speaking, reading, and writing across all content areas and grade levels!
+REGISTER TODAY
 Exploration AI Conversations Beyond the Algorithm
 Go
 Beyond the Algorithm
@@ -16067,7 +16162,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-03-26T11:51:02-06:00
+- Last modified: 2026-04-02T14:38:19-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -17147,9 +17242,17 @@ Source: https://www.svvsd.org/departments/safety/safety-and-security-team/
 ### Safety & Security Parent Resources
 
 - Canonical URL: https://www.svvsd.org/departments/safety/safety-security-parent-resources/
-- Last modified: 2024-02-27T08:42:19-07:00
+- Last modified: 2026-04-01T11:04:40-06:00
 
 Parent Resources
+Gun Violence Prevention
+As required by state law, St. Vrain is making gun violence prevention resources available for families and community members. Please review the resources below and contact your local law enforcement agency with questions or for assistance with accessing free gun safety locks.
+Gun Violence Prevention for Parents & Guardians of K-12 Students
+. (PDF)
+Prevención de la violencia con armas de fuego para padres y tutores de estudiantes K-12
+. (PDF)
+Be Smart for Kids
+: The Be SMART campaign was launched in 2015 to promote responsible gun ownership in order to reduce the deaths, injuries and trauma that can result when a child or teen is able to access a gun.
 Fentanyl Resources for Parents
 We have compiled a list of resources to help parents learn about the risks of Fentanyl and how to prevent its use.
 Center of Disease and Control
@@ -19646,7 +19749,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-03-12T15:20:41-06:00
+- Last modified: 2026-04-02T09:49:23-06:00
 
 Click on the Circular Chart above to open a traditional version.
 
@@ -20076,7 +20179,7 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 ### Newsletter Archives
 
 - Canonical URL: https://www.svvsd.org/departments/technology/newsletter-archives/
-- Last modified: 2026-02-23T11:44:39-07:00
+- Last modified: 2026-04-01T11:44:06-06:00
 
 DTS Newsletter Archives
 February 2026
@@ -24671,7 +24774,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 368
+- Department and program pages: 372
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 79

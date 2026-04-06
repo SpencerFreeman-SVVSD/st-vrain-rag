@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-01T03:20:35.671026-06:00
+generated_at: 2026-04-06T03:22:28.407449-06:00
 coverage_window_days: 90
 section_title: Source Index
 ---
@@ -21,7 +21,7 @@ section_title: Source Index
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 368
+- Department and program pages: 372
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 79
