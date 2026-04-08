@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-06T03:22:28.407449-06:00
+generated_at: 2026-04-08T03:16:53.059889-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9264,7 +9264,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/current-pres
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2025-10-20T10:57:01-06:00
+- Last modified: 2026-04-07T08:57:38-06:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience. Success begins here.
@@ -9279,8 +9279,7 @@ Go to Parent/Guardian Forms
 Purpose and Philosophy
 The purpose of the District Preschool Program is to provide a high quality early childhood experience for your child in a safe, supportive and stimulating environment where children develop and progress through a developmentally appropriate curriculum. Our focus is to prepare children for Kindergarten, providing students a curriculum that promotes learning through intentional learning opportunities during the day supporting social and academic progress.
 Standards and Kindergarten Readiness
-The District’s preschool standards (what we expect children to learn) are aligned with Colorado’s preschool academic standards, the Colorado Early Learning and Developmental Guidelines, and Kindergarten Standards. These standards and objectives set out a series of
-learning readiness. These standards describe what children should understand and be able to do as a result of their preschool experience.
+The District’s preschool standards (what we expect children to learn) are aligned with Colorado’s preschool academic standards, the Colorado Early Learning and Developmental Guidelines, and Kindergarten Standards. These standards and objectives set out a series of learning readiness. These standards describe what children should understand and be able to do as a result of their preschool experience.
 Curriculum and Assessment
 Preschool teachers use the Creative Curriculum® for Preschool, a research based preschool curriculum, to create an environment that supports learning through play in a variety of interest centers, i.e. blocks, dramatic play, science/discovery, art, technology, library/quiet area, etc. This curriculum also helps teachers develop appropriate small and large group activities to enhance child growth in the classroom. Progress is observed and documented in the following developmental and academic content areas: Cognitive, Language, Social/Emotional, Physical, Literacy, Math, and Science.
 Admission, Registration and SVVSD Tax ID
@@ -9307,7 +9306,7 @@ Tuition Rates for the 2025-2026 school year:
 2nd half of full day (M-F) –$708.00
 Full Day (M-F) – $1,342.00
 Programs Offered
-The St. Vrain Valley School District has 23 preschool programs located in elementary schools and Spark! Discovery Preschool serving children three and four years of age. Children must be three and four years of age on or before October 1st of the current year to be registered. Children with disabilities must be served by age three, therefore they may be enrolled throughout the year at their 3rd birthday.
+The St. Vrain Valley School District has 25 preschool programs located in elementary schools and Spark! Discovery Preschool serving children three and four years of age. Children must be three and four years of age on or before October 1st of the current year to be registered. Children with disabilities must be served by age three, therefore they may be enrolled throughout the year at their 3rd birthday.
 Universal Preschool Program
 The Colorado Department of Early Childhood (CDEC) now offers FREE preschool programming up to 15 hours, but no less than 10 hours per week for ALL in district boundary four-year-old children going into kindergarten the following year (age cutoff is 4 on or before October 1st) and some funding for three-year old’s with a qualifying factor(s). Applications must be submitted through the district only for 3-year olds and both the district and Universal Preschool Colorado parent portal linked below for age qualifying 4-year olds. Four-year old with a qualifying factor can be considered for full day programming should additional hours funding be made available through UPK. Supporting documentation for qualifying factors are required for proof of qualification.
 Should you have questions about Universal Preschool, please reach out to our local coordinating Local Coordinating Organization, the Early Childhood Council of Boulder County, at 720-548-3981.
@@ -10377,10 +10376,10 @@ Eligible employees may participate in one of two voluntary sick leave banks that
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disability-insurance/
 
-### Medical
+### Medical & Pharmacy
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/medical/
-- Last modified: 2026-03-06T11:40:52-07:00
+- Last modified: 2026-04-06T12:22:30-06:00
 
 Choosing a Health Plan That’s Right For You
 As an employee, the health benefits available to you represent a significant component of your compensation package. They also provide important protection for you and your family in case of illness or injury.
@@ -10400,19 +10399,26 @@ Out-of-Pocket Maximum (OOP Maximum)
 – The maximum amount you pay during a calendar year for covered medical services under your health plan.
 After you reach the OOP Maximum, your health plan pays 100% of covered services for the rest of the year.
 When comparing different plans, think about your family’s medical needs and the type of treatment you’ve received in the past. If you have a preferred doctor or hospital and want to keep using the same provider, make sure they are part of the network for the plan(s) you are considering. If you take a medication on a regular basis, check what it will cost under the health plan’s preferred drug list. St. Vrain Valley Schools offers three health plan options to benefits-eligible employees and their eligible family members: the UMR Choice Plus plan, the UMR Direct Care plan and the Kaiser Permanente DHMO plan.
-UMR Choice Plus Plan
-The self-insured UMR Choice Plus Plan is a Preferred Provider Organization (PPO) plan that offers a large, nationwide, network of doctors, hospitals and other providers to choose from whenever care is needed. The Plan is administered through UMR. In-network care is available, through the United Health Care Choice Plus PPO network.
+UMR Choice Plus Plan with HRA
+The self-insured UMR Choice Plus Plan with HRA is a Preferred Provider Organization (PPO) plan that offers a large, nationwide, network of doctors, hospitals and other providers to choose from whenever care is needed. The Plan is administered through UMR. In-network care is available, through the United Health Care Choice Plus PPO network.
 Plan features include:
-$2,500 individual deductible / $5,000 family deductible (in-network)
-Low or no copay for visits to Premium Designated providers
-10% cost-share once you’ve met your deductible
+$2,500 individual deductible / $5,000 family deductible (in-network); 10% coinsurance once you’ve met your deductible
+$1,000/$2,000 per year Health Reimbursement Account (HRA) – district-provided funds to help you pay your deductible
+Low or no copay for visits to Tier 1 providers
+$0 unlimited mental health office visits (in-network)
 In-network preventive care covered at 100%
 Out-of-network care is covered at a reduced benefit level
-Comprehensive hospitalization, emergency, pharmacy and mental health coverage
-Free virtual pain relief and physical therapy services through Hinge Health, free physical therapy, orthopedics, lab tests, x-rays and advanced imaging and more through Zero Health and low-cost in-home urgent care, hospitalist and infusion services through Origin Healthcare
+Free virtual pain relief and physical therapy services through Hinge Health
+Free physical therapy, lab tests, x-rays, advanced imaging, and more through Zero Health
+Low-cost in-home urgent care, hospitalist and infusion services through Origin Health
+Prescription drug coverage through CVS Caremark
 2026 UMR Plan Document
 2026 UMR Choice Plus Summary of Benefits and Coverage (SBC)
-CVS Prescription Drug Listing
+CVS Caremark Covered Prescription Drugs
+Log into your Pharmacy Benefit Plan:
+caremark.com
+UMR Treatment Cost Calculator
+– log in to your member account and click Find Costs and Care
 Health Reimbursement Account (HRA) – Available with the UMR Choice Plus Plan
 The district-funded HRA can be used to pay expenses that are applied to your UMR Choice Plus health plan deductible. It cannot be used to pay for other expenses such as dental or vision claims, prescriptions or coinsurance amounts.
 Annual Contribution: $1,000 individual / $2,000 family (prorated for new hires)
@@ -10421,20 +10427,31 @@ Fund balance carries over annually to a maximum of $2,500 individual / $5,000 fa
 The district does not contribute into an HRA for any of the district’s other health plan options.
 Health Reimbursement Account – Summary Plan Description
 UMR Direct Care Plan
-The self-insured UMR Choice Plus Plan is a Preferred Provider Organization (PPO) plan that offers a large, nationwide, network of doctors, hospitals and other providers to choose from whenever care is needed. The Plan is administered through UMR. In-network care is available, through the United Health Care Choice Plus PPO network.
+The self-insured UMR Choice Plus Plan is a Preferred Provider Organization (PPO) plan that offers a large, nationwide network of doctors, hospitals and facilities to choose from whenever care is needed. In-network care is available through the United Health Care Choice Plus PPO and the United Healthcare Premium Designated Provider (Tier 1) networks.
 Plan features include:
-$2,500 individual deductible / $5,000 family deductible (in-network)
-Low or no copays for visits to Premium Designated providers or KerixHealth
-20% cost-share once you’ve met your deductible
+Low or no copay visits to
+Tier 1 providers
+or
+KerixHealth providers
+$0 unlimited mental health
+office visits (in-network)
 In-network preventive care covered at 100%
 Out-of-network care is covered at a reduced benefit level
-Comprehensive hospitalization, emergency, pharmacy and mental health coverage
-Free virtual pain relief and physical therapy services through Hinge Health, free physical therapy, orthopedics, lab tests, x-rays and advanced imaging and more through Zero Card and low-cost in-home urgent care, hospital and infusion services through Origin Healthcare.
-KerixHealth (formerly Nextera Healthcare)
-: If you are enrolled in the UMR Direct Care plan, you and your covered family members have an included membership in KerixHealth, a primary care practice with multiple locations across the St. Vrain area. KerixHealth provides no cost urgent, primary and chronic care office/virtual visits not subject to copays, deductibles or coinsurance. You will never pay for the care you receive from a KerixHealth doctor.
+Free virtual pain relief and physical therapy services through
+Hinge Health
+Free physical therapy, lab tests, x-rays, advanced imaging, and more through
+Zero Card
+Low-cost in-home urgent care, hospitalist and infusion services through
+Origin Health
+Prescription drug coverage through
+CVS Caremark
+Access to
+KerixHealth Primary Care
+If you are enrolled in the UMR Direct Care plan, you and your covered family members have an included membership in KerixHealth, a primary care practice with multiple locations across the St. Vrain area. KerixHealth provides urgent, primary and chronic care office/virtual visits at
+no cost
+to you.
 Priority appointments for St. Vrain employees and families
-Exceptional, personalized patient care including extended appointment times and after-hours
-access via phone, secure video and text with your provider
+Exceptional, personalized patient care including extended appointment times and after-hours access via phone, secure video and text with your provider
 Get started and schedule a welcome appointment to meet your KerixHealth doctor in 3 steps:
 Download the Spruce Messaging App Here
 Message “Schedule”
@@ -10446,7 +10463,11 @@ Use the Spruce Messaging App:
 Download Here
 2026 UMR Plan Document
 2026 UMR Direct Care Summary of Benefits and Coverage (SBC)
-CVS Prescription Drug Listing
+CVS Caremark Covered Prescription Drugs
+Log into your CVS Caremark Pharmacy Benefit Plan:
+caremark.com
+UMR Treatment Cost Calculator
+– log in to your member account and click Find Costs and Care
 UMR Plan Extras
 Hinge Health
 – An app-based program offering free virtual, personalized physical therapy. No need to take off work or drive to a therapist’s office. No long wait times to schedule an appointment. You can complete therapy in your own home at a time that is convenient for you. Connect via text, email, phone call or video chat. Access is available to UMR members 18 years of age or older.
@@ -10467,6 +10488,7 @@ View Presentation To Learn More
 Kaiser DHMO Plan Document
 2026 Kaiser DHMO Summary of Benefits and Coverage (SBC)
 Kaiser Permanente Prescription Drug Listing
+Estimating Your Costs | Kaiser Permanente
 Transparency in Coverage and Cost Estimator Tool
 The following Machine-Readable Files (MRFs) for the health plans of St. Vrain Valley School District are available at the websites below:
 UMR Transparency in Coverage Machine-Readable Files

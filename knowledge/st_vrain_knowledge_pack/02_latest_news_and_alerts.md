@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-06T03:22:28.407449-06:00
+generated_at: 2026-04-08T03:16:53.059889-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -32,6 +32,7 @@ Longs Peak Middle School recently held a special signing ceremony honoring more 
 Students from Longs Peak earned acceptance into specialized pathways at two local high schools. Programs include the Medical & Bioscience Academy (MBSA) and the High School of Business at Longmont High School, as well as FalconTECH at Skyline High School.
 The celebration included performances by the school’s mariachi and percussion ensembles, along with appearances by cheerleaders. Principals and program representatives from each high school were present to welcome future students into their programs. As part of the ceremony, each student was recognized individually and signed a commitment letter, marking an important milestone in their academic journey. The event wrapped up with performances from the Longmont High School drum line and cheerleaders, followed by closing remarks and group photos. Families were also in attendance to share in the celebration.
 “This event showcased the value of hard work, encouraged younger students, and generated excitement for what lies ahead in high school,” said Karin Blough, Principal of Longs Peak Middle School. “We have built programs that connect directly to advanced high school coursework and help prepare students for what comes next. We are proud of the dedication shown by our students and their families and look forward to seeing their continued success in these programs.”
+View the full event photo album
 
 Source: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
 
