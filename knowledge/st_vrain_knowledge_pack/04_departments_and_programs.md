@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-08T03:16:53.059889-06:00
+generated_at: 2026-04-09T03:22:47.768706-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -11982,7 +11982,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/construction/
 ### Construction Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/construction/construction-team/
-- Last modified: 2025-10-16T08:17:34-06:00
+- Last modified: 2026-04-08T10:02:54-06:00
 
 Construction Team
 Bryan Zwisler
@@ -11999,9 +11999,17 @@ Christina Haid
 Secretary – Executive Director of Construction & Maintenance
 303-682-7269
 [email protected]
+Max Lamphere
+Project Manager
+303-702-7567
+[email protected]
 Jerrica Moncallo
 Facility Data & Small Projects Coordinator
 303-702-7359
+[email protected]
+Brian Schlicting
+Project Manager
+303-702-7566
 [email protected]
 Conan Smith
 Project Manager
