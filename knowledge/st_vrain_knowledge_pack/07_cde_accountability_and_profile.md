@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-09T03:22:47.768706-06:00
+generated_at: 2026-04-12T03:02:46.440401-06:00
 coverage_window_days: 90
 section_title: CDE accountability and profile
 ---
@@ -17,7 +17,7 @@ Schools in District: 53
 Superintendent: Jackie Kapushion
 District message: St. Vrain Valley Schools (SVVS) is the educational home of more than 33,000 students and is the seventh largest school district in Colorado. SVVS operates 60 schools and programs that are spread over 411 square miles. The makeup of the schools include: 25 Elementary, 8 Middle, 1 Middle/Senior, 7 High Schools, 1 K-8, 2 PK-8, 1 Spark! Discovery Preschool, 1 Alternative High, 1 Online High, 1 Online PK-12, 2 P-TECH Schools, 1 High-Quality Homeschool Enrichment School, 1 Main Street Special Educatio … n program, 1 Career Technology and Elevation Center program, 1 Innovation Center program and 6 Charter Schools. Our schools have received numerous John Irwin School of Excellence Awards, numerous Governors? Distinguished Improvement Awards and have graduated multiple Boettcher scholarship winners. We are the recipient of a Race to the Top Grant and won an I3 Grant for innovation. St. Vrain has a state of the art Innovation Center that provides students with experiential opportunities that are developing today's students into tomorrow's leaders, innovators, and change makers. We are nationally recognized for innovation, workforce pathways, and technology and are focused on providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world. Our four year graduation rate is 94.3% and our dropout rate is 0.4%. We require 24.5 credits for graduation, which is one of the highest requirements in the state. The student population consists of 14% multilingual learners (MLs), 36% Free/Reduced Lunch Eligible (FRL), and 13% Students with Disabilities. Of the core academic subjects, 98.4% of the teachers are considered ''highly qualified'' by national standards and more than half hold a Master?s Degree or higher. Academic Excellence by Design is a benchmark that we strive to meet each day for all students.
 Enrollment: 32,279 (School Year: 2025-2026)
-Student-Teacher Ratio: N/A (School Year: 2024-2025)
+Student-Teacher Ratio: 16:1 (School Year: 2025-2026)
 Attendance Rate: 92.6% (School Year: 2024-2025)
 4-Year Grad Rate: 96.8% (School Year: 2024-2025)
 Dropout Rate: <= 0.5% (School Year: 2024-2025)

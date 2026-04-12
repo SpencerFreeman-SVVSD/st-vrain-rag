@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-09T03:22:47.768706-06:00
+generated_at: 2026-04-12T03:02:46.440401-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -15550,7 +15550,7 @@ Source: https://www.svvsd.org/departments/priority-programs/
 ### Dyslexia Task Force
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
-- Last modified: 2026-02-23T11:33:20-07:00
+- Last modified: 2026-04-09T11:21:37-06:00
 
 OVERVIEW
 The goal of St. Vrain Valley Schools’ Dyslexia Task Force is to provide high quality support to students with dyslexic characteristics. The model of support includes using current research, evidence-based interventions and early identification screeners to support students identified as dyslexic, or who have characteristics of dyslexia.
@@ -15558,15 +15558,21 @@ The goal of St. Vrain Valley Schools’ Dyslexia Task Force is to provide high q
 (International Dyslexia Association, 2025)
 For more information, please see
 CDE Dyslexia Handbook
+Recent updates: Learn more about CDE Dyslexia Screening Legislation
+here
 District and Community Supports:
 Dyslexia awareness and education opportunities
 Dyslexia sensitivity simulations and presentations
 Parent awareness and education events
 Professional development opportunities for teachers and administrators
 Resources for classroom and literacy teachers regarding identification, instruction and accommodations for students with dyslexic characteristics
-Want to learn more about dyslexia? Join us at this FUN family event on Dec 15th, 2025 CLICK to register
-YES! Events: Click Here
-Click here for upcoming dyslexia simulation events: February 25th, 2026
+Dyslexia 101:
+Coming Fall 2026
+YES! Events:
+Coming Fall 2026
+Upcoming Dyslexia Simulations:
+June 2026
+details available soon
 
 Source: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
 
@@ -15894,7 +15900,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-04-03T15:49:28-06:00
+- Last modified: 2026-04-10T11:20:33-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -15914,24 +15920,6 @@ CLICK HERE
 .
 Learn more
 Upcoming Events & Opportunities
-April 6, from 5:30pm – 6:30pm on Zoom
-Discover dynamic online programs with multiple start dates throughout the year.
-Programs for
-Practicing
-Teachers:
-— Certificate in Educational Leadership (Principal Licensure)
-— M.Ed Educational Leadership w/Principal Licensure
-— M.Ed. Reading Specialist
-— M.Ed. Special Education Added Endorsement
-Initial
-Teacher Licensure Programs:
-— M.Ed. Elementary Education w/Initial Teaching Licensure
-— M.Ed. Secondary Education w/Initial Teaching Licensure
-— M.Ed. Special Education w/Initial Teaching Licensure
-Graduate Education Scholarships Available:
-— $3,000 for students who start any Division of Education Master’s Program in Summer 2026
-— $2,000 for students who start the Certificate in Educational Leadership (Principal Licensure) program Summer 2026
-Click Here to Register
 2026 Advanced Study Scholarship Mu Chapter Delta Kappa Gamma
 Mu Chapter Delta Kappa Gamma of the St. Vrain Valley Schools is proud to offer one $500 scholarship to a teacher in SVVSD pursuing advanced studies.
 Applications are due by Saturday, April 25, 2026
@@ -21166,7 +21154,7 @@ Source: https://www.svvsd.org/programs/p-tech/partner-with-p-tech/
 ### Summer Programs
 
 - Canonical URL: https://www.svvsd.org/programs/summer-programs/
-- Last modified: 2026-01-21T15:17:09-07:00
+- Last modified: 2026-04-10T08:33:26-06:00
 
 Summer School, Camps, and Enrichment
 St. Vrain Valley Schools offers robust summer programming and resource options to keep students engaged in their academic learning. Major summer programs are listed below. Many schools across the district offer various athletics, fine arts, and activities for students over the summer. Visit your school’s webpage or contact the main office for additional information.
@@ -21180,7 +21168,7 @@ Innovation Academy
 This summer program focuses on creating a highly interactive and collaborative learning environment where students tackle various community-related issues. Join us for two fun filled weeks at the Innovation Center to learn, discover, and identify problems in our world and brainstorm possible solutions. Families are invited to join us on the last day of camp to celebrate our students’ exhibition of learning!
 Learn more
 Innovation Center Summer Classes
-The Innovation Center is offering extended for-credit learning opportunities to high school students this summer virtually and in-person. Students can explore the various pathways available to them at the Innovation Center. Course options offer a hands-on introduction to various fields including cybersecurity and virtual/augmented reality.
+In the past, the Innovation Center has offered extended for-credit learning opportunities to high school students over the summer virtually and in-person. But, due to construction for the expansion, those classes will not be offered this summer. Students can still be involved in numerous ways through camps.
 LEARN MORE
 Community Schools
 Community Schools Summer Camps provide opportunities to enrich the lives of children in safe and welcoming environments, supporting them to realize their highest potential. The child care staff offer extended, enrichment, and recreation activities to support a well rounded experience. Summer Wraparound Pre-K Camp is open to 3, 4 and 5 year olds. Summer School Age Camp is open to 5 to 12 year olds.
@@ -24152,7 +24140,7 @@ Schools in District: 53
 Superintendent: Jackie Kapushion
 District message: St. Vrain Valley Schools (SVVS) is the educational home of more than 33,000 students and is the seventh largest school district in Colorado. SVVS operates 60 schools and programs that are spread over 411 square miles. The makeup of the schools include: 25 Elementary, 8 Middle, 1 Middle/Senior, 7 High Schools, 1 K-8, 2 PK-8, 1 Spark! Discovery Preschool, 1 Alternative High, 1 Online High, 1 Online PK-12, 2 P-TECH Schools, 1 High-Quality Homeschool Enrichment School, 1 Main Street Special Educatio … n program, 1 Career Technology and Elevation Center program, 1 Innovation Center program and 6 Charter Schools. Our schools have received numerous John Irwin School of Excellence Awards, numerous Governors? Distinguished Improvement Awards and have graduated multiple Boettcher scholarship winners. We are the recipient of a Race to the Top Grant and won an I3 Grant for innovation. St. Vrain has a state of the art Innovation Center that provides students with experiential opportunities that are developing today's students into tomorrow's leaders, innovators, and change makers. We are nationally recognized for innovation, workforce pathways, and technology and are focused on providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world. Our four year graduation rate is 94.3% and our dropout rate is 0.4%. We require 24.5 credits for graduation, which is one of the highest requirements in the state. The student population consists of 14% multilingual learners (MLs), 36% Free/Reduced Lunch Eligible (FRL), and 13% Students with Disabilities. Of the core academic subjects, 98.4% of the teachers are considered ''highly qualified'' by national standards and more than half hold a Master?s Degree or higher. Academic Excellence by Design is a benchmark that we strive to meet each day for all students.
 Enrollment: 32,279 (School Year: 2025-2026)
-Student-Teacher Ratio: N/A (School Year: 2024-2025)
+Student-Teacher Ratio: 16:1 (School Year: 2025-2026)
 Attendance Rate: 92.6% (School Year: 2024-2025)
 4-Year Grad Rate: 96.8% (School Year: 2024-2025)
 Dropout Rate: <= 0.5% (School Year: 2024-2025)
