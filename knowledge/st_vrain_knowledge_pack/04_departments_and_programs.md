@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-12T03:02:46.440401-06:00
+generated_at: 2026-04-14T03:47:10.029879-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10657,7 +10657,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-30T13:31:26-06:00
+- Last modified: 2026-04-13T09:01:25-06:00
 
 Spring 2026
 Virtual Yoga
@@ -10682,13 +10682,7 @@ March 23: Registration opens
 April 6: First day to log activity
 April 12: Registration and team formation deadline
 May 3: Last day of the program
-Register for Bloom!
-Investment Basics
-April 8 – 4:30 – 5:30pm via Zoom
-.
-Hosted by ENT Credit Union
-Investing money doesn’t have to be complicated. In this class, we will break down the basics from understanding the power of a dollar and the value of compound interest to the various investment types and different methods to investing.
-Register Here for Investment Basics
+Log in to Bloom!
 Mammogram Events
 Mochas and Mammos (UMR Members)
 :

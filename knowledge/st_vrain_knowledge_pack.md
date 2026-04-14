@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-12T03:02:46.440401-06:00
+generated_at: 2026-04-14T03:47:10.029879-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,27 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Students Take the Lead at SMART Team Symposium
+
+- Published: 2026-04-13T13:19:03-06:00
+- Source URL: https://www.svvsd.org/2026/04/13/students-take-the-lead-at-smart-team-symposium/
+
+Longmont High’s MBSA program hosts national showcase of student-driven scientific research
+On March 28, the Innovation Center became a hub of scientific curiosity and collaboration as St. Vrain Valley Schools hosted the SMART (Students Modeling A Research Topic) Team Colorado Symposium.
+The event, led by the Longmont High School MBSA Program, brought together nine student research teams from four high schools across Colorado, Kansas, Ohio, and Wisconsin. While the projects varied in focus, each shared a common foundation: a year-long deep dive into complex scientific research and the challenge of translating it into something tangible, understandable, and meaningful.
+Through the SMART Team program, developed by 3D Molecular Designs, students step beyond traditional classroom learning. They analyze primary scientific literature, study protein structures, and ultimately design detailed 3D models that represent the function and form of the molecules they investigate.
+“The SMART Team program transforms students from passive learners into practicing scientists,” said science teacher Chris Chou. “Students learn how to interpret complex research, use evidence to answer meaningful questions, and communicate their understanding in ways that are accessible to different audiences.”
+At the symposium, that transformation was on full display.
+Spread throughout the open space of the Innovation Center, students stood alongside professional-quality posters and intricately designed protein models – many freshly unboxed and seen in physical form for the first time. The setting allowed for something often missing from larger scientific conferences: meaningful conversation. Instead of navigating crowded poster halls, students engaged in thoughtful, one-on-one discussions with visiting scientists, educators, peers, and community members.
+Students explained the structure and function of proteins, adapted their messaging for different audiences, and shared the story of their research journey multiple times throughout the morning. For many, it was a chance to build confidence not just in their knowledge, but in their identity.
+“SMART Teams don’t just teach science – they help students see themselves as scientists,” Chou said.
+That sense of belonging was just as important as the academic rigor. The symposium created a space where students with a shared passion for science could connect, many realizing for the first time that they weren’t alone in their interests. Conversations extended beyond projects, forming connections that reflected both collaboration and community.
+The experience also highlighted the long-term impact of the program. Many former SMART Team students have gone on to pursue advanced studies and careers in science, including research pathways and doctoral programs. One such student, Maya Blau (Longmont High Class of 2017), is now enrolled in an MD/PhD program at the Medical College of Wisconsin and has returned to the program as a SMART Team advisor, an example of the full-circle influence the experience can have.
+At its core, the symposium was a celebration. A celebration of students willing to take on complex challenges. A celebration of educators creating space for authentic, hands-on learning. And a celebration of what happens when students are given the opportunity to go beyond memorization and into true understanding.
+See the full photo album
+
+Source: https://www.svvsd.org/2026/04/13/students-take-the-lead-at-smart-team-symposium/
+
 ### Sunset Middle School Community Celebrates IB Eighth Grade Showcase
 
 - Published: 2026-04-03T16:07:05-06:00
@@ -658,28 +679,6 @@ stvra.in/scla
 View photo gallery from this performance.
 
 Source: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
-
-### Longmont Estates Hosts Creative Time Travelers, Highlighting Innovation and Exploration
-
-- Published: 2026-03-25T10:44:55-06:00
-- Source URL: https://www.svvsd.org/2026/03/25/longmont-estates-hosts-creative-time-travelers-highlighting-innovation-and-exploration/
-
-In early March, Longmont Estates Elementary transformed into a living time machine during its
-Creative Time Travelers
-event, a school-wide experience for students in grades one through five. Students studied iconic songs and artists from their assigned era, created original artwork inspired by famous styles, and performed music that captured the spirit of the time. The event integrated history, the arts, and STEM to create an immersive learning experience, allowing students to bring the past to life for families and the community.
-Longmont Estates Elementary students explore art projects inspired by different decades.
-One key component of the
-Creative Time Travelers
-event was the school’s
-10th Annual Innovation Fair
-, where students investigated topics through one of three pathways: scientific experimentation, engineering design, or “Genius Hour” projects based on personal interests. Projects ranged from testing everyday questions to designing solutions for real-world challenges and researching global issues. Depending on the project type, they applied structured research models such as the scientific method or the engineering design process. Over six weeks, students refined their ideas through research, prototyping, and feedback.
-A community member discusses a student’s Innovation Fair project.
-The experience culminated with student presentations to an audience of families, community members, and district staff. Students shared their findings and explained their processes, strengthening skills in communication, critical thinking, and problem-solving. Through school-wide opportunities like
-Creative Time Travelers
-, Longmont Estates encourages students to explore their interests while building the confidence to share their learning with others.
-A Longmont Estates Elementary student explains his Innovation Fair project to a community member.
-
-Source: https://www.svvsd.org/2026/03/25/longmont-estates-hosts-creative-time-travelers-highlighting-innovation-and-exploration/
 
 ### District alerts
 
@@ -1129,7 +1128,7 @@ Source: https://www.svvsd.org/schools/maps-boundaries/
 ### School Calendar
 
 - Canonical URL: https://www.svvsd.org/schools/school-calendar/
-- Last modified: 2026-03-02T14:09:57-07:00
+- Last modified: 2026-04-13T09:19:22-06:00
 
 Academic Calendars
 Each year the Board of Education approves a calendar that shows the days in which District students are scheduled to attend school.
@@ -11949,7 +11948,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-03-30T13:31:26-06:00
+- Last modified: 2026-04-13T09:01:25-06:00
 
 Spring 2026
 Virtual Yoga
@@ -11974,13 +11973,7 @@ March 23: Registration opens
 April 6: First day to log activity
 April 12: Registration and team formation deadline
 May 3: Last day of the program
-Register for Bloom!
-Investment Basics
-April 8 – 4:30 – 5:30pm via Zoom
-.
-Hosted by ENT Credit Union
-Investing money doesn’t have to be complicated. In this class, we will break down the basics from understanding the power of a dollar and the value of compound interest to the various investment types and different methods to investing.
-Register Here for Investment Basics
+Log in to Bloom!
 Mammogram Events
 Mochas and Mammos (UMR Members)
 :

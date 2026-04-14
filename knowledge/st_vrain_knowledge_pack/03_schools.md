@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-12T03:02:46.440401-06:00
+generated_at: 2026-04-14T03:47:10.029879-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -448,7 +448,7 @@ Source: https://www.svvsd.org/schools/maps-boundaries/
 ### School Calendar
 
 - Canonical URL: https://www.svvsd.org/schools/school-calendar/
-- Last modified: 2026-03-02T14:09:57-07:00
+- Last modified: 2026-04-13T09:19:22-06:00
 
 Academic Calendars
 Each year the Board of Education approves a calendar that shows the days in which District students are scheduled to attend school.
