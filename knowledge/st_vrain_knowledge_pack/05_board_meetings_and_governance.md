@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-14T03:47:10.029879-06:00
+generated_at: 2026-04-16T03:45:14.137405-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -1158,6 +1158,8 @@ Board of Education Study Session
 April 22, 2026
 Board of Education Study Session
 April 15, 2026
+Board of Education Special Meeting
+April 15, 2026
 Board of Education Regular Meeting
 April 8, 2026
 Board of Education Member Events for April
@@ -1567,6 +1569,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-111/
+
+### Board of Education Special Meeting
+
+- Meeting date: April 15, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-special-meeting-9/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-special-meeting-9/
 
 ### Board of Education Regular Meeting
 

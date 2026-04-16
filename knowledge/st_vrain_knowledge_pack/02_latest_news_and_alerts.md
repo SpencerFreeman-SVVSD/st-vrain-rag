@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-14T03:47:10.029879-06:00
+generated_at: 2026-04-16T03:45:14.137405-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,23 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Just Keep Swimming: Legacy Elementary Students Perform Finding Nemo
+
+- Published: 2026-04-15T09:21:22-06:00
+- Source URL: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
+
+On Friday, March 27, and Saturday, March 28, Legacy Elementary students took to the stage for their production of Finding Nemo. These productions are a powerful display of student talent, and play a strong role in preparing students for future opportunities.
+While the two hour-long shows are the public element of the production, they provide just a small glimpse into the significant efforts put forward by students, teachers, staff, and community members alike. To ensure the shows were performed at the highest possible level, students rehearsed before school three times each week starting in mid-November.
+Caleb Smith, the music teacher at Legacy Elementary who also directs the musicals, said the most rewarding part is inspiring students and watching them develop a passion for performing.
+“I hope students gain confidence, cooperation, and a sense of belonging in theatre,” Smith said. “I love teaching students to sing, act, and dance, and when they leave my program, I want them to take that into everything they do, from sports, work, or academics,” he added.
+Smith also highlighted that the show was a coordinated effort between volunteers and students, but the students took the lead on nearly every element of the show.
+“We had a lot of backstage volunteers helping coordinate things, but students ran the show,” Smith said. “I often had volunteers backstage just standing and enjoying the show while the cast took control and made the show their own,” Smith added.
+Finding Nemo was Smith’s third final show at Legacy, and he reflected on what makes productions such as this one special. “It’s special because it’s a launching point for the future of these students in musical theatre and beyond,” Smith explained.
+Providing students with opportunities to perform in theatre productions, particularly at the elementary level, gives students a competitive advantage for future opportunities they may pursue within St. Vrain and beyond.
+View full photo album
+
+Source: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
 
 ### Students Take the Lead at SMART Team Symposium
 
@@ -161,23 +178,6 @@ svvsd.org/artshow
 .
 
 Source: https://www.svvsd.org/2026/03/30/st-vrains-unframed-art-show-is-live/
-
-### Silver Creek Students Bring the Joy of Music to Assisted Living Facility
-
-- Published: 2026-03-30T09:02:20-06:00
-- Source URL: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
-
-A string quartet warms up in the sun-drenched community room at Cinnamon Park Assisted Living Residence in Longmont, as residents filter in to claim a seat. The quartet, made up of students from Silver Creek High School, launches into the first song of this performance, and residents smile and chuckle as they recognize the opening notes to ABBA’s “Mamma Mia”.
-Featuring Nehemiah Crill on cello, Michelle Smith on viola, and Jorah Foote and Hannah Crill on violin, the performance included sweeping instrumental covers, a duet by Hannah and Nehemiah, and a few lively numbers on the accordion, played by Anna Iverson.
-This performance is part of a “Music as Medicine”, a Silver Creek Leadership Academy capstone project led by Nehemiah Crill and Elsa Wirkkanen, which has performed at two additional assisted living facilities, and is planning a performance at a local children’s hospital. The goal, Elsa shares, is to bring music directly to people who could not physically go to concerts, so that everyone can enjoy and experience music.
-The students hope to share the therapeutic nature of music with those they perform for, with Nehemiah adding, “We also hope that we can bring some joy to people by playing for them and connecting with them. The senior citizens especially seem to love seeing young performers and having us take the time to prepare pieces just for them.”
-Elsa, who runs the group’s rehearsals and manages logistics, enjoys seeing both parts of the performance: the performers shining as they play, and the faces of the audience members lighting up as they enjoy it. Afterwards, the students answer any questions from the audience, chatting and laughing with the residents.
-The Leadership Academy, hosted at Silver Creek High School, culminates with a capstone project, in which students apply their leadership skills and collect at least 75 volunteer hours in the community. Learn more about all of the outstanding community projects at
-stvra.in/scla
-, or by following along on social media @SilverCreek_HS.
-View photo gallery from this performance.
-
-Source: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
 
 ### District alerts
 

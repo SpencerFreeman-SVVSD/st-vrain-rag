@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-14T03:47:10.029879-06:00
+generated_at: 2026-04-16T03:45:14.137405-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,23 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Just Keep Swimming: Legacy Elementary Students Perform Finding Nemo
+
+- Published: 2026-04-15T09:21:22-06:00
+- Source URL: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
+
+On Friday, March 27, and Saturday, March 28, Legacy Elementary students took to the stage for their production of Finding Nemo. These productions are a powerful display of student talent, and play a strong role in preparing students for future opportunities.
+While the two hour-long shows are the public element of the production, they provide just a small glimpse into the significant efforts put forward by students, teachers, staff, and community members alike. To ensure the shows were performed at the highest possible level, students rehearsed before school three times each week starting in mid-November.
+Caleb Smith, the music teacher at Legacy Elementary who also directs the musicals, said the most rewarding part is inspiring students and watching them develop a passion for performing.
+“I hope students gain confidence, cooperation, and a sense of belonging in theatre,” Smith said. “I love teaching students to sing, act, and dance, and when they leave my program, I want them to take that into everything they do, from sports, work, or academics,” he added.
+Smith also highlighted that the show was a coordinated effort between volunteers and students, but the students took the lead on nearly every element of the show.
+“We had a lot of backstage volunteers helping coordinate things, but students ran the show,” Smith said. “I often had volunteers backstage just standing and enjoying the show while the cast took control and made the show their own,” Smith added.
+Finding Nemo was Smith’s third final show at Legacy, and he reflected on what makes productions such as this one special. “It’s special because it’s a launching point for the future of these students in musical theatre and beyond,” Smith explained.
+Providing students with opportunities to perform in theatre productions, particularly at the elementary level, gives students a competitive advantage for future opportunities they may pursue within St. Vrain and beyond.
+View full photo album
+
+Source: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
+
 ### Students Take the Lead at SMART Team Symposium
 
 - Published: 2026-04-13T13:19:03-06:00
@@ -662,23 +679,6 @@ svvsd.org/artshow
 .
 
 Source: https://www.svvsd.org/2026/03/30/st-vrains-unframed-art-show-is-live/
-
-### Silver Creek Students Bring the Joy of Music to Assisted Living Facility
-
-- Published: 2026-03-30T09:02:20-06:00
-- Source URL: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
-
-A string quartet warms up in the sun-drenched community room at Cinnamon Park Assisted Living Residence in Longmont, as residents filter in to claim a seat. The quartet, made up of students from Silver Creek High School, launches into the first song of this performance, and residents smile and chuckle as they recognize the opening notes to ABBA’s “Mamma Mia”.
-Featuring Nehemiah Crill on cello, Michelle Smith on viola, and Jorah Foote and Hannah Crill on violin, the performance included sweeping instrumental covers, a duet by Hannah and Nehemiah, and a few lively numbers on the accordion, played by Anna Iverson.
-This performance is part of a “Music as Medicine”, a Silver Creek Leadership Academy capstone project led by Nehemiah Crill and Elsa Wirkkanen, which has performed at two additional assisted living facilities, and is planning a performance at a local children’s hospital. The goal, Elsa shares, is to bring music directly to people who could not physically go to concerts, so that everyone can enjoy and experience music.
-The students hope to share the therapeutic nature of music with those they perform for, with Nehemiah adding, “We also hope that we can bring some joy to people by playing for them and connecting with them. The senior citizens especially seem to love seeing young performers and having us take the time to prepare pieces just for them.”
-Elsa, who runs the group’s rehearsals and manages logistics, enjoys seeing both parts of the performance: the performers shining as they play, and the faces of the audience members lighting up as they enjoy it. Afterwards, the students answer any questions from the audience, chatting and laughing with the residents.
-The Leadership Academy, hosted at Silver Creek High School, culminates with a capstone project, in which students apply their leadership skills and collect at least 75 volunteer hours in the community. Learn more about all of the outstanding community projects at
-stvra.in/scla
-, or by following along on social media @SilverCreek_HS.
-View photo gallery from this performance.
-
-Source: https://www.svvsd.org/2026/03/30/silver-creek-students-bring-the-joy-of-music-to-assisted-living-facility/
 
 ### District alerts
 
@@ -7051,7 +7051,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-03-12T10:58:58-06:00
+- Last modified: 2026-04-15T12:09:07-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -7070,11 +7070,11 @@ Frederick High School
 Longmont High School
 – English, Social Studies, Health, & PFL
 Mead High School
-– Math, Health, & PFL
+– English, Social Studies, Science, Math, Health, & PFL
 Niwot High School
 – English, Social Studies, Science, Health, & PFL
 Silver Creek High School
-– English, Social Studies, Health, & PFL
+– English, Social Studies, Math, Health, & PFL
 Skyline High School
 – English, Social Studies, Health, & PFL
 SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2026 Student Waitlist.
@@ -12127,8 +12127,8 @@ Employee Calendars
 208 KB
 210 Day Calendar – APT 2026-2027 July – June
 195 KB
-210 Day Calendar – Classified 2026-2027 July – June – Bus Driver
-195 KB
+210 Day Calendar – Classified 2026-2027 July – June – Bus Driver (1)
+196 KB
 213 Day Certified Calendar 2026-2027 August – July
 209 KB
 215 Day Calendar – APT 2026-2027 July – June
@@ -15785,7 +15785,7 @@ Source: https://www.svvsd.org/departments/priority-programs/project-launch-summe
 ### Seal of Biliteracy
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/seal-of-biliteracy/
-- Last modified: 2025-08-13T11:26:57-06:00
+- Last modified: 2026-04-14T14:40:44-06:00
 
 OVERVIEW
 The St. Vrain Valley School District recognizes students who have studied and attained proficiency or higher in English and at least one other language with the SVVSD Seal of Biliteracy. This award, given at graduation, provides students with a competitive advantage in the employment market as well as increased opportunities for higher education.
@@ -15813,7 +15813,7 @@ SAT (English-Based Reading and Writing)
 470 or higher
 World Language Criteria
 Option 1
-For students who have completed coursework in a single language
+For students who have completed coursework in a single language (through level 4)
 Successful completion through level 4 of World Language (French, Spanish, Mandarin) with GPA ≥ 3.0
 AND
 LTI AAPPL with a score ≥ I4
@@ -15828,10 +15828,16 @@ For students whose language is not offered through coursework
 A qualifying test score that includes speaking, listening, reading, and writing
 *
 AP Exam
-= ≥ 3 – Spanish, French, German, Italian, Japanese, Latin, and Chinese
+≥ 3 – Spanish, French, German, Italian, Japanese, Latin, and Chinese
 **
 LTI AAPPL
-≥ I4 – Arabic, Chinese (Mandarin), French, German, Italian, Japanese, Korean, Portuguese, Russian, and Spanish
+≥ I4 in Spanish, French, ASL, Arabic, Chinese (Mandarin), German, Hindi, Italian, Japanese, Korean, Portuguese, Russian
+Avant STAMP 4S/WS
+or
+Superlanguage
+Test ≥ 5 in
+Multiple Languages
+(that are not available via AAPPL test)
 AVANT STAMP ASL
 (American Sign Language) – Intermediate High
 Option 3
@@ -15840,11 +15846,12 @@ OR
 a national exam as an option to meet criteria, a combination of testing and
 Language Portfolio
 depending on availability of assessments. Portfolio submissions will be reviewed by a native speaker of your target language.
-A qualifying exam/portfolio score that includes speaking, listening, reading, and writing
+A qualifying exam/portfolio score that includes speaking, listening, reading, and writing.
 OPI
 &
 WPT
-= ≥ IH (Intermediate High) Albanian, Amharic, Bangla, Bosnian, Bulgarian, Cantonese, Croatian, Dari, Gujarati, Haitian Creole, Hebrew, Hindi, Malayalam, Pashto, Polish, Swahili, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Yoruba
+≥ IM (Intermediate Mid)
+Croatian, Bulgarian, and other languages not available via AAPPL or STAMP
 *Students enrolled in AP courses will take the AP exam and will qualify for the Seal if they score a 3 or higher. This may also lead to college credits, depending on the college. However, since AP results are not delivered until mid-July, seniors who attempt to qualify using AP are granted the Seal on a provisional basis until results are received. The Seal will not appear on student transcripts until exam results are received.
 **Students who receive I4 or above on the AAPPL test will qualify for the Seal. AAPPL scores may not result in college credits; however, students do receive a certificate verifying language proficiency that can be presented to employers or post secondary institutions.
 The AAPPL web site has demo tests you can take
@@ -20191,9 +20198,11 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 ### Newsletter Archives
 
 - Canonical URL: https://www.svvsd.org/departments/technology/newsletter-archives/
-- Last modified: 2026-04-01T11:44:06-06:00
+- Last modified: 2026-04-15T07:10:41-06:00
 
 DTS Newsletter Archives
+April 2026
+– Big Sky PK-8 Opens Fall 2026, How to Check, Block, or Unblock Websites, Important Grade Passback Update, Infinite Campus Messenger 2.0 Reminder, Join the 2026 ITAC
 February 2026
 – 40th Annual InnEdCO, The Blended Remix Studio, Level Up with the Vrain Waves Podcast
 January 2026
@@ -22367,6 +22376,8 @@ Board of Education Study Session
 April 22, 2026
 Board of Education Study Session
 April 15, 2026
+Board of Education Special Meeting
+April 15, 2026
 Board of Education Regular Meeting
 April 8, 2026
 Board of Education Member Events for April
@@ -22776,6 +22787,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-111/
+
+### Board of Education Special Meeting
+
+- Meeting date: April 15, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-special-meeting-9/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-special-meeting-9/
 
 ### Board of Education Regular Meeting
 
@@ -24789,7 +24809,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 - Department and program pages: 372
 - Governance pages: 18
 - Board year index pages: 2
-- Board meeting entries: 79
+- Board meeting entries: 80
 - Financial transparency pages: 8
 - CDE pages: 3
 - Referenced documents: 27
