@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-16T03:45:14.137405-06:00
+generated_at: 2026-04-17T03:44:43.733464-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -294,7 +294,7 @@ BG – School Board Policy Process
 BIBA – Board Member Travel, Conventions, Workshops and Other Expenses
 63 KB
 BIBA-R – Board Member Travel, Conventions, Workshops and Other Expenses
-97 KB
+59 KB
 BID/BIE – Board Member Compensation/Expenses/Insurance/Liability
 8 KB
 

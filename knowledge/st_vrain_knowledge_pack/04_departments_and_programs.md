@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-16T03:45:14.137405-06:00
+generated_at: 2026-04-17T03:44:43.733464-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -15077,7 +15077,7 @@ Source: https://www.svvsd.org/departments/professional-development/induction/new
 ### K-12 Early Literacy Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/k-3-early-literacy-requirements/
-- Last modified: 2024-10-18T14:32:00-06:00
+- Last modified: 2026-04-16T11:17:23-06:00
 
 All Colorado teachers who teach kindergarten through 3rd grade must complete a minimum of 45 hours of evidence-based reading training. St. Vrain Valley Schools offers a pathway to achieve this READ Act requirement.
 Amendments to the READ Act (SB19-199 and SB22-004) require that K-3 teachers who provide literacy instruction, 4-12 reading interventionists, and school administrators (including principals) of buildings with K-3, must complete training to meet the requirements of the READ Act.
@@ -15103,7 +15103,7 @@ Employee Certification Page
 .
 If you have any questions about Professional Development courses, please contact Amy Magyar (
 [email protected]
-) at 303-702-8252. If you need information on the various class options available to you, please contact Misti Snow (
+) at 303-702-8252. If you need information on the various class options available to you, please contact Courtney Groskin (
 [email protected]
 ).
 If you have questions about these requirements, please contact the SVVS K-12 Early Literacy Requirements Pathway Specialist at

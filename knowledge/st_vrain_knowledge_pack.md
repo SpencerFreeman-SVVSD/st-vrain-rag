@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-16T03:45:14.137405-06:00
+generated_at: 2026-04-17T03:44:43.733464-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,53 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Earn your Lifeguard Certification this Summer at St. Vrain’s Aquatic Center
+
+- Published: 2026-04-16T09:16:44-06:00
+- Source URL: https://www.svvsd.org/2026/04/16/earn-your-lifeguard-certification-this-summer-at-st-vrains-aquatic-center/
+
+Sessions are available this summer for both students and staff in St. Vrain Valley Schools to earn a new lifeguard certification or recertify. Using the American Red Cross curriculum, participants will train in water safety, emergency response, first aid and CPR, and AED operation. Whether you are looking for a rewarding way to serve the community, are a competitive swimmer or student-athlete, or are looking to build real-world skills in emergency response, leadership, and teamwork, this training is an invaluable opportunity.
+The course follows a hybrid training model, with an online component to be completed prior to the hands-on session.
+Participants must:
+Be at least 15 years of age
+Be able to swim 150 yards
+Be able to tread water for two minutes without hands
+Be able to retrieve a 10 lb weight in 10 feet of water
+Have a current physical on file (for St. Vrain students)
+Details
+Dates
+May 28-29: Lifeguard Recertification
+8 a.m.-2 p.m. (students and staff)
+June 1-5: Students Only
+(Initial Certification)
+Monday 8 a.m. – 1 p.m., Tuesday – Friday 9 a.m. – 1 p.m.
+June 8-12: Staff Only
+(Initial Certification)
+Monday 8 a.m. – 1 p.m., Tuesday – Friday 9 a.m. – 1 p.m.
+June 15-19: Students Only
+(Initial Certification)
+Monday 8 a.m. – 1 p.m., Tuesday – Friday 9 a.m. – 1 p.m.
+Recertification must have at least 5 participants to run the course.
+Initial Certification must have at least 8 participants to run the course.
+Costs per person:
+$200 for recertification
+$300 for new certification training
+*
+Class Format:
+All classes are in a hybrid format with an online learning portion. Participants must complete the online learning portion prior to the first day of class in the pool. If the online portion is not completed by the first day of class, the participant will not be able to participate and there is no refund. A link to the online portion will be sent on 5/16/26.
+Register for Lifeguard Certification through RevTrak
+Registration is open through May 15, 2026.
+For questions or more information, please contact:
+Devin Clark
+Athletic Secretary, Silver Creek High School
+clark_devin@svvsd.org
+(720)494-3729 extension: 45714
+Or Scott Sullivan
+Athletic Trainer
+sullivan_scott@svvsd.org
+
+Source: https://www.svvsd.org/2026/04/16/earn-your-lifeguard-certification-this-summer-at-st-vrains-aquatic-center/
+
 ### Just Keep Swimming: Legacy Elementary Students Perform Finding Nemo
 
 - Published: 2026-04-15T09:21:22-06:00
@@ -660,25 +707,6 @@ Throughout the event, Applegate encouraged students to discover their “best fr
 Applegate signs a Niwot Elementary student’s book after her presentation.
 
 Source: https://www.svvsd.org/2026/04/02/niwot-elementary-welcomes-newbery-medalist-katherine-applegate-for-author-visit/
-
-### St. Vrain’s Unframed Art Show live at the Boulder County Fairgrounds Exhibition Hall from April 14-19
-
-- Published: 2026-03-30T10:31:01-06:00
-- Source URL: https://www.svvsd.org/2026/03/30/st-vrains-unframed-art-show-is-live/
-
-St. Vrain’s Unframed Art Show live at the Boulder County Fairgrounds Exhibition Hall from April 14-19
-St. Vrain Valley Schools invites the community to experience the creativity and talent of students across the district at the annual district art show, held at the Boulder County Fairgrounds Exhibition Hall. The exhibition will showcase artwork from students across all grade levels and schools from April 14-19.
-The event is free and open to the public, offering families and community members an opportunity to explore a wide range of student artwork.
-Public Viewing Hours:
-Tuesday, April 14 through Saturday, April 18: 9:00 a.m. – 8:00 p.m.
-Sunday, April 19: 9:00 a.m. – 5:00 p.m.
-Artists’ Night Open House:
-Thursday, April 16 from 5:00 – 6:30 p.m.
-The show highlights the creativity, dedication, and artistic growth of St. Vrain students through a variety of mediums, including ceramics, digital art and photography, drawing, jewelry, metalwork, mixed media, painting, and printmaking.Award-winning pieces will be featured online following the event at
-svvsd.org/artshow
-.
-
-Source: https://www.svvsd.org/2026/03/30/st-vrains-unframed-art-show-is-live/
 
 ### District alerts
 
@@ -16368,7 +16396,7 @@ Source: https://www.svvsd.org/departments/professional-development/induction/new
 ### K-12 Early Literacy Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/k-3-early-literacy-requirements/
-- Last modified: 2024-10-18T14:32:00-06:00
+- Last modified: 2026-04-16T11:17:23-06:00
 
 All Colorado teachers who teach kindergarten through 3rd grade must complete a minimum of 45 hours of evidence-based reading training. St. Vrain Valley Schools offers a pathway to achieve this READ Act requirement.
 Amendments to the READ Act (SB19-199 and SB22-004) require that K-3 teachers who provide literacy instruction, 4-12 reading interventionists, and school administrators (including principals) of buildings with K-3, must complete training to meet the requirements of the READ Act.
@@ -16394,7 +16422,7 @@ Employee Certification Page
 .
 If you have any questions about Professional Development courses, please contact Amy Magyar (
 [email protected]
-) at 303-702-8252. If you need information on the various class options available to you, please contact Misti Snow (
+) at 303-702-8252. If you need information on the various class options available to you, please contact Courtney Groskin (
 [email protected]
 ).
 If you have questions about these requirements, please contact the SVVS K-12 Early Literacy Requirements Pathway Specialist at
@@ -21512,7 +21540,7 @@ BG – School Board Policy Process
 BIBA – Board Member Travel, Conventions, Workshops and Other Expenses
 63 KB
 BIBA-R – Board Member Travel, Conventions, Workshops and Other Expenses
-97 KB
+59 KB
 BID/BIE – Board Member Compensation/Expenses/Insurance/Liability
 8 KB
 
