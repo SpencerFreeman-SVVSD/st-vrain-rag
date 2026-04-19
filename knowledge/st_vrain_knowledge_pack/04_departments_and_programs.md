@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-17T03:44:43.733464-06:00
+generated_at: 2026-04-19T03:05:09.574450-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -764,15 +764,15 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### eLearning
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
-- Last modified: 2025-12-12T13:27:55-07:00
+- Last modified: 2026-04-17T14:31:00-06:00
 
 Overview
 The eLearning department supports the creation and delivery of various blended learning models throughout the district. We research, purchase and develop, collaborate, pilot, manage, and assess online/blended programs that expand the learning opportunities for students and staff. The eLearning department supports blended models throughout the district including the eCredit Recovery program and the Blended Collaborative for K-12 teachers through out the district.
 eCredit Recovery
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model. The eCredit program uses the award winning K-12 software-based curriculum from Edmentum, which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
 OUR NEXT SESSION:
-FALL 2025 eCredit Session
-Registration will open August 11th for SENIORS ONLY and for ALL OTHERS on Monday, August 18th.
+FALL 2026 eCredit Session
+Registration will open August 10th for SENIORS ONLY and for ALL OTHERS on Monday, August 18th.
 Blended Collaborative
 The Blended Collaborative is a professional learning opportunity for K-12 teachers interested and committed to blending and/or flipping their classroom instruction. Teachers redesign current practices and implement blended learning experiences to create a more student-centered classroom. This year long experience gives teachers the opportunity to share, build, and reflect together on their blended implementation.
 
@@ -5666,23 +5666,23 @@ for more information.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/fall-2020-ecredit-recovery/
 
-### Spring 2026 eCredit Recovery
+### Spring 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/spring-2020-ecredit-recovery/
-- Last modified: 2026-02-04T08:41:30-07:00
+- Last modified: 2026-04-17T13:46:35-06:00
 
 Overview
 Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Spring 2026 Registration – CLOSED
-DID YOU MISS THE REGISTRATION WINDOW OR YOUR LOCATION IS FULL? (CLICK HERE TO BE PUT ON THE WAITLIST)
+Spring 2027 Registration – OPENS in December
+Is your location full OR Did you miss your window? (CLICK HERE TO BE PUT ON THE WAITLIST)
 Registration:
 SENIORS ONLY (12th gr) –
-Monday , December 15th, 2025 – Sunday, January 11th, 2026
+Monday , December 14th, 2026 – Sunday, January 10th, 2026
 (
 EARLY SENIOR REGISTRATION
 receives discounted pricing as follows: $75/$40 F/R)
-ALL GRADES (9th-12th) – Monday, January 12th at until Friday, January 30th at 8pm
-Courses offered – Spring 2026 eCredit Recovery session (Not all locations offer every course):
+ALL GRADES (9th-12th) – Monday, January 11th at until Friday, January 29th at 8pm
+Courses offered – Spring 2027 eCredit Recovery session (Not all locations offer every course):
 English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
 World Studies A/B, US History A/B, US Government A/B, Personal Financial Literacy
 Algebra 1A/B, Geometry A/B, Algebra 2A/B, Int Algebra A/B
@@ -5698,29 +5698,23 @@ for
 10 Weeks
 at the following locations:
 Frederick High School
--English, Social Studies,
-Math(Seats Full)
-, Science, Health, & PFL
+-TBD
 Longmont High School
-– English, Social Studies, PFL, & Health
+– TBD
 Lyons HS
-– English, Social Studies, Science, Math, Health, & PFL
+– TBD
 Lyons HS will be held on Wednesdays & Thursdays from 2:50-4:50.
 Mead High School
-– English, Social Studies, Math, Science, Health, & PFL
+– TBD
 Niwot High School
-–
-English, Social Studies, Science, Health, & PFL
+– TBD
 Silver Creek High School
-–
-Math, Health, & PFL
+– TBD
 Skyline High School
-– English, Social Studies, Math, PFL, & Health
+– TBD
 If the location you would like attend is
 FULL
-please
-CLICK HERE
-to fill out the waitlist.
+please CLICK HERE to fill out the waitlist.
 Final note
 : Meeting days/times
 may be subject
@@ -5760,12 +5754,12 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-04-15T12:09:07-06:00
+- Last modified: 2026-04-17T11:38:33-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
 SUMMER 2026 eCredit Registration Starts April 22nd
-CLICK HERE to be put on the Waitlist if your location is FULL
+LOCATION FULL? – CLICK HERE to be put on the Waitlist
 Registration:
 Wednesday, April 22nd – Tuesday, May 26th (at NOON or EARLIER IF AVAILABLE SEATS FILL)
 Session Dates/Times:

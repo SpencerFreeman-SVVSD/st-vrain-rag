@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-17T03:44:43.733464-06:00
+generated_at: 2026-04-19T03:05:09.574450-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -13,13 +13,13 @@ section_title: Latest news and alerts
 - Published: 2026-04-16T09:16:44-06:00
 - Source URL: https://www.svvsd.org/2026/04/16/earn-your-lifeguard-certification-this-summer-at-st-vrains-aquatic-center/
 
-Sessions are available this summer for both students and staff in St. Vrain Valley Schools to earn a new lifeguard certification or recertify. Using the American Red Cross curriculum, participants will train in water safety, emergency response, first aid and CPR, and AED operation. Whether you are looking for a rewarding way to serve the community, are a competitive swimmer or student-athlete, or are looking to build real-world skills in emergency response, leadership, and teamwork, this training is an invaluable opportunity.
+Sessions are available this summer for both students and staff in St. Vrain Valley Schools to earn a new lifeguard certification or recertify. Using the American Red Cross curriculum, participants will train in water safety, emergency response, first aid and CPR, and AED operation. Whether you are looking for a rewarding way to serve the community, are a competitive swimmer or student-athlete, or want to build real-world skills in emergency response, leadership, and teamwork, this training is an invaluable opportunity.
 The course follows a hybrid training model, with an online component to be completed prior to the hands-on session.
-Participants must:
+Participants must meet the following requirements:
 Be at least 15 years of age
-Be able to swim 150 yards
-Be able to tread water for two minutes without hands
-Be able to retrieve a 10 lb weight in 10 feet of water
+Swim 150 yards
+Tread water for two minutes without using hands
+Retrieve a 10-lb weight from 10 feet of water
 Have a current physical on file (for St. Vrain students)
 Details
 Dates
