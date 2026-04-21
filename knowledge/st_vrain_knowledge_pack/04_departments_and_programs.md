@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-20T04:07:38.311453-06:00
+generated_at: 2026-04-21T03:49:25.011084-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10651,7 +10651,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-04-13T09:01:25-06:00
+- Last modified: 2026-04-20T11:12:21-06:00
 
 Spring 2026
 Virtual Yoga
@@ -10678,25 +10678,6 @@ April 12: Registration and team formation deadline
 May 3: Last day of the program
 Log in to Bloom!
 Mammogram Events
-Mochas and Mammos (UMR Members)
-:
-Saturday, April 18, 2026
-–
-8:00 AM – 12:00 PM – By Appointment Only
-UCHealth Breast Diagnostic Center – Longs Peak Medical Center, 1760 E. Ken Pratt Blvd Suite 202, Longmont
-The district is partnering with
-UCHealth Longs Peak Medical Center
-for Mochas and Mammos – a delightful event just for SVVSD employees and spouses who are enrolled in the district’s
-UMR health plans.
-If you haven’t gotten your mammogram in the past year and are age 40 or older, join us
-April 18
-for a fun event! Enjoy refreshments and grab a swag bag stuffed with goodies – some lucky participants will receive a
-$50 Mastercard gift card
-tucked inside.
-Appointments open now! Call
-844-723-2778
-Mon – Fri 7:30 – 5:00 to schedule your appointment. Mention you’re with the St. Vrain Valley Schools Mochas and Mammos event. Appointments are limited and fill up fast!
-Call 844-723-2778 to Schedule
 Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
 Kaiser Medical Office – 2345 Bent Way, Longmont 80503
 Kaiser Permanente is offering special mammography access at our Longmont Medical Office Building just for St. Vrain Valley School District employees who are Kaiser Permanente members. Enjoy a swag bag stuffed with goodies – some lucky participants will receive a
@@ -10709,6 +10690,8 @@ username and password will not work in this registration system).
 Not sure if you are due for a mammogram? Check your health care reminders either through the medical record section of the KP app or at
 kp.org/healthcarereminders/co
 .
+Mochas and Mammos (UMR Members)
+– this event has ended. Check back in the fall for our next mammogram screening.
 Art Therapy: Rock Painting
 Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
 In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
@@ -18471,7 +18454,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-04-02T09:49:23-06:00
+- Last modified: 2026-04-20T12:44:54-06:00
 
 Click on the Circular Chart above to open a traditional version.
 

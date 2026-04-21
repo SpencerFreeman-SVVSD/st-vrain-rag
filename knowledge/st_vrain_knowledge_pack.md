@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-20T04:07:38.311453-06:00
+generated_at: 2026-04-21T03:49:25.011084-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,30 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Innovation Center Students Design Their Own Instruments
+
+- Published: 2026-04-20T09:45:41-06:00
+- Source URL: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
+
+At the Innovation Center of St. Vrain Valley Schools, music doesn’t only begin with notes on a page or traditional instruments; it can also start with wires, code, and imagination.
+On a recent morning, students in the Intro to Music Innovation class gathered around tables scattered with Arduino Leonardo microcontrollers, colorful wires, sensors, and hand-built prototypes for a culminating feedback session. The assignment: build and design their own musical instruments.
+Over the past six classes, using a combination of Arduino hardware and Logic Pro software, students transformed their creations into MIDI
+(Musical Instrument Digital Interface)
+controllers capable of producing and manipulating sound digitally. Their projects were rooted in the design thinking process, so each instrument needed to address a specific challenge they identified.
+From concept to prototype, students developed their instruments, using tools like Gemini to help write and troubleshoot their Arduino code. This use of AI allowed students to focus on rapid prototyping without needing a coding prerequisite. The result was a range of inventive solutions to real musical challenges, inspired by students’ existing musical frameworks and interests.
+At one station, Longmont High freshmen Clara Lehmer and Mason Morrow demonstrated an equalizer controlled by an ultrasonic sensor, allowing them to shape sound with the movement of their hands—similar to a theremin. At another, a series of buttons mapped to musical notes could shift between keys and chords, designed to make music fundamentals more accessible for beginners, including older adults or individuals with physical limitations.
+For Alexis Bonilla, a sophomore from Skyline High School, the project unlocked new ways of thinking about music. “It felt like it opened a lot of creative possibilities on a small scale,” he said.
+Other projects were born directly from personal experience. Tristan Jones and Nove Cleveland, both bass players, designed a small keyboard-style instrument that lets them practice sight-reading and learning melodies by ear without carrying a full-sized bass. Nearby, Spencer Gutierrez and Nayeli Ceja, both from Frederick High School, developed an intuitive controller to solve a problem they’ve faced in live performance. Spencer, who plays in a pit orchestra, shared that it can be difficult to adjust computer instrument settings quickly during a show. Their solution: a simplified control system designed for speed and ease.
+“It’s empowering to build something that is customized for exactly what you need,” Spencer said.
+The Music Innovation Pathway has three pillars: music industry, music education, and STEM of music and sound. Kyle Liss, Music Innovation Program Manager, said that the project was created specifically to speak to the latter. “I wanted a design challenge that enabled students’ creativity and was still musical at heart, while connecting to the STEM of music and sound.”
+Liss added that he has been impressed by the range of projects and solutions each group came up with, and that this is one of the few—and to his knowledge the only current—K-12 structures embedding rapid Arduino/MIDI instrument design challenges inside an ongoing district program.
+Blending human creativity with technology, note by note, line by line, or even instrument by instrument, we can’t wait to
+hear
+what these students will come up with next.
+Learn more about the Music Innovation pathway
+
+Source: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
+
 ### Earn your Lifeguard Certification this Summer at St. Vrain’s Aquatic Center
 
 - Published: 2026-04-16T09:16:44-06:00
@@ -552,6 +576,7 @@ clark_devin@svvsd.org
 (720)494-3729 extension: 45714
 Or Scott Sullivan
 Athletic Trainer
+American Red Cross Certified Instructor: Lifeguarding, First Aid, CPR, AED
 sullivan_scott@svvsd.org
 
 Source: https://www.svvsd.org/2026/04/16/earn-your-lifeguard-certification-this-summer-at-st-vrains-aquatic-center/
@@ -693,20 +718,6 @@ The school celebrated the achievement with a full school assembly, recognizing t
 As part of the national network, Westview joins a select group of middle schools across the United States that serve as models for effective teaching, student support, and school culture. This honor reflects the dedication of Westview’s educators, staff, students, and families — and reinforces the school’s role in preparing students for success in high school and beyond.
 
 Source: https://www.svvsd.org/2026/04/02/westview-middle-school-re-designated-as-national-school-to-watch/
-
-### Niwot Elementary Welcomes Newbery Medalist Katherine Applegate for Author Visit
-
-- Published: 2026-04-02T08:29:25-06:00
-- Source URL: https://www.svvsd.org/2026/04/02/niwot-elementary-welcomes-newbery-medalist-katherine-applegate-for-author-visit/
-
-During a special visit from author Katherine Applegate, students at Niwot Elementary had the opportunity to go behind the scenes of the writing process and learn how stories can evolve across formats and audiences. Applegate offered insight into how her ideas develop into published books, including collaboration with illustrators who help bring her characters to life. She highlighted this process in her newest picture book, “The Littlest Elephant,” which is based on her novel, “The One and Only Ruby.”
-Katherine Applegate presents to students at Niwot Elementary.
-Applegate, a Newbery Medal-winning author, has written numerous books for young readers, many inspired by real-life events and animals. Her 2013 Newbery Medal recognized the impact of “The One and Only Ivan,” which was later adapted into a film in 2020. During her visit, she shared how Ivan’s story was based on a real gorilla who once lived in a shopping mall before being relocated to a zoo. She also spoke about her broader body of work, emphasizing themes of empathy, resilience, and curiosity.
-A Niwot Elementary student asks Applegate a question regarding her writing process.
-Throughout the event, Applegate encouraged students to discover their “best friend book,” a story that feels as though it was written just for them, and reminded them that inspiration can come from simply asking “what if.” Students had the opportunity to ask questions about her writing process and the characters she has created, learning how stories develop from an idea into a publication. The visit concluded with a book signing, where students were able to meet Applegate and have their books personally signed. For students, this event became a memorable experience celebrating the power of reading and storytelling.
-Applegate signs a Niwot Elementary student’s book after her presentation.
-
-Source: https://www.svvsd.org/2026/04/02/niwot-elementary-welcomes-newbery-medalist-katherine-applegate-for-author-visit/
 
 ### District alerts
 
@@ -11970,7 +11981,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-04-13T09:01:25-06:00
+- Last modified: 2026-04-20T11:12:21-06:00
 
 Spring 2026
 Virtual Yoga
@@ -11997,25 +12008,6 @@ April 12: Registration and team formation deadline
 May 3: Last day of the program
 Log in to Bloom!
 Mammogram Events
-Mochas and Mammos (UMR Members)
-:
-Saturday, April 18, 2026
-–
-8:00 AM – 12:00 PM – By Appointment Only
-UCHealth Breast Diagnostic Center – Longs Peak Medical Center, 1760 E. Ken Pratt Blvd Suite 202, Longmont
-The district is partnering with
-UCHealth Longs Peak Medical Center
-for Mochas and Mammos – a delightful event just for SVVSD employees and spouses who are enrolled in the district’s
-UMR health plans.
-If you haven’t gotten your mammogram in the past year and are age 40 or older, join us
-April 18
-for a fun event! Enjoy refreshments and grab a swag bag stuffed with goodies – some lucky participants will receive a
-$50 Mastercard gift card
-tucked inside.
-Appointments open now! Call
-844-723-2778
-Mon – Fri 7:30 – 5:00 to schedule your appointment. Mention you’re with the St. Vrain Valley Schools Mochas and Mammos event. Appointments are limited and fill up fast!
-Call 844-723-2778 to Schedule
 Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
 Kaiser Medical Office – 2345 Bent Way, Longmont 80503
 Kaiser Permanente is offering special mammography access at our Longmont Medical Office Building just for St. Vrain Valley School District employees who are Kaiser Permanente members. Enjoy a swag bag stuffed with goodies – some lucky participants will receive a
@@ -12028,6 +12020,8 @@ username and password will not work in this registration system).
 Not sure if you are due for a mammogram? Check your health care reminders either through the medical record section of the KP app or at
 kp.org/healthcarereminders/co
 .
+Mochas and Mammos (UMR Members)
+– this event has ended. Check back in the fall for our next mammogram screening.
 Art Therapy: Rock Painting
 Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
 In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
@@ -19790,7 +19784,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-04-02T09:49:23-06:00
+- Last modified: 2026-04-20T12:44:54-06:00
 
 Click on the Circular Chart above to open a traditional version.
 
