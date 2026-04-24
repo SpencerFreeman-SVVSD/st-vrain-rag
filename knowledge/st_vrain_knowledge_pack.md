@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-21T03:49:25.011084-06:00
+generated_at: 2026-04-24T03:53:54.052740-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -2094,7 +2094,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### eLearning
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
-- Last modified: 2026-04-17T14:31:00-06:00
+- Last modified: 2026-04-21T09:50:24-06:00
 
 Overview
 The eLearning department supports the creation and delivery of various blended learning models throughout the district. We research, purchase and develop, collaborate, pilot, manage, and assess online/blended programs that expand the learning opportunities for students and staff. The eLearning department supports blended models throughout the district including the eCredit Recovery program and the Blended Collaborative for K-12 teachers through out the district.
@@ -2111,7 +2111,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2025-08-28T08:03:29-06:00
+- Last modified: 2026-04-22T10:46:54-06:00
 
 Counselor eCredit Support
 View Timeline
@@ -4493,7 +4493,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Elementary Report Cards
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/report-cards/
-- Last modified: 2025-12-20T11:33:01-07:00
+- Last modified: 2026-04-22T13:59:10-06:00
 
 Elementary Report Cards
 Welcome to the St. Vrain Valley School District’s elementary report card website. Our elementary schools have been using a standards-based report card since 2003. The standards-based report card is designed to inform parents about their student’s progress towards mastering the Colorado Academic Standards.
@@ -4527,7 +4527,7 @@ Fifth Grade
 English
 Spanish
 Grading Windows
-2025-2026 Grading Windows
+2026-2027 Grading Windows
 View Elementary Report Cards Online
 Parents and guardians of SVVSD students can access elementary report cards through the Infinite Campus Portal.
 Click here to access the Infinite Campus Portal
@@ -6923,7 +6923,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Fall 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/fall-2020-ecredit-recovery/
-- Last modified: 2025-12-11T12:06:42-07:00
+- Last modified: 2026-04-22T11:20:26-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
@@ -6996,15 +6996,15 @@ for more information.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/fall-2020-ecredit-recovery/
 
-### Spring 2027 eCredit Recovery
+### Spring 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/spring-2020-ecredit-recovery/
-- Last modified: 2026-04-17T13:46:35-06:00
+- Last modified: 2026-04-22T11:20:24-06:00
 
 Overview
 Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Spring 2027 Registration – OPENS in December
-Is your location full OR Did you miss your window? (CLICK HERE TO BE PUT ON THE WAITLIST)
+Spring 2026 Registration – CLOSED
+LOCATION FULL? – CLICK HERE TO BE PUT ON THE WAITLIST
 Registration:
 SENIORS ONLY (12th gr) –
 Monday , December 14th, 2026 – Sunday, January 10th, 2026
@@ -7084,7 +7084,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-04-17T11:38:33-06:00
+- Last modified: 2026-04-22T11:20:26-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -12992,14 +12992,14 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Request Employee Accommodations
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/request-employee-accommodations/
-- Last modified: 2025-09-25T10:32:46-06:00
+- Last modified: 2026-04-23T15:27:42-06:00
 
 St. Vrain Valley Schools understands that its employees are its greatest resources, and the District is committed to helping its employees stay in the jobs that they are hired to perform.
 If you have a physical or mental impairment that makes it challenging to perform one or more of your job tasks, you may be eligible for an accommodation plan to help you fulfill the functions of your job.
-If you have any questions, please contact the District’s ADA Coordinator, Heather Keith, or ADA Tech, Irene Prado.
-Heather Keith
-Risk Management Manager
-303-682-7428
+If you have any questions, please contact the District’s ADA Coordinator, Kristina De Ezpeleta, or ADA Tech, Irene Prado.
+Kristina De Ezpeleta
+Benefits Manager
+303-682-7341
 [email protected]
 Irene Prado
 Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
@@ -21172,12 +21172,12 @@ Source: https://www.svvsd.org/programs/p-tech/partner-with-p-tech/
 ### Summer Programs
 
 - Canonical URL: https://www.svvsd.org/programs/summer-programs/
-- Last modified: 2026-04-10T08:33:26-06:00
+- Last modified: 2026-04-22T09:13:20-06:00
 
 Summer School, Camps, and Enrichment
 St. Vrain Valley Schools offers robust summer programming and resource options to keep students engaged in their academic learning. Major summer programs are listed below. Many schools across the district offer various athletics, fine arts, and activities for students over the summer. Visit your school’s webpage or contact the main office for additional information.
 Career Elevation & Technology Center Camps
-Back again this summer, CETC camps invite incoming seventh and eighth grade students to explore future career pathways through interactive sessions. These sessions are taught through real-world learning experiences led by experts and industry professionals.
+Back again this summer, CETC camps invite incoming seventh and eighth grade students to explore future career pathways in agricultural science, automotive technology, health careers, advanced manufacturing, welding, and pre-law. These sessions are taught through real-world learning experiences led by experts and industry professionals.
 Learn More
 Innovation Center SuperSTEM Camps
 The Innovation Center of St. Vrain Valley Schools’ SuperSTEM Camps offer innovative, hands-on learning experiences that engage and challenge students and incorporate human-centered design thinking. Camps are taught primarily by student designers and teachers from the Innovation Center, and offer a wide-range of fun STEAM (science, technology, engineering, art, and mathematics) activities.
@@ -21526,7 +21526,7 @@ BEDJ – Media Coverage of Board Meetings
 BG – School Board Policy Process
 55 KB
 BIBA – Board Member Travel, Conventions, Workshops and Other Expenses
-63 KB
+38 KB
 BIBA-R – Board Member Travel, Conventions, Workshops and Other Expenses
 59 KB
 BID/BIE – Board Member Compensation/Expenses/Insurance/Liability
@@ -22386,9 +22386,9 @@ Board of Education Regular Meeting
 May 13, 2026
 Board of Education Member Events for May
 May 1, 2026
-Board of Education Regular Meeting
-April 22, 2026
 Board of Education Study Session
+April 22, 2026
+Board of Education Regular Meeting
 April 22, 2026
 Board of Education Study Session
 April 15, 2026
@@ -22777,15 +22777,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-may-9/
 
-### Board of Education Regular Meeting
-
-- Meeting date: April 22, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
-
 ### Board of Education Study Session
 
 - Meeting date: April 22, 2026
@@ -22794,6 +22785,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112/
+
+### Board of Education Regular Meeting
+
+- Meeting date: April 22, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
 
 ### Board of Education Study Session
 
@@ -23517,7 +23517,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-03-26T09:40:22-06:00
+- Last modified: 2026-04-23T12:34:00-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.
@@ -23526,6 +23526,7 @@ The Financial Services Department publishes monthly financial reports that list 
 2026
 January
 February
+March
 2025
 January
 February

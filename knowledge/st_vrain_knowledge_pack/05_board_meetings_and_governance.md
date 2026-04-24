@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-21T03:49:25.011084-06:00
+generated_at: 2026-04-24T03:53:54.052740-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -292,7 +292,7 @@ BEDJ – Media Coverage of Board Meetings
 BG – School Board Policy Process
 55 KB
 BIBA – Board Member Travel, Conventions, Workshops and Other Expenses
-63 KB
+38 KB
 BIBA-R – Board Member Travel, Conventions, Workshops and Other Expenses
 59 KB
 BID/BIE – Board Member Compensation/Expenses/Insurance/Liability
@@ -1152,9 +1152,9 @@ Board of Education Regular Meeting
 May 13, 2026
 Board of Education Member Events for May
 May 1, 2026
-Board of Education Regular Meeting
-April 22, 2026
 Board of Education Study Session
+April 22, 2026
+Board of Education Regular Meeting
 April 22, 2026
 Board of Education Study Session
 April 15, 2026
@@ -1543,15 +1543,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-may-9/
 
-### Board of Education Regular Meeting
-
-- Meeting date: April 22, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
-
 ### Board of Education Study Session
 
 - Meeting date: April 22, 2026
@@ -1560,6 +1551,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112/
+
+### Board of Education Regular Meeting
+
+- Meeting date: April 22, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
 
 ### Board of Education Study Session
 
