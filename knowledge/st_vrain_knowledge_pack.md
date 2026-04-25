@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-24T03:53:54.052740-06:00
+generated_at: 2026-04-25T03:07:39.186833-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -19697,7 +19697,7 @@ Source: https://www.svvsd.org/departments/student-services/student-support-servi
 ### Supporting LGBTQ Students
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/supporting-lgbtq-students/
-- Last modified: 2025-01-28T11:55:55-07:00
+- Last modified: 2026-04-24T13:48:49-06:00
 
 In St. Vrain Valley Schools, our unwavering commitment lies in prioritizing the safety and well-being of all students. Fostering the development of a child into a healthy and productive young adult is a very complex and multifaceted endeavor. To ensure that we are creating an environment that will best serve our students, we partner very closely with parents and families to understand and meet the needs of every child. Working collaboratively with students, parents, teachers, coaches, and child development experts, we serve our community by providing a positive, enriching environment that will help every student reach their highest academic potential.
 St. Vrain Anti-Discrimination Policies
@@ -19707,7 +19707,7 @@ Board Policy GBA: Open Hiring/Equal Employment Opportunity
 Specific Text – “Therefore, the district shall promote and provide for equal opportunity in recruitment, selection, promotion and dismissal of all personnel. Commitment on the part of the district towards equal employment opportunity shall apply to all people without regard to race, color, creed, sex, sexual orientation (which includes transgender), religion, national origin, ancestry, age, genetic information, marital status, or conditions related to pregnancy or childbirth, or disability.”
 Board of Education Policy JB: Equal Educational Opportunities
 Specific Text – “Every student of this school district shall have equal educational opportunities throughprograms offered in the school district regardless of race, color, ancestry, creed, sex, sexual orientation (which includes transgender), religion, national origin, marital status, disability or need for special education services.”
-The Equity Office in the St. Vrain Valley School District (SVVSD) is committed to ensuring that each and every student has access to a wide variety of support, resources, spaces, models, programs, strategies, and highly-skilled staff in order to graduate prepared for success in a highly complex and competitive global environment. The office provides a variety of services and resources to support students and staff, including:
+The Support Services Office in the St. Vrain Valley School District (SVVSD) is committed to ensuring that each and every student has access to a wide variety of support, resources, spaces, models, programs, strategies, and highly-skilled staff in order to graduate prepared for success in a highly complex and competitive global environment. The office provides a variety of services and resources to support students and staff, including:
 Professional development and training
 Curriculum development and review
 Student support
