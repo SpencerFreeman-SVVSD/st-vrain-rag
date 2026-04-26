@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-25T03:07:39.186833-06:00
+generated_at: 2026-04-26T03:13:00.711871-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -22386,9 +22386,9 @@ Board of Education Regular Meeting
 May 13, 2026
 Board of Education Member Events for May
 May 1, 2026
-Board of Education Study Session
-April 22, 2026
 Board of Education Regular Meeting
+April 22, 2026
+Board of Education Study Session
 April 22, 2026
 Board of Education Study Session
 April 15, 2026
@@ -22777,15 +22777,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-may-9/
 
-### Board of Education Study Session
-
-- Meeting date: April 22, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: April 22, 2026
@@ -22794,6 +22785,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-169/
+
+### Board of Education Study Session
+
+- Meeting date: April 22, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-112/
 
 ### Board of Education Study Session
 
