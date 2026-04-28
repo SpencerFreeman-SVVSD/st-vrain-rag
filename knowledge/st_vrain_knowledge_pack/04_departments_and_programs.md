@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-27T04:25:47.065488-06:00
+generated_at: 2026-04-28T04:24:23.807603-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -13443,7 +13443,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondi
 ### Nutrition Services Open Solicitations
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-04-27T11:14:53-06:00
 
 St Vrain Virtual Solicitations
 Vendors are encouraged to register and become familiar with the Rocky Mountain E-Purchasing System at
@@ -13460,6 +13460,11 @@ Bid Name
 Bid Number
 Open Date
 Close Date
+OPEN:
+Locally Grown or Produced Food Product Provider(s)
+RFP-2026-049
+May 13, 2026
+May 31, 2027
 CLOSED:
 Condenser & Evaporator Coil Cleaning – Districtwide Walk-In Freezers & Coolers
 LW-2024-051
@@ -14586,7 +14591,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-04-10T11:20:33-06:00
+- Last modified: 2026-04-27T13:28:53-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -14606,18 +14611,6 @@ CLICK HERE
 .
 Learn more
 Upcoming Events & Opportunities
-2026 Advanced Study Scholarship Mu Chapter Delta Kappa Gamma
-Mu Chapter Delta Kappa Gamma of the St. Vrain Valley Schools is proud to offer one $500 scholarship to a teacher in SVVSD pursuing advanced studies.
-Applications are due by Saturday, April 25, 2026
-Mu Chapter began in 1939 in Longmont and has a history of supporting excellence in education over the years. Current projects include Books for Kids, Scholarships, and Adopt-a-Classroom. Members are active within the community in a variety of ways. Delta Kappa Gamma was founded in 1929 as a way to support and promote women in education. DKG expanded to include numerous international chapters.
-Please visit
-https://dkg.org/
-for more information.
-As educators ourselves, we understand the challenges within the profession. We also believe that a strong public education system is a gift to our entire community. We want to support you as you begin the road to making a positive difference.
-A scholarship award gathering will be on Saturday, May 16, 2026. The recipient of the scholarship will be notified before then.
-If you are having difficulty with this form, please contact Faith Halverson-Ramos:
-[email protected]
-Click to Access the Application
 New Teacher Orientation 2026
 will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
 August 10, 2026 at Longmont High School
