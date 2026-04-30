@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-29T04:18:43.503862-06:00
+generated_at: 2026-04-30T04:18:44.804075-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,51 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Mountain View Elementary Earns Tree Campus Recognition with Arbor Day Celebration
+
+- Published: 2026-04-29T13:45:37-06:00
+- Source URL: https://www.svvsd.org/2026/04/29/mountain-view-elementary-earns-tree-campus-recognition-with-arbor-day-celebration/
+
+On Friday, April 24, Mountain View Elementary celebrated Arbor Day with a school-wide event that highlighted hands-on student learning and community collaboration. The day began with an all-school assembly, where student council members performed skits centered on environmental responsibility, followed by a unified musical performance. Shortly after, students moved outdoors for a tree planting ceremony recognizing the school’s participation in the
+Arbor Day Foundation’s Tree Campus K-12 program
+, a national initiative that supports meaningful, sustainable environmental efforts.
+Students at Mountain View Elementary sing during their Arbor Day celebration.
+Mountain View earned its
+Tree Campus
+designation by meeting four core goals: establishing a student- and staff-led Tree Campus team, implementing a school-wide education plan, providing hands-on learning opportunities, and hosting an Arbor Day observance. First grade classrooms played a central role in the effort, connecting tree-focused learning to grade-level standards through field experiences at Boulder Community Gardens, literacy activities centered on plant life cycles, and student writing projects.
+Students at Mountain View Elementary watch as Blue River Forestry and Tree Care begins to plant the school’s newest tree.
+Students also engaged in stewardship through hands-on experiences, including contributing to a tree inventory in which they identified and recorded all the trees on the Mountain View campus. The celebration extended beyond campus, with Mountain View’s student council distributing wildflower seeds for students to plant at home, reinforcing the importance of environmental care within the broader community.
+Student council members at Mountain View help to finish planting the school’s newest tree.
+The tree planting at Mountain View was made possible through coordination led by the district’s Building Services Department in partnership with Blue River Forestry and Tree Care, who provided the tree to plant. St. Vrain’s Groundskeeping Department also played a key role in planning and carrying out the planting on the north side of the campus.
+Students add dirt around Mountain View Elementary’s newest tree.
+
+Source: https://www.svvsd.org/2026/04/29/mountain-view-elementary-earns-tree-campus-recognition-with-arbor-day-celebration/
+
+### St. Vrain Valley Schools Earns National Recognition as a Best Community for Music Education for Sixth Consecutive Year
+
+- Published: 2026-04-29T12:43:46-06:00
+- Source URL: https://www.svvsd.org/2026/04/29/st-vrain-valley-schools-earns-national-recognition-as-a-best-community-for-music-education-for-sixth-consecutive-year/
+
+St. Vrain Valley Schools has been recognized by the NAMM Foundation as one of the nation’s Best Communities for Music Education, marking the district’s sixth consecutive year receiving this prestigious honor.
+This national designation celebrates school districts that demonstrate exceptional commitment to ensuring all students have access to high-quality music education as part of a well-rounded academic experience. The application process evaluates districts on a variety of factors, including access to certified music educators, advanced degrees held by teaching staff, funding for music programs, equitable access for Title I students, the breadth of music courses and ensembles offered from preschool through twelfth grade, graduation requirements in the arts, and opportunities for districtwide collaboration.
+This year, St. Vrain Valley Schools was one of three districts in Colorado to receive this distinction.
+“This recognition is a reflection of the hard work, passion, and dedication of our music teachers, who create music communities in their classroom every day, and our building administrators who support them,” said Janay Bird, Director of Fine Arts, Performing Arts, and PE.
+
+Source: https://www.svvsd.org/2026/04/29/st-vrain-valley-schools-earns-national-recognition-as-a-best-community-for-music-education-for-sixth-consecutive-year/
+
+### Innovation Center Educator Advances in Presidential AI Challenge
+
+- Published: 2026-04-29T12:35:37-06:00
+- Source URL: https://www.svvsd.org/2026/04/29/innovation-center-educator-advances-in-presidential-ai-challenge/
+
+Mai Vu, AI Program Coordinator at the Innovation Center, first learned about the Presidential AI Challenge over the summer. Designed to encourage both educators and students to address real-world community issues while using artificial intelligence, the challenge immediately caught her attention. Encouraged by colleagues and friends to participate, Vu saw it as an opportunity to bring her own perspective on responsible AI use to a broader stage.
+That perspective had already been taking shape in her work. As AI becomes increasingly embedded in everyday products, including children’s toys, Vu began questioning not just what AI can do, but what it should do. “As an AI program manager, I’m very pro using AI but at the right place, at the right time, and with the correct guardrails,” she explained.
+Those “guardrails” became the foundation of the project she submitted to the challenge: an interactive AI puppet program designed to teach students how to engage with artificial intelligence safely and thoughtfully. In the program, students create an online puppet by assigning it specific attributes and characteristics. From there, they must define boundaries for interaction – preventing the puppet from sharing personal information such as age, location, or contact details. A token system further limits how many questions can be asked, encouraging intentional and mindful use rather than unlimited access.
+By connecting creativity with digital responsibility and digital literacy, Vu’s software directly reflected the mission of the Presidential AI Challenge. Her project advanced to the state round, where she was selected as one of ten finalists to compete at the regional level. Vu’s work continues to gain recognition and momentum beyond the competition. . This summer, the AI puppet program will be integrated into the Innovation Center’s Best Friend Algorithm camp, where students will create both physical sock puppets and their digital AI counterparts. Through these hands-on experiences, students will begin to understand not only how AI works, but how to use it responsibly.
+Vu hopes this approach helps shift the conversation around AI, especially for younger learners. “I think when people think about AI, especially with younger kids, it’s often very black and white,” she said. “But AI is embedded in so many of the things they interact with every day. I want them to understand how those things are made and to use them thoughtfully.”
+
+Source: https://www.svvsd.org/2026/04/29/innovation-center-educator-advances-in-presidential-ai-challenge/
 
 ### Innovation Center Students Design Their Own Instruments
 
@@ -168,55 +213,6 @@ Temporary Closure of District Athletic Fields and Exterior Play Areas
 document on the Facility Use website.
 
 Source: https://www.svvsd.org/2026/04/03/facility-use-rate-update/
-
-### Temporary Closure of District Athletic Fields and Exterior Play Areas
-
-- Published: 2026-04-03T12:49:06-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/temporary-closure-of-district-athletic-fields-and-exterior-play-areas/
-
-Dear St. Vrain Valley Community,
-St. Vrain Valley Schools values our community and the many ways our shared spaces bring people together. We are proud to make our athletic fields and exterior play areas available for community use and appreciate the partnerships that make these opportunities possible.
-To that end, we have made the difficult decision to temporarily close all district athletic fields and exterior play spaces from May 20 through September 2026 due to unusually dry conditions this past winter and a significant lack of soil moisture. This proactive step protects the long-term health and playability of these spaces.
-Our fields are a valued district asset that support a wide range of athletic programs, activities, and community experiences. Taking care of them now ensures they remain safe, high-quality environments that support school-based opportunities throughout the academic year.
-We recognize the impact this closure may have for community groups and partners. District staff will continue to monitor weather patterns and field conditions. If moisture levels improve or weather conditions shift, we will reassess this decision and share any updates to field availability as soon as possible.
-Thank you for your partnership in caring for these important community resources.
-Sincerely,
-Brian Lamer
-Assistant Superintendent of Operations
-St. Vrain Valley Schools
-
-Source: https://www.svvsd.org/2026/04/03/temporary-closure-of-district-athletic-fields-and-exterior-play-areas/
-
-### More Than Storytime: Stuffy Book Club at Alpine Elementary
-
-- Published: 2026-04-03T12:09:54-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/more-than-storytime-stuffy-book-club-at-alpine-elementary/
-
-Tucked into a cozy corner of Alpine Elementary, a group of kindergarten and first grade students gather at the end of the school day, arms full of stuffed animals and blankets in tow. The room hums with excitement as students recognize something special is about to begin.
-Led by third grade teacher Michelle Drangeid, the Stuffy Book Club invites the school’s youngest learners to slow down, get comfortable, and fall in love with stories. Students settle in beside their favorite stuffies, sharing snacks and anticipation as Drangeid opens a book. Each week introduces a new author or theme, expanding their world one page at a time.
-On this particular day, the group dives into
-The Dot
-by Peter H. Reynolds – a story about courage and the power of creativity. Students bring the story to life through a fun watercolor activity. Starting with a single dot on their page, they quickly transform it into unique shapes and patterns.
-For many of these students, this is their first opportunity to be part of a school club, a space designed just for them. “The club is light. It’s a chance for them to take a breath and play,” Drangeid shares, describing the intention behind each gathering.
-Along with crafts and stories, the Stuffy Book Club quietly builds something deeper. It increases connections across grade levels, turning familiar faces in the hallway into friendly waves and conversations. As Drangeid explains, “I love including other grade levels because I get a chance to meet kids that I don’t normally get to see. When I’m walking around the building, they see me and say hi. There is a connection that builds community, which is one of the best parts about this.”
-​​Long after the club ends, its effects continue to unfold. Students return home to read aloud to their stuffed animals, build blanket forts, and recreate the cozy magic of reading. In these small, meaningful moments, a lifelong love of reading begins to take root for Alpine Elementary students.
-
-Source: https://www.svvsd.org/2026/04/03/more-than-storytime-stuffy-book-club-at-alpine-elementary/
-
-### Westview Middle School Re-Designated as National School to Watch
-
-- Published: 2026-04-02T14:00:23-06:00
-- Source URL: https://www.svvsd.org/2026/04/02/westview-middle-school-re-designated-as-national-school-to-watch/
-
-Westview Middle School has once again earned national recognition as a National School to Watch, a distinction awarded by the National Forum to Accelerate Middle Grades Reform in partnership with leading education organizations.
-The
-Schools to Watch
-program identifies middle schools across the country that demonstrate exceptional performance and a commitment to continuous improvement. Schools receiving this designation are recognized for being academically excellent, developmentally responsive to the needs of young adolescents, and socially equitable — ensuring high levels of learning and support for every student.
-Westview’s re-designation reflects sustained excellence and a schoolwide commitment to meeting the evolving needs of students. The recognition is not permanent; schools must reapply every three years, demonstrating ongoing growth, innovation, and impact.
-The school celebrated the achievement with a full school assembly, recognizing the collective efforts of staff and students. District leadership were there to help celebrate and make sure everyone felt the significance of this recognition. The event also highlighted two Westview robotics teams who have advanced to the VEX Robotics World Championships, showcasing the school’s continued success both in and beyond the classroom.
-As part of the national network, Westview joins a select group of middle schools across the United States that serve as models for effective teaching, student support, and school culture. This honor reflects the dedication of Westview’s educators, staff, students, and families — and reinforces the school’s role in preparing students for success in high school and beyond.
-
-Source: https://www.svvsd.org/2026/04/02/westview-middle-school-re-designated-as-national-school-to-watch/
 
 ### District alerts
 

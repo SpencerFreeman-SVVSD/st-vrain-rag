@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-29T04:18:43.503862-06:00
+generated_at: 2026-04-30T04:18:44.804075-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9258,7 +9258,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/current-pres
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-04-07T08:57:38-06:00
+- Last modified: 2026-04-29T14:54:52-06:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience. Success begins here.
@@ -10373,7 +10373,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disa
 ### Medical & Pharmacy
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/medical/
-- Last modified: 2026-04-06T12:22:30-06:00
+- Last modified: 2026-04-29T11:34:55-06:00
 
 Choosing a Health Plan That’s Right For You
 As an employee, the health benefits available to you represent a significant component of your compensation package. They also provide important protection for you and your family in case of illness or injury.
@@ -10476,6 +10476,9 @@ PrudentRx Specialty Medication Program
 – Reduce your out-of-pocket cost on many specialty medications.
 Click here to view the list of covered specialty drugs.
 To get started, call 1-800-578-4403.
+Maternity Program
+– Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
+Click here for program information.
 Kaiser Permanente DHMO Plan
 The district offers a Deductible Health Maintenance Organization (DHMO) plan through Kaiser Permanente that offers a low upfront deductible and copays when care is received through Kaiser Permanente doctors, partner hospitals and other health care facilities. (Out-of-network coverage is only available in urgent care and emergency situations where you become injured or unexpectedly ill while outside the service area.) Each time you visit a Kaiser Permanente pharmacy or other provider for care, you pay a copay or an amount based on your deductible and coinsurance responsibility. Your out-of-pocket costs for eligible expenses are capped annually at $4,000 for an individual or $8,000 for a family. Refer to the coverage chart below for additional coverage details.
 View Presentation To Learn More
@@ -10730,7 +10733,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-04-03T08:58:12-06:00
+- Last modified: 2026-04-29T11:25:30-06:00
 
 This Month
 April Wellbeing Flyer:
@@ -10756,6 +10759,9 @@ Employee Assistance Program
 Life events can affect the lives of team members both at home and at work. That is why St. Vrain Valley Schools offers a district-paid Employee Assistance Program (EAP) through ComPsych. All services are provided at no-cost to you and your eligible family members and all services are strictly confidential. Learn more on our
 Employee Assistance Program
 page.
+Maternity Program
+Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
+Click here for program information.
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
 
@@ -13454,7 +13460,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondi
 ### Nutrition Services Open Solicitations
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
-- Last modified: 2026-04-27T11:14:53-06:00
+- Last modified: 2026-04-29T10:35:44-06:00
 
 St Vrain Virtual Solicitations
 Vendors are encouraged to register and become familiar with the Rocky Mountain E-Purchasing System at
@@ -13473,39 +13479,14 @@ Open Date
 Close Date
 OPEN:
 Locally Grown or Produced Food Product Provider(s)
-RFP-2026-049
-May 13, 2026
-May 31, 2027
+KM-2026-049
+April 13, 2026
+May 12, 2026
 CLOSED:
 Condenser & Evaporator Coil Cleaning – Districtwide Walk-In Freezers & Coolers
 LW-2024-051
 May 6, 2024
 May 24, 2024
-CLOSED:
-Kitchen Serving Line Replacement
-KM-2024-049
-March 19, 2024
-April 11, 2024
-CLOSED:
-Point-of-Sale Tablets and Software Integration
-LW-2024-046
-March 19, 2024
-April 23, 2024
-CLOSED:
-Cooler/Freezer Fiberglass Trailer
-KM-2024-048
-March 12, 2024
-April 9, 2024
-CLOSED:
-Dish Machine Purchase & Installation – Columbine & Lyons El.
-LW-2024-052
-March 11, 2024
-April 11, 2024
-CLOSED:
-Multi-Cook & Combi Ovens and Refrigerated Base Purchase & Installation
-LW-2024-032
-December 21, 2023
-February 8, 2024
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
 
