@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-30T04:18:44.804075-06:00
+generated_at: 2026-05-01T03:56:35.412441-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -594,7 +594,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Concurrent Enrollment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/concurrent-enrollment/
-- Last modified: 2026-03-26T13:32:42-06:00
+- Last modified: 2026-04-30T13:50:32-06:00
 
 You have indicated that you are interested in enrolling in a college course while a high school student. The State of Colorado provides several options for students who meet high school standards to begin college early. The purpose of these options is to extend what may not be offered at your high school.
 The final grade received will appear on the district’s official high school and postsecondary transcripts
@@ -627,6 +627,9 @@ Please note that this takes time and you may see a balance due up to halfway thr
 Linked
 here
 is an important document that outlines information to consider while taking a college-level course. Please share this with your parents or guardian.
+Please click
+HERE
+to fill out the district approval form for courses taken at a college campus.
 St. Vrain Valley Schools
 Contact information:
 Leann Shetler
@@ -10665,7 +10668,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-04-20T11:12:21-06:00
+- Last modified: 2026-04-30T07:38:34-06:00
 
 Spring 2026
 Virtual Yoga
@@ -10705,15 +10708,7 @@ Not sure if you are due for a mammogram? Check your health care reminders either
 kp.org/healthcarereminders/co
 .
 Mochas and Mammos (UMR Members)
-– this event has ended. Check back in the fall for our next mammogram screening.
-Art Therapy: Rock Painting
-Tuesday, April 28 – 4:30 – 5:30pm. 395 S Pratt Pkwy, Longmont – ESC Boardroom
-In this creative and reflective workshop, participants will paint small rocks with uplifting words, affirmations, or colorful designs, transforming simple stones into tokens of hope and encouragement. This class is designed to foster mindfulness, self-expression, and connection—both with oneself and the community. No prior art experience is needed; just bring an open heart and a willingness to explore creativity as a form of healing. Participants are encouraged to leave their finished rocks in public spaces to brighten someone’s day or keep them as personal reminders of inner strength and kindness. Come ready to create, connect, and spread a little kindness —one rock at a time.
-Click here to register by April 20
-Wills and Trusts 101: Uncommon Solutions to Common Problems
-April 29 – 4:30 – 5:30pm. Virtually hosted by Elevations Credit Union
-Understand wills, trusts, powers of attorney, probate in Colorado, and beneficiary designations.
-Register for Wills and Trusts 101
+– this event has ended. Check back in the fall for our next mammogram screening
 Medicare Basics Webinar
 Thursday, April 30 from 4:30-5:30pm
 Join Boulder County SHIP for Medicare Basics!

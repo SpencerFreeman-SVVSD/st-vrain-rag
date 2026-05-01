@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-04-30T04:18:44.804075-06:00
+generated_at: 2026-05-01T03:56:35.412441-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,21 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Niwot High School Student Builds a Future with Salesforce
+
+- Published: 2026-04-30T10:57:25-06:00
+- Source URL: https://www.svvsd.org/2026/04/30/niwot-high-school-student-builds-a-future-with-salesforce/
+
+When Isaac Wicks, a junior at Niwot High School, began his freshman year, he was interested in a variety of pathways. Just three short years later, he has earned three Salesforce certifications and completed a real-world internship where he applied the skills he gained through those programs.
+What first piqued Isaac’s interest in Salesforce was its accessibility and ease of use. The platform felt intuitive, and the idea of helping organizations operate more effectively sparked his curiosity. That initial interest quickly grew into something more meaningful. “It has been really interesting to see how companies can utilize Salesforce and how I can help them with it,” he shared.
+Isaac credits the CLIMB Program with opening the door to future career opportunities and certifications. Designed to help students access industry certifications, mentorship, and work-based learning, the program allowed him to discover both a viable career path and the confidence to pursue it. “If it wasn’t for the CLIMB Program, I wouldn’t know anything about Salesforce,” Isaac said. “It has been fantastic to have a program facilitate this opportunity to learn more about tech careers and soft skills that will help me with future work opportunities.”
+Beyond certifications, Isaac was also able to participate in a hands-on internship with a local non-profit. At Groundworks Art Lab, he embraced the challenge of building out the organization’s customer relationship management (CRM) system. Kari Palazzari, the internship coordinator at Groundworks Art Lab, emphasized the importance of Isaac’s impact.
+“We are so grateful to have had Isacc help us build our Salesforce CRM. He was such a valuable addition to our team and helped make it possible for us to complete a big fundraising project,” she shared.
+Isaac with his mentor, Brent Mac, a Salesforce Solution Architect. “Being Isaac’s mentor has been really rewarding because it was more than just guiding him on his certification journey, but championing his growth and celebrating his milestones.”
+Looking ahead, Isaac plans to build on this momentum by pursuing additional certifications through the CLIMB Program during his senior year at Niwot High School. As he continues exploring the broader world of computer science and coding, Isaac is focused on gaining more experience in computer science and refining the skills that have already prepared him for the future.
+
+Source: https://www.svvsd.org/2026/04/30/niwot-high-school-student-builds-a-future-with-salesforce/
 
 ### Mountain View Elementary Earns Tree Campus Recognition with Arbor Day Celebration
 
@@ -190,29 +205,6 @@ The celebration included performances by the school’s mariachi and percussion 
 View the full event photo album
 
 Source: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
-
-### Facility Use Rate Update
-
-- Published: 2026-04-03T13:14:43-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/facility-use-rate-update/
-
-Dear St. Vrain Valley Community,
-St. Vrain Valley Schools values the strong connection between our schools and the community, and we are proud to provide access to our facilities for a wide range of programs, events, and activities.
-We are sharing an upcoming update regarding facility use rates across the district.
-Beginning July 1, 2026, updated pricing will take effect for the use of district facilities.
-This adjustment supports the ongoing care and maintenance of our buildings and spaces while continuing to provide meaningful access for community use.
-All reservations and contracts* that take place on or after July 1, 2026 will reflect the updated rates.
-We understand the importance of our facilities as shared community resources and remain committed to balancing accessibility with responsible financial stewardship.
-If you have any questions or would like additional information, please reach out to the Facility Use team.
-Thank you for your continued partnership.
-Sincerely,
-Facility Use
-St. Vrain Valley Schools
-*With the exception of exterior areas included in the
-Temporary Closure of District Athletic Fields and Exterior Play Areas
-document on the Facility Use website.
-
-Source: https://www.svvsd.org/2026/04/03/facility-use-rate-update/
 
 ### District alerts
 
