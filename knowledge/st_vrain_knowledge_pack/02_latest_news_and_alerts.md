@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-01T03:56:35.412441-06:00
+generated_at: 2026-05-03T03:39:18.967448-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,23 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Columbine Elementary, Soaring Heights PK-8 Highlight Innovation as Apple Distinguished Schools
+
+- Published: 2026-05-01T11:28:20-06:00
+- Source URL: https://www.svvsd.org/2026/05/01/columbine-elementary-soaring-heights-pk-8-highlight-innovation-as-apple-distinguished-schools/
+
+Columbine Elementary and Soaring Heights PK-8 have been recognized as Apple Distinguished Schools, a designation that highlights innovation in teaching and learning through the effective use of technology. The honor is awarded to schools that demonstrate a clear vision for learning, strong leadership, and evidence of continuous innovation. The application must be renewed every three years through a process that showcases measurable impact on student outcomes. Schools earning this distinction are recognized for creating environments where students are prepared for a dynamic, technology-rich world.
+Students at Columbine Elementary work on a robot during after-school Robotics Club.
+At
+Columbine Elementary
+, Principal Julia Cooper notes that the school’s approach to technology centers on empowering students to take ownership of their learning while supporting a diverse community of learners. “Our vision ensures all students, including those with a wide range of learning needs and backgrounds, access a robust academic journey,” Cooper said. She emphasized how students use technology tools to lead and teach others, from mentoring younger peers to supporting family engagement opportunities. By integrating accessibility features such as translation and voice tools, Columbine creates inclusive learning environments where students can fully participate and express their ideas, building both confidence and leadership skills.
+Students at Soaring Heights PK-8 work a project during their Innovation Class.
+At
+Soaring Heights PK-8
+, Assistant Principal Anna Mills highlighted the role of neuroscience and innovation-driven instruction in earning the recognition. “Our neuroscience framework has been a key driver, helping students understand how they learn, manage stress, and build strong habits,” Mills said. Paired with daily innovation time, makerspace learning, and project-based experiences, students are encouraged to design, create, and apply their thinking in meaningful ways. Mills said the designation reflects the school’s broader commitment to developing future-ready learners and noted that the school will continue expanding opportunities for student-driven learning, creativity, and real-world problem solving as it builds on this momentum.
+
+Source: https://www.svvsd.org/2026/05/01/columbine-elementary-soaring-heights-pk-8-highlight-innovation-as-apple-distinguished-schools/
 
 ### Niwot High School Student Builds a Future with Salesforce
 
@@ -192,19 +209,6 @@ The evening highlighted the power of authentic learning and the meaningful conne
 View the Event Album
 
 Source: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
-
-### Longs Peak Middle School Celebrated Eighth Grade Students Accepted into High School Focus Programs
-
-- Published: 2026-04-03T15:38:45-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
-
-Longs Peak Middle School recently held a special signing ceremony honoring more than 40 eighth grade students who have been accepted into high school focus programs. Inspired by traditional athletic signing days, the all-school assembly took place on Wednesday, April 1 from 2:30 to 3:15 p.m., celebrating students’ dedication and preparation for advanced academic opportunities.
-Students from Longs Peak earned acceptance into specialized pathways at two local high schools. Programs include the Medical & Bioscience Academy (MBSA) and the High School of Business at Longmont High School, as well as FalconTECH at Skyline High School.
-The celebration included performances by the school’s mariachi and percussion ensembles, along with appearances by cheerleaders. Principals and program representatives from each high school were present to welcome future students into their programs. As part of the ceremony, each student was recognized individually and signed a commitment letter, marking an important milestone in their academic journey. The event wrapped up with performances from the Longmont High School drum line and cheerleaders, followed by closing remarks and group photos. Families were also in attendance to share in the celebration.
-“This event showcased the value of hard work, encouraged younger students, and generated excitement for what lies ahead in high school,” said Karin Blough, Principal of Longs Peak Middle School. “We have built programs that connect directly to advanced high school coursework and help prepare students for what comes next. We are proud of the dedication shown by our students and their families and look forward to seeing their continued success in these programs.”
-View the full event photo album
-
-Source: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
 
 ### District alerts
 

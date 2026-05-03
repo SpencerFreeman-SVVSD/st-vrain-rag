@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-01T03:56:35.412441-06:00
+generated_at: 2026-05-03T03:39:18.967448-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,23 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Columbine Elementary, Soaring Heights PK-8 Highlight Innovation as Apple Distinguished Schools
+
+- Published: 2026-05-01T11:28:20-06:00
+- Source URL: https://www.svvsd.org/2026/05/01/columbine-elementary-soaring-heights-pk-8-highlight-innovation-as-apple-distinguished-schools/
+
+Columbine Elementary and Soaring Heights PK-8 have been recognized as Apple Distinguished Schools, a designation that highlights innovation in teaching and learning through the effective use of technology. The honor is awarded to schools that demonstrate a clear vision for learning, strong leadership, and evidence of continuous innovation. The application must be renewed every three years through a process that showcases measurable impact on student outcomes. Schools earning this distinction are recognized for creating environments where students are prepared for a dynamic, technology-rich world.
+Students at Columbine Elementary work on a robot during after-school Robotics Club.
+At
+Columbine Elementary
+, Principal Julia Cooper notes that the school’s approach to technology centers on empowering students to take ownership of their learning while supporting a diverse community of learners. “Our vision ensures all students, including those with a wide range of learning needs and backgrounds, access a robust academic journey,” Cooper said. She emphasized how students use technology tools to lead and teach others, from mentoring younger peers to supporting family engagement opportunities. By integrating accessibility features such as translation and voice tools, Columbine creates inclusive learning environments where students can fully participate and express their ideas, building both confidence and leadership skills.
+Students at Soaring Heights PK-8 work a project during their Innovation Class.
+At
+Soaring Heights PK-8
+, Assistant Principal Anna Mills highlighted the role of neuroscience and innovation-driven instruction in earning the recognition. “Our neuroscience framework has been a key driver, helping students understand how they learn, manage stress, and build strong habits,” Mills said. Paired with daily innovation time, makerspace learning, and project-based experiences, students are encouraged to design, create, and apply their thinking in meaningful ways. Mills said the designation reflects the school’s broader commitment to developing future-ready learners and noted that the school will continue expanding opportunities for student-driven learning, creativity, and real-world problem solving as it builds on this momentum.
+
+Source: https://www.svvsd.org/2026/05/01/columbine-elementary-soaring-heights-pk-8-highlight-innovation-as-apple-distinguished-schools/
+
 ### Niwot High School Student Builds a Future with Salesforce
 
 - Published: 2026-04-30T10:57:25-06:00
@@ -693,19 +710,6 @@ The evening highlighted the power of authentic learning and the meaningful conne
 View the Event Album
 
 Source: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
-
-### Longs Peak Middle School Celebrated Eighth Grade Students Accepted into High School Focus Programs
-
-- Published: 2026-04-03T15:38:45-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
-
-Longs Peak Middle School recently held a special signing ceremony honoring more than 40 eighth grade students who have been accepted into high school focus programs. Inspired by traditional athletic signing days, the all-school assembly took place on Wednesday, April 1 from 2:30 to 3:15 p.m., celebrating students’ dedication and preparation for advanced academic opportunities.
-Students from Longs Peak earned acceptance into specialized pathways at two local high schools. Programs include the Medical & Bioscience Academy (MBSA) and the High School of Business at Longmont High School, as well as FalconTECH at Skyline High School.
-The celebration included performances by the school’s mariachi and percussion ensembles, along with appearances by cheerleaders. Principals and program representatives from each high school were present to welcome future students into their programs. As part of the ceremony, each student was recognized individually and signed a commitment letter, marking an important milestone in their academic journey. The event wrapped up with performances from the Longmont High School drum line and cheerleaders, followed by closing remarks and group photos. Families were also in attendance to share in the celebration.
-“This event showcased the value of hard work, encouraged younger students, and generated excitement for what lies ahead in high school,” said Karin Blough, Principal of Longs Peak Middle School. “We have built programs that connect directly to advanced high school coursework and help prepare students for what comes next. We are proud of the dedication shown by our students and their families and look forward to seeing their continued success in these programs.”
-View the full event photo album
-
-Source: https://www.svvsd.org/2026/04/03/longs-peak-middle-school-celebrated-eighth-grade-students-accepted-into-high-school-focus-programs-2/
 
 ### District alerts
 
@@ -11569,7 +11573,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/dental/
 ### Employee Assistance Program
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
-- Last modified: 2026-03-31T15:57:49-06:00
+- Last modified: 2026-05-01T10:58:17-06:00
 
 Employee Assistance Program
 Call ComPsych EAP at
@@ -11587,11 +11591,9 @@ Call ComPsych EAP at 855.699.6908 to be connected to licensed counselors who can
 Up to 3 additional face-to-face emotional or work-life counseling sessions are available to all SVVSD employees who are covered on the district’s Basic Life Plan. For access, call 1-800-964-3577. Your Web ID # is HLF902 and the Company Name is: ABILI.
 This Month
 Guidance Resource Flyers –
-Women’s Health Awareness Month: Perimenopause/ Menopause
-,
-World Autism Acceptance Month
+Mental Health Awareness Month: Focus on Adolescents
 This month’s huddles, webinars, and guided practices –
-April schedule and sign ups
+May schedule and sign ups
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
 
@@ -11986,15 +11988,9 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-04-30T07:38:34-06:00
+- Last modified: 2026-05-01T10:43:19-06:00
 
 Spring 2026
-Virtual Yoga
-Thursdays March 26 – April 30. 4:30 – 5:30pm
-Enjoy yoga from the comfort of your own home or space. Back by popular request, Christine from Mile High Fitness and Wellness will be instructing virtual yoga classes on
-Thursdays for 6 weeks
-!
-Register Here for Virtual Yoga
 Bloom! Spring Step Challenge
 April 6 – May 3
 Get ready for our St Vrain staff springtime step challenge with
@@ -12027,34 +12023,21 @@ kp.org/healthcarereminders/co
 .
 Mochas and Mammos (UMR Members)
 – this event has ended. Check back in the fall for our next mammogram screening
-Medicare Basics Webinar
-Thursday, April 30 from 4:30-5:30pm
-Join Boulder County SHIP for Medicare Basics!
-This free, educational class offered via Zoom provides a clear overview of Medicare to help you make informed decisions.
-We’ll cover:
-How and when to enroll
-Original Medicare Part A & B
-PERA Medicare Options
-Medicare Advantage (Part C)
-Part D prescription drug coverage
-This session is an excellent starting point for understanding your choices and finding what works best for you.
-Register in time to receive your mailed material packet!
-Register for Medicare Basics
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-04-29T11:25:30-06:00
+- Last modified: 2026-05-01T10:54:15-06:00
 
 This Month
-April Wellbeing Flyer:
-Earth Day is April 22nd!
-April Well Newsletter:
-Stress vs. Anxiety: Understanding the Difference
+May Wellbeing Flyer:
+The Importance of Mental Health
+May Well Newsletter:
+Maintaining Your Mental Health
 Guidance Resource Flyer –
-Women’s Health Awareness Month: Perimenopause/ Menopause
+Mental Health Awareness Month: Focus on Adolescents
 Ongoing Resources
 Active&Fit
 Make your move with Active&Fit Direct

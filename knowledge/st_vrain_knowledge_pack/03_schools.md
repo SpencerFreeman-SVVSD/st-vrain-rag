@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-01T03:56:35.412441-06:00
+generated_at: 2026-05-03T03:39:18.967448-06:00
 coverage_window_days: 90
 section_title: Schools
 ---

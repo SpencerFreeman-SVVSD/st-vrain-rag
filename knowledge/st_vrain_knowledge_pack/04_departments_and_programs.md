@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-01T03:56:35.412441-06:00
+generated_at: 2026-05-03T03:39:18.967448-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10251,7 +10251,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/dental/
 ### Employee Assistance Program
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
-- Last modified: 2026-03-31T15:57:49-06:00
+- Last modified: 2026-05-01T10:58:17-06:00
 
 Employee Assistance Program
 Call ComPsych EAP at
@@ -10269,11 +10269,9 @@ Call ComPsych EAP at 855.699.6908 to be connected to licensed counselors who can
 Up to 3 additional face-to-face emotional or work-life counseling sessions are available to all SVVSD employees who are covered on the district’s Basic Life Plan. For access, call 1-800-964-3577. Your Web ID # is HLF902 and the Company Name is: ABILI.
 This Month
 Guidance Resource Flyers –
-Women’s Health Awareness Month: Perimenopause/ Menopause
-,
-World Autism Acceptance Month
+Mental Health Awareness Month: Focus on Adolescents
 This month’s huddles, webinars, and guided practices –
-April schedule and sign ups
+May schedule and sign ups
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
 
@@ -10668,15 +10666,9 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-04-30T07:38:34-06:00
+- Last modified: 2026-05-01T10:43:19-06:00
 
 Spring 2026
-Virtual Yoga
-Thursdays March 26 – April 30. 4:30 – 5:30pm
-Enjoy yoga from the comfort of your own home or space. Back by popular request, Christine from Mile High Fitness and Wellness will be instructing virtual yoga classes on
-Thursdays for 6 weeks
-!
-Register Here for Virtual Yoga
 Bloom! Spring Step Challenge
 April 6 – May 3
 Get ready for our St Vrain staff springtime step challenge with
@@ -10709,34 +10701,21 @@ kp.org/healthcarereminders/co
 .
 Mochas and Mammos (UMR Members)
 – this event has ended. Check back in the fall for our next mammogram screening
-Medicare Basics Webinar
-Thursday, April 30 from 4:30-5:30pm
-Join Boulder County SHIP for Medicare Basics!
-This free, educational class offered via Zoom provides a clear overview of Medicare to help you make informed decisions.
-We’ll cover:
-How and when to enroll
-Original Medicare Part A & B
-PERA Medicare Options
-Medicare Advantage (Part C)
-Part D prescription drug coverage
-This session is an excellent starting point for understanding your choices and finding what works best for you.
-Register in time to receive your mailed material packet!
-Register for Medicare Basics
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-04-29T11:25:30-06:00
+- Last modified: 2026-05-01T10:54:15-06:00
 
 This Month
-April Wellbeing Flyer:
-Earth Day is April 22nd!
-April Well Newsletter:
-Stress vs. Anxiety: Understanding the Difference
+May Wellbeing Flyer:
+The Importance of Mental Health
+May Well Newsletter:
+Maintaining Your Mental Health
 Guidance Resource Flyer –
-Women’s Health Awareness Month: Perimenopause/ Menopause
+Mental Health Awareness Month: Focus on Adolescents
 Ongoing Resources
 Active&Fit
 Make your move with Active&Fit Direct
