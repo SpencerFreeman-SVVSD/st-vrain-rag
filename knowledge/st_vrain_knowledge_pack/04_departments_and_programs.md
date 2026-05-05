@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-04T04:22:46.714914-06:00
+generated_at: 2026-05-05T04:11:37.115086-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -590,6 +590,32 @@ Report Cards
 Concurrent Enrollment
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/
+
+### AGILE
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
+- Last modified: 2026-05-04T15:08:01-06:00
+
+Advanced Global Interactive Learning Environments
+AGILE brings together teachers and students from different schools, districts, and regions in an engaging digital learning environment.
+Through AGILE:
+Students have access to a robust catalog of courses through synchronous/asynchronous instruction.
+Instructional time is maximize by minimizing travel time of students attending classes at other schools.
+Content expert teachers serve as mentors and co-teachers to novice and new course teachers.
+AGILE offers three telelearning approaches:
+Remote
+A school utilizes an open period to offer a selected course to students across the district. Remote students participate using AGILE equipped spaces in their home school.
+Hybrid
+A school utilizes open seats in a course to offer synchronous instruction across the district. Remote students use AGILE rooms in their home school.
+Paired Mentor
+A mentor teacher co-instructs a course with a novice teacher who teaches the same course in another school. Classes are held during the same period and are co-taught and co-planned by both teachers.
+For more information, please contact:
+Shauna Polson
+Instructional Technologies Coordinator
+303-682-7356
+[email protected]
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
 
 ### Concurrent Enrollment
 
@@ -18413,7 +18439,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-04-20T12:44:54-06:00
+- Last modified: 2026-05-04T13:59:07-06:00
 
 Click on the Circular Chart above to open a traditional version.
 

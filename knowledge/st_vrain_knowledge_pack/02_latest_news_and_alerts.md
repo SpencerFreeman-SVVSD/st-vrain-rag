@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-04T04:22:46.714914-06:00
+generated_at: 2026-05-05T04:11:37.115086-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,18 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Frederick High SRO Andrew Fairbanks Named Colorado School Resource Officer of the Year
+
+- Published: 2026-05-04T08:28:23-06:00
+- Source URL: https://www.svvsd.org/2026/05/04/frederick-high-sro-andrew-fairbanks-named-colorado-school-resource-officer-of-the-year/
+
+When students walk the halls at Frederick High School, Officer Andrew Fairbanks is a familiar and trusted presence. Through daily interactions, classroom engagement, and active involvement in the school community, Officer Fairbanks helps create a supportive and connected environment. That daily commitment has earned him statewide recognition as School Resource Officer (SRO) of the Year from the Colorado Association of School Resource Officers (CASRO).
+This honor highlights the meaningful impact of school resource officers and the important role they play in supporting students, schools, and communities across the state. Selected by the CASRO Board Awards Committee from nominations across Colorado, the recognition reflects the depth of impact Officer Fairbanks has made in his role.
+As the School Resource Officer at Frederick High School, Fairbanks’ work extends far beyond traditional law enforcement. He is a consistent presence in the halls, a mentor to students navigating challenges, and a partner to staff in building a positive school culture. That approach is rooted in connection. Through everyday interactions and intentional engagement, Officer Fairbanks helps create an environment where students feel supported and heard.
+In recognition of his work, Officer Fairbanks will be honored this June at the CASRO conference in Colorado Springs, joining fellow officers from across the state.
+
+Source: https://www.svvsd.org/2026/05/04/frederick-high-sro-andrew-fairbanks-named-colorado-school-resource-officer-of-the-year/
 
 ### Columbine Elementary, Soaring Heights PK-8 Highlight Innovation as Apple Distinguished Schools
 
@@ -194,21 +206,6 @@ At its core, the symposium was a celebration. A celebration of students willing 
 See the full photo album
 
 Source: https://www.svvsd.org/2026/04/13/students-take-the-lead-at-smart-team-symposium/
-
-### Sunset Middle School Community Celebrates IB Eighth Grade Showcase
-
-- Published: 2026-04-03T16:07:05-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
-
-On Thursday, April 3, Sunset Middle School welcomed families and community members for a vibrant Community Night celebrating the culminating experience of the International Baccalaureate Middle Years Programme (IB MYP).
-The event featured student-led community projects, live performances, interactive displays, and guest speakers, including the Mayor of Longmont. Attendees also experienced a variety of food presentations that reflected the cultures and communities explored through student research.
-As part of the IB MYP, students completed projects focused on both research and direct service, identifying real needs within their community and taking action to address them.
-Principal Alicia Bono shared, “This is an impactful experience. Students learn what it means to be part of a community and that they can already play a role in making a difference. Through their projects, they identify community needs and find ways to give back. They come to see they are capable of far more than they initially thought.”
-Students echoed that growth and said the experience strengthened communication skills, deepened understanding of community needs, and built trust in their peers. Many also described a shift in perspective and recognized the value of contributing to something larger than themselves.
-The evening highlighted the power of authentic learning and the meaningful connections formed between students and the community they serve.
-View the Event Album
-
-Source: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
 
 ### District alerts
 

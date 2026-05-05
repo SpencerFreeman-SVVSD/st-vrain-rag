@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-04T04:22:46.714914-06:00
+generated_at: 2026-05-05T04:11:37.115086-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,18 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Frederick High SRO Andrew Fairbanks Named Colorado School Resource Officer of the Year
+
+- Published: 2026-05-04T08:28:23-06:00
+- Source URL: https://www.svvsd.org/2026/05/04/frederick-high-sro-andrew-fairbanks-named-colorado-school-resource-officer-of-the-year/
+
+When students walk the halls at Frederick High School, Officer Andrew Fairbanks is a familiar and trusted presence. Through daily interactions, classroom engagement, and active involvement in the school community, Officer Fairbanks helps create a supportive and connected environment. That daily commitment has earned him statewide recognition as School Resource Officer (SRO) of the Year from the Colorado Association of School Resource Officers (CASRO).
+This honor highlights the meaningful impact of school resource officers and the important role they play in supporting students, schools, and communities across the state. Selected by the CASRO Board Awards Committee from nominations across Colorado, the recognition reflects the depth of impact Officer Fairbanks has made in his role.
+As the School Resource Officer at Frederick High School, Fairbanks’ work extends far beyond traditional law enforcement. He is a consistent presence in the halls, a mentor to students navigating challenges, and a partner to staff in building a positive school culture. That approach is rooted in connection. Through everyday interactions and intentional engagement, Officer Fairbanks helps create an environment where students feel supported and heard.
+In recognition of his work, Officer Fairbanks will be honored this June at the CASRO conference in Colorado Springs, joining fellow officers from across the state.
+
+Source: https://www.svvsd.org/2026/05/04/frederick-high-sro-andrew-fairbanks-named-colorado-school-resource-officer-of-the-year/
+
 ### Columbine Elementary, Soaring Heights PK-8 Highlight Innovation as Apple Distinguished Schools
 
 - Published: 2026-05-01T11:28:20-06:00
@@ -695,21 +707,6 @@ At its core, the symposium was a celebration. A celebration of students willing 
 See the full photo album
 
 Source: https://www.svvsd.org/2026/04/13/students-take-the-lead-at-smart-team-symposium/
-
-### Sunset Middle School Community Celebrates IB Eighth Grade Showcase
-
-- Published: 2026-04-03T16:07:05-06:00
-- Source URL: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
-
-On Thursday, April 3, Sunset Middle School welcomed families and community members for a vibrant Community Night celebrating the culminating experience of the International Baccalaureate Middle Years Programme (IB MYP).
-The event featured student-led community projects, live performances, interactive displays, and guest speakers, including the Mayor of Longmont. Attendees also experienced a variety of food presentations that reflected the cultures and communities explored through student research.
-As part of the IB MYP, students completed projects focused on both research and direct service, identifying real needs within their community and taking action to address them.
-Principal Alicia Bono shared, “This is an impactful experience. Students learn what it means to be part of a community and that they can already play a role in making a difference. Through their projects, they identify community needs and find ways to give back. They come to see they are capable of far more than they initially thought.”
-Students echoed that growth and said the experience strengthened communication skills, deepened understanding of community needs, and built trust in their peers. Many also described a shift in perspective and recognized the value of contributing to something larger than themselves.
-The evening highlighted the power of authentic learning and the meaningful connections formed between students and the community they serve.
-View the Event Album
-
-Source: https://www.svvsd.org/2026/04/03/sunset-middle-school-community-celebrates-ib-eighth-grade-showcase/
 
 ### District alerts
 
@@ -1912,6 +1909,32 @@ Report Cards
 Concurrent Enrollment
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/
+
+### AGILE
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
+- Last modified: 2026-05-04T15:08:01-06:00
+
+Advanced Global Interactive Learning Environments
+AGILE brings together teachers and students from different schools, districts, and regions in an engaging digital learning environment.
+Through AGILE:
+Students have access to a robust catalog of courses through synchronous/asynchronous instruction.
+Instructional time is maximize by minimizing travel time of students attending classes at other schools.
+Content expert teachers serve as mentors and co-teachers to novice and new course teachers.
+AGILE offers three telelearning approaches:
+Remote
+A school utilizes an open period to offer a selected course to students across the district. Remote students participate using AGILE equipped spaces in their home school.
+Hybrid
+A school utilizes open seats in a course to offer synchronous instruction across the district. Remote students use AGILE rooms in their home school.
+Paired Mentor
+A mentor teacher co-instructs a course with a novice teacher who teaches the same course in another school. Classes are held during the same period and are co-taught and co-planned by both teachers.
+For more information, please contact:
+Shauna Polson
+Instructional Technologies Coordinator
+303-682-7356
+[email protected]
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
 
 ### Concurrent Enrollment
 
@@ -19735,7 +19758,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-04-20T12:44:54-06:00
+- Last modified: 2026-05-04T13:59:07-06:00
 
 Click on the Circular Chart above to open a traditional version.
 
@@ -24774,7 +24797,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 373
+- Department and program pages: 374
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80
