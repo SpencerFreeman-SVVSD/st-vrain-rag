@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-05T04:11:37.115086-06:00
+generated_at: 2026-05-06T04:26:27.160322-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,29 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### From Caterpillars to Butterflies: Kindergarten Classes Watch Transformation Unfold
+
+- Published: 2026-05-05T15:08:37-06:00
+- Source URL: https://www.svvsd.org/2026/05/05/from-caterpillars-to-butterflies-kindergarten-classes-watch-transformation-unfold/
+
+There’s a certain kind of excitement that fills a kindergarten classroom when something small and alive is changing right before your eyes.
+At Burlington Elementary, that excitement has been building for weeks.
+It started with caterpillars – tiny, wiggling, and full of questions. Day by day, students watched them grow, form chrysalises, and quietly transform. And then, almost suddenly, butterflies emerged.
+By the time release day arrived, those butterflies had become part of the classroom.
+“We grew quite attached to our little friends,” said teacher Marcy McGurgan. “The squeals of delight as the butterflies were released into our greenhouse were precious.”
+With careful hands, students carried their butterflies into the Burlington greenhouse, pausing before opening their containers. Some hesitated, some whispered goodbye, and others simply watched, wide-eyed, as wings opened and lifted into the air.
+The reactions were immediate and honest.
+“They will help the plants.”
+“They can lay eggs and more eggs.”
+“It will keep the life cycle going!”
+“They won’t get cold or hit by a snowflake!”
+For many students, it was their first time seeing something change so completely. Not on a screen or in a book, but right in front of them.
+Teacher Stephanie Hill reflected on the experience as a meaningful part of their life science unit, where students followed each stage of the butterfly’s development from beginning to end. The process gave them something real to observe, care for, and ultimately let go.
+And that moment, when the butterflies finally lifted into the leaves of the greenhouse, was filled with a mix of excitement, pride, and just a little bit of wonder.
+It’s hard not to feel it too.
+
+Source: https://www.svvsd.org/2026/05/05/from-caterpillars-to-butterflies-kindergarten-classes-watch-transformation-unfold/
 
 ### Frederick High SRO Andrew Fairbanks Named Colorado School Resource Officer of the Year
 
@@ -186,27 +209,14 @@ View full photo album
 
 Source: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
 
-### Students Take the Lead at SMART Team Symposium
-
-- Published: 2026-04-13T13:19:03-06:00
-- Source URL: https://www.svvsd.org/2026/04/13/students-take-the-lead-at-smart-team-symposium/
-
-Longmont High’s MBSA program hosts national showcase of student-driven scientific research
-On March 28, the Innovation Center became a hub of scientific curiosity and collaboration as St. Vrain Valley Schools hosted the SMART (Students Modeling A Research Topic) Team Colorado Symposium.
-The event, led by the Longmont High School MBSA Program, brought together nine student research teams from four high schools across Colorado, Kansas, Ohio, and Wisconsin. While the projects varied in focus, each shared a common foundation: a year-long deep dive into complex scientific research and the challenge of translating it into something tangible, understandable, and meaningful.
-Through the SMART Team program, developed by 3D Molecular Designs, students step beyond traditional classroom learning. They analyze primary scientific literature, study protein structures, and ultimately design detailed 3D models that represent the function and form of the molecules they investigate.
-“The SMART Team program transforms students from passive learners into practicing scientists,” said science teacher Chris Chou. “Students learn how to interpret complex research, use evidence to answer meaningful questions, and communicate their understanding in ways that are accessible to different audiences.”
-At the symposium, that transformation was on full display.
-Spread throughout the open space of the Innovation Center, students stood alongside professional-quality posters and intricately designed protein models – many freshly unboxed and seen in physical form for the first time. The setting allowed for something often missing from larger scientific conferences: meaningful conversation. Instead of navigating crowded poster halls, students engaged in thoughtful, one-on-one discussions with visiting scientists, educators, peers, and community members.
-Students explained the structure and function of proteins, adapted their messaging for different audiences, and shared the story of their research journey multiple times throughout the morning. For many, it was a chance to build confidence not just in their knowledge, but in their identity.
-“SMART Teams don’t just teach science – they help students see themselves as scientists,” Chou said.
-That sense of belonging was just as important as the academic rigor. The symposium created a space where students with a shared passion for science could connect, many realizing for the first time that they weren’t alone in their interests. Conversations extended beyond projects, forming connections that reflected both collaboration and community.
-The experience also highlighted the long-term impact of the program. Many former SMART Team students have gone on to pursue advanced studies and careers in science, including research pathways and doctoral programs. One such student, Maya Blau (Longmont High Class of 2017), is now enrolled in an MD/PhD program at the Medical College of Wisconsin and has returned to the program as a SMART Team advisor, an example of the full-circle influence the experience can have.
-At its core, the symposium was a celebration. A celebration of students willing to take on complex challenges. A celebration of educators creating space for authentic, hands-on learning. And a celebration of what happens when students are given the opportunity to go beyond memorization and into true understanding.
-See the full photo album
-
-Source: https://www.svvsd.org/2026/04/13/students-take-the-lead-at-smart-team-symposium/
-
 ### District alerts
 
-No recent alert items were found within the configured coverage window.
+### Weather Delay for Staff, Morning Activities Canceled on Wednesday, May 6
+
+- Published: 2026-05-06T03:28:10-06:00
+- Source URL: https://www.svvsd.org/alerts/weather-delay-for-staff-morning-activities-canceled-on-wednesday-may-6/
+
+...
+Weather Delay for Staff, Morning Activities Canceled on Wednesday, May 6
+
+Source: https://www.svvsd.org/alerts/weather-delay-for-staff-morning-activities-canceled-on-wednesday-may-6/

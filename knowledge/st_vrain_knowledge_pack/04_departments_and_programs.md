@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-05T04:11:37.115086-06:00
+generated_at: 2026-05-06T04:26:27.160322-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -594,13 +594,13 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### AGILE
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
-- Last modified: 2026-05-04T15:08:01-06:00
+- Last modified: 2026-05-05T10:10:18-06:00
 
 Advanced Global Interactive Learning Environments
 AGILE brings together teachers and students from different schools, districts, and regions in an engaging digital learning environment.
 Through AGILE:
 Students have access to a robust catalog of courses through synchronous/asynchronous instruction.
-Instructional time is maximize by minimizing travel time of students attending classes at other schools.
+Instructional time is maximized by minimizing travel time of students attending classes at other schools.
 Content expert teachers serve as mentors and co-teachers to novice and new course teachers.
 AGILE offers three telelearning approaches:
 Remote
@@ -752,7 +752,7 @@ K-12 Science Coordinator
 303-682-7232
 [email protected]
 Shauna Polson
-World Languages Coordinator
+Instructional Technologies Coordinator
 303-682-7356
 [email protected]
 Heidi Ringer, Ed.D.
@@ -10692,9 +10692,28 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-01T10:43:19-06:00
+- Last modified: 2026-05-05T14:16:48-06:00
 
 Spring 2026
+Mindful Mondays and Well-being Wednesdays
+Monthly, no-cost classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
+Can’t attend live? No problem, register anyway to receive the recordings.
+Wednesday, May 20:
+Digital Detox
+Monday, June 1:
+Mindfulness for Brain Reset
+Wednesday, June 17:
+Boost Your Brain Power
+Monday, July 6:
+Guided Meditation for Summer Bliss
+Wednesday, July 22:
+Summer Safety
+Monday, August 3:
+Guided Meditation for Finding Peace
+Wednesday, August 19:
+Flu Awareness
+Register Here for Mindful Monday Classes
+Register Here for Well-Being Wednesdays
 Bloom! Spring Step Challenge
 April 6 – May 3
 Get ready for our St Vrain staff springtime step challenge with
@@ -10733,7 +10752,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-01T10:54:15-06:00
+- Last modified: 2026-05-05T09:22:43-06:00
 
 This Month
 May Wellbeing Flyer:
@@ -10759,6 +10778,9 @@ Employee Assistance Program
 Life events can affect the lives of team members both at home and at work. That is why St. Vrain Valley Schools offers a district-paid Employee Assistance Program (EAP) through ComPsych. All services are provided at no-cost to you and your eligible family members and all services are strictly confidential. Learn more on our
 Employee Assistance Program
 page.
+Financial Education
+ENT Credit Union offers ongoing free financial virtual classes. Click below to access a full list of financial advising events and webinars and to register.
+ENT Credit Union Events
 Maternity Program
 Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
 Click here for program information.
