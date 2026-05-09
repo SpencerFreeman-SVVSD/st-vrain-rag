@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-06T04:26:27.160322-06:00
+generated_at: 2026-05-09T03:42:27.593051-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10692,7 +10692,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-05T14:16:48-06:00
+- Last modified: 2026-05-07T10:46:57-06:00
 
 Spring 2026
 Mindful Mondays and Well-being Wednesdays
@@ -10714,23 +10714,6 @@ Wednesday, August 19:
 Flu Awareness
 Register Here for Mindful Monday Classes
 Register Here for Well-Being Wednesdays
-Bloom! Spring Step Challenge
-April 6 – May 3
-Get ready for our St Vrain staff springtime step challenge with
-Bloom.
-This 4 week journey to better health combines fitness and nature in a kaleidoscope of color and social camaraderie.
-Record steps or minutes
-Use your favorite tracking device or record exercise minutes and Bloom converts them to steps for you.
-Aim for 6000, 8000, or 10,000 steps a day
-Fill your Bloom branch with white (6000), yellow (8000), and pink (10,000) blossoms.
-Get social
-Invite friends, join a team, and connect with colleagues on the Community page.
-Important dates:
-March 23: Registration opens
-April 6: First day to log activity
-April 12: Registration and team formation deadline
-May 3: Last day of the program
-Log in to Bloom!
 Mammogram Events
 Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
 Kaiser Medical Office – 2345 Bent Way, Longmont 80503
@@ -11669,7 +11652,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-03-13T07:12:28-06:00
+- Last modified: 2026-05-08T14:56:33-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -11764,8 +11747,11 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/forms/
 ### Overnight Trip Request
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
-- Last modified: 2025-08-27T08:56:13-06:00
+- Last modified: 2026-05-08T11:13:08-06:00
 
+To access the Overnight/Out of State Trip request, please go to
+studenttrips.svvsd.org
+.
 Commonly Used Forms
 Procedure for Requesting Student Trips
 Acknowledgment of Risk and Hold Harmless Agreement

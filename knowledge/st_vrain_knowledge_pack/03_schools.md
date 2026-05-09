@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-06T04:26:27.160322-06:00
+generated_at: 2026-05-09T03:42:27.593051-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -582,15 +582,15 @@ Source: https://www.svvsd.org/schools/school-feeders/
 ### School Supplies
 
 - Canonical URL: https://www.svvsd.org/schools/school-supplies/
-- Last modified: 2025-05-08T14:44:35-06:00
+- Last modified: 2026-05-06T14:48:33-06:00
 
 School Supplies
 Preschool and Elementary Schools
-2025-26 English Supply List
-2025-26 Spanish Supply List
+2026-27 English Supply List
+2026-27 Spanish Supply List
 Middle Schools
-2025-26 English Supply List
-2025-26 Spanish Supply List
+2026-27 English Supply List
+2026-27 Spanish Supply List
 High Schools
 We do not publish supply lists for high school students because their needs are very class specific. Students most likely receive supply information on the first day of class.
 

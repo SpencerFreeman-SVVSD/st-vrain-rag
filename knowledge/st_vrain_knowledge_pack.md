@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-06T04:26:27.160322-06:00
+generated_at: 2026-05-09T03:42:27.593051-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,33 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### “All the World’s A Stage”: St. Vrain Elementary Students Perform Shakespeare in the Park
+
+- Published: 2026-05-08T13:59:51-06:00
+- Source URL: https://www.svvsd.org/2026/05/08/all-the-worlds-a-stage-st-vrain-elementary-students-perform-shakespeare-in-the-park/
+
+Fifth grade students from across St. Vrain Valley Schools gathered at Thompson Park in Old Town Longmont on a sunny spring Friday for the annual Shakespeare in the Park program. Put on through the district’s Gifted and Talented department, this year included performances from A Midsummer Night’s Dream, Hamlet, Julius Caesar, Romeo and Juliet, Macbeth, Much Ado About Nothing, and the Tempest.
+The performances in front of their peers and families are the culmination of their Shakespeare curriculum, as well as months of practice. During the near-semester long curriculum, students build critical reading and comprehension skills, alongside leadership skills as each school’s production is student-led.
+Participating groups this year were from Niwot Elementary, Highlands Elementary, Red Hawk Elementary, Black Rock Elementary, Soaring Heights PK-8, Timberline PK-8, Blue Mountain Elementary, Lyons Elementary, Flagstaff Academy, and Erie Elementary.
+View the full event image gallery
+
+Source: https://www.svvsd.org/2026/05/08/all-the-worlds-a-stage-st-vrain-elementary-students-perform-shakespeare-in-the-park/
+
+### Innovation Center Welcomes Astronaut, Sparks Student Inspiration
+
+- Published: 2026-05-06T14:57:43-06:00
+- Source URL: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
+
+Duane “Digger” Carey, a former NASA astronaut, visited the Innovation Center on May 5 for “An Audience with an Astronaut,” hosted in partnership with the Space Foundation. During his presentation, Carey reflected on his path to serving as the pilot of Space Shuttle Columbia on the STS-109 mission in 2002, a critical servicing mission for the Hubble Space Telescope, and the challenges he overcame along the way.
+Duane Carey shows students at the Innovation Center a model of the aircraft he flew into space.
+Carey’s journey to NASA was shaped by perseverance, as he navigated personal and academic challenges throughout his formative years. While in high school, he committed to attending class consistently and to focus on his studies, allowing him to enter the workforce post-graduation. Later, recognizing that a four-year degree was required to become a pilot in the U.S. Air Force, he worked to improve his entrance exam scores and enrolled at the University of Minnesota. He went on to earn both his bachelor’s and master’s degrees in aerospace engineering, setting the foundation for his career as an astronaut.
+Duane Carey speaks to St. Vrain Valley Schools’ students about the space industry.
+Carey emphasized that success at NASA and in the space industry extends beyond traditional academics, highlighting the need for diverse talents, including tradesmen, athletes, and creatives. Above all, he encouraged students to develop grit – the ability to learn from setbacks and continue moving forward. While he described himself as academically capable, Carey reinforced that it was his work ethic and resilience that ultimately shaped his path forward.
+Innovation Center students present Duane Carey with a gift following his presentation.
+Following the presentation, students participated in a moderated question-and-answer session with Carey, asking about his time in space, the experience of returning to Earth, and the journey that led him to become a successful pilot and astronaut. Opportunities like this provide students with valuable perspective, highlighting that educational and career pathways are diverse. Through these experiences, St. Vrain Valley Schools continues to connect students with real-world learning, helping them explore a wide range of possibilities and prepare for future success.
+
+Source: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
+
 ### From Caterpillars to Butterflies: Kindergarten Classes Watch Transformation Unfold
 
 - Published: 2026-05-05T15:08:37-06:00
@@ -645,82 +672,9 @@ Learn more about the Music Innovation pathway
 
 Source: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
 
-### Earn your Lifeguard Certification this Summer at St. Vrain’s Aquatic Center
-
-- Published: 2026-04-16T09:16:44-06:00
-- Source URL: https://www.svvsd.org/2026/04/16/earn-your-lifeguard-certification-this-summer-at-st-vrains-aquatic-center/
-
-Sessions are available this summer for both students and staff in St. Vrain Valley Schools to earn a new lifeguard certification or recertify. Using the American Red Cross curriculum, participants will train in water safety, emergency response, first aid and CPR, and AED operation. Whether you are looking for a rewarding way to serve the community, are a competitive swimmer or student-athlete, or want to build real-world skills in emergency response, leadership, and teamwork, this training is an invaluable opportunity.
-The course follows a hybrid training model, with an online component to be completed prior to the hands-on session.
-Participants must meet the following requirements:
-Be at least 15 years of age
-Swim 150 yards
-Tread water for two minutes without using hands
-Retrieve a 10-lb weight from 10 feet of water
-Have a current physical on file (for St. Vrain students)
-Details
-Dates
-May 28-29: Lifeguard Recertification
-8 a.m.-2 p.m. (students and staff)
-June 1-5: Students Only
-(Initial Certification)
-Monday 8 a.m. – 1 p.m., Tuesday – Friday 9 a.m. – 1 p.m.
-June 8-12: Staff Only
-(Initial Certification)
-Monday 8 a.m. – 1 p.m., Tuesday – Friday 9 a.m. – 1 p.m.
-June 15-19: Students Only
-(Initial Certification)
-Monday 8 a.m. – 1 p.m., Tuesday – Friday 9 a.m. – 1 p.m.
-Recertification must have at least 5 participants to run the course.
-Initial Certification must have at least 8 participants to run the course.
-Costs per person:
-$200 for recertification
-$300 for new certification training
-*
-Class Format:
-All classes are in a hybrid format with an online learning portion. Participants must complete the online learning portion prior to the first day of class in the pool. If the online portion is not completed by the first day of class, the participant will not be able to participate and there is no refund. A link to the online portion will be sent on 5/16/26.
-Register for Lifeguard Certification through RevTrak
-Registration is open through May 15, 2026.
-For questions or more information, please contact:
-Devin Clark
-Athletic Secretary, Silver Creek High School
-clark_devin@svvsd.org
-(720)494-3729 extension: 45714
-Or Scott Sullivan
-Athletic Trainer
-American Red Cross Certified Instructor: Lifeguarding, First Aid, CPR, AED
-sullivan_scott@svvsd.org
-
-Source: https://www.svvsd.org/2026/04/16/earn-your-lifeguard-certification-this-summer-at-st-vrains-aquatic-center/
-
-### Just Keep Swimming: Legacy Elementary Students Perform Finding Nemo
-
-- Published: 2026-04-15T09:21:22-06:00
-- Source URL: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
-
-On Friday, March 27, and Saturday, March 28, Legacy Elementary students took to the stage for their production of Finding Nemo. These productions are a powerful display of student talent, and play a strong role in preparing students for future opportunities.
-While the two hour-long shows are the public element of the production, they provide just a small glimpse into the significant efforts put forward by students, teachers, staff, and community members alike. To ensure the shows were performed at the highest possible level, students rehearsed before school three times each week starting in mid-November.
-Caleb Smith, the music teacher at Legacy Elementary who also directs the musicals, said the most rewarding part is inspiring students and watching them develop a passion for performing.
-“I hope students gain confidence, cooperation, and a sense of belonging in theatre,” Smith said. “I love teaching students to sing, act, and dance, and when they leave my program, I want them to take that into everything they do, from sports, work, or academics,” he added.
-Smith also highlighted that the show was a coordinated effort between volunteers and students, but the students took the lead on nearly every element of the show.
-“We had a lot of backstage volunteers helping coordinate things, but students ran the show,” Smith said. “I often had volunteers backstage just standing and enjoying the show while the cast took control and made the show their own,” Smith added.
-Finding Nemo was Smith’s third final show at Legacy, and he reflected on what makes productions such as this one special. “It’s special because it’s a launching point for the future of these students in musical theatre and beyond,” Smith explained.
-Providing students with opportunities to perform in theatre productions, particularly at the elementary level, gives students a competitive advantage for future opportunities they may pursue within St. Vrain and beyond.
-View full photo album
-
-Source: https://www.svvsd.org/2026/04/15/just-keep-swimming-legacy-elementary-students-perform-finding-nemo/
-
 ### District alerts
 
-### Weather Delay for Staff, Morning Activities Canceled on Wednesday, May 6
-
-- Published: 2026-05-06T03:28:10-06:00
-- Source URL: https://www.svvsd.org/alerts/weather-delay-for-staff-morning-activities-canceled-on-wednesday-may-6/
-
-...
-Weather Delay for Staff, Morning Activities Canceled on Wednesday, May 6
-
-Source: https://www.svvsd.org/alerts/weather-delay-for-staff-morning-activities-canceled-on-wednesday-may-6/
+No recent alert items were found within the configured coverage window.
 
 ## Schools
 
@@ -1300,15 +1254,15 @@ Source: https://www.svvsd.org/schools/school-feeders/
 ### School Supplies
 
 - Canonical URL: https://www.svvsd.org/schools/school-supplies/
-- Last modified: 2025-05-08T14:44:35-06:00
+- Last modified: 2026-05-06T14:48:33-06:00
 
 School Supplies
 Preschool and Elementary Schools
-2025-26 English Supply List
-2025-26 Spanish Supply List
+2026-27 English Supply List
+2026-27 Spanish Supply List
 Middle Schools
-2025-26 English Supply List
-2025-26 Spanish Supply List
+2026-27 English Supply List
+2026-27 Spanish Supply List
 High Schools
 We do not publish supply lists for high school students because their needs are very class specific. Students most likely receive supply information on the first day of class.
 
@@ -12021,7 +11975,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-05T14:16:48-06:00
+- Last modified: 2026-05-07T10:46:57-06:00
 
 Spring 2026
 Mindful Mondays and Well-being Wednesdays
@@ -12043,23 +11997,6 @@ Wednesday, August 19:
 Flu Awareness
 Register Here for Mindful Monday Classes
 Register Here for Well-Being Wednesdays
-Bloom! Spring Step Challenge
-April 6 – May 3
-Get ready for our St Vrain staff springtime step challenge with
-Bloom.
-This 4 week journey to better health combines fitness and nature in a kaleidoscope of color and social camaraderie.
-Record steps or minutes
-Use your favorite tracking device or record exercise minutes and Bloom converts them to steps for you.
-Aim for 6000, 8000, or 10,000 steps a day
-Fill your Bloom branch with white (6000), yellow (8000), and pink (10,000) blossoms.
-Get social
-Invite friends, join a team, and connect with colleagues on the Community page.
-Important dates:
-March 23: Registration opens
-April 6: First day to log activity
-April 12: Registration and team formation deadline
-May 3: Last day of the program
-Log in to Bloom!
 Mammogram Events
 Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
 Kaiser Medical Office – 2345 Bent Way, Longmont 80503
@@ -12998,7 +12935,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-03-13T07:12:28-06:00
+- Last modified: 2026-05-08T14:56:33-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -13093,8 +13030,11 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/forms/
 ### Overnight Trip Request
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
-- Last modified: 2025-08-27T08:56:13-06:00
+- Last modified: 2026-05-08T11:13:08-06:00
 
+To access the Overnight/Out of State Trip request, please go to
+studenttrips.svvsd.org
+.
 Commonly Used Forms
 Procedure for Requesting Student Trips
 Acknowledgment of Risk and Hold Harmless Agreement
