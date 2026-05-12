@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-11T05:33:59.791451-06:00
+generated_at: 2026-05-12T04:40:26.076758-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -509,6 +509,21 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Student’s “Drones for Dreams” Inspires $25,000 OtterCares Grant for Innovation Center’s New Philanthropy Initiative
+
+- Published: 2026-05-11T12:25:38-06:00
+- Source URL: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
+
+On Thursday, May 7, the Innovation Center received a $25,000 grant from the OtterCares Foundation to help expand opportunities for students to apply their professional skills in support of nonprofit organizations across the region. The grant was inspired by Silver Creek High School junior Braeden Macchia’s work through “Drones for Dreams,” a student-led initiative that provides pro-bono drone services to community nonprofits.
+High School junior Braeden Macchia meets with the OtterCares Foundation’s Linda Crum, whose conversations with Braeden inspired the Innovation Center’s new philanthropy initiative.
+After connecting with Linda Crum and Lucy Nuremberg of the Ottercares Foundation last fall, Braeden shared his vision for growing and sustaining the program. “Braeden is a change maker,” Crum said. “He’s taken what he’s passionate about and asked, ‘How can I use this skill and talent to create lasting change and difference in the world?’ What he’s accomplished with ‘Drones for Dreams’ is incredible.”
+The OtterCares Foundation presents the Innovation Center with a $25,000 grant inspired by Braeden’s “Drones for Dreams” – funding that will expand nonprofit partnerships across every Innovation Center division.
+Inspired by Braeden’s leadership, Innovation Center administrators applied for the grant to help expand that same spirit of service across more than 20 student project teams. Beginning next year, students in programs including artificial intelligence, cybersecurity, design, media production, and more will dedicate a portion of their professional work to nonprofit partners, creating new opportunities for students to gain hands-on experience while supporting community organizations.
+Innovation Center staff, the OtterCares Foundation, and Braeden Macchia celebrate a $25,000 grant that will scale Braeden’s spirit of service into student project teams across the Innovation Center.
+As the initiative grows, Innovation Center staff and students hope to continue strengthening partnerships with nonprofit and industry organizations while expanding access to meaningful, real-world learning experiences. Through the support of the grant, the Innovation Center aims to build a lasting culture of service that extends far beyond a single program or student project.
+
+Source: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
+
 ### “All the World’s A Stage”: St. Vrain Elementary Students Perform Shakespeare in the Park
 
 - Published: 2026-05-08T13:59:51-06:00
@@ -647,30 +662,6 @@ By connecting creativity with digital responsibility and digital literacy, Vu’
 Vu hopes this approach helps shift the conversation around AI, especially for younger learners. “I think when people think about AI, especially with younger kids, it’s often very black and white,” she said. “But AI is embedded in so many of the things they interact with every day. I want them to understand how those things are made and to use them thoughtfully.”
 
 Source: https://www.svvsd.org/2026/04/29/innovation-center-educator-advances-in-presidential-ai-challenge/
-
-### Innovation Center Students Design Their Own Instruments
-
-- Published: 2026-04-20T09:45:41-06:00
-- Source URL: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
-
-At the Innovation Center of St. Vrain Valley Schools, music doesn’t only begin with notes on a page or traditional instruments; it can also start with wires, code, and imagination.
-On a recent morning, students in the Intro to Music Innovation class gathered around tables scattered with Arduino Leonardo microcontrollers, colorful wires, sensors, and hand-built prototypes for a culminating feedback session. The assignment: build and design their own musical instruments.
-Over the past six classes, using a combination of Arduino hardware and Logic Pro software, students transformed their creations into MIDI
-(Musical Instrument Digital Interface)
-controllers capable of producing and manipulating sound digitally. Their projects were rooted in the design thinking process, so each instrument needed to address a specific challenge they identified.
-From concept to prototype, students developed their instruments, using tools like Gemini to help write and troubleshoot their Arduino code. This use of AI allowed students to focus on rapid prototyping without needing a coding prerequisite. The result was a range of inventive solutions to real musical challenges, inspired by students’ existing musical frameworks and interests.
-At one station, Longmont High freshmen Clara Lehmer and Mason Morrow demonstrated an equalizer controlled by an ultrasonic sensor, allowing them to shape sound with the movement of their hands—similar to a theremin. At another, a series of buttons mapped to musical notes could shift between keys and chords, designed to make music fundamentals more accessible for beginners, including older adults or individuals with physical limitations.
-For Alexis Bonilla, a sophomore from Skyline High School, the project unlocked new ways of thinking about music. “It felt like it opened a lot of creative possibilities on a small scale,” he said.
-Other projects were born directly from personal experience. Tristan Jones and Nove Cleveland, both bass players, designed a small keyboard-style instrument that lets them practice sight-reading and learning melodies by ear without carrying a full-sized bass. Nearby, Spencer Gutierrez and Nayeli Ceja, both from Frederick High School, developed an intuitive controller to solve a problem they’ve faced in live performance. Spencer, who plays in a pit orchestra, shared that it can be difficult to adjust computer instrument settings quickly during a show. Their solution: a simplified control system designed for speed and ease.
-“It’s empowering to build something that is customized for exactly what you need,” Spencer said.
-The Music Innovation Pathway has three pillars: music industry, music education, and STEM of music and sound. Kyle Liss, Music Innovation Program Manager, said that the project was created specifically to speak to the latter. “I wanted a design challenge that enabled students’ creativity and was still musical at heart, while connecting to the STEM of music and sound.”
-Liss added that he has been impressed by the range of projects and solutions each group came up with, and that this is one of the few—and to his knowledge the only current—K-12 structures embedding rapid Arduino/MIDI instrument design challenges inside an ongoing district program.
-Blending human creativity with technology, note by note, line by line, or even instrument by instrument, we can’t wait to
-hear
-what these students will come up with next.
-Learn more about the Music Innovation pathway
-
-Source: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
 
 ### District alerts
 
@@ -10492,7 +10483,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/
 ### 2026-2027 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
-- Last modified: 2026-02-05T11:10:15-07:00
+- Last modified: 2026-05-11T16:14:57-06:00
 
 Begin your St. Vrain Preschool Application for the 2026-2027 School Year
 Five-Day-a-Week Preschool Programs in St. Vrain
@@ -10717,7 +10708,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/small-talk-b
 ### Financial Services
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/
-- Last modified: 2023-07-11T09:56:23-06:00
+- Last modified: 2026-05-11T14:28:57-06:00
 
 Financial Services
 Financial Services continuously strives to improve the quality of financial services to all internal and external customers through timely communication, accurate financial data and effective use of resources. Our focus is to maximize the efficient use of District assets towards improving student achievement and well-being.
@@ -11838,7 +11829,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-04-28T14:07:40-06:00
+- Last modified: 2026-05-11T14:23:48-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -11855,7 +11846,7 @@ Upcoming Wellness Events
 page, found in the HR newsletter, or passed onto your buildings’ Wellness Advocate to share.
 Click on the + button below for a full list of Wellness Champions.
 Wellness Champions
-Below is a list of Wellness Advocates representing buildings and teams across our school district. These individuals play a vital role in supporting district-wide wellness efforts for staff by helping communicate important information, sharing resources, and promoting healthy initiatives within their schools. Their commitment ensures that wellness messages reach staff effectively, creating a stronger, healthier community for all. If you are interesting in joining the Wellness Champion team, please reach out to Chara Worthington.
+Below is a list of Wellness Advocates representing buildings and teams across our school district. These individuals play a vital role in supporting district-wide wellness efforts for staff by helping communicate important information, sharing resources, and promoting healthy initiatives within their schools. Their commitment ensures that wellness messages reach staff effectively, creating a stronger, healthier community for all. If you are interesting in joining the Wellness Champion team, please reach out to Kristina De Ezpeleta.
 Alpine Elementary – Jen Tatham
 Altona Middle School – Robin Stephens
 APEX Homeschool Program – Desiree Fowler
@@ -11920,11 +11911,12 @@ Program Offerings
 Biometric screenings
 Employee Assistance Program
 Educational wellness resources
+Financial education classes
 Flu shots
 Online yoga classes
 Pop in wellness events
 Spring wellness challenge
-SVVSD Discount for area gyms
+SVVSD discount for area gyms
 Walktober
 Wellness classes from partners
 Wellness classes from SVVSD
@@ -11975,11 +11967,11 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-07T10:46:57-06:00
+- Last modified: 2026-05-11T16:02:00-06:00
 
-Spring 2026
+Summer 2026
 Mindful Mondays and Well-being Wednesdays
-Monthly, no-cost classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
+Monthly, no-cost virtual classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
 Can’t attend live? No problem, register anyway to receive the recordings.
 Wednesday, May 20:
 Digital Detox
@@ -11997,28 +11989,13 @@ Wednesday, August 19:
 Flu Awareness
 Register Here for Mindful Monday Classes
 Register Here for Well-Being Wednesdays
-Mammogram Events
-Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
-Kaiser Medical Office – 2345 Bent Way, Longmont 80503
-Kaiser Permanente is offering special mammography access at our Longmont Medical Office Building just for St. Vrain Valley School District employees who are Kaiser Permanente members. Enjoy a swag bag stuffed with goodies – some lucky participants will receive a
-$50 Mastercard gift card
-tucked inside.
-Register here by April 30
-Note for registration: This unique registration is HIPAA compliant and private. Members will need to set up a new username and password to schedule their appointment (their
-kp.org
-username and password will not work in this registration system).
-Not sure if you are due for a mammogram? Check your health care reminders either through the medical record section of the KP app or at
-kp.org/healthcarereminders/co
-.
-Mochas and Mammos (UMR Members)
-– this event has ended. Check back in the fall for our next mammogram screening
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-05T09:22:43-06:00
+- Last modified: 2026-05-11T16:11:35-06:00
 
 This Month
 May Wellbeing Flyer:
@@ -12045,7 +12022,7 @@ Life events can affect the lives of team members both at home and at work. That 
 Employee Assistance Program
 page.
 Financial Education
-ENT Credit Union offers ongoing free financial virtual classes. Click below to access a full list of financial advising events and webinars and to register.
+Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
 ENT Credit Union Events
 Maternity Program
 Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.

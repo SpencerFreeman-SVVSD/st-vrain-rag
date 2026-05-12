@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-11T05:33:59.791451-06:00
+generated_at: 2026-05-12T04:40:26.076758-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,21 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Student’s “Drones for Dreams” Inspires $25,000 OtterCares Grant for Innovation Center’s New Philanthropy Initiative
+
+- Published: 2026-05-11T12:25:38-06:00
+- Source URL: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
+
+On Thursday, May 7, the Innovation Center received a $25,000 grant from the OtterCares Foundation to help expand opportunities for students to apply their professional skills in support of nonprofit organizations across the region. The grant was inspired by Silver Creek High School junior Braeden Macchia’s work through “Drones for Dreams,” a student-led initiative that provides pro-bono drone services to community nonprofits.
+High School junior Braeden Macchia meets with the OtterCares Foundation’s Linda Crum, whose conversations with Braeden inspired the Innovation Center’s new philanthropy initiative.
+After connecting with Linda Crum and Lucy Nuremberg of the Ottercares Foundation last fall, Braeden shared his vision for growing and sustaining the program. “Braeden is a change maker,” Crum said. “He’s taken what he’s passionate about and asked, ‘How can I use this skill and talent to create lasting change and difference in the world?’ What he’s accomplished with ‘Drones for Dreams’ is incredible.”
+The OtterCares Foundation presents the Innovation Center with a $25,000 grant inspired by Braeden’s “Drones for Dreams” – funding that will expand nonprofit partnerships across every Innovation Center division.
+Inspired by Braeden’s leadership, Innovation Center administrators applied for the grant to help expand that same spirit of service across more than 20 student project teams. Beginning next year, students in programs including artificial intelligence, cybersecurity, design, media production, and more will dedicate a portion of their professional work to nonprofit partners, creating new opportunities for students to gain hands-on experience while supporting community organizations.
+Innovation Center staff, the OtterCares Foundation, and Braeden Macchia celebrate a $25,000 grant that will scale Braeden’s spirit of service into student project teams across the Innovation Center.
+As the initiative grows, Innovation Center staff and students hope to continue strengthening partnerships with nonprofit and industry organizations while expanding access to meaningful, real-world learning experiences. Through the support of the grant, the Innovation Center aims to build a lasting culture of service that extends far beyond a single program or student project.
+
+Source: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
 
 ### “All the World’s A Stage”: St. Vrain Elementary Students Perform Shakespeare in the Park
 
@@ -146,30 +161,6 @@ By connecting creativity with digital responsibility and digital literacy, Vu’
 Vu hopes this approach helps shift the conversation around AI, especially for younger learners. “I think when people think about AI, especially with younger kids, it’s often very black and white,” she said. “But AI is embedded in so many of the things they interact with every day. I want them to understand how those things are made and to use them thoughtfully.”
 
 Source: https://www.svvsd.org/2026/04/29/innovation-center-educator-advances-in-presidential-ai-challenge/
-
-### Innovation Center Students Design Their Own Instruments
-
-- Published: 2026-04-20T09:45:41-06:00
-- Source URL: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
-
-At the Innovation Center of St. Vrain Valley Schools, music doesn’t only begin with notes on a page or traditional instruments; it can also start with wires, code, and imagination.
-On a recent morning, students in the Intro to Music Innovation class gathered around tables scattered with Arduino Leonardo microcontrollers, colorful wires, sensors, and hand-built prototypes for a culminating feedback session. The assignment: build and design their own musical instruments.
-Over the past six classes, using a combination of Arduino hardware and Logic Pro software, students transformed their creations into MIDI
-(Musical Instrument Digital Interface)
-controllers capable of producing and manipulating sound digitally. Their projects were rooted in the design thinking process, so each instrument needed to address a specific challenge they identified.
-From concept to prototype, students developed their instruments, using tools like Gemini to help write and troubleshoot their Arduino code. This use of AI allowed students to focus on rapid prototyping without needing a coding prerequisite. The result was a range of inventive solutions to real musical challenges, inspired by students’ existing musical frameworks and interests.
-At one station, Longmont High freshmen Clara Lehmer and Mason Morrow demonstrated an equalizer controlled by an ultrasonic sensor, allowing them to shape sound with the movement of their hands—similar to a theremin. At another, a series of buttons mapped to musical notes could shift between keys and chords, designed to make music fundamentals more accessible for beginners, including older adults or individuals with physical limitations.
-For Alexis Bonilla, a sophomore from Skyline High School, the project unlocked new ways of thinking about music. “It felt like it opened a lot of creative possibilities on a small scale,” he said.
-Other projects were born directly from personal experience. Tristan Jones and Nove Cleveland, both bass players, designed a small keyboard-style instrument that lets them practice sight-reading and learning melodies by ear without carrying a full-sized bass. Nearby, Spencer Gutierrez and Nayeli Ceja, both from Frederick High School, developed an intuitive controller to solve a problem they’ve faced in live performance. Spencer, who plays in a pit orchestra, shared that it can be difficult to adjust computer instrument settings quickly during a show. Their solution: a simplified control system designed for speed and ease.
-“It’s empowering to build something that is customized for exactly what you need,” Spencer said.
-The Music Innovation Pathway has three pillars: music industry, music education, and STEM of music and sound. Kyle Liss, Music Innovation Program Manager, said that the project was created specifically to speak to the latter. “I wanted a design challenge that enabled students’ creativity and was still musical at heart, while connecting to the STEM of music and sound.”
-Liss added that he has been impressed by the range of projects and solutions each group came up with, and that this is one of the few—and to his knowledge the only current—K-12 structures embedding rapid Arduino/MIDI instrument design challenges inside an ongoing district program.
-Blending human creativity with technology, note by note, line by line, or even instrument by instrument, we can’t wait to
-hear
-what these students will come up with next.
-Learn more about the Music Innovation pathway
-
-Source: https://www.svvsd.org/2026/04/20/innovation-center-students-design-their-own-instruments/
 
 ### District alerts
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-11T05:33:59.791451-06:00
+generated_at: 2026-05-12T04:40:26.076758-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9209,7 +9209,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/
 ### 2026-2027 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
-- Last modified: 2026-02-05T11:10:15-07:00
+- Last modified: 2026-05-11T16:14:57-06:00
 
 Begin your St. Vrain Preschool Application for the 2026-2027 School Year
 Five-Day-a-Week Preschool Programs in St. Vrain
@@ -9434,7 +9434,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/small-talk-b
 ### Financial Services
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/
-- Last modified: 2023-07-11T09:56:23-06:00
+- Last modified: 2026-05-11T14:28:57-06:00
 
 Financial Services
 Financial Services continuously strives to improve the quality of financial services to all internal and external customers through timely communication, accurate financial data and effective use of resources. Our focus is to maximize the efficient use of District assets towards improving student achievement and well-being.
@@ -10555,7 +10555,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-04-28T14:07:40-06:00
+- Last modified: 2026-05-11T14:23:48-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -10572,7 +10572,7 @@ Upcoming Wellness Events
 page, found in the HR newsletter, or passed onto your buildings’ Wellness Advocate to share.
 Click on the + button below for a full list of Wellness Champions.
 Wellness Champions
-Below is a list of Wellness Advocates representing buildings and teams across our school district. These individuals play a vital role in supporting district-wide wellness efforts for staff by helping communicate important information, sharing resources, and promoting healthy initiatives within their schools. Their commitment ensures that wellness messages reach staff effectively, creating a stronger, healthier community for all. If you are interesting in joining the Wellness Champion team, please reach out to Chara Worthington.
+Below is a list of Wellness Advocates representing buildings and teams across our school district. These individuals play a vital role in supporting district-wide wellness efforts for staff by helping communicate important information, sharing resources, and promoting healthy initiatives within their schools. Their commitment ensures that wellness messages reach staff effectively, creating a stronger, healthier community for all. If you are interesting in joining the Wellness Champion team, please reach out to Kristina De Ezpeleta.
 Alpine Elementary – Jen Tatham
 Altona Middle School – Robin Stephens
 APEX Homeschool Program – Desiree Fowler
@@ -10637,11 +10637,12 @@ Program Offerings
 Biometric screenings
 Employee Assistance Program
 Educational wellness resources
+Financial education classes
 Flu shots
 Online yoga classes
 Pop in wellness events
 Spring wellness challenge
-SVVSD Discount for area gyms
+SVVSD discount for area gyms
 Walktober
 Wellness classes from partners
 Wellness classes from SVVSD
@@ -10692,11 +10693,11 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-07T10:46:57-06:00
+- Last modified: 2026-05-11T16:02:00-06:00
 
-Spring 2026
+Summer 2026
 Mindful Mondays and Well-being Wednesdays
-Monthly, no-cost classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
+Monthly, no-cost virtual classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
 Can’t attend live? No problem, register anyway to receive the recordings.
 Wednesday, May 20:
 Digital Detox
@@ -10714,28 +10715,13 @@ Wednesday, August 19:
 Flu Awareness
 Register Here for Mindful Monday Classes
 Register Here for Well-Being Wednesdays
-Mammogram Events
-Moonlight Mammograms (Kaiser members) – May 6, 7, and 8 from 3pm – 6:30pm. By Appointment Only
-Kaiser Medical Office – 2345 Bent Way, Longmont 80503
-Kaiser Permanente is offering special mammography access at our Longmont Medical Office Building just for St. Vrain Valley School District employees who are Kaiser Permanente members. Enjoy a swag bag stuffed with goodies – some lucky participants will receive a
-$50 Mastercard gift card
-tucked inside.
-Register here by April 30
-Note for registration: This unique registration is HIPAA compliant and private. Members will need to set up a new username and password to schedule their appointment (their
-kp.org
-username and password will not work in this registration system).
-Not sure if you are due for a mammogram? Check your health care reminders either through the medical record section of the KP app or at
-kp.org/healthcarereminders/co
-.
-Mochas and Mammos (UMR Members)
-– this event has ended. Check back in the fall for our next mammogram screening
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-05T09:22:43-06:00
+- Last modified: 2026-05-11T16:11:35-06:00
 
 This Month
 May Wellbeing Flyer:
@@ -10762,7 +10748,7 @@ Life events can affect the lives of team members both at home and at work. That 
 Employee Assistance Program
 page.
 Financial Education
-ENT Credit Union offers ongoing free financial virtual classes. Click below to access a full list of financial advising events and webinars and to register.
+Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
 ENT Credit Union Events
 Maternity Program
 Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
