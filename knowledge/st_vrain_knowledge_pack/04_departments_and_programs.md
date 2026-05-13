@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-12T04:40:26.076758-06:00
+generated_at: 2026-05-13T04:40:04.847477-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -5783,11 +5783,11 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-04-22T11:20:26-06:00
+- Last modified: 2026-05-12T14:31:23-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
-SUMMER 2026 eCredit Registration Starts April 22nd
+SUMMER 2026 eCredit Registration OPEN
 LOCATION FULL? – CLICK HERE to be put on the Waitlist
 Registration:
 Wednesday, April 22nd – Tuesday, May 26th (at NOON or EARLIER IF AVAILABLE SEATS FILL)
@@ -5796,9 +5796,15 @@ June 1st – June 19th from 9am – 12pm
 Mandatory IN PERSON class Monday – Thursday with Fridays virtual
 Locations and Courses Offered:
 Erie High School
-– English, Social Studies, Health, & PFL
+– English
+(FULL
+), Social Studies(
+FULL
+), Math, Health, & PFL
 Frederick High School
-– English, Social Studies, Science, Math, Health, & PFL
+– English, Social Studies, Science, Math (
+FULL
+), Health, & PFL
 Longmont High School
 – English, Social Studies, Health, & PFL
 Mead High School
@@ -5808,7 +5814,7 @@ Niwot High School
 Silver Creek High School
 – English, Social Studies, Math, Health, & PFL
 Skyline High School
-– English, Social Studies, Health, & PFL
+– Not offering courses at this location for the Summer Session
 SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2026 Student Waitlist.
 New Meridian/St. Vrain Virtual
 Summer eCredit runs their own Summer School with slightly different times and dates.
@@ -9434,7 +9440,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/small-talk-b
 ### Financial Services
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/
-- Last modified: 2026-05-11T14:28:57-06:00
+- Last modified: 2026-05-12T08:34:58-06:00
 
 Financial Services
 Financial Services continuously strives to improve the quality of financial services to all internal and external customers through timely communication, accurate financial data and effective use of resources. Our focus is to maximize the efficient use of District assets towards improving student achievement and well-being.
@@ -10721,7 +10727,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-11T16:11:35-06:00
+- Last modified: 2026-05-12T10:01:59-06:00
 
 This Month
 May Wellbeing Flyer:
@@ -10750,6 +10756,9 @@ page.
 Financial Education
 Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
 ENT Credit Union Events
+Headspace
+Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you
+Create Your Headspace Account
 Maternity Program
 Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
 Click here for program information.
@@ -13869,7 +13878,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Summer Meals
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-meals-2/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-05-12T13:38:41-06:00
 
 “I have the audacity to believe that people everywhere can have three meals a day for their bodies, education and culture for the minds and dignity, equality and freedom for their spirits.”
 Martin Luther King, Jr.
@@ -13929,6 +13938,12 @@ CDHS webpage
 or call center by calling 800-536-5298, texting 720-741-0550 or emailing
 [email protected]
 .
+New Tool: Unlock Benefits with Single Stop
+Families may qualify for a range of public benefits and support services and not even realize it.
+Single Stop is a benefit screening tool, designed with strong privacy and data security protections,
+that helps you discover what support you’re eligible for – including SNAP, WIC, healthcare
+assistance, utility help and more.
+Take me to the screener!
 FAQ
 Do preschool students qualify for S-EBT?
 Yes, if preschoolers attend a school participating in the National School Lunch Program or School Breakfast Program and qualify based on free or reduced-price eligibility status or direct certification then they are able receive benefits.
@@ -17405,24 +17420,8 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-01-09T14:02:00-07:00
+- Last modified: 2026-05-12T11:03:26-06:00
 
-An evening with Jenny Hecht
-Una tarde con Jenny Hecht
-Now Accepting Applications for 2026 Legislative Day
-Legislative Day 2026 at the Capitol
-will be held on
-Thursday, February 19, 2026
-. This will be the 27th year of providing this unique opportunity for students and adults to experience firsthand how state government works. There are three major components to the day:
-1. The student’s involvement in shadowing a legislator.
-2. Q&A with various legislators from both sides of the aisle.
-3. Afternoon activities will wrap up the day.
-This program is designed for
-identified gifted students, 9th through 12th graders ONLY,
-who are passionate about our state’s legislative processes, current state or national issues, and who are ready to have an individualized experience with other students and adults. No two experiences are the same!Registration is now open. Click on this
-link
-for more information and to submit your application.We look forward to seeing you at the Colorado State Capitol in February!
-CAGT Legislative Committee
 The September referral window is now closed please contact the GT representative/site leader at your building if you have questions. Referrals are accepted on a case by case basis throughout the school year.
 El plazo para referir a su estudiante durante septiembre ya ha finalizado. Si tiene alguna pregunta, comuníquese con el representante de GT/líder de su escuela. Las referencias se aceptan caso por caso durante todo el año escolar.
 Gifted and Talented Services Vision and Mission/Mision de el Programa de Superdotados y Talentosos
@@ -17583,7 +17582,7 @@ Central
 Hillary Simonson
 [email protected]
 Columbine
-Sherrie DW Dike-Wilhelm
+Sherie “DW” Dike-Wilhelm
 [email protected]
 Eagle Crest
 Lindsey Cheney
@@ -17758,7 +17757,81 @@ Michael Aragon
 St. Vrain Virtual High School
 Lisa Parnaby-Wells
 [email protected]
-Contactos en las escuelas y descripción de la programación (Haga clic en el nombre de la escuela para ver la descripcion...
+Contactos en las escuelas y descripción de la programación (Haga clic en el nombre de la escuela para ver la descripcion de la programacion).
+Elementary Schools
+Name
+Email Address
+Alpine
+Allison Fitzgerald
+[email protected]
+Black Rock
+Megan Hawkins
+[email protected]
+Blue Mountain
+Shannan Olson
+[email protected]
+Burlington
+Jesse Sapir
+[email protected]
+Centennial
+Deb Evans
+[email protected]
+Central
+Hillary Simonson
+[email protected]
+Columbine
+Sherrie DW Dike-Wilhelm
+[email protected]
+Eagle Crest
+Lindsey Cheney
+[email protected]
+Erie
+Maggie Sisk
+[email protected]
+Fall River
+Melinda Schluckebier
+[email protected]
+Grand View
+Kayla Hawkins
+[email protected]
+Highlands
+Jolene Lewis
+[email protected]
+Hygiene
+Anna Carr
+[email protected]
+Indian Peaks
+Laurel Urquidi
+[email protected]
+Legacy
+Kristin Pierce
+[email protected]
+Longmont Estates
+Jessica Shaffer
+s
+[email protected]
+Lyons
+Jamie Meyers
+[email protected]
+Mead
+Ann Schenk
+Skylar Vaughn
+[email protected]
+Mountain View
+Lisa Selleck
+[email protected]
+Niwot
+Audrey Lenger
+[email protected]
+Northridge
+Emily Fiebig
+[email protected]
+Prairie Ridge
+Heidi Cloud
+[email protected]
+Red Hawk
+Wendy Durst
+Br...
 
 Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/
 
@@ -17788,7 +17861,7 @@ Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/r
 ### School Contacts
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
-- Last modified: 2025-12-05T11:13:38-07:00
+- Last modified: 2026-05-12T15:07:25-06:00
 
 School Contacts
 Programming is a site based decision. Click on the school name in order to view their programming options. Contact the school directly with any questions regarding programming or services.
@@ -17814,7 +17887,7 @@ Central
 Hillary Simonson
 [email protected]
 Columbine
-Sherrie DW Dike-Wilhelm
+Sherie DW Dike-Wilhelm
 [email protected]
 Eagle Crest
 Lindsey Cheney
