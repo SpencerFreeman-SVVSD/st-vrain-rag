@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-13T04:40:04.847477-06:00
+generated_at: 2026-05-15T04:35:39.277885-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,70 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Prairie Ridge Elementary Celebrates 25 Years of Community and Connection
+
+- Published: 2026-05-14T12:31:28-06:00
+- Source URL: https://www.svvsd.org/2026/05/14/prairie-ridge-elementary-celebrates-25-years-of-community-and-connection/
+
+Former students, retired educators, current staff, and families gathered at Prairie Ridge Elementary on Friday, May 1 to celebrate the school’s 25th anniversary. The evening brought together the Prairie Ridge community to reconnect, share memories, and reflect on the relationships and traditions that have shaped the school over the past two decades.
+Attendees reconnect at Prairie Ridge Elementary’s 25th Anniversary Celebration.
+Throughout the celebration, attendees revisited Prairie Ridge history through yearbooks, a commemorative video, and the opening of a time capsule sealed in 2000. Former coworkers, teachers, and students reconnected while current students participated in STEM activities and posed for photos with the school mascot. Community members who played a role in the original opening of Prairie Ridge, including former landowners and school leaders, were also recognized for their contributions to the school and surrounding community.
+An attendee takes a commemorative photo during Prairie Ridge Elementary’s 25th Anniversary Celebration.
+The anniversary celebration served as a reminder of the lasting impact Prairie Ridge has had on generations of students, staff, and families. By bringing together past and present members of the school community, the event highlighted the enduring connections and shared memories that continue to define Prairie Ridge 25 years after opening its doors.
+A Prairie Ridge Elementary student poses with the school’s mascot.
+
+Source: https://www.svvsd.org/2026/05/14/prairie-ridge-elementary-celebrates-25-years-of-community-and-connection/
+
+### 2026 Graduation Information
+
+- Published: 2026-05-13T15:32:13-06:00
+- Source URL: https://www.svvsd.org/2026/05/13/2026-graduation-information/
+
+St. Vrain Valley Schools is proud to celebrate the many accomplishments of our Class of 2026 and invites the entire community to join the celebrations virtually through the livestreams of our graduation ceremonies. Interpretation services will also be available at each graduation ceremony.
+Schedule and Livestream Links:
+Thursday, May 21
+LaunchED Virtual Academy
+– 5:00 p.m. at the Vance Brand Civic Auditorium at Skyline High School
+Friday, May 22
+New Meridian High School
+– 9:00 a.m. at Longmont High School
+St. Vrain Virtual High School
+– 9:00 a.m. at Silver Creek High School
+Saturday, May 23
+Erie High School
+– 9:00 a.m.
+Frederick High School
+– 10:00 a.m.
+Longmont High School
+– 10:00 a.m.
+Lyons Senior High School
+– 10:00 a.m.
+Mead High School
+– 9:00 a.m.
+Niwot High School
+– 9:00 a.m.
+Silver Creek High School
+– 10:00 a.m.
+Skyline High School
+– 9:00 a.m.
+Spanish Interpretation Services Available at Graduation
+Live Spanish interpretation will be provided by the district’s Translation and Interpretation Services team during many of the St. Vrain graduation ceremonies. This service allows families and community members to experience the celebration in Spanish using their cellphones. A link will be provided at the ceremony, and guests may listen in real time using their own headphones or wireless earbuds.
+
+Source: https://www.svvsd.org/2026/05/13/2026-graduation-information/
+
+### Eagle Crest Families Experience Student Learning Through Coding Showcase
+
+- Published: 2026-05-13T14:59:23-06:00
+- Source URL: https://www.svvsd.org/2026/05/13/eagle-crest-families-experience-student-learning-through-coding-showcase/
+
+An Eagle Crest student presents his coding project to family.
+The sounds of excited students explaining code, testing robots and guiding parents through virtual worlds filled the halls of Eagle Crest Elementary on Thursday, May 7 during the school’s annual “Eagles Can Code” event. Families and friends gathered alongside teachers to experience firsthand how students have been using technology and creative problem-solving throughout the school year. As parents visited their students’ classrooms, they explored coding applications on iPads that allowed students to customize projects, control robots, and more.
+An Eagle Crest student shows a family member what she’s coded in class.
+Students from the Innovation Center also offered their support by leading hands-on robotics and virtual reality activities in the gym. Using low-code programming methods, Eagle Crest students directed how robots moved and interacted, while VR headsets transported participants into immersive digital environments. The evening celebrated a year of learning and highlighted how students across all grade levels advanced beyond foundational instruction to pursue passion-driven projects. Families also had the opportunity to experience firsthand the creativity, innovation, and technical skills students developed throughout the year.
+An Innovation Center student hands an Eagle Crest student a robot.
+
+Source: https://www.svvsd.org/2026/05/13/eagle-crest-families-experience-student-learning-through-coding-showcase/
 
 ### Student’s “Drones for Dreams” Inspires $25,000 OtterCares Grant for Innovation Center’s New Philanthropy Initiative
 
@@ -116,51 +180,6 @@ Isaac with his mentor, Brent Mac, a Salesforce Solution Architect. “Being Isaa
 Looking ahead, Isaac plans to build on this momentum by pursuing additional certifications through the CLIMB Program during his senior year at Niwot High School. As he continues exploring the broader world of computer science and coding, Isaac is focused on gaining more experience in computer science and refining the skills that have already prepared him for the future.
 
 Source: https://www.svvsd.org/2026/04/30/niwot-high-school-student-builds-a-future-with-salesforce/
-
-### Mountain View Elementary Earns Tree Campus Recognition with Arbor Day Celebration
-
-- Published: 2026-04-29T13:45:37-06:00
-- Source URL: https://www.svvsd.org/2026/04/29/mountain-view-elementary-earns-tree-campus-recognition-with-arbor-day-celebration/
-
-On Friday, April 24, Mountain View Elementary celebrated Arbor Day with a school-wide event that highlighted hands-on student learning and community collaboration. The day began with an all-school assembly, where student council members performed skits centered on environmental responsibility, followed by a unified musical performance. Shortly after, students moved outdoors for a tree planting ceremony recognizing the school’s participation in the
-Arbor Day Foundation’s Tree Campus K-12 program
-, a national initiative that supports meaningful, sustainable environmental efforts.
-Students at Mountain View Elementary sing during their Arbor Day celebration.
-Mountain View earned its
-Tree Campus
-designation by meeting four core goals: establishing a student- and staff-led Tree Campus team, implementing a school-wide education plan, providing hands-on learning opportunities, and hosting an Arbor Day observance. First grade classrooms played a central role in the effort, connecting tree-focused learning to grade-level standards through field experiences at Boulder Community Gardens, literacy activities centered on plant life cycles, and student writing projects.
-Students at Mountain View Elementary watch as Blue River Forestry and Tree Care begins to plant the school’s newest tree.
-Students also engaged in stewardship through hands-on experiences, including contributing to a tree inventory in which they identified and recorded all the trees on the Mountain View campus. The celebration extended beyond campus, with Mountain View’s student council distributing wildflower seeds for students to plant at home, reinforcing the importance of environmental care within the broader community.
-Student council members at Mountain View help to finish planting the school’s newest tree.
-The tree planting at Mountain View was made possible through coordination led by the district’s Building Services Department in partnership with Blue River Forestry and Tree Care, who provided the tree to plant. St. Vrain’s Groundskeeping Department also played a key role in planning and carrying out the planting on the north side of the campus.
-Students add dirt around Mountain View Elementary’s newest tree.
-
-Source: https://www.svvsd.org/2026/04/29/mountain-view-elementary-earns-tree-campus-recognition-with-arbor-day-celebration/
-
-### St. Vrain Valley Schools Earns National Recognition as a Best Community for Music Education for Sixth Consecutive Year
-
-- Published: 2026-04-29T12:43:46-06:00
-- Source URL: https://www.svvsd.org/2026/04/29/st-vrain-valley-schools-earns-national-recognition-as-a-best-community-for-music-education-for-sixth-consecutive-year/
-
-St. Vrain Valley Schools has been recognized by the NAMM Foundation as one of the nation’s Best Communities for Music Education, marking the district’s sixth consecutive year receiving this prestigious honor.
-This national designation celebrates school districts that demonstrate exceptional commitment to ensuring all students have access to high-quality music education as part of a well-rounded academic experience. The application process evaluates districts on a variety of factors, including access to certified music educators, advanced degrees held by teaching staff, funding for music programs, equitable access for Title I students, the breadth of music courses and ensembles offered from preschool through twelfth grade, graduation requirements in the arts, and opportunities for districtwide collaboration.
-This year, St. Vrain Valley Schools was one of three districts in Colorado to receive this distinction.
-“This recognition is a reflection of the hard work, passion, and dedication of our music teachers, who create music communities in their classroom every day, and our building administrators who support them,” said Janay Bird, Director of Fine Arts, Performing Arts, and PE.
-
-Source: https://www.svvsd.org/2026/04/29/st-vrain-valley-schools-earns-national-recognition-as-a-best-community-for-music-education-for-sixth-consecutive-year/
-
-### Innovation Center Educator Advances in Presidential AI Challenge
-
-- Published: 2026-04-29T12:35:37-06:00
-- Source URL: https://www.svvsd.org/2026/04/29/innovation-center-educator-advances-in-presidential-ai-challenge/
-
-Mai Vu, AI Program Coordinator at the Innovation Center, first learned about the Presidential AI Challenge over the summer. Designed to encourage both educators and students to address real-world community issues while using artificial intelligence, the challenge immediately caught her attention. Encouraged by colleagues and friends to participate, Vu saw it as an opportunity to bring her own perspective on responsible AI use to a broader stage.
-That perspective had already been taking shape in her work. As AI becomes increasingly embedded in everyday products, including children’s toys, Vu began questioning not just what AI can do, but what it should do. “As an AI program manager, I’m very pro using AI but at the right place, at the right time, and with the correct guardrails,” she explained.
-Those “guardrails” became the foundation of the project she submitted to the challenge: an interactive AI puppet program designed to teach students how to engage with artificial intelligence safely and thoughtfully. In the program, students create an online puppet by assigning it specific attributes and characteristics. From there, they must define boundaries for interaction – preventing the puppet from sharing personal information such as age, location, or contact details. A token system further limits how many questions can be asked, encouraging intentional and mindful use rather than unlimited access.
-By connecting creativity with digital responsibility and digital literacy, Vu’s software directly reflected the mission of the Presidential AI Challenge. Her project advanced to the state round, where she was selected as one of ten finalists to compete at the regional level. Vu’s work continues to gain recognition and momentum beyond the competition. . This summer, the AI puppet program will be integrated into the Innovation Center’s Best Friend Algorithm camp, where students will create both physical sock puppets and their digital AI counterparts. Through these hands-on experiences, students will begin to understand not only how AI works, but how to use it responsibly.
-Vu hopes this approach helps shift the conversation around AI, especially for younger learners. “I think when people think about AI, especially with younger kids, it’s often very black and white,” she said. “But AI is embedded in so many of the things they interact with every day. I want them to understand how those things are made and to use them thoughtfully.”
-
-Source: https://www.svvsd.org/2026/04/29/innovation-center-educator-advances-in-presidential-ai-challenge/
 
 ### District alerts
 

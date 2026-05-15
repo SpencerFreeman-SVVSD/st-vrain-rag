@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-13T04:40:04.847477-06:00
+generated_at: 2026-05-15T04:35:39.277885-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9005,10 +9005,10 @@ Source: https://www.svvsd.org/departments/communityschools/high-quality-childcar
 ### Wraparound Pre-K Care
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/wraparound-pre-k-care/
-- Last modified: 2026-04-02T15:48:06-06:00
+- Last modified: 2026-05-14T08:30:28-06:00
 
 Extend Your Child’s Preschool Experience with Pre-K Childcare
-Registration for the 2026-2027 school will be open on January 27
+Registration is open for the 2026-2027 school year
 St. Vrain Valley Schools offers licensed Wraparound Pre-K care for children ages 3 to 5 at six different locations. Our Wraparound Pre-K Care programs are designed to compliment your child’s preschool experience as well as offer a
 childcare option
 for those not yet ready for Preschool. All care programs are licensed according to regulations for Childcare Centers issued by the Colorado Department of Early Childhood (CDEC).
@@ -9045,6 +9045,12 @@ Fall River Elementary
 here
 .
 1604741
+Grand View Elementary
+, Register
+here.
+Hours limited to Before Preschool and After Preschool
+No care offered during preschool
+1707611
 Mountain View Elementary
 , Register
 here
@@ -9188,9 +9194,9 @@ Source: https://www.svvsd.org/departments/early-childhood/about-us/
 ### Preschool
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/
-- Last modified: 2026-02-05T11:09:37-07:00
+- Last modified: 2026-05-13T11:23:05-06:00
 
-Begin Your St. Vrain Preschool Application for the 2026-2027 School Year
+Begin Your 2026-2027 Preschool Application
 View the 2026-2027 Preschool Program Locations
 The St. Vrain PRE Advantage
 Give your child the strongest start possible with St. Vrain Valley Schools’ exceptional preschool programming. As part of a nationally recognized public school district, we offer resources and support that stand apart from typical preschool settings. Our comprehensive approach to early childhood education combines expert teaching, innovative curriculum, and a nurturing environment that prepares children for lifelong success.
@@ -9201,44 +9207,114 @@ St. Vrain’s commitment to small class sizes means your child receives the pers
 High-Quality Early Intervention Supports
 Your child benefits from St. Vrain’s extensive support network, including district specialists in speech therapy, occupational therapy, special education, and language development. Highly trained staff to help identify early intervention needs. Our program seamlessly integrates these professional services into the daily learning environment. Our students have access to the same high-quality resources and expertise that support learning throughout our K-12 programs.
 Flexible Programming for Your Family
-Starting in 2025-26, we’re expanding to five-day programming to provide even more learning opportunities. Families can choose from morning, afternoon, or full-day sessions, with wraparound care options available at select locations. Our programs serve both 3- and 4-year-olds, ensuring the right fit for your child’s developmental stage and your family’s needs.
+Families can choose from morning, afternoon, or full-day sessions, with
+wraparound care
+options available at select locations. Our programs serve both 3- and 4-year-olds, ensuring the right fit for your child’s developmental stage and your family’s needs.
 Convenient Preschool Locations
 By choosing St. Vrain preschool, your child becomes part of their elementary school community from the start, allowing them to build confidence in their future school setting while forming lasting friendships with future classmates. The seamless transition into kindergarten comes naturally as children are already familiar with their school community, and many enjoy the added benefit of staying connected with siblings in the same building.
 St. Vrain Valley Schools offers preschool programming at 25 elementary schools across the district, offering families flexibility in finding a program that meets their unique needs.
 Spark! Discovery Preschool
 is a standalone, high-quality preschool center serving families in Frederick, Firestone, and Dacono.
 Excellence Begins with Preschool
-Register Now for the 2025-2026 school year
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/
 
 ### 2026-2027 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
-- Last modified: 2026-05-11T16:14:57-06:00
+- Last modified: 2026-05-13T11:22:07-06:00
 
-Begin your St. Vrain Preschool Application for the 2026-2027 School Year
-Five-Day-a-Week Preschool Programs in St. Vrain
-St. Vrain Valley Schools offers five-day-a-week preschool programs across the district, giving families more opportunities for consistent learning and connection. Families can choose from a variety of high-quality options, including half-day morning and afternoon sessions, with full-day programs available at select schools.
+High-Quality Preschool Programs in St. Vrain
+St. Vrain Valley Schools offers exceptional preschool programs across the district, giving families more opportunities for consistent learning and connection. Families can choose from a variety of high-quality options, including half-day morning and afternoon sessions, with full-day programs available at select schools.
 The Colorado Universal Preschool application is available within St. Vrain’s application and families interested in St. Vrain’s programming are encouraged to use our application form. Preschool placements are first come, first serve. Registering early increases the opportunity of placement at a family’s school of choice.
-View the 2026-2027 Preschool Program Locations
-2026-2027 Preschool Matching Process Timeline
-:
-Please note: These dates are subject to change based on state and district updates.
-Registration:
-Dec. 9:
-ALL
-preschool registration begins (district and UPK applications will open – the UPK registration link will be embedded in our district application).
-Feb 2:
-Pre-registered families informed of their matches by UPK (
-ONLY
-applies to returning students turning 4 on or before Oct. 1, families with siblings enrolled in St Vrain schools, and parents of 4 yr olds who work in the district).
-Feb 25:
-First Round families informed of their matches by UPK (students who applied between Dec. 9th to Mid February are included in this matching round).
-March 24
-: Second Round families informed of their matches by UPK (students who applied between February 25 and mid March are included in this matching round).
-April 1
-: Direct enrollment begins.
+Begin 2026-2027 Preschool Application
+2026-2027 Preschool Locations
+Erie
+Black Rock Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+Erie Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Highlands Elementary
+Morning session (8:50-11:30 a.m.)
+Afternoon session (12:40-3:20 p.m.)
+Red Hawk Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Soaring Heights PK-8
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:30-3:10 p.m.)
+Full-day session (8:40 a.m. – 3:10 p.m.)
+Frederick
+Grand View Elementary
+Morning session (9:00-11:40 a.m.)
+Afternoon session (1:00-3:40 p.m.)
+Full-day session (9:00 a.m. – 3:40 p.m.)
+Spark! Discovery Preschool
+Morning session (8:30-11:10 a.m.)
+Afternoon session (12:25-3:05 p.m.)
+Full-day session (8:30 a.m. – 3:05 p.m.)
+Longmont
+Alpine Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Blue Mountain Elementary
+Morning session (8:45-11:20 a.m.)
+Afternoon session (12:40-3:20 p.m.)
+Burlington Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Central Elementary
+Morning session (8:35-11:15 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Columbine Elementary
+Full-day session (8:30 a.m. – 3:00 p.m.)
+Eagle Crest Elementary
+Full-day session (8:25 a.m. – 3:05 p.m.)
+Fall River Elementary
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:35-3:15 p.m.)
+Hygiene Elementary
+Morning session (9:10-11:50 a.m.)
+Afternoon session (1:05-3:45 p.m.)
+Indian Peaks Elementary
+Full-day session (9:10 a.m. – 3:50 p.m.)
+Longmont Estates Elementary
+Morning session (8:20-11:00 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Full-day session (8:20 a.m. – 3:00 p.m.)
+Mountain View Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Full-day session (8:25 a.m. – 3:00 p.m.)
+Northridge Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:25-3:05 p.m.)
+Full-day session (8:25 a.m. – 3:05 p.m.)
+Rocky Mountain Elementary
+Full-day session (8:40 a.m. – 3:15 p.m.)
+Timberline PK-8
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:25-3:15 p.m.)
+Lyons
+Lyons Elementary School
+Full-day session (8:05 a.m. – 2:50 p.m.)
+Mead
+Big Sky PK-8
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:45-3:25 p.m.)
+Full-day session (8:25 a.m. – 3:25 p.m.)
+Mead Elementary
+Morning session (8:45-11:25 a.m.)
+Afternoon session (12:45-3:25 p.m.)
+Niwot
+Niwot Elementary
+Morning session (9:00-11:40 a.m.)
+Afternoon session (12:55-3:35 p.m.)
 2026-2027 Preschool Rates
 Part-Time Preschool: $640.00/month
 Second Half of Full-Day Preschool (for families not qualifying for full-day through UPK): $765.00/month
@@ -9269,26 +9345,6 @@ Tuition:
 No charge to parents for eligible programs and services
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
-
-### Current Preschool Openings
-
-- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/current-preschool-openings/
-- Last modified: 2026-01-26T11:25:29-07:00
-
-St. Vrain Valley Schools’ preschool department currently has space available in high-quality preschool programs across the district. Families with children who will be 3 or 4 years old on or before October 1 are encouraged to contact the Early Childhood Education Department at 303-702-7815 to learn more about program options, tuition, and availability for the 2025–2026 school year.
-The following schools currently have preschool openings:
-Alpine Elementary – PM session
-Burlington Elementary – PM session
-Central Elementary
-Eagle Crest Elementary – PM session
-Hygiene Elementary – PM session
-Longmont Estates Elementary – PM session
-Red Hawk Elementary – PM session
-Rocky Mountain Elementary – PM session
-Soaring Heights PK-8 – PM session
-Spark! Discovery Preschool – PM session
-
-Source: https://www.svvsd.org/departments/early-childhood/preschool/current-preschool-openings/
 
 ### Preschool Handbook
 
@@ -9376,66 +9432,6 @@ The preschool class will go outside daily for outdoor learning and physical deve
 Understanding the importance of applying sunscreen to assist in limiting children’s exposure to harmful UV rays. St. Vrain Preschool Programs will apply Rocky Mountain Sunscreen SPF 30 to all children prior to sun exposure on exposed skin, to include but not limited to the face, top of ears...
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-
-### 2025-2026 Preschool Registration
-
-- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschoolregistration/
-- Last modified: 2025-12-09T06:09:39-07:00
-
-St. Vrain Preschool Application for the 2025-2026 School Year
-Current Preschool Openings
-St. Vrain Preschool Expands to Five-Day-A-Week Programs
-Starting in the 2025-2026 school year, St. Vrain Valley Schools will offer five-day-a-week preschool programs. Families can explore a variety of high-quality preschool options tailored to meet families’ unique needs, including half-day morning and afternoon sessions, with full-day programs available at select locations.
-The Colorado Universal Preschool application is available within St. Vrain’s application and families interested in St. Vrain’s programming are encouraged to use our application form. Preschool placements are first come, first serve. Registering early increases the opportunity of placement at a family’s school of choice.
-View the 2025-2026 Preschool Program Locations
-Find Your Attendance Area
-2025-2026 Preschool Matching Process Timeline:
-Pre-registration:
-Dec. 17 to Feb. 3:
-Preschool pre-registration begins. Families submit their application for preschool through the district’s preschool application. The Colorado Universal Preschool (UPK) application will be available within St. Vrain’s application.
-Mar. 3-28:
-Families of returning preschoolers, preschoolers with siblings, and children of St. Vrain employees will be notified by St. Vrain of their placements.
-Families must accept their match through UPK portal on or before Feb. 10.
-Feb. 12 – March 28:
-General application families are notified by St. Vrain of their placements.
-Families must accept their match through the UPK portal by March 3.
-Ongoing Registration:
-March 10
-: Second round of matching begins, which includes all applicants from after February 9.
-March 31:
-Families are notified by St. Vrain of their placements.
-Families must accept their match through the UPK portal on or before March 31.
-April 1:
-Families contact St. Vrain’s Early Childhood Department to state their enrollment placement.
-2025-2026 Preschool Rates
-Part-Time Preschool: $592.00/month
-Second Half of Full-Day Preschool (for families not qualifying for full-day through UPK): $708.00/month
-Full-Day Preschool: $1,342.00/month
-Universal Preschool
-Information
-:
-General UPK Information
-UPK – FAQ
-UPK Qualifying Factors
-
-Source: https://www.svvsd.org/departments/early-childhood/preschool/preschoolregistration/
-
-### Small Talk, Big Results – a Birth to Three Reading initiative
-
-- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/small-talk-big-results-a-birth-to-three-reading-initiative/
-- Last modified: 2025-10-20T10:57:01-06:00
-
-The St. Vrain Valley Schools Small Talk program is a community initiative designed to build language awareness and reinforce reading success for our youngest learners. Designed for children from birth to age three, the program emphasizes the importance of:
-Frequently using more positive than negative words and comments
-Think about the balance of positive to negative words and comments on a daily basis to reinforce and promote self-confidence.
-What you say and how often you say it matters
-To enrich vocabulary and language, use full sentences, descriptions and questions when talking. Encourage attention to an infant and toddler’s personal world as well as the world around them.
-Face-to-face conversations cannot be replaced
-Incorporate listening and speaking directly to infants and toddlers. Include talking in your native language and limit the role of technology as a replacement for face-to-face conversations.
-Talking, singing, reading, writing and playing develop language
-Be creative when deciding ways to interact.
-
-Source: https://www.svvsd.org/departments/early-childhood/preschool/small-talk-big-results-a-birth-to-three-reading-initiative/
 
 ### Financial Services
 
@@ -11647,7 +11643,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-05-08T14:56:33-06:00
+- Last modified: 2026-05-13T07:22:21-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -12741,21 +12737,26 @@ Source: https://www.svvsd.org/departments/operations-maintenance/maintenance/
 ### Maintenance Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/maintenance/maintenance-team/
-- Last modified: 2025-06-17T08:14:14-06:00
+- Last modified: 2026-05-14T09:50:35-06:00
 
 Maintenance Team
 Paul Schuler
 Manager of Maintenance
 303-682-7268
 [email protected]
-Taylor Pruss
-Supervisor
+Teri Reger
+Dispatch/Scheduling Coordinator
+303-682-7333
+[email protected]
+Bob Auckly
+HVAC Lead
 [email protected]
 Ty Branch
 MEP Supervisor
 [email protected]
-Bob Auckly
-HVAC Lead
+Christopher Diekman
+Lead Groundskeeper
+303-682-7265
 [email protected]
 Scott Elnicki
 Carpentry Lead
@@ -12766,10 +12767,6 @@ Irrigation Lead
 [email protected]
 Frank Moncallo
 Low Volt Lead
-[email protected]
-Teri Reger
-Dispatch/Scheduling Coordinator
-303-682-7333
 [email protected]
 Jon Sander
 Plumbing Lead
@@ -18603,7 +18600,7 @@ Source: https://www.svvsd.org/departments/technology/family-resources/how-tos/
 ### IT Standards
 
 - Canonical URL: https://www.svvsd.org/departments/technology/it-standards/
-- Last modified: 2025-02-06T13:05:51-07:00
+- Last modified: 2026-05-14T13:27:48-06:00
 
 Information Technology Standards
 Introduction:
@@ -19293,30 +19290,49 @@ Source: https://www.svvsd.org/departments/technology/sdp/school-department-resou
 ### Scheduled Service Disruptions
 
 - Canonical URL: https://www.svvsd.org/departments/technology/ssd/
-- Last modified: 2025-12-30T10:44:46-07:00
+- Last modified: 2026-05-13T08:24:04-06:00
 
 Scheduled Service Disruptions
 The following schedule has been established to provide for the smallest disruption to student learning and district operations while allowing District Technology Services to maintain, update, and secure the technology systems and services used everyday in the district’s classrooms and offices.
 Please plan around the district’s technology systems being unavailable.
 2025-26
-Winter Break
-TBD
-Resiliency Site Maintenance
-Sun, January 4, 2026
-6:00am – 12:00pm
-No systems affecting assessment
-Sun, February 1, 2026
-6:00am – 12:00pm
-Sun, March 1, 2026
-6:00am – 12:00pm
-Sun, April 5, 2026
-6:00am – 12:00pm
-No systems affecting assessment
-Sun, May 3, 2026
-6:00am – 12:00pm
 Sat, June 6, 2026
 12:00am – 11:00pm
 Full day outage for extended equipment replacement and updates
+~ Schedule approved by Superintendent’s Cabinet
+2026-27
+Sat, July 11, 2026
+12:00 AM-11:00 PM
+Full day outage for extended
+equipment replacement and updates
+Sun, August 9, 2026
+6:00 AM – 12:00 PM
+September
+No outage scheduled
+Sun, October 4, 2026
+6:00 AM – 12:00 PM
+Sun, November 1, 2026
+6:00 AM – 12:00 PM
+Sun, December 6, 2026
+6:00 AM – 12:00 PM
+Winter Break
+TBD
+Sun, January 3, 2027
+6:00 AM – 12:00 PM
+No systems affecting assessment
+Sun, February 7, 2027
+6:00 AM – 12:00 PM
+Sun, March 7, 2027
+6:00 AM – 12:00 PM
+Sun, April 4, 2027
+6:00 AM – 12:00 PM
+No systems affecting assessment
+Sun, May 2, 2027
+6:00 AM – 12:00 PM
+Sat, June 5, 2027
+12:00 AM – 11:00 PM
+Full day outage for extended
+equipment replacement and updates
 ~ Schedule approved by Superintendent’s Cabinet
 Weekly Maintenance
 Mondays
