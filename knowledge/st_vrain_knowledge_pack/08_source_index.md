@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-15T04:35:39.277885-06:00
+generated_at: 2026-05-17T03:58:18.623994-06:00
 coverage_window_days: 90
 section_title: Source Index
 ---
@@ -27,12 +27,10 @@ section_title: Source Index
 - Board meeting entries: 80
 - Financial transparency pages: 8
 - CDE pages: 3
-- Referenced documents: 27
+- Referenced documents: 25
 
 ### Referenced documents
 
-- https://www.svvsd.org/wp-content/uploads/2020/10/SVVSD-House-Bill-17-1375-Plan.pdf
-- https://www.svvsd.org/wp-content/uploads/2020/11/St.-Vrain-FY19-CAFR.pdf
 - https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Official.pdf
 - https://cedar2.cde.state.co.us/documents/DPF2025/Informational/0470-3-Year.pdf
 - https://cedar2.cde.state.co.us/documents/DPF2024/Official/0470-1-Year-Official.pdf

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-15T04:35:39.277885-06:00
+generated_at: 2026-05-17T03:58:18.623994-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,369 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Meet Some of St. Vrain’s 2026 Outstanding Grads
+
+- Published: 2026-05-15T14:30:25-06:00
+- Source URL: https://www.svvsd.org/2026/05/15/meet-some-of-st-vrains-2026-outstanding-grads/
+
+2026 Outstanding Grads
+Meet just a few of our approximately 2,400 outstanding graduates who will walk across a stage this week to receive their St. Vrain Valley Schools diploma. Congratulations to all students in the Class of 2026!
+Erie High School
+Sebastian Delgado Martinez
+Electrical Engineering
+,
+Colorado State University
+What makes your high school unique?
+Erie High School is unique since it is an academy of engineering. The engineering pathway that the school offers allows students to delve into a rigorous coursework which presents experiences that very few schools in the state have.
+Juliet Slater
+Business, West Texas A&M
+How have your school’s focus programs prepared you for postsecondary success?
+Erie High School has lots of opportunities to take high-level AP classes as well as FRCC classes and dual credit enrollment at CU Denver. This has prepared me for the workload in college and exposed me to college expectations so that I know what is expected of me at the next level. This also gives me the chance to complete some of my college credits while still in high school which can save money.
+Andy Torres
+International Affairs
+,
+University of Denver
+What’s a favorite memory from your time at St. Vrain?
+Representing St. Vrain at the annual CASB (Colorado Association of School Boards) conference was a surreal experience. In my junior year, I attended a three day field trip to Colorado Springs. I got the chance to learn about leadership and advocacy while also getting to meet educational leaders from across the state.
+Jiali Grier
+Political Science, Front Range Community College
+Why should a student choose to enroll in St. Vrain Valley Schools?
+This district has fantastic involvement across the board, whether it’s in the arts, academics, or other after-school activities. In the events I’ve attended, there’s consistently a high level of student participation and, more importantly, a real student interest for the work being done.
+Frederick High School
+Zacharia Martinez Garfio
+Biochemistry, University of Northern Colorado
+How have your school’s focus programs prepared you for postsecondary success?
+I have taken a lot of science classes that give me insight into paths I want to take in the future. For example, the P-TECH program has prepared me to work in lab settings. Also, I’ve gained experience working in corporate pharmaceuticals. The P-TECH program has been nothing but helpful in preparing me for my future.
+Alexis Walker
+Neuroscience, The University of Michigan
+What advice would you give to students entering high school next year?
+One piece of advice I would give is to get involved. There are so many different things you can do at Frederick and in St. Vrain from classes and programs to athletics, music, theater, and clubs. It is so important to get involved and make memories with friends. The most important part of high school is having fun and the best way to do that is to find something you enjoy doing and do it with people you enjoy being with.
+Joel Chambers
+Nuclear Engineering, University of Tennessee, Knoxville
+What makes your high school unique?
+During my time at Frederick I have witnessed some of the best demonstrations of humanity, primarily through advances in inclusion of students in the SSN (Significant Support Needs) program. Frederick is the first school in the district and one of the first in the state to provide a Unified Theatre program, beyond theatre we Frederick offers unified programs in basketball and bowling. In my experience as a school community, the treatment of all students is far and beyond what I’ve seen at other schools. While there are a million reasons why Frederick is unique, this is just an example of one.
+Lyla Kuhn
+Animal Science, Colorado State University
+What’s a favorite memory from your time at St. Vrain?
+My favorite memory is my senior year of softball getting to go to state with girls I had played with since I was little. This is a memory I will hold with me for the rest of my life be...
+
+Source: https://www.svvsd.org/2026/05/15/meet-some-of-st-vrains-2026-outstanding-grads/
+
+### Superintendent’s Update: We are the Future
+
+- Published: 2026-05-15T13:46:55-06:00
+- Source URL: https://www.svvsd.org/2026/05/15/superintendents-update-we-are-the-future/
+
+On March 7, St. Vrain Valley School hosted the first-ever Future-Ready Festival. The festival brought our community together to experience the innovation, creativity, and opportunity happening across St. Vrain Valley Schools.
+Letter from the Superintendent
+Dear St. Vrain Valley Community,
+As we move through what has been a truly exceptional year for our district, I find myself filled with profound gratitude for our students, our educators, and a community that shows up so consistently for public education. I want to share some of the remarkable things that have happened across our schools in recent months, because these celebrations belong to all of us.
+Perhaps nothing captures the heart of what we do better than what we saw from the Class of 2025. Their on-time graduation rate reached 96.8%, the highest in the Denver Metro Area, and our Hispanic graduation rate rose to 92.9%, among the highest in the state. These numbers represent real students who walked across that stage with a St. Vrain diploma, supported every step of the way by educators who refused to give up on them. I am especially proud of our Grad Tracker system, an internally developed, real-time tool that gives our high school principals and counselors daily visibility into each student’s progress toward graduation. St. Vrain was recently named a national District of Distinction for this work, and it is recognition that is deeply deserved.
+The academic achievements across our system have been extraordinary. For the first time in district history, all eight of our comprehensive high schools were named to the AP Honor Roll. Our students earned 1,147 AP Scholar recognitions, with 78 of those students achieving the AP Capstone Diploma. And in our youngest classrooms, the growth has been equally inspiring. This past spring, 93% of our four-year-olds were meeting or exceeding widely held expectations in literacy, a gain of 40 percentage points from fall data. Watching what is happening in our preschool classrooms is one of the most encouraging things I have seen in my career.
+Our students have been making their mark well beyond our classrooms as well. Our drone performance team traveled to Florida to perform at the Future of Education Technology Conference, and will perform at the Space Symposium in Colorado Springs on April 13. Three St. Vrain students were selected as national finalists for the NASA HUNCH competition and presented their innovations to engineers at the Johnson Space Center in Houston. Five of our students were named Daniels Scholarship finalists. Additionally, Westview Middle School was named one of only four schools in Colorado to earn the 2026 Colorado Trailblazer School to Watch designation, a well-earned honor for a school community doing incredibly thoughtful work. And our Future Ready Festival brought more than 2,000 members of our community to Silver Creek High School for an afternoon that showed just how much our schools have to offer every family.
+This is what we call the St. Vrain Advantage, and this level of success does not happen by accident. It happens because of the people in our classrooms every day, and because of families and community members who believe in and invest in our schools.
+Thank you for all that you do to advance our students and schools.
+With gratitude,
+Jackie Kapushion, Ed.D.
+Superintendent, St. Vrain Valley Schools
+Featured Stories
+St. Vrain Valley Celebrates First-ever Future Ready Festival
+Over two thousand community members attended St. Vrain Valley Schools’ first Future-Ready Festival. The event featured Advantage Zones, student showcases, and hands-on activities, all highlighting the depth and range of experiences that define the St. Vrain Advantage.
+Read more and view the event album
+.
+I ♡ Middle School
+A middle school principal flips the script and shows us why middle school is the best time for growth.
+Read more in the St. Vrainnovation Magazine
+.
+Finding Their Game
+Students across St. Vrain Valley are seizin...
+
+Source: https://www.svvsd.org/2026/05/15/superintendents-update-we-are-the-future/
+
+### Erie High Engineering: A Year of Excellence
+
+- Published: 2026-05-15T11:52:45-06:00
+- Source URL: https://www.svvsd.org/2026/05/15/erie-high-engineering-a-year-of-excellence/
+
+From designing spaceflight solutions for NASA to competing on the world stage in robotics, students in the Erie High School Academy of Engineering & Aerospace spent the 2025-2026 school year turning classroom learning into nationally recognized accomplishments.
+Across engineering, aerospace, robotics, cybersecurity, and senior capstone experiences, students tackled real-world challenges that pushed them to think critically, collaborate, problem-solve, and innovate. Their work earned recognition from organizations including NASA, the American Rocketry Challenge, and the VEX Robotics World Championships.
+One of the year’s defining highlights came through the program’s involvement with NASA HUNCH and NASA HERC. Senior Design students developed projects centered on future space exploration, including biodegradable medicine packaging for Artemis missions, a VR microgravity simulation, and a nanocrop laboratory concept.
+Erie High’s HUNCH Team with astronaut Adam Fuhrman as he tests the gravity simulator project inside the Johnson Space Center.
+By the end of the year, every student in the Senior Design program received recognition from NASA for their work. The VR Microgravity Simulation team earned an invitation to present at the Johnson Space Center in Houston, with their presentation airing on NASA TV. The Biomedical Packaging team was named a national semi-finalist, while the Nanocrops team received honorable mention recognition.
+Students also traveled to Huntsville, Alabama, to compete in NASA’s Human Exploration Rover Challenge, where Erie’s human-powered rover team earned both the Pit Crew Award and the Industry STEM Engagement Award for their teamwork, perseverance, and industry collaboration.
+The program’s VEX Robotics teams delivered another historic season. Erie robotics teams earned 15 awards throughout the year, including honors at the State Championship, Signature Events, and the World Championships.
+Two Erie teams advanced to the VEX Robotics World Championships in St. Louis, continuing an impressive legacy for the program. This year’s senior-led team qualified for the World Championships for the fourth consecutive year of their high school careers, a remarkable accomplishment that reflects the sustained excellence of the program. Team 3743C Intellectual Idiots also won the Innovate Award on the world stage, marking the first time an Erie High team has earned an award at the VEX World Championships.
+Erie High’s VEX team 3743C with one of their many awards this season at a signature event.
+“This success is a direct testament to our students’ dedication and hard work to engineering and robotics. Beyond the trophies and recognition our engineering students earned, all of these accolades reflect something more important: our students’ ability to synthesize knowledge from across the curriculum—Math, ELA, Social Studies, and Science—and apply it to the complex, real-world engineering challenges.”
+Chris Schmitz, Engineering teacher
+The aerospace program also reached new heights through the American Rocketry Challenge. Out of more than 1,100 teams nationwide, Erie’s team Human Velocity qualified for the National Finals as one of the top 100 teams in the country.
+Students Emily Taylor, Sophie Page, Kieran Toohey, and Audrey Powers represented Erie High at the national competition in Virginia and participated in “Rockets on the Hill” in Washington, D.C., where they met with members of Congress to advocate for STEM education and aerospace programs.
+Beyond competitions, the Academy continued building opportunities for students through afterschool organizations like the Erie Engineering Student Association (EESA) and SWENext. Students hosted engineering outreach events, connected with professionals from aerospace and engineering industries, mentored younger students, and organized the second Erie Engineering Expo for middle and high school students interested in STEM pathways.
+The program also continued emphasizing industry crede...
+
+Source: https://www.svvsd.org/2026/05/15/erie-high-engineering-a-year-of-excellence/
+
+### 2026 St. Vrain 4.0+ Grads Around the World
+
+- Published: 2026-05-15T11:16:39-06:00
+- Source URL: https://www.svvsd.org/2026/05/15/2026-st-vrain-4-0-grads-around-the-world/
+
+We are preparing our students for their future by giving them a strong competitive advantage and cultivating a drive for learning and continued growth.
+See where our 4.0+ graduates are attending college in the fall.
+APEX Homeschool Program
+Marielle Brooks
+Zoe Ellsaesser
+Cass Everdeen
+Barrett Jones
+Ezra Keller
+Marni Martin
+Mattea McQueen
+Serene Roth
+Elliana Sievers
+Camille Snyder
+Bella Waldroup
+Erie High School
+Reagyn Allen
+Madeline Alvarado
+Bryn Anderson
+Alivia Aragon
+Kelsey Ayars
+Liliane Azevedo
+Wyatt Ball
+Gianna Barela
+Michaela Blakie
+Maddox Burnett
+Alyssa Bush
+Lily Caranci
+Ryan Carmichael
+Sean Cary
+Tegan Cerveny
+Aayusha Chhetri
+Riley Collins
+Sebastian Delgado Martinez
+Isabel Deppen
+Dominic Donchez
+Isabel Dress
+Braya Durstock
+Kiley Edwards
+Braylon Englehart
+Benjamin Erekson
+Brooklyn Ferrari
+Reece Ficklin
+Isabella Foster
+Catcher Gearhart
+Makena Gordon
+Jiali Grier
+Laurel Hagan
+Melawit Haile
+Isabelle Hanks
+Zachary Harner
+Tobey Jaeger
+Georgiana Jones
+Brooke Jordan
+Madeline Keller
+Hennessy Kerns
+Griffin Kohl
+Eli Krause
+Jackson Lew
+Lugo Martinez
+Eleanor Mahaffey
+Maia Mares
+Charlotte Martin
+Jackson Mattingley
+Emma McAnear
+Kayden McKinsey
+Abigail Mier
+Shyler Miller
+Josephine Mohr
+Perry Neumann
+Claire Nguyen
+Santiago Nunez
+Reid O’Brien
+Julieta Ochoa
+Ofelia Palacios
+Emily Park
+Mackenzie Paul
+John Pellom
+Cody Penman
+Rachel Rademacher
+Cole Reseigh
+Avery Rexroth
+Elaina Riester
+Liam Ross
+Sadie Sambirsky
+Zachary Sanner
+Sylvia Sauceda
+Vincent Schaefer
+Haley Schaefer
+Cade Schindler
+Trajan Schmitz
+James Schoeneshoefer
+Claire Schultz
+Christian Seiler
+Jayden Shipman
+Claire Simmons
+Juliet Slater
+Lawson Smith
+Nathan Standish
+Greta Starbuck
+Lilian Swanigan
+Beatrix Tempel
+Carson Tillman
+Lucy Todd
+Andrew Torres
+Riley Valania
+William Vielehr
+Emalee Walker
+Elijah Walters
+Emily Whiteley
+Nolan Willard
+Jane Wilson
+Blake Wolver
+Frederick High School
+Helena Ahuja
+Hailey Barkley
+Lucia Bernal
+Myla Boehnke
+Isabella Bosica
+Logan Brisendine
+Dominic Bundy
+Mariellena Carbajal
+Addisyn Cast
+Joel Chambers
+Avery Corliss
+Nora Dukart
+Jessica Ellinger
+Isabel Enriquez
+Erik Esqueda-LeRoi
+Axton Fifield
+Julian Finch
+Elayna Fisher
+Peyton Frame
+Mercedes Gutierrez
+Connor Hartsuiker
+Izzy Horne
+Bailey Hott
+Sadie Hurtado
+Jenna Johnston
+Kaylee Knebel
+Lyla Kuhn
+Gabriella Mabbitt
+Shiela Mae Chan
+Lila Marsolek
+Jaelynn Martinez
+Jicell Martinez Mendoza
+Zacheria Martinez Garfio
+Allison McCormick
+Wyatt Morris
+Avery Morton
+Addisyn Murray
+Rachel Noyes
+Caleb Olson
+Hailey Pollard
+Kylie Quattlebaum
+Connor Ragan
+Hailey Rice
+Aerik Ross
+Edward Ryley
+Stephanie Schmidt
+Natalie Sias
+London Smith
+Brenna Stark
+Addison Strojinc
+Elaina Thorpe
+Anna Valentine
+Alexis Walker
+Kendall Willis
+LaunchED Virtual Academy
+Annie Grassmick
+Longmont High School
+Ethan Atherton
+​Boden Becker
+​Ivy Campbell
+​Benjamin Champe
+​Eleana Courtney
+Sova Coyle
+​Evelyn Davis
+Lela Dworak
+​Lucas Flannery
+​Maria Flores ​Gonzalez
+​Matilda Garcia ​Stevenson
+Emily Gill
+​Erik Hakanson
+Max Haseeb
+​Evan Helmstetter
+​Mason Hendricks
+​Jonathan Howard
+Dylin Hunt
+​Chace Johnston
+Jack Keith
+Ronja King
+​Madelyn Lahey
+​Brayden Landers
+Addison Lee
+​Nevaeh Lerit
+​Camilla Lindenstein
+​Adalee Mathias
+​Rowan Motheral
+​Amelia Mullis
+​Logan O’Brien
+​Jackson Parker
+​Dominik Perez
+​Allie Piggott
+​Hailey Pulido ​Colis
+​Naomi Railsback
+Luna Ready
+​Bernard Reinold
+Quoia Salva
+​Claire Sanchez
+​Robert Sekich
+​Gethsemane Shelden
+​Abigail Sindelir
+​Sydney Snapp
+​Joselyn Soto ​Ramirez
+​Alix Stanger
+​Annalise Von ​Hatten
+​Hannah Wheaton
+​Brian Wiggins
+​Jade Williams
+​Heath Wintergerst
+Lyons Middle Senior High
+Maxwell Boccolucci
+William Dumbauld
+Logan Duncan
+Lauren Hunter
+Anna Johann
+Audrey McNeil
+Alexander Parker
+Scott Pierce
+Antonia Rauker
+Jack White
+Mead High School
+Elizabeth Bennet
+Addison Blick
+Brooke Boatman
+Alana Costello
+Lynzee Crouse
+Riley Darner
+Alexia Deba
+​Brielle Deba
+Ellee Dietzman
+Karissa Erickson
+Rose Marie Evans
+​Jameson Franks
+Ryleigh Gillette
+Anita Goff
+Elena Gomez
+Alexa Hardy
+Ayden Hauck
+Booth Hayes
+​Jackson Howard
+Hana Hylenski
+Lilly Kaplan...
+
+Source: https://www.svvsd.org/2026/05/15/2026-st-vrain-4-0-grads-around-the-world/
 
 ### Prairie Ridge Elementary Celebrates 25 Years of Community and Connection
 
@@ -113,73 +476,6 @@ Innovation Center students present Duane Carey with a gift following his present
 Following the presentation, students participated in a moderated question-and-answer session with Carey, asking about his time in space, the experience of returning to Earth, and the journey that led him to become a successful pilot and astronaut. Opportunities like this provide students with valuable perspective, highlighting that educational and career pathways are diverse. Through these experiences, St. Vrain Valley Schools continues to connect students with real-world learning, helping them explore a wide range of possibilities and prepare for future success.
 
 Source: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
-
-### From Caterpillars to Butterflies: Kindergarten Classes Watch Transformation Unfold
-
-- Published: 2026-05-05T15:08:37-06:00
-- Source URL: https://www.svvsd.org/2026/05/05/from-caterpillars-to-butterflies-kindergarten-classes-watch-transformation-unfold/
-
-There’s a certain kind of excitement that fills a kindergarten classroom when something small and alive is changing right before your eyes.
-At Burlington Elementary, that excitement has been building for weeks.
-It started with caterpillars – tiny, wiggling, and full of questions. Day by day, students watched them grow, form chrysalises, and quietly transform. And then, almost suddenly, butterflies emerged.
-By the time release day arrived, those butterflies had become part of the classroom.
-“We grew quite attached to our little friends,” said teacher Marcy McGurgan. “The squeals of delight as the butterflies were released into our greenhouse were precious.”
-With careful hands, students carried their butterflies into the Burlington greenhouse, pausing before opening their containers. Some hesitated, some whispered goodbye, and others simply watched, wide-eyed, as wings opened and lifted into the air.
-The reactions were immediate and honest.
-“They will help the plants.”
-“They can lay eggs and more eggs.”
-“It will keep the life cycle going!”
-“They won’t get cold or hit by a snowflake!”
-For many students, it was their first time seeing something change so completely. Not on a screen or in a book, but right in front of them.
-Teacher Stephanie Hill reflected on the experience as a meaningful part of their life science unit, where students followed each stage of the butterfly’s development from beginning to end. The process gave them something real to observe, care for, and ultimately let go.
-And that moment, when the butterflies finally lifted into the leaves of the greenhouse, was filled with a mix of excitement, pride, and just a little bit of wonder.
-It’s hard not to feel it too.
-
-Source: https://www.svvsd.org/2026/05/05/from-caterpillars-to-butterflies-kindergarten-classes-watch-transformation-unfold/
-
-### Frederick High SRO Andrew Fairbanks Named Colorado School Resource Officer of the Year
-
-- Published: 2026-05-04T08:28:23-06:00
-- Source URL: https://www.svvsd.org/2026/05/04/frederick-high-sro-andrew-fairbanks-named-colorado-school-resource-officer-of-the-year/
-
-When students walk the halls at Frederick High School, Officer Andrew Fairbanks is a familiar and trusted presence. Through daily interactions, classroom engagement, and active involvement in the school community, Officer Fairbanks helps create a supportive and connected environment. That daily commitment has earned him statewide recognition as School Resource Officer (SRO) of the Year from the Colorado Association of School Resource Officers (CASRO).
-This honor highlights the meaningful impact of school resource officers and the important role they play in supporting students, schools, and communities across the state. Selected by the CASRO Board Awards Committee from nominations across Colorado, the recognition reflects the depth of impact Officer Fairbanks has made in his role.
-As the School Resource Officer at Frederick High School, Fairbanks’ work extends far beyond traditional law enforcement. He is a consistent presence in the halls, a mentor to students navigating challenges, and a partner to staff in building a positive school culture. That approach is rooted in connection. Through everyday interactions and intentional engagement, Officer Fairbanks helps create an environment where students feel supported and heard.
-In recognition of his work, Officer Fairbanks will be honored this June at the CASRO conference in Colorado Springs, joining fellow officers from across the state.
-
-Source: https://www.svvsd.org/2026/05/04/frederick-high-sro-andrew-fairbanks-named-colorado-school-resource-officer-of-the-year/
-
-### Columbine Elementary, Soaring Heights PK-8 Highlight Innovation as Apple Distinguished Schools
-
-- Published: 2026-05-01T11:28:20-06:00
-- Source URL: https://www.svvsd.org/2026/05/01/columbine-elementary-soaring-heights-pk-8-highlight-innovation-as-apple-distinguished-schools/
-
-Columbine Elementary and Soaring Heights PK-8 have been recognized as Apple Distinguished Schools, a designation that highlights innovation in teaching and learning through the effective use of technology. The honor is awarded to schools that demonstrate a clear vision for learning, strong leadership, and evidence of continuous innovation. The application must be renewed every three years through a process that showcases measurable impact on student outcomes. Schools earning this distinction are recognized for creating environments where students are prepared for a dynamic, technology-rich world.
-Students at Columbine Elementary work on a robot during after-school Robotics Club.
-At
-Columbine Elementary
-, Principal Julia Cooper notes that the school’s approach to technology centers on empowering students to take ownership of their learning while supporting a diverse community of learners. “Our vision ensures all students, including those with a wide range of learning needs and backgrounds, access a robust academic journey,” Cooper said. She emphasized how students use technology tools to lead and teach others, from mentoring younger peers to supporting family engagement opportunities. By integrating accessibility features such as translation and voice tools, Columbine creates inclusive learning environments where students can fully participate and express their ideas, building both confidence and leadership skills.
-Students at Soaring Heights PK-8 work a project during their Innovation Class.
-At
-Soaring Heights PK-8
-, Assistant Principal Anna Mills highlighted the role of neuroscience and innovation-driven instruction in earning the recognition. “Our neuroscience framework has been a key driver, helping students understand how they learn, manage stress, and build strong habits,” Mills said. Paired with daily innovation time, makerspace learning, and project-based experiences, students are encouraged to design, create, and apply their thinking in meaningful ways. Mills said the designation reflects the school’s broader commitment to developing future-ready learners and noted that the school will continue expanding opportunities for student-driven learning, creativity, and real-world problem solving as it builds on this momentum.
-
-Source: https://www.svvsd.org/2026/05/01/columbine-elementary-soaring-heights-pk-8-highlight-innovation-as-apple-distinguished-schools/
-
-### Niwot High School Student Builds a Future with Salesforce
-
-- Published: 2026-04-30T10:57:25-06:00
-- Source URL: https://www.svvsd.org/2026/04/30/niwot-high-school-student-builds-a-future-with-salesforce/
-
-When Isaac Wicks, a junior at Niwot High School, began his freshman year, he was interested in a variety of pathways. Just three short years later, he has earned three Salesforce certifications and completed a real-world internship where he applied the skills he gained through those programs.
-What first piqued Isaac’s interest in Salesforce was its accessibility and ease of use. The platform felt intuitive, and the idea of helping organizations operate more effectively sparked his curiosity. That initial interest quickly grew into something more meaningful. “It has been really interesting to see how companies can utilize Salesforce and how I can help them with it,” he shared.
-Isaac credits the CLIMB Program with opening the door to future career opportunities and certifications. Designed to help students access industry certifications, mentorship, and work-based learning, the program allowed him to discover both a viable career path and the confidence to pursue it. “If it wasn’t for the CLIMB Program, I wouldn’t know anything about Salesforce,” Isaac said. “It has been fantastic to have a program facilitate this opportunity to learn more about tech careers and soft skills that will help me with future work opportunities.”
-Beyond certifications, Isaac was also able to participate in a hands-on internship with a local non-profit. At Groundworks Art Lab, he embraced the challenge of building out the organization’s customer relationship management (CRM) system. Kari Palazzari, the internship coordinator at Groundworks Art Lab, emphasized the importance of Isaac’s impact.
-“We are so grateful to have had Isacc help us build our Salesforce CRM. He was such a valuable addition to our team and helped make it possible for us to complete a big fundraising project,” she shared.
-Isaac with his mentor, Brent Mac, a Salesforce Solution Architect. “Being Isaac’s mentor has been really rewarding because it was more than just guiding him on his certification journey, but championing his growth and celebrating his milestones.”
-Looking ahead, Isaac plans to build on this momentum by pursuing additional certifications through the CLIMB Program during his senior year at Niwot High School. As he continues exploring the broader world of computer science and coding, Isaac is focused on gaining more experience in computer science and refining the skills that have already prepared him for the future.
-
-Source: https://www.svvsd.org/2026/04/30/niwot-high-school-student-builds-a-future-with-salesforce/
 
 ### District alerts
 

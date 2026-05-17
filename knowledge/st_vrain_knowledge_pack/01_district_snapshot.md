@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-15T04:35:39.277885-06:00
+generated_at: 2026-05-17T03:58:18.623994-06:00
 coverage_window_days: 90
 section_title: District snapshot
 ---
@@ -258,11 +258,11 @@ If you have questions about access and student support services, please do not h
 Olga Cordero
 Executive Director, Student Support Services
 303-702-7857
-[email protected]
+cordero_olga@svvsd.org
 Lourdes “Lulu” Buck
 Coordinator of Student Support Services
 303-702-7814
-[email protected]
+buck_lourdes@svvsd.org
 
 Source: https://www.svvsd.org/about/excellence-in-st-vrain/
 
@@ -283,9 +283,7 @@ Industry Advisory Committees
 St. Vrain Valley Schools is nationally renowned for its career pathways. These pathways are dependent on the expertise of our industry partners, who help us to develop learning goals, curriculum, postsecondary pathways, and relevant work-based learning experiences for students.
 Please contact
 Heidi Ringer
-(
-[email protected]
-), Postsecondary Workforce Readiness Coordinator and CTE Director, to be connected with an advisory committee.
+(ringer_heidi@svvsd.org), Postsecondary Workforce Readiness Coordinator and CTE Director, to be connected with an advisory committee.
 Industry advisory committees include:
 Career Elevation and Technology Center
 Automotive technology
@@ -315,30 +313,22 @@ Project Teams are currently available at the
 Career Elevation and Technology Center
 , with fields including automotive, culinary, advanced manufacturing, welding, and more. For more information, contact
 Buck Webber
-, CETC Assistant Principal, at
-[email protected]
-.
+, CETC Assistant Principal, at webber_charles@svvsd.org.
 Project Teams are also available at the
 Innovation Center
 , with fields including aeronautics, biosciences/conservation, robotics, video arts, artificial intelligence, cybersecurity and more. For more information about project teams at the Innovation Center, please contact
 Lynn Eckhart
-, Innovation Center Outreach Manager, at
-[email protected]
-.
+, Innovation Center Outreach Manager, at eckhart_lynn@svvsd.org.
 Internships
 : Internships are on or off-campus work-based learning activities designed to provide students with opportunities in real-world environments for exposure to the requirements of a particular occupation or industry. Students will learn about the work environment and the expectations for success in a career pathway. Such work experiences are not expected to provide formal training for occupational skills, although some skills may be learned. Internships are completed under the guidance of an industry supervisor and school district personnel, who in combination with the student will create a framework for learning and reflection. To learn more about hosting an intern in St. Vrain Valley Schools, contact
 Heidi Ringer
-, Postsecondary and Workforce Coordinator, at
-[email protected]
-.
+, Postsecondary and Workforce Coordinator, at ringer_heidi@svvsd.org.
 Job Shadows
 : A work experience option where students learn about a job by walking through the workday as a shadow to a competent worker. Variations include virtual job shadows (allows an individual to observe an occupation through the use of videos) or job simulation (career exploration that allows an individual to participate and gain experience in aspects of an occupation through simulation).
 Mentor or Volunteer
 : to mentor students or volunteer in a classroom, please contact each school’s principal. If you need help identifying which school your skills may be a fit for, please contact
 Hilary Sontag
-at
-[email protected]
-.
+at sontag_hilary@svvsd.org.
 Career Fairs
 St. Vrain Valley Schools offers several career fairs throughout the year:
 Innovation Center and Career Elevation and Technology Center Career Fairs: the
@@ -347,30 +337,22 @@ and
 Career Elevation and Technology Center
 offer a joint career fair each winter/spring. All industries are welcome. Please contact
 Eric Berngen
-at
-[email protected]
-if you have interest in hosting a table.
+at berngen_eric@svvsd.org if you have interest in hosting a table.
 High School Based Fairs: some high schools offer their own career fairs. If you have interest in participating in a specific school’s career fair, please contact the
 school principal
 or
 Maura Brady-McMullen
-at
-[email protected]
-.
+at brady-mcmullen_maura@svvsd.org.
 Postsecondary/College Fairs
 Each high school hosts their own postsecondary/college fair. Please contact each
 school’s principal
 or
 Maura Brady-McMullen
-at
-[email protected]
-to learn more.
+at brady-mcmullen_maura@svvsd.org to learn more.
 Donate Resources
 We gratefully accept donations from community members, businesses, and organizations. To learn more about making a donation to benefit a specific program, school, or department, please contact
 Hilary Sontag
-at
-[email protected]
-.
+at sontag_hilary@svvsd.org.
 To make a donation to the St. Vrain Valley Schools Education Foundation, which provides school supplies for students; makes grants to teachers; and awards postsecondary scholarships, please visit
 their website
 .
@@ -397,7 +379,7 @@ Award by the Erie Rotary Club. In 2025, she was recognized by the St. Vrain Vall
 Education Champion
 award recipient.
 Contact Dr. Kapushion:
-[email protected]
+kapushion_jackie@svvsd.org
 303-702-7508
 Twitter
 LinkedIn

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-15T04:35:39.277885-06:00
+generated_at: 2026-05-17T03:58:18.623994-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -21,9 +21,7 @@ You have been approved on open enrollment OR
 You intend to register with a charter school
 New Student Registration Options
 Legal Notice About Charter School Enrollment:
-Enrollment in charter schools is available to all students, including students with disabilities, and information about disabilities will not be requested until a student has been admitted and enrolled in a charter school. For questions regarding the admission and enrollment of students with disabilities in charter schools, you may contact Laura Hess, Assistant Superintendent of Special Education at
-[email protected]
-or 720-652-8218.
+Enrollment in charter schools is available to all students, including students with disabilities, and information about disabilities will not be requested until a student has been admitted and enrolled in a charter school. For questions regarding the admission and enrollment of students with disabilities in charter schools, you may contact Laura Hess, Assistant Superintendent of Special Education at hess_laura@svvsd.org or 720-652-8218.
 Open Enrollment / Transfers
 Open enrollment is required if:
 You wish for your student to attend a school other than your neighborhood school
@@ -62,19 +60,19 @@ Enrollment & Registration Team
 Amber Muir
 Director of Enrollment and Data Quality
 303-702-7910, ext. 57910
-[email protected]
+muir_amber@svvsd.org
 Ellie Brown
 Enrollment Technician
 303-702-7940, ext. 57940
-[email protected]
+brown_ellie@svvsd.org
 Sarah Hollingsworth
 Enrollment Analyst
 303-702-7908, ext. 57908
-[email protected]
+hollingsworth_sarah@svvsd.org
 Kyra Sare
 Records Specialist
 303-702-7911, ext. 57911
-[email protected]
+sare_kyra@svvsd.org
 
 Source: https://www.svvsd.org/schools/enrollment/enrollment-registration-team/
 
@@ -209,8 +207,7 @@ High School Options
 School Feeders
 Open Enrollment Appeals Process
 If you have been denied open enrollment and would like to appeal the open enrollment decision or would like further instructions, please submit the open enrollment appeal form to
-[email protected]
-.
+open-enrollment-appeals-group@svvsd.org.
 Open Enrollment Appeal Form
 Board Policy on Open Enrollment
 Board Policy on Open Enrollment – Procedures
@@ -493,9 +490,9 @@ Douglas Bissonette
 Area Assistant Superintendent – Area 1
 Adrienne Pequeen
 Executive Administrative Assistant
-[email protected]
+pequeen_adrienne@svvsd.org
 303-702-7548
-[email protected]
+bissonette_douglas@svvsd.org
 Frederick Feeder
 Frederick High School
 Coal Ridge Middle School
@@ -516,9 +513,9 @@ Matt Buchler
 Area Assistant Superintendent – Area 2
 Adrienne Pequeen
 Executive Administrative Assistant
-[email protected]
+pequeen_adrienne@svvsd.org
 303-702-7548
-[email protected]
+buchler_matthew@svvsd.org
 Longmont Feeder
 Longmont High School
 Longs Peak Middle School
@@ -539,9 +536,9 @@ Dina Perfetti-Deany, Ed.D.
 Area Assistant Superintendent – Area 3
 Adrienne Pequeen
 Executive Administrative Assistant
-[email protected]
+pequeen_adrienne@svvsd.org
 303-702-7548
-[email protected]
+perfettideany_dina@svvsd.org
 Erie Feeder
 Erie High School
 Erie Middle School
@@ -562,9 +559,9 @@ Karla Allenbach
 Area Assistant Superintendent – Area 4
 Adrienne Pequeen
 Executive Administrative Assistant
-[email protected]
+pequeen_adrienne@svvsd.org
 303-702-7548
-[email protected]
+allenbach_karla@svvsd.org
 Lyons Feeder
 Lyons Middle Senior High School
 Lyons Elementary School

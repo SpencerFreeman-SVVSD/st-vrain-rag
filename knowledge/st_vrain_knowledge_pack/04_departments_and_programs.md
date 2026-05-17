@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-15T04:35:39.277885-06:00
+generated_at: 2026-05-17T03:58:18.623994-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -387,23 +387,23 @@ Assessment Team
 Jamie Ball
 Executive Director of Assessment
 303-702-7503
-[email protected]
+ball_jamie@svvsd.org
 Linda Monteil
 Executive Administrative Assistant, Assessment
 303-682-7242
-[email protected]
+monteil_linda@svvsd.org
 Chris Gardner
 Assessment Coordinator
 303.682.7388
-[email protected]
+gardner_christopher@svvsd.org
 Janette Haines
 Assessment Coordinator
 303-702-7598
-[email protected]
+haines_janette@svvsd.org
 Dallin Wright
 Statistics and Research Specialist
 303-682-7233
-[email protected]
+wright_dallin@svvsd.org
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/assessment-team/
 
@@ -613,7 +613,7 @@ For more information, please contact:
 Shauna Polson
 Instructional Technologies Coordinator
 303-682-7356
-[email protected]
+polson_shauna@svvsd.org
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
 
@@ -659,7 +659,7 @@ to fill out the district approval form for courses taken at a college campus.
 St. Vrain Valley Schools
 Contact information:
 Leann Shetler
-[email protected]
+shetler_leann@svvsd.org
 303-702-7591
 Front Range Community College
 (click here for enrollment)
@@ -734,47 +734,47 @@ Curriculum Team
 Diane Lauer, Ed.D.
 Chief Academic Officer
 303-702-7591
-[email protected]
+lauer_diane@svvsd.org
 Leann Shetler
 Executive Assistant to Diane Lauer
 303-702-7591
-[email protected]
+shetler_leann@svvsd.org
 Greg George
 Senior Manager, Curriculum & Academic Programs
 (303) 682-7247
-[email protected]
+george_gregory@svvsd.org
 Cathy O’Donnell
 Administrator, Project Launch & AAA
 303-682-7276
-[email protected]
+odonnell_cathy@svvsd.org
 Michael O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 Shauna Polson
 Instructional Technologies Coordinator
 303-682-7356
-[email protected]
+polson_shauna@svvsd.org
 Heidi Ringer, Ed.D.
 Postsecondary Workforce Readiness/CTE Director
 303-702-8262
-[email protected]
+ringer_heidi@svvsd.org
 Shane Saeed, Ed.D.
 Elementary Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 Jenny Seiler
 Secondary Language Arts Coordinator
 303-702-7743
-[email protected]
+seiler_jenny@svvsd.org
 Alicia Terrill
 Department Secretary
 303-682-7374
-[email protected]
+terrill_alicia@svvsd.org
 Adam Wellington
 K-12 Social Studies Coordinator
 303-702-7547
-[email protected]
+wellington_adam@svvsd.org
 Oversight
 The Curriculum Team is responsible for the following to support our community, families, administrators, teachers, and students within St. Vrain Valley Schools:
 Coordinate shared vision and practice in content-based instruction with interdisciplinary connections to ensure all students have the essential skills necessary to thrive in our PK-12 system and beyond
@@ -1060,17 +1060,17 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit
 Math News & Updates
 @SVVSDMath
@@ -1078,7 +1078,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2023
 December 2023
@@ -1112,11 +1112,7 @@ here
 . There is an opportunity to earn 0.25 Professional Development/Salary credit for attending Dr. Dillon’s presentation and submitting a written reflection with implications for the classroom. All interested participants need to register by
 Tuesday, December 5
 .
-Please direct any questions to Emily Scott (
-[email protected]
-) or Greg George (
-[email protected]
-).
+Please direct any questions to Emily Scott (scott_emily@svvsd.org) or Greg George (george_gregory@svvsd.org).
 Math Updates
 Elementary
 Math Adoption Committee Update
@@ -1205,17 +1201,17 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit
 Math News & Updates
 @SVVSDMath
@@ -1223,7 +1219,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2023
 September 2023
@@ -1297,8 +1293,7 @@ Watch this
 SHORT video
 for information on eBooks in
 World Book
-along with a how-to in providing access to students. For additional information on Databases available to teachers and students, contact Helen Robbins, DLMS District Instructional Librarian, at
-[email protected]
+along with a how-to in providing access to students. For additional information on Databases available to teachers and students, contact Helen Robbins, DLMS District Instructional Librarian, at robbins_helen@svvsd.org
 Social Studies Updates
 Making Thinking Visible in the Social Studies Classroom
 Recent research suggests the importance of building content knowledge with our youngest students to support reading comprehension. We can do this systematically through social studies. Project Zero, from the Harvard Graduate School of Education, has done extensive research on making thinking visible. Their work can be defined as “flexible and systematic research-based approach to integrating the development of students’ thinking with content learning across subject matters. An extensive and adaptable collection of practices, the Visible Thinking research has a double goal: on the one hand, to cultivate students’ thinking skills and dispositions, and, on the other, to deepen content learning.” In an effort to “deepen content learning” and increase reading comprehension in the elementary grades, a collection of thinking routines could benefit your classroom. Check out
@@ -1347,17 +1342,17 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit
 Math News & Updates
 @SVVSDMath
@@ -1365,7 +1360,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2023
 December 2023
@@ -1507,17 +1502,17 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit
 Math News & Updates
 @SVVSDMath
@@ -1525,7 +1520,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2023
 December 2023
@@ -1612,17 +1607,17 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math Resource Site
 @SVVSDMath
@@ -1630,7 +1625,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2023
 September 2023
@@ -1702,7 +1697,7 @@ Level 4 Structured Morphology Teacher Manual
 Morpheme Deck
 Level 4 Assessment Companion
 If you do not have these materials yet, please reach out to
-[email protected]
+smith_karen@svvsd.org
 to request a set. If you have received the above materials and you do not support 4th and 5th grade Language Arts instruction, please return the materials to the following:
 Karen Smith
 District Media Services
@@ -1736,12 +1731,12 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math Resource Site
 @SVVSDMath
@@ -1749,7 +1744,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2023
 
@@ -1847,12 +1842,12 @@ Contact Us!
 Karen Smith
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+smith_karen@svvsd.org
 @smithkaren51 & @SVVSDLA
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math Resource Site
 @SVVSDMath
@@ -1860,7 +1855,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elementary-updates-2023-24/
 
@@ -2008,17 +2003,17 @@ Contact Us!
 Shane Saeed, Ed.D.
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math Resource Site
 @SVVSDMath
@@ -2026,7 +2021,7 @@ Jenny Pettit
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elementary-updates-2024-25-august/
 
@@ -2141,17 +2136,17 @@ Contact Us!
 Shane Saeed, Ed.D.
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math News & Updates
 @SVVSDMath
@@ -2159,7 +2154,7 @@ Jenny Pettit, Ed.D.
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2024
 September/October 2024
@@ -2247,17 +2242,17 @@ Contact Us!
 Shane Saeed, Ed.D.
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math News & Updates
 @SVVSDMath
@@ -2265,7 +2260,7 @@ Jenny Pettit, Ed.D.
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2024
 January/February 2025
@@ -2403,17 +2398,17 @@ Contact Us!
 Shane Saeed, Ed.D.
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math News & Updates
 @SVVSDMath
@@ -2421,7 +2416,7 @@ Jenny Pettit, Ed.D.
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2024
 January/February 2025
@@ -2567,17 +2562,17 @@ Contact Us!
 Shane Saeed, Ed.D.
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math News & Updates
 @SVVSDMath
@@ -2585,7 +2580,7 @@ Jenny Pettit, Ed.D.
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2024
 September/October 2024
@@ -2704,17 +2699,17 @@ Contact Us!
 Shane Saeed, Ed.D.
 K-5 Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Greg George
 K-12 Mathematics Coordinator
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 Visit the
 Math Resource Site
 @SVVSDMath
@@ -2722,7 +2717,7 @@ Jenny Pettit, Ed.D.
 K-12 Social Studies
 Coordinator
 303-702-7547
-[email protected]
+pettit_jennine@svvsd.org
 Previous Updates
 August 2024
 
@@ -2849,22 +2844,22 @@ Contact Us!
 Greg George
 Senior Manager, Curriculum & Academic Programs
 303-682-7247
-[email protected]
+george_gregory@svvsd.org
 @SVVSDMath
 Mike O’Toole
 K-12 Science Coordinator
 303-682-7232
-[email protected]
+otoole_michael@svvsd.org
 @SVVSDScience
 Shane Saeed, Ed.D.
 Elementary Language Arts Coordinator
 303-702-7746
-[email protected]
+saeed_shane@svvsd.org
 @drshanesaeed
 Adam Wellington
 K-12 Social Studies Coordinator
 303-702-7547
-[email protected]
+wellington_adam@svvsd.org
 Previous Updates
 August 2025
 
@@ -3252,9 +3247,7 @@ Grading for Students with an IEP
 3. All of this is agreed upon in the IEP staffing. The regular and special education teacher should collaborate on the entire process.
 4. Differentiation or exceptions to the grading scale may be identified as long as the notation of differentiations or exceptions does not identify the student as having a disability or being in special education. These differentiations or exceptions must be available to any student, not just those students with disabilities (including students performing above grade level). Example: An asterisk after the grade may denote that the student received differentiation grades or completed work at a lower grade level. However, the explanation of the asterisk on the report card may not indicate the student’s participation in special education. In Infinite Campus, in the overall comment section, you may use Canned Comment #18; Modified Curriculum.
 Who should I contact if I have questions regarding my child’s report card?
-The first contact should be your child’s teacher. If questions still persist please contact your building principal. Questions regarding the purpose and design of the report card should be directed to Diane Lauer, Chief Academic Officer, at
-[email protected]
-or 303-702-7591.
+The first contact should be your child’s teacher. If questions still persist please contact your building principal. Questions regarding the purpose and design of the report card should be directed to Diane Lauer, Chief Academic Officer, at lauer_diane@svvsd.org or 303-702-7591.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/report-cards/
 
@@ -5608,7 +5601,7 @@ What if I decide to drop after registering?
 You may drop at any time, but the
 fee is non-refundable
 if you don’t contact us before the start date. Please email
-[email protected]
+elearning-department-group@svvsd.org
 to notify our program that you or your student needs to be dropped.
 How much does it cost?
 $150 per 0.5 credit
@@ -5670,7 +5663,7 @@ Once Registration has ended on Thursday, September 11th, we will send out an ema
 must view this Parent/Guardian Orientation
 .
 If you have any questions, please email
-[email protected]
+elearning-department-group@svvsd.org
 or call our office at 303-702-7906.
 Fees and Registration
 $150/0.5 Credit
@@ -5945,15 +5938,15 @@ Athletics, Activities, and Fine Arts Team
 Chase McBride
 Assistant Superintendent of Athletics, Activities, Fine Arts, Unified and PE
 303-702-7915
-[email protected]
+mcbride_chase@svvsd.org
 Melissa Lehman
 Executive Administrative Assistant to the Assistant Superintendent of Athletics, Activities, Fine Arts, Unified and PE
 303-702-7915
-[email protected]
+lehman_melissa@svvsd.org
 Janay Bird
 Director of Fine Arts, Performing Arts and PE
 303-702-7916
-[email protected]
+bird_janay@svvsd.org
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletics-activities-and-fine-arts-team/
 
@@ -7590,31 +7583,31 @@ Meet the Team
 Liz Allen
 Communications and Design Manager
 303-682-7230
-[email protected]
+allen_elizabeth@svvsd.org
 Kaela Blumenshine
 Communications Specialist – Operations and Information
 303-682-7409
-[email protected]
+blumenshine_kaela@svvsd.org
 Caroline Chutkow
 Executive Director of Communications
 303-682-7284
-[email protected]
+chutkow_caroline@svvsd.org
 Aaron Ford
 Senior Web Development and Systems Administrator
 303-682-7419
-[email protected]
+ford_aaron@svvsd.org
 Emily Hooge
 Communications Specialist – Content and Design
 303-682-7213
-[email protected]
+hooge_emily@svvsd.org
 Jane Lim
 Communications Department Secretary
 303-682-7423
-[email protected]
+lim_jane@svvsd.org
 Colin Rickman
 Director of Communications and Engagement
 303-682-7238
-[email protected]
+rickman_colin@svvsd.org
 
 Source: https://www.svvsd.org/departments/communications/about-us/communications-team/
 
@@ -7837,31 +7830,31 @@ Meet the Team
 Liz Allen
 Communications and Design Manager
 303-682-7230
-[email protected]
+allen_elizabeth@svvsd.org
 Kaela Blumenshine
 Communications Specialist – Operations and Information
 303-682-7409
-[email protected]
+blumenshine_kaela@svvsd.org
 Caroline Chutkow
 Executive Director of Communications
 303-682-7284
-[email protected]
+chutkow_caroline@svvsd.org
 Aaron Ford
 Senior Web Development and Systems Administrator
 303-682-7419
-[email protected]
+ford_aaron@svvsd.org
 Emily Hooge
 Communications Specialist – Content and Design
 303-682-7213
-[email protected]
+hooge_emily@svvsd.org
 Jane Lim
 Communications Department Secretary
 303-682-7423
-[email protected]
+lim_jane@svvsd.org
 Colin Rickman
 Director of Communications and Engagement
 303-682-7238
-[email protected]
+rickman_colin@svvsd.org
 
 Source: https://www.svvsd.org/departments/communications/about-us/communications-team/
 
@@ -8233,9 +8226,7 @@ Source: https://www.svvsd.org/departments/communications/publications-initiative
 - Last modified: 2021-03-16T09:16:03-06:00
 
 The goal of St. Vrain Valley Schools’ official social media accounts is to provide information about the district and schools in a professional and timely manner. Through our platforms we will build community engagement and positively represent our district, and the students and parents we serve, in the best light. St. Vrain Valley Schools values engagement and communication throughout our district.
-To our St. Vrain Community: please abide by our terms of use for this social media. We ask that you exercise civility and good will in your communication. While we absolutely welcome your feedback and comments, positive or not, comments and links that include profanity and offensive language will not be tolerated. Such comments will be deleted, and users who post inappropriate comments will be banned. If you have any questions or concerns please contact the Department of Communications at
-[email protected]
-.
+To our St. Vrain Community: please abide by our terms of use for this social media. We ask that you exercise civility and good will in your communication. While we absolutely welcome your feedback and comments, positive or not, comments and links that include profanity and offensive language will not be tolerated. Such comments will be deleted, and users who post inappropriate comments will be banned. If you have any questions or concerns please contact the Department of Communications at communications-group@svvsd.org.
 Download Staff Social Media Guidelines
 Register your district/school account
 District Social Media Directory
@@ -8579,116 +8570,116 @@ Meet the Team
 Esperanza Ruiz
 Community Schools Technician
 303-702-7924
-[email protected]
+ruiz_esperanzaj@svvsd.org
 Susanne Herren
 Regulatory Compliance Clerk
 303-702-7936
-[email protected]
+herren_susanne@svvsd.org
 Martha Clemensen
 Community Schools Assistant Coordinator
 303-702-7926
-[email protected]
+clemensen_martha@svvsd.org
 Susan Zimmerman
 Community Schools Coordinator
 303-702-7914
-[email protected]
+zimmerman_susan@svvsd.org
 Program Managers
 Larissa Prieto
 Program Manager, Alpine Elementary
 720-652-8146
-[email protected]
+prieto_larissa@svvsd.org
 Carly Ertle
 Program Manager, Black Rock Elementary
 720-890-3995
-[email protected]
+ertle_carly@svvsd.org
 Kelly McCord
 Program Manager, Blue Mountain Elementary
 720-652-8231
-[email protected]
+mccord_kelly@svvsd.org
 Mandy Valladao
 Program Manager, Burlington Elementary
 303-776-8861
-[email protected]
+valladao_amanda@svvsd.org
 Jake Anderson
 Program Manager, Centennial Elementary
 720-652-8240
-[email protected]
+anderson_jacob@svvsd.org
 Jessyca Chermak
 Program Manager, Central Elementary
 303-776-3236
-[email protected]
+chermak_jessyca@svvsd.org
 Harley Bolitho
 Program Manager, Eagle Crest Elementary
 720-652-7871
-[email protected]
+bolitho_harley@svvsd.org
 Cheryl Labadie
 Program Manager, Erie Elementary
 303-774-2716
-[email protected]
+labadie_cheryl@svvsd.org
 Kelley McGhie-Wyjad
 Program Manager, Fall River Elementary
 720-652-7923
-[email protected]
+mcghiewyjad_kelley@svvsd.org
 Tarah Sable
 Program Manager, Grand View Elementary
 303-702-8000
-[email protected]
+sable_tarah@svvsd.org
 Deidre Taylor
 Program Manager, Highlands
 303-702-8040
-[email protected]
+taylor_deidre@svvsd.org
 Veronica Vigil
 Program Manager, Hygiene Elementary
 720-652-8021
-[email protected]
+vigil_veronica@svvsd.org
 Becky Champlin
 Program Manager, Legacy Elementary
 720-652-8169
-[email protected]
+champlin_rebecca@svvsd.org
 Melodie Erdmann
 Program Manager, Longmont Estates Elementary
 720-652-8106
-[email protected]
+erdmann_melodie@svvsd.org
 Amie Olson
 Program Manager, Lyons Elementary
 303-823-6915
-[email protected]
+olson_amie@svvsd.org
 Christy Scott
 Program Manager, Mead Elementary
 720-652-8046
-[email protected]
+scott_christine@svvsd.org
 Maria Ochoa
 Program Manager, Mountain View Elementary
 720-652-8272
-[email protected]
+ochoa_maria@svvsd.org
 Jennifer Novick
 Program Manager, Niwot Elementary
 720-652-8065
-[email protected]
+novick_jennifer@svvsd.org
 Brittany Van Treeck
 Program Manager, Prairie Ridge Elementary
 720-494-3645
-[email protected]
+vantreeck_brittany@svvsd.org
 Linda Spencer
 Program Manager, Red Hawk Elementary
 303-774-2716
-[email protected]
+spencer_linda@svvsd.org
 Irena Dietz
 Program Manager, Sanborn Elementary
 720-652-8126
-[email protected]
+dietz_irena@svvsd.org
 David Zuniga
 Program Manager, Soaring Heights PK8
 303-702-8026
-[email protected]
+zuniga_david@svvsd.org
 Tasha Lugg
 Program Manager, SPARK Discovery Preschool
 720-652-7908
-[email protected]
+lugg_tasha@svvsd.org
 Jess Halloran
 Program Manager, Thunder Valley K-8
 303-833-2456
-[email protected]
+halloran_jess@svvsd.org
 
 Source: https://www.svvsd.org/departments/communityschools/about-us/
 
@@ -9159,35 +9150,35 @@ Meet the Preschool Team
 Shela Blankinship
 Director of Early Childhood Education
 303-702-8371
-[email protected]
+blankinship_shela@svvsd.org
 Susan Mills
 Administrative Assistant
 303-702-7815
-[email protected]
+mills_susan@svvsd.org
 Lori Myers
 Enrollment & Screening Clerk
 303-702-8373
-[email protected]
+myers_lori@svvsd.org
 Jennifer Nusbaum
 Preschool Media and Family Engagement Clerk
 303-702-8361
-[email protected]
+nusbaum_jennifer@svvsd.org
 Bertha Olivares
 Early Childhood Community Liaison
 303-702-8370
-[email protected]
+olivares_bertha@svvsd.org
 Eunice Peinado
 Universal Preschool Specialist
 303-702-8378
-[email protected]
+peinado_eunice@svvsd.org
 Katie Rhodes
 Early Childhood Support Specialist
 303-702-8366
-[email protected]
+rhodes_katie@svvsd.org
 Lisa Lupica
 Enrollment & Regulatory Compliance Clerk
 303-702-8367
-[email protected]
+lupica_lisa@svvsd.org
 
 Source: https://www.svvsd.org/departments/early-childhood/about-us/
 
@@ -9809,45 +9800,45 @@ Tony Whiteley
 Chief Financial Officer
 Kimberly Woolett
 Executive Administrative Assistant
-[email protected]
+woolett_kimberly@svvsd.org
 303-682-7203
-[email protected]
+whiteley_tony@svvsd.org
 Kimberly Woolett
 Executive Administrative Assistant to Chief Financial Officer
 303-682-7203
-[email protected]
+Woolett_Kimberly@svvsd.org
 Justin Petrone
 Executive Director Budget & Finance
 303-682-7287
-[email protected]
+petrone_justin@svvsd.org
 Jane Frederick
 Comptroller
 303-682-7378
-[email protected]
+frederick_jane@svvsd.org
 Mimi Livermore
 Assistant Comptroller
 303-682-7283
-[email protected]
+livermore_marion@svvsd.org
 Maryel Barron
 Disbursement Director
 303-682-7221
-[email protected]
+barron_maryel@svvsd.org
 Tara Cowens
 Budget Director
 303-682-7288
-[email protected]
+cowens_tara@svvsd.org
 Tim Wellmann
 Procurement Director
 303-702-7734
-[email protected]
+wellmann_timothy@svvsd.org
 Amber Muir
 Enrollment & Data Quality Director
 303-702-7910
-[email protected]
+muir_amber@svvsd.org
 Shelly Murphy
 School Business Services Director
 303-682-7332
-[email protected]
+murphy_shelly@svvsd.org
 
 Source: https://www.svvsd.org/departments/financial-services/financial-services-team/
 
@@ -9916,27 +9907,27 @@ Procurement Team
 Tim Wellmann, NIGP-CPP, CPPB
 Director of Procurement
 303-702-7734
-[email protected]
+wellmann_timothy@svvsd.org
 Shelly Henderson, NIGP-CPP, CPPB
 Procurement Manager
 303-702-8456
-[email protected]
+henderson_shelly@svvsd.org
 Chelsey Axtell
 Procurement Assistant
 303-702-7769
-[email protected]
+axtell_chelsey@svvsd.org
 Kim Myers, NIGP-CPP, CPPB
 Senior Procurement Specialist
 303-702-7767
-[email protected]
+myers_kim@svvsd.org
 Laura Wamsley
 Procurement Specialist
 303-702-7715
-[email protected]
+wamsley_laura@svvsd.org
 Bill Oliver
 Senior Procurement Specialist
 303-682-7294
-[email protected]
+oliver_william@svvsd.org
 
 Source: https://www.svvsd.org/departments/financial-services/purchasing/meet-the-team/
 
@@ -10141,21 +10132,21 @@ Lori Holt
 Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name A-L
 303-682-7337
-[email protected]
+holt_lori@svvsd.org
 Leticia Tapia
 Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name M-Z
 303-682-7383
-[email protected]
+tapia_leticia@svvsd.org
 HIPAA
 The HIPAA Privacy Official is:
 Amanda Thompson
 303-682-7341
-[email protected]
+thompson_amanda@svvsd.org
 The HIPAA Security Official is:
 Michelle Bourgeois, Chief Information Officer
 303-702-7703
-[email protected]
+bourgeois_michelle@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits-previous/benefits-team/
 
@@ -10247,16 +10238,16 @@ Lori Holt
 Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name A-L
 303-682-7337
-[email protected]
+holt_lori@svvsd.org
 Leticia Tapia
 Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name M-Z
 303-682-7383
-[email protected]
+tapia_leticia@svvsd.org
 Kristina De Ezpeleta
 Benefits Manager
 303-682-7341
-[email protected]
+deezpeleta_kristina@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/
 
@@ -10481,7 +10472,7 @@ Message “Schedule”
 Receive a reply from an appointment coordinator to schedule your first visit!
 Ways to Contact/Schedule with KerixHealth:
 303-501-2600
-[email protected]
+careteam@kerixhealth.com
 Use the Spruce Messaging App:
 Download Here
 2026 UMR Plan Document
@@ -10656,7 +10647,7 @@ Wellness Program Contact
 Chara Worthington
 Wellness Technician
 303-702-7921
-[email protected]
+worthington_chara@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
 
@@ -11144,91 +11135,91 @@ Human Resources Leadership Team
 Amanda Thompson
 Assistant Superintendent of Human Resources
 303-682-7386
-[email protected]
+thompson_amanda@svvsd.org
 Sarah James
 Executive Director of Human Resources
 303-682-7248
-[email protected]
+james_sarah@svvsd.org
 Kate Slick
 Executive Director of Human Resources
 303-682-7377
-[email protected]
+slick_katherine@svvsd.org
 Ty Valentine
 Executive Director of Human Resources
 303-682-7439
-[email protected]
+valentine_ty@svvsd.org
 Brian Young
 Executive Director of Human Resources
 303-682-7237
-[email protected]
+young_brian@svvsd.org
 Amy Keen
 Director of Human Resourcres
 303-702-7555
-[email protected]
+keen_amy@svvsd.org
 Human Resources Staff
 Cat Baker
 Human Resources Technician
 303-682-7408
-[email protected]
+baker_cat@svvsd.org
 Jakie Chaparro
 Human Resources Technician
 303-682-7282
-[email protected]
+chaparro_jakie@svvsd.org
 Heather Coventon
 Department Secretary/District Receptionist
 303-776-6200
-[email protected]
+coventon_heather@svvsd.org
 Rebecca Ewer
 Employee Leave Specialist
 303-682-7297
-[email protected]
+ewer_rebecca@svvsd.org
 Elisa Goellner
 Executive Administrative Assistant
 303-682-7386
-[email protected]
+goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Technician
 303-682-7290
-[email protected]
+kocourek_katarina@svvsd.org
 Bruna Omati
 Human Resources Specialist
 303-682-7241
-[email protected]
+omati_bruna@svvsd.org
 Irene Prado
 Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
 303-682-7212
-[email protected]
+prado_irene@svvsd.org
 Marta Quandt
 Human Resources Secretary
 303-682-7435
-[email protected]
+quandt_marta@svvsd.org
 Kate Silva
 Guest Teacher Scheduler
 303-702-7529
-[email protected]
+silva_kate@svvsd.org
 Josie Vigil
 Human Resources Technician
 303-682-7235
-[email protected]
+vigil_josephena@svvsd.org
 Benefits
 Kristina De Ezpeleta
 Benefits Manager
 303-682-7341
-[email protected]
+deezpeleta_kristina@svvsd.org
 Lori Holt
 Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name A-L
 303-682-7337
-[email protected]
+holt_lori@svvsd.org
 Leticia Tapia
 Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name M-Z
 303-682-7383
-[email protected]
+tapia_leticia@svvsd.org
 Chara Worthington
 Wellness Technician
 303-702-7921
-[email protected]
+worthington_chara@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/human-resources-team/
 
@@ -11361,9 +11352,7 @@ The school administration and the licensed employee requesting the leave are res
 Common Queries:
 Anytime the licensed employee is out of the building the time should be recorded in Red Rover.
 When creating the absence, un-click the substitute box in Red Rover to not order a sub.
-A .5 FTE teacher who also wants to be a guest teacher on their other .5 should contact the substitute office:
-[email protected]
-.
+A .5 FTE teacher who also wants to be a guest teacher on their other .5 should contact the substitute office: suboffice@svvsd.org.
 Welcome to PERA
 St. Vrain Valley Schools is one of more than 400 employers throughout Colorado that are part of PERA. PERA stands for Public Employees’ Retirement Association which provides retirement benefits for those working in Colorado’s public sector. Because of your new job with the District, you’re now a PERA member.
 PERA has two types of retirement plans: A defined benefit (also called a pension) plan where PERA invests funds on your behalf and then provides a lifetime monthly benefit in retirement, and a defined contribution plan where you choose your investments and then draw from your account balance in retirement.
@@ -11613,8 +11602,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
 - Last modified: 2026-02-03T14:31:34-07:00
 
-St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email:
-[email protected]
+St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email: humanresources@svvsd.org
 CO-ALAS
 : January 17, 2026, at Regis University, Denver, CO
 Prep with Reps
@@ -11683,11 +11671,11 @@ If you have any questions, please contact the District’s ADA Coordinator, Kris
 Kristina De Ezpeleta
 Benefits Manager
 303-682-7341
-[email protected]
+deezpeleta_kristina@svvsd.org
 Irene Prado
 Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
 303-682-7212
-[email protected]
+prado_irene@svvsd.org
 More about the Americans with Disabilities Act (ADA):
 The ADA is a federal law that guarantees that individuals with a qualifying disability have equal access to employment opportunities. An individual with a disability is someone who has a physical or mental impairment that substantially limits one or more major life activities or major bodily functions.
 The ADA requires employers to engage in the interactive process with their disabled employees to identify any reasonable job accommodations that would allow the disabled employee to perform the essential functions of their job.
@@ -11714,7 +11702,7 @@ The Risk Management Fund is used to account for the payment of loss of or damage
 Heather Keith
 Risk Management Manager
 303-682-7428
-[email protected]
+keith_heather@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/risk-management/
 
@@ -11731,7 +11719,7 @@ Motor Vehicle Accident Report
 Heather Keith
 Risk Management Manager
 303-682-7428
-[email protected]
+keith_heather@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/risk-management/forms/
 
@@ -11772,7 +11760,7 @@ Workers’ Compensation Benefits and Procedures
 Heather Keith
 Risk Management Manager
 303-682-7428
-[email protected]
+keith_heather@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/risk-management/workers-compensation/
 
@@ -11888,19 +11876,19 @@ HERE
 DLMS Staff:
 Norm Birt
 District Cataloger
-[email protected]
+birt_norm@svvsd.org
 X57742
 Jennifer Lyon
 Curriculum and Materials Handler
-[email protected]
+lyon_jennifer@svvsd.org
 x57747
 Helen Robbins
 District Instructional Librarian
-[email protected]
+robbins_helen@svvsd.org
 X57786
 Holly Zilling
 DLMS and K12 ELA Administrative Assistant
-[email protected]
+zilling_holly@svvsd.org
 X57744
 DLMS Mission Statement:
 At DLMS our goal is to support all school libraries so that students graduate as critical, ethical and independent users of information. It is our mission to support library programs that create self-directed lifelong learners and information literate citizens. The DLMS library will supply access to materials in a variety of formats including databases, ebooks and print books. We will also promote an appreciation of reading.
@@ -11930,10 +11918,10 @@ Central Supply Warehouse
 The Central Supply Warehouse supports the District’s overall educational goals for students by providing goods, services, and manpower to District school and administration buildings. The Central Supply staff cover over 400 square miles daily providing district sites with almost 16 tons of supplies and materials each week. In addition this group of employees receives and distributes over one million pieces of mail annually.
 Bobby Lentz
 Warehouse Manager , Warehouse Services
-[email protected]
+lentz_bobby@svvsd.org
 Jose Batrez
 Warehouse Lead, Warehouse Services
-[email protected]
+batrezvillanueva_jos@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/central-supply-warehouse/
 
@@ -11975,39 +11963,39 @@ Construction Team
 Bryan Zwisler
 Executive Director of Construction and Maintenance
 303-682-7320
-[email protected]
+zwisler_bryan@svvsd.org
 Gary Frantz
 Project Manager
-[email protected]
+frantz_gary@svvsd.org
 Sam Freeman
 Project Manager
-[email protected]
+freeman_samuel@svvsd.org
 Christina Haid
 Secretary – Executive Director of Construction & Maintenance
 303-682-7269
-[email protected]
+haid_christina@svvsd.org
 Max Lamphere
 Project Manager
 303-702-7567
-[email protected]
+lamphere_max@svvsd.org
 Jerrica Moncallo
 Facility Data & Small Projects Coordinator
 303-702-7359
-[email protected]
+mitchell_jerrica@svvsd.org
 Brian Schlicting
 Project Manager
 303-702-7566
-[email protected]
+schlicting_brian@svvsd.org
 Conan Smith
 Project Manager
-[email protected]
+smith_conan@svvsd.org
 Julie Testa
 Construction Manager
-[email protected]
+testajewell_julie@svvsd.org
 Matt Tredennick
 District Architect
 303-682-7249
-[email protected]
+tredennick_matthew@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/construction/construction-team/
 
@@ -12039,27 +12027,27 @@ Custodial Services Team
 Brett Eyer
 Custodial Supervisor
 303-702-8334
-[email protected]
+eyer_brett@svvsd.org
 Vince Theriault
 Custodial Supervisor
 303-702-8330
-[email protected]
+theriault_vince@svvsd.org
 Melissa Hughett
 Custodial Supervisor
 303-702-8324
-[email protected]
+hughett_melissa@svvsd.org
 Dana McDonald
 Custodial Supervisor
 303-702-8333
-[email protected]
+mcdonald_dana@svvsd.org
 John Tramp
 Custodial Supervisor
 303-702-8323
-[email protected]
+tramp_john@svvsd.org
 Anna Hasselman
 Department Secretary, Custodial Services
 303-702-8338
-[email protected]
+hasselman_anna@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/custodial-services/custodial-services-team/
 
@@ -12561,15 +12549,15 @@ Our Team
 Luana Campos
 Facility Use Coordinator
 303-682-7433
-[email protected]
+campos_luana@svvsd.org
 Korri Anderson
 Assistant Facility Use Coordinator
 303-682-7363
-[email protected]
+anderson_korri@svvsd.org
 David Dean
 Auditorium Specialist
 303-702-7564
-[email protected]
+dean_david@svvsd.org
 Announcements & Timelines
 2025-2026 School Year Timelines are posted below!
 Athletic Timeline
@@ -12743,38 +12731,38 @@ Maintenance Team
 Paul Schuler
 Manager of Maintenance
 303-682-7268
-[email protected]
+schuler_paul@svvsd.org
 Teri Reger
 Dispatch/Scheduling Coordinator
 303-682-7333
-[email protected]
+reger_teri@svvsd.org
 Bob Auckly
 HVAC Lead
-[email protected]
+auckly_robert@svvsd.org
 Ty Branch
 MEP Supervisor
-[email protected]
+branch_tyrone@svvsd.org
 Christopher Diekman
 Lead Groundskeeper
 303-682-7265
-[email protected]
+diekman_christopher@svvsd.org
 Scott Elnicki
 Carpentry Lead
-[email protected]
+elnicki_scott@svvsd.org
 Bill Hendee
 Irrigation Lead
 303-682-7261
-[email protected]
+hendee_bill@svvsd.org
 Frank Moncallo
 Low Volt Lead
-[email protected]
+moncallo_frank@svvsd.org
 Jon Sander
 Plumbing Lead
 303-532-9606
-[email protected]
+sander_jonathan@svvsd.org
 Colin York
 Capital Assets Manager
-[email protected]
+york_colin@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/maintenance/maintenance-team/
 
@@ -12877,9 +12865,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/
 A La Carte Offerings in SVVSD
 Did you know that the Nutrition Service department is self-funded? This means that the money the department earns from selling food items to students, families and staff, as well as federal and state government funding, must cover the cost of food, salary & benefits for approximately 220 employees, equipment and other operational expenses. Nutrition Services does not receive money outside of its meal service operations and grants related to the service of food to students.
 These daily a la carte offerings help the department cover operational costs, including remaining competitive in the job market and the ability to offer our employees wage increases aligned with the district. We use the sale of additional items to help foster a better program for our students. This is one contributor to SVVSD’s success in farm to school programming, staffing kitchens appropriately, and replacing equipment with tools that help us produce the best possible food for our students each and every day. Our goal is to continue to offer the best variety of healthy meals to our students daily ensuring that 100% of our students are successful.
-Families will still be able to regulate which items their student is allowed to purchase by contacting
-[email protected]
-. Students, parents and staff will not be allowed to purchase a la carte items when their account does not have adequate funds to cover the cost of the item. You can view your student purchases and make notes on their accounts for our cashiers on
+Families will still be able to regulate which items their student is allowed to purchase by contacting nutrition_services@svvsd.org. Students, parents and staff will not be allowed to purchase a la carte items when their account does not have adequate funds to cover the cost of the item. You can view your student purchases and make notes on their accounts for our cashiers on
 LINQ Connect
 .
 Smart Snacks in Schools
@@ -13189,7 +13175,7 @@ Washington, D.C. 20250-9410; or
 fax:
 (833) 256-1665 or (202) 690-7442; or
 email:
-[email protected]
+Program.Intake@usda.gov
 This institution is an equal opportunity provider.
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-reduced-the-education-benefit-form/
@@ -13266,7 +13252,7 @@ Questions?
 Theresa Spires, RDN
 School Wellness Coordinator
 303-702-7750
-[email protected]
+spires_theresa@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
 
@@ -13280,7 +13266,7 @@ For questions or comments, please contact us via the department email, and we wi
 Nutrition Services Office
 Yo hablo español.
 303-702-8409
-[email protected]
+nutrition_services@svvsd.org
 Nutrition Services Parent Portal & Meal Accounts
 LINQ Connect
 offers parents & guardians the ability to:
@@ -13299,7 +13285,7 @@ For questions or assistance with processing Free & Reduced income eligibility ap
 Kari Jacobs
 Nutrition Services Coordinator of Resources
 303-702-7793
-[email protected]
+jacobs_kari@svvsd.org
 Free & Reduced Education Benefits Form
 Learn More About Education Benefits
 Employment Opportunities
@@ -13307,7 +13293,7 @@ For questions or assistance with job postings, interviews, or new hires:
 Sandra Lindamood
 Staffing & Equipment Specialist
 303-682-7251
-[email protected]
+lindamood_sandra@svvsd.org
 View Job Openings
 Learn More About SVVSD Nutrition Services Employment
 Accounts Payable & Student Lunch Account Refunds
@@ -13315,81 +13301,79 @@ For inquiries regarding billing, accounts payable, new vendor setup, Colorado Pa
 Jennifer Raven
 Nutrition & Warehouse Services Accounting Specialist
 303-702-7752
-[email protected]
+raven_jennifer@svvsd.org
 Student Lunch Account Refund Form
 Menus & Catering
 For inquires about the menu, taste testing, or locally grown or produced menu items:
 Jim Rowan
 Executive Chef
-[email protected]
+rowan_jim@svvsd.org
 View School Menus
 Hosting an event at an SVVSD school or administrative building? Nutrition Services is here to cater! Visit our online catering website to learn more:
 Place a SVVSD Catering Order
 Rochelle Borrego
 Catering Manager
-[email protected]
+borrego_rochelle@svvsd.org
 Purchasing & Procurement
 For vendor appointments related to food, supplies, and disposables for Child Nutrition Programs:
 Mindi Wolf
 Nutrition Services Coordinator of Operations
 303-682-7214
-[email protected]
+wolf_mindi@svvsd.org
 View Open Solicitations
 Warehouse Services
 SVVSD Warehouse Services provides a wealth of behind-the-scenes services throughout the district. For inquiries about deliveries, Warehouse Work Orders, postage and shipping:
 Bobby Lentz
 Warehouse Manager , Warehouse Services
-[email protected]
+lentz_bobby@svvsd.org
 Place a Warehouse Work Order
 Area Supervisors & Subject Matter Experts
-Our Site Supervisors manage a variety of programs, responsibilities, and areas of expertise. Additionally, they directly oversee the kitchen staff at our 55 sites across the district. For inquiries related to your specific school, please email
-[email protected]
-for assistance.
+Our Site Supervisors manage a variety of programs, responsibilities, and areas of expertise. Additionally, they directly oversee the kitchen staff at our 55 sites across the district. For inquiries related to your specific school, please email nutrition_services@svvsd.org for assistance.
 Special Diets: Allergies & Meal Modifications
 Does your student require a customized menu due to special dietary needs? Nutrition Services can adapt menus to accommodate children who need specific food preparations or need to avoid certain foods due to allergies or medical conditions. For more information, please visit our
 Special Dietary Needs webpage
 .
 Amy Gray, MDA, RDN
 Area Supervisor / Special Diets
-[email protected]
+gray_amelia@svvsd.org
 Communications
 SVVSD celebrates efforts to provide timely and transparent information school communities. For inquiries about department communications, grants, social media & more:
 Kevin Rescigno, MS, RDN
 Site Supervisor: Communications
-[email protected]
+rescigno_kevin@svvsd.org
 Production & Mobile Meal Services
 For inquiries about catering invoices, the central production kitchen, charter school or vended meal programs, or mobile meal services:
 Sally Johnson
 Area Supervisor / Production Kitchen & Summer Foodservice Program
 303-702-7753
-[email protected]
+johnson_sally@svvsd.org
 Technology & Student Accounts
 For student account balances and reports, or questions about the point of sale system:
 Joy English
 Area Supervisor / Technology Support
 303-682-7338
-[email protected]
+english_joy@svvsd.org
 Professional Development
 SVVSD Nutrition Services provides training for employees year round. For inquires about our training programs, Manager in Training coursework, or New Hire Orientation:
 Breean Harris
 Area Supervisor / Training
 303-702-7756
-[email protected]
+harris_breean@svvsd.org
 School Wellness
 Supports local wellness policy as part of the Child Nutrition Programs, advocates for local partnerships, and facilitates initiatives around farm to table.
 Theresa Spires, RDN
 School Wellness Coordinator
 303-702-7750
-[email protected]
+spires_theresa@svvsd.org
 Director’s Office
 Katie Cossette, MDA, RDN, SNS
 Director of Nutrition Services & Warehouse
-[email protected]
+cossette_katie@svvsd.org
 Carla Maravilla Leon
 Secretary to the Director of Nutrition Services & Warehouse
 Yo hablo español.
 303-702-8409
-[email protected]
+maravillaleon_carla@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-our-leadership-team/
 
@@ -13452,7 +13436,7 @@ Washington, D.C. 20250-9410; or
 fax:
 (833) 256-1665 or (202) 690-7442; or
 email:
-[email protected]
+Program.Intake@usda.gov
 This institution is an equal opportunity provider.
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondiscrimination-statement/
@@ -13471,7 +13455,7 @@ FREE
 ; however, vendors may select to receive automatic e-mail notification for a small annual fee. It is the responsibility of the potential vendor to monitor the website regularly in order to be aware of business opportunities and review changes or addendums to bids, quotes, and proposals.
 For further information please contact:
 Tim Wellmann
-[email protected]
+wellmann_timothy@svvsd.org
 Open Solicitations
 Bid Name
 Bid Number
@@ -13836,7 +13820,7 @@ Meal Modification Form
 Modification Discontinuation Form
 Amy Gray, MDA, RDN
 Area Supervisor / Special Diets
-[email protected]
+gray_amelia@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/special-dietary-forms/
 
@@ -13858,7 +13842,7 @@ Colorado Department of Human Resources
 Questions regarding eligibility should be referred to the
 CDHS webpage
 or call center by calling 800-536-5298, texting 720-741-0550 or emailing
-[email protected]
+cdhs_sebt_supportcenter@state.co.us
 .
 FAQ
 Do preschool students qualify for S-EBT?
@@ -13914,9 +13898,7 @@ at participating sites.
 Who funds free summer meals?
 Summer meals programs are federally funded by the USDA through the Summer Food Service Program and the National School Lunch Program Seamless Summer Option.
 There is no site in my area. How can summer meals be offered in my community next summer?
-If there are no summer meals sites in your community, we can help. Email No Kid Hungry at
-[email protected]
-.
+If there are no summer meals sites in your community, we can help. Email No Kid Hungry at bestpractices@strength.org.
 What else can I do to help?
 You can share information about free summer meals on social media; with friends; family members and neighbors; and with any community groups or faith-based congregations that you belong to. Share the texting hotline (“Text FOOD or COMIDA to 304-304 to find free summer meals in our community”)
 Summer EBT
@@ -13933,7 +13915,7 @@ Colorado Department of Human Services
 Questions regarding eligibility should be referred to the
 CDHS webpage
 or call center by calling 800-536-5298, texting 720-741-0550 or emailing
-[email protected]
+cdhs_sebt_supportcenter@state.co.us
 .
 New Tool: Unlock Benefits with Single Stop
 Families may qualify for a range of public benefits and support services and not even realize it.
@@ -13962,58 +13944,58 @@ Operations Leadership Team
 Brian Lamer
 Assistant Superintendent of Operations
 303-682-7405
-[email protected]
+lamer_brian@svvsd.org
 Helene Pronk
 Executive Administrative Assistant
 303-682-7405
-[email protected]
+pronk_helene@svvsd.org
 Patricia Davis
 Accounting Specialist
-[email protected]
+hondadavis_liane@svvsd.org
 Lance Yoxsimer
 Executive Director of Transportation
 303-903-2014
-[email protected]
+yoxsimer_lance@svvsd.org
 Kelly Kinsman
 Executive Director, Building Services
 303-652-7661
-[email protected]
+kinsman_kelly@svvsd.org
 Luana Campos
 Facility Use Coordinator
 303-682-7433
-[email protected]
+campos_luana@svvsd.org
 Richard Peebles
 Executive Director of Safety and Security
 303-682-7207
-[email protected]
+peebles_richard@svvsd.org
 Bryan Zwisler
 Executive Director of Construction and Maintenance
 303-682-7320
-[email protected]
+zwisler_bryan@svvsd.org
 Brendan Willits
 Planning Director
 303-682-7204
-[email protected]
+willits_brendan@svvsd.org
 Paul Schuler
 Manager of Maintenance
 303-682-7268
-[email protected]
+schuler_paul@svvsd.org
 Katie Cossette
 Director of Nutrition Services and Warehouse
 303-682-7255
-[email protected]
+cossette_katie@svvsd.org
 Brett Eyer
 Custodial Manager
 303-702-8334
-[email protected]
+eyer_brett@svvsd.org
 Matt Tredennick
 District Architect
 303-682-7249
-[email protected]
+tredennick_matthew@svvsd.org
 Julie Testa
 Construction Manager
 303-702-7524
-[email protected]
+testajewell_julie@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
 
@@ -14071,15 +14053,15 @@ Planning Team
 Brendan Willits
 Planning Director
 303-682-7204
-[email protected]
+willits_brendan@svvsd.org
 Heidi Feula
 Planning/Data Technician (Open Enrollment, October Count Report)
 303-682-7229
-[email protected]
+feula_heidi@svvsd.org
 Ryan Kragerud
 Planning/GIS Specialist (Cash in Lieu, Development Referrals, GIS)
 303-682-7317
-[email protected]
+kragerud_ryan@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/planning/planning-team/
 
@@ -14331,28 +14313,28 @@ Title I School-based Family Liaisons:
 Rocky Mountain Elementary School
 – Diana Fernandez
 (303) 772-6750
-[email protected]
+fernandez_diana@svvsd.org
 Indian Peaks Elementary
 School
 – Blanca Perez
 (303) 772-7240
-[email protected]
+perez_blanca@svvsd.org
 Columbine Elementary School
 – Luis Montes
 (303) 776-2840
-[email protected]
+montes_luis@svvsd.org
 Timberline PK-8
 – Maria Aldaba
 (303) 772-7900
-[email protected]
+aldaba_maria@svvsd.org
 Northridge Elementary School
 – Rocio Reyes
 (303) 772-3040
-[email protected]
+reyes_rocio@svvsd.org
 Longs Peak Middle School
 – Maria Perez (
 303) 776-5611 ex. 34968
-[email protected]
+perez_maria@svvsd.org
 
 Source: https://www.svvsd.org/departments/priority-programs/family-liaisons/
 
@@ -14448,7 +14430,7 @@ Timberline PK-8
 Registration information will be shared via your school’s newsletter toward the end of February. For additional program information, please contact your child’s classroom teacher, literacy specialist, or principal. Registration closes when a school site and/or grade-level is full.
 For additional questions, please contact:
 Cathy O’Donnell, Elementary Project Launch Director
-[email protected]
+odonnell_cathy@svvsd.org
 Project Launch Middle School
 Project Launch Middle School is a four-week, 16-day summer focus program for incoming sixth, seventh, and eighth grade students. Through Project Launch Middle School students can strengthen their reading and math skills in a rigorous and engaging environment. Students will receive small classroom instruction from high-quality St. Vrain educators, allowing them to get extra support for the upcoming school year.
 Program Features
@@ -14697,8 +14679,7 @@ CEU’s
 Educator Licensing
 (link to CDE licensure page)
 Request for Lateral Salary Movement form
-For questions about lateral salary movement, email
-[email protected]
+For questions about lateral salary movement, email lateralmove@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/about-us/faqs/
 
@@ -14711,60 +14692,60 @@ Professional Development Staff
 Kelly Addington
 Learning Coach
 720-254-7756
-[email protected]
+addington_kelly@svvsd.org
 David Baker
 Professional Development Coordinator
 303-702-8253
-[email protected]
+baker_david@svvsd.org
 Carolyn Clifford
 Success Coach
-[email protected]
+clifford_carolyn@svvsd.org
 Dana Curton
 P-TEACH Coordinator
 303-702-8238
-[email protected]
+curton_dana@svvsd.org
 Melissa Dole
 P-TEACH Counselor
 303-702-8251
-[email protected]
+dole_melissa@svvsd.org
 Laura Fitzgerald
 Learning Coach
 303-702-8288
-[email protected]
+fitzgerald_laura@svvsd.org
 Courtney Groskin
 Learning Coach
 201-899-5552
-[email protected]
+groskin_courtney@svvsd.org
 Patty Hagan
 Teaching and Learning Coach
 303-702-8250
-[email protected]
+hagan_patricia@svvsd.org
 Wendy Howenstein
 P-TEACH Instructor
 970-443-8191
-[email protected]
+howenstein_wendy@svvsd.org
 Diane Lauer, Ed.D.
 Chief Academic Officer
 303-702-7591
-[email protected]
+lauer_diane@svvsd.org
 Amy Magyar
 Department Secretary
 303-702-8252
-[email protected]
+magyar_amy@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
-[email protected]
+morenomartinz_monica@svvsd.org
 Jenny Rhoadarmer
 Success Coach
-[email protected]
+rhoadarmer_jennifer@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
-[email protected]
+rudman_nicole@svvsd.org
 Misti Snow
 Teaching and Learning Coach
 303-702-8249
-[email protected]
+snow_misti@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/about-us/staff-directory/
 
@@ -14805,11 +14786,11 @@ Q: How do I get started?
 A: If interested, reach out to an Instructional Program Consultant listed below. Our team is happy to speak with interested candidates and provide additional information. Program consultants will support interested candidates through each step of the process.
 Contact information
 Erin Quakenbush, Instructional Program Consultant –
-[email protected]
+quakenbush_erin@svvsd.org
 Jasmine McGarr, Instructional Program Consultant –
-[email protected]
+mcgarr_jasmine@svvsd.org
 Nathalie Tuhari-Katz, Assistant Director of Special Education –
-[email protected]
+tuharikatz_nathalie@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/alternative-licensure-pathway-to-special-education/
 
@@ -14875,7 +14856,7 @@ English language arts
 St. Vrain Valley Schools has established a CDE-approved pathway for this requirement. Once you have completed 45 hours in a combination of the following Professional Development offerings, we will issue an English Learner PD Certificate which you will need to submit to CDE upon relicensure. (
 CLICK HERE
 to request the English Learning PD Certificate). If you have any questions, please contact the SVVS CLDE Requirements Pathway Specialist at
-[email protected]
+clifford_carolyn@svvsd.org
 .
 The approved St. Vrain Pathway classes have been updated. Here are the
 CURRENT
@@ -14885,15 +14866,11 @@ Elevating Instruction for Multilingual Learners Book Study
 Teach to REACH Conference
 (7.5 hours): Join St. Vrain educators at a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas. This is a late-summer conference.
 WIDA Professional Learning
-(Hours depend on the modules completed): Register in WisdomWhere, for access to WIDA modules. Once you register in WisdomWhere, please email
-[email protected]
-to be set up with a WIDA login. When you have completed the modules of your choice, email your certificates to
-[email protected]
+(Hours depend on the modules completed): Register in WisdomWhere, for access to WIDA modules. Once you register in WisdomWhere, please email magyar_amy@svvsd.org to be set up with a WIDA login. When you have completed the modules of your choice, email your certificates to
+magyar_amy@svvsd.org
 to receive credit.
 WIDA makes changes to their Professional Learning modules each September. If you have completed a module that is no longer available, please include that certificate when you send them to me. You will receive credits for all of your certificates as long as they are or have been listed under WIDA Professional Learning.
-Choose from the following WIDA Professional Learning modules. If you have not previously signed up with WIDA, please email
-[email protected]
-and let Amy know that you need to be set up with a WIDA account. Access to individual models will be available through the WIDA Professional Learning link you will receive after you register:
+Choose from the following WIDA Professional Learning modules. If you have not previously signed up with WIDA, please email magyar_amy@svvsd.org and let Amy know that you need to be set up with a WIDA account. Access to individual models will be available through the WIDA Professional Learning link you will receive after you register:
 Desarrollando el español: Las expectativas del lenguaje
 (1 hour)
 :
@@ -14986,9 +14963,7 @@ Source: https://www.svvsd.org/departments/professional-development/induction/
 
 New Educator Induction
 Process Timeline 2025-2026
-Late Hire New Teacher Orientation – If you are a new licensed employee and are unable to attend NTO 2025, you will have the opportunity to make up missed days at NTO next August. Please contact
-[email protected]
-for more information.
+Late Hire New Teacher Orientation – If you are a new licensed employee and are unable to attend NTO 2025, you will have the opportunity to make up missed days at NTO next August. Please contact magyar_amy@svvsd.org for more information.
 Ongoing support from assigned mentor or coach throughout the year
 Completion of end of year survey – April 30, 2026
 Alternative License Special Education Teacher Induction Checklist
@@ -15008,8 +14983,7 @@ SPED Experienced Teacher Checklist
 (for special educators with 3+ years of experience in the United States)
 SPED Specialists Checklist
 (School Psychologists, SLP, OT, PT, TVI and DHH)
-Questions about induction? E-mail Amy Magyar at
-[email protected]
+Questions about induction? E-mail Amy Magyar at magyar_amy@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/induction/induction-checklist/
 
@@ -15057,7 +15031,7 @@ Yoshimoto Orton-Gillingham Basic Training
 Essentials in Evidence-Based Literacy Instruction
 Elementary and K-8 Principals, Assistant Principals and Deans
 Contact Diane Lauer (
-[email protected]
+lauer_diane@svvsd.org
 ) for more information
 The
 CDE webs
@@ -15070,15 +15044,15 @@ Teachers must also submit the Read Act certificate to the SVVS Human Resources D
 Employee Certification Page
 .
 If you have any questions about Professional Development courses, please contact Amy Magyar (
-[email protected]
+magyar_amy@svvsd.org
 ) at 303-702-8252. If you need information on the various class options available to you, please contact Courtney Groskin (
-[email protected]
+groskin_courtney@svvsd.org
 ).
 If you have questions about these requirements, please contact the SVVS K-12 Early Literacy Requirements Pathway Specialist at
-[email protected]
+groskin_courney@svvsd.org
 .
 If you have questions about submitting your READ Act certificate to SVVS Human Resources, please email
-[email protected]
+humanresources@svvsd.org
 .
 
 Source: https://www.svvsd.org/departments/professional-development/k-3-early-literacy-requirements/
@@ -15095,7 +15069,7 @@ here
 and
 here.
 The SVVS special education team has designed a series of modules from which to choose topics that are the most relevant and meaningful for your building’s/department’s needs and goals. Modules are designed to take anywhere from 15 minutes to 90 minutes with a Check for Understanding activity after each presentation. If you have any questions, please contact the SVVS Special Education Requirements Specialist at
-[email protected]
+tuhari-katz_nathalie@svsvd.org
 .
 You can register
 HERE
@@ -15164,10 +15138,10 @@ Contact
 For more information regarding St. Vrain’s Parent University, please contact:
 Laura Hess
 Assistant Superintendent of Special Education
-[email protected]
+parentuniversity@svvsd.org
 Paula Nelson
 Program Director, Parent Engagement Network
-[email protected]
+paula.nelson@penbv.org
 
 Source: https://www.svvsd.org/departments/professional-development/parent-university/
 
@@ -15245,7 +15219,7 @@ Want to learn about Blended Learning but don’t want to commit to a year long c
 iLearn Collaborative
 For questions please contact:
 Casey Luker, Instructional Coordinator
-[email protected]
+luker_casey@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/professional-development-catalog/blended-learning/
 
@@ -15360,7 +15334,7 @@ Are SPED teachers, ELD and literacy teachers also required to complete the requi
 Yes. The READ Act rules define ‘teacher’ as the professional responsible for the literacy instruction of the student(s) and may include the main instructor for a class, an instructional coach, reading interventionist, special education teacher, CLDE Teacher, Title I teacher, or other personnel who are identified as effective in the teaching of reading.
 If I completed Orton-Gillingham training on my own or with another district, will it still count?
 Yes. If you have a certificate of completion for any past Orton-Gillingham training, it can be used as part of the St. Vrain approved pathway. Please send your Certificate of Completion to Amy Magyar (
-[email protected]
+magyar_amy@svvsd.org
 ) in the Office of Professional Development.
 Is there a way for teachers to “test out” of the requirement for evidence-based teacher training?
 Yes. On April 8th, 2020, the State Board of Education determined that teachers who score at least 159 on the ETS Praxis Teaching Reading Elementary assessment (5205) will have met the evidence-based teacher training requirement established in SB 19-199.
@@ -15376,7 +15350,7 @@ here
 .
 Additional Questions
 Direct questions regarding the St. Vrain K-3 Evidence-Based Reading Training to Diane Lauer,
-[email protected]
+lauer_diane@svvsd.org
 , Assistant Superintendent of Priority Programs and Academic Support.
 To inquire about CDE training options, go to
 https://www.cde.state.co.us/coloradoliteracy/teacher-training
@@ -15434,14 +15408,14 @@ University/Community Options
 American College of Education
 Masters and Doctorate Programs
 American College of Education (ACE) offers 100% online advanced degrees, with master’s programs under $9500 and doctorate degrees under $24,000. All St. Vrain employees receive a discount towards their programs. For more information contact
-[email protected]
+kerry.delaney@ace.edu
 .
 Colorado Christian University
 Master’s in Educational Leadership
 As an employee at St. Vrain Valley School District you are eligible for a 10% tuition discount toward a bachelor’s degree, master’s degree, or certificate program at Colorado Christian University. To learn more about this great offer visit
 ccu.edu/pep10
 . To speak directly with a CCU representative please contact Brittany Miller at 970.461.5202 or email at
-[email protected]
+bmiller@ccu.edu
 Colorado State University
 Principal Licensure and Masters of Education Programs
 Denver Art Museum
@@ -15466,7 +15440,7 @@ for $14,000. With small cohorts and bi-weekly start dates, candidates can begin 
 M.Ed. in one of six specializations:
 Special Education, Early Childhood Education, Teaching Multilingual Learners, Globalization in Education, Educational Technology, and Educational Research.
 For more information please reach out to
-[email protected]
+admissions@moreland.edu
 .
 Regis University
 Regis University Principal Licensure Program
@@ -15487,7 +15461,7 @@ For a
 10% discount
 , contact Nicole Berkebile by email
 before enrolling.
-[email protected]
+nicole.berkebile@phoenix.edu
 Western Colorado University
 Western offers affordable and accessible online Master of Arts in Education and Master of Arts in Special Education degree programs, along with teacher and principal licensure preparation.
 Special Education:
@@ -15927,11 +15901,11 @@ Safety & Security Team
 Richard Peebles
 Executive Director of Safety and Security
 303-682-7207
-[email protected]
+peebles_richard@svvsd.org
 Bob Johnson
 Emergency Preparedness Specialist
 303-682-7352
-[email protected]
+Johnson_robert_a@svvsd.org
 
 Source: https://www.svvsd.org/departments/safety/safety-and-security-team/
 
@@ -15989,9 +15963,7 @@ HB 16-1423
 ) and the Family Educational Rights and Privacy Act (
 FERPA
 ).​
-For questions regarding Student Data Transparency, please contact Manager of IT Service Delivery, Dan Magyar, at
-[email protected]
-or 303-702-7726.
+For questions regarding Student Data Transparency, please contact Manager of IT Service Delivery, Dan Magyar, at magyar_dan@svvsd.org or 303-702-7726.
 Codex is a directory of the apps, programs, and websites, used in our classrooms and across the district. This handy resource includes program descriptions, support contact information, student data types shared, and much more.
 CODEX
 
@@ -16017,9 +15989,7 @@ We strive to maintain a positive learning culture where students thrive and succ
 Please review the following resources for additional information:
 Frequently Asked Questions
 WCSI Demonstration Survey
-If you have any questions about the inventory, please do not hesitate to contact your school principal or Johnny Terrell Assistant Superintendent for Student Services at
-[email protected]
-or 303-702-7859.
+If you have any questions about the inventory, please do not hesitate to contact your school principal or Johnny Terrell Assistant Superintendent for Student Services at Terrell_Johnny@svvsd.org or 303-702-7859.
 We thank you in advance for your continued support.
 
 Source: https://www.svvsd.org/departments/safety/wellness-culture-and-safety-inventory/
@@ -16070,52 +16040,52 @@ Leadership Team
 Laura Hess
 Assistant Superintendent of Special Education
 303-682-7327
-[email protected]
+hess_laura@svvsd.org
 Emily Scott
 Executive Director of Special Education
 Erie Elementary, Northridge, Soaring Heights,
 720-652-8214
-[email protected]
+scott_emily@svvsd.org
 Amanda Ferguson
 Director of Special Education – Secondary
 Erie HS, Frederick HS, Life Skills ACE (18-21), Longmont HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, Skyline HS, St. Vrain Virtual HS
 303-702-7640
-[email protected]
+ferguson_amanda@svvsd.org
 Meredith Pogonyi
 Director of Special Education – Elementary
 Blue Mountain, Central, Child Find, Columbine, Hygiene, Mead Elementary, Mountain View, Prairie Ridge, Sanborn, Spark! Discovery Preschool
 720-652-8216
-[email protected]
+pogonyi_meredith@svvsd.org
 Alyse Fieldgrove
 Assistant Director of Special Education
 LEAD program
 303-702-7647
-[email protected]
+fieldgrove_alyse@svvsd.org
 Eric Neessen
 Assistant Director of Special Education
 Altona MS, Coal Ridge MS, Erie MS, Longs Peak MS, Lyons Middle/Senior, Mead MS, Sunset MS, Trail Ridge MS, St. Vrain LaunchEd Virtual Academy
 303-702-7689
-[email protected]
+neessen_eric@svvsd.org
 Nathalie Tuhari-Katz
 Assistant Director of Special Education
 Aspen Ridge Preparatory, Carbon Valley Academy, Firestone Charter Academy, Flagstaff Academy, St. Vrain Community Montessori, Thunder Valley (5th-8th), Timberline (5th-8th), Twin Peaks Charter Academy, Westview MS
 303-702-7689
-[email protected]
+tuharikatz_nathalie@svvsd.org
 Benjamin Yamato
 Assistant Director of Special Education
 Black Rock, Fall River, Grandview, Highlands, Indian Peaks, Longmont Estates, Niwot Elementary, Red Hawk, Rocky Mountain
 303-702-7687
-[email protected]
+yamato_benjamin@svvsd.org
 Stephanie Zechmann
 Assistant Director of Special Education
 Alpine, Burlington, Centennial, Eagle Crest, Legacy, Lyons Elementary, Thunder Valley (K-5th), Timberline (K-5th)
 303-702-7683
-[email protected]
+zechmann_stephanie@svvsd.org
 Administrative Support
 Charity Dostal
 Executive Assistant to Laura Hess
 303-702-7669
-[email protected]
+dostal_charity@svvsd.org
 
 Source: https://www.svvsd.org/departments/special-education/about-us/
 
@@ -16198,7 +16168,7 @@ Week 5 – Independence & self-determination
 Mar 11:
 Week 6 – Celebration & concluding Q&A (parents & educators welcome)
 Questions? Reach out to Elise Kramer, IN!’s Program Coordinator:
-[email protected]
+elise@inclusivehighered.org
 , 720-675-9139
 Click here to apply!
 2024
@@ -16243,16 +16213,16 @@ Post-Secondary Counseling
 SWAP is most appropriate for students with mild to moderate disabilities. St. Vrain recommends that students connect with SWAP beginning their sophomore or junior year of high school. Services for students with more moderate to severe disabilities are supported through the Devision of Vocational Rehabilitation (DVR).
 To get started contact your student’s current case manager or your SWAP specialist:
 Ryan Burch – Coordinator;
-[email protected]
+burch_ryan@svvsd.org
 | Serving: EHS, FHS, MSS
 Kim Cinea – Senior Specialist;
-[email protected]
+cinea_kim@svvsd.org
 | Serving: MHS, MSS, SHS
 Karla Williams – Specialist;
-[email protected]
+williams_karla@svvsd.org
 | Serving: NHS, SCHS, TPCA
 Heidi Fishler – Specialist;
-[email protected]
+fishler_heidi@svvsd.org
 | Serving: LHS, LyHS, NMHS, CBOCES
 Division of Vocational Rehabilitation (DVR)
 supports youth and adults with disabilities. It is recommended that St. Vrain Valley students who may need additional support in navigating career exploration, preparation, and on the job support apply for a Youth Services Program as soon as they are ready to start exploring the world of work.
@@ -16264,7 +16234,7 @@ English Application & Forms
 ,
 Spanish Application & Forms
 Contact: Christine Fluet – Pre-ETS Technician
-[email protected]
+christine.fluet@state.co.us
 Weld County Case Management (Weld County Residents)
 Weld County Case Management serves Weld County and is currently one of twenty Community Centered Board which is a local area’s single point of entry into local, state, and federally funded programs for people with intellectual and developmental disabilities in Colorado.
 Our Services
@@ -16277,7 +16247,7 @@ All Waivers & Family Support Services (FSS) Descriptions
 /
 Spanish
 Contact: Lori Rusko 970-652-3838,
-[email protected]
+lrusko@envisionco.org
 A&I Avenues (Boulder County Residents)
 A&I Avenues
 provides services designed to incorporate people with developmental, cognitive, and physical challenges into the fabric of their communities. Services include educational and therapeutic services, job training and placement, recreation and leisure activities, opportunities for community living, behavioral health services, technology solutions, and support for families. In addition to supporting people with developmental and cognitive disabilities, Imagine also has unique programming to support people with Autism.
@@ -16288,7 +16258,7 @@ The intake process explained
 Intake Application
 Information for services for individuals with Autism
 Contact: Jeff Johnson 303-457-5678,
-[email protected]
+jjohnson@imaginecolorado.org
 Featured Programs and Community Agencies
 Boulder County Workforce Center Young Adult Program
 If you are between the ages of 16 and 24, attended St. Vrain Valley Schools and want support finding and developing a career path, the
@@ -16454,7 +16424,7 @@ The District Child Find Assessment Team completes screenings and evaluations. If
 Visit the Children with Disabilities Preschool page for more information
 Visit the preschool page for general preschool information
 CDE Child Find Referral Forms may be faxed 720-652-8210 or emailed to
-[email protected]
+guerrieri_jodie@svvsd.org
 CDE Child Find Referral Form (Ages
 3
 –
@@ -16487,7 +16457,7 @@ Early Intervention Colorado
 Call:
 833-733-3734 (833-REFER-EI)
 Email:
-[email protected]
+GetStartedwithEI@state.co.us
 
 Source: https://www.svvsd.org/departments/special-education/services-programming/child-find/early-intervention-colorado/
 
@@ -16702,8 +16672,7 @@ Traumatic Brain Injury
 Visual Impairment, Including Blindness
 Sign Language Interpreter Request Form
 Click here to access the Sign Language Interpreter Request Form
-. This form is for sign language interpreter requests made by immediate family members of students and by employees of the St Vrain Valley School District. Your request will be submitted directly to Jessica Collins, the Sign Language Interpreter Coordinator for St Vrain Valley Schools, who will confirm your request. If you have questions, please contact:
-[email protected]
+. This form is for sign language interpreter requests made by immediate family members of students and by employees of the St Vrain Valley School District. Your request will be submitted directly to Jessica Collins, the Sign Language Interpreter Coordinator for St Vrain Valley Schools, who will confirm your request. If you have questions, please contact: collins_jessica@svvsd.org
 
 Source: https://www.svvsd.org/departments/special-education/specific-disabilities/
 
@@ -16783,315 +16752,315 @@ Administration
 Johnny Terrell
 Assistant Superintendent, Student Services
 303-772-7700
-[email protected]
+terrell_johnny@svvsd.org
 Administration Support
 Donna Armentrout
 Threat Assessment Secretary
 303-702-7867
-[email protected]
+armentrout_donna@svvsd.org
 Mireya Babonoyaba
 Gifted and Talented Secretary
 (303) 702-7808
-[email protected]
+babonoyaba_mireya@svvsd.org
 Tracy Dabney
 Administrative Assistant for Johnny Terrell
 303-702-7879
-[email protected]
+dabney_tracy@svvsd.org
 Joan Dougherty
 SA&E Office Secretary
 303-702-7887
-[email protected]
+dougherty_joan@svvsd.org
 Andrea Martinez-Wilson
 Secretary for Health Services
 303-702-7821
-[email protected]
+martinezwilsn_andrea@svvsd.org
 Consuelo Moreno
 Gifted & Talented Secretary
 (303) 702-7808
-[email protected]
+moreno_consuelo@svvsd.org
 D’Ann Parker
 Department Clerk
 303-772-7700
-[email protected]
+parker_dann@svvsd.org
 Attendance & Engagement
 Lili Arroyo
 Attendance Advocate
 Bilingual
 Building Assignments: Legacy ES, Centennial ES, Prairie Ridge ES, Thunder Valley K-8, Red Hawk ES, Erie ES, Grandview ES, Highlands ES
 720-491-7051
-[email protected]
+arroyo_lili@svvsd.org
 Alejandro De Santiago
 Truancy/Court Liaison & Attendance Liaison
 Bilingual
 Truancy Liaison – Manages District Truancy Cases
 303-941-5880
-[email protected]
+desantiago_alejandro@svvsd.org
 Joan Dougherty
 SA&E Office Secretary
 303-702-7887
-[email protected]
+dougherty_joan@svvsd.org
 Paula Fredman
 Attendance Liaison & Engagement Specialist
 Bilingual Engagement Specialist
 Building Assignments: Mead High School; St. Vrain Launch Ed; Coal Ridge MS; Trail Ridge MS; Sunset MS
 303-746-8402
-[email protected]
+fredman_paula@svvsd.org
 Priscilla Gonzalez
 Engagement Specialist
 Niwot High School
 720-964-3524
-[email protected]
+gonzalez_priscilla@svvsd.org
 Kristin Hefflon
 Student Services Coordinator – Student Attendance & Engagement
 Student Services Coordinator
 Student Attendance & Engagement
 720-698-2217
-[email protected]
+hefflon_kristin@svvsd.org
 Francisco Hernandez
 Attendance Advocate
 Bilingual
 Building Assignments: Central ES, Northridge ES, Sanborn ES, Mountain View ES, Hygiene ES, Rocky Mtn ES, Alpine ES, Burlington ES, Indian Peaks ES, Niwot ES
 720-698-2215
-[email protected]
+hernandez_francisco@svvsd.org
 Carilynn Johnston
 Student Attendance Liaison
 Buildings: Main Street School; Silver Creek HS
 303-702-7819
-[email protected]
+johnston_carilynn@svvsd.org
 Sarah Knighten
 Districtwide MTSS Specialist
-[email protected]
+knighten_sarah@svvsd.org
 Danielle Maida
 Student Engagement Counselor
 TRT Specialist / Counseling Support for Lyons ES; Lyons MS/HS
 720-818-4971
-[email protected]
+maida_danielle@svvsd.org
 Victoria Martinez
 Attendance Liaison and Data Specialist
 Building Assignments: Altona MS; Black Rock ES; Blue Mountain ES; Eagle Crest ES; Erie MS; Longmont Estates ES; Soaring Heights PK-8; Westview MS
 720-438-0087
-[email protected]
+martinez_victoria@svvsd.org
 Fiorella Martinez
 Engagement Specialist
 Skyline High School
 720-818-3241
-[email protected]
+martinez_maria@svvsd.org
 Marjie Nagy
 Student Engagement Counselor
 School Counselor / Counseling Support
 Building Assignments: Erie HS, Frederick HS
 720-698-2216
-[email protected]
+nagy_marjie@svvsd.org
 Tonja Nolan
 Engagement Specialist
 New Meridian High School
 720-899-6864
-[email protected]
+nolan_tonja@svvsd.org
 Cecilia Palacios
 Student Engagement Counselor
 Bilingual School Social Worker / Counseling Support
 Building Assignments: Columbine Elementary; Timberline PK-8; Longs Peak MS
 720-442-3775
-[email protected]
+Palacios_cecilia@svvsd.org
 Karely Varela
 Student Attendance Liaison
 Buildings: Longmont HS
 303-702-7884
-[email protected]
+varela_karely@svvsd.org
 Amy Ward
 School Social Worker / Counseling Support for St. Vrain Virtual / TRT Specialist
 School Social Worker / Counseling Support /TRT Specialist
 720-698-2214
-[email protected]
+ward_amy@svvsd.org
 Digital Learning Academy
 Erin Brueggeman
 Dean of DLA / Threat Assessment Lead
 303-702-7624
-[email protected]
+brueggeman_erin@svvsd.org
 Stephanie Esquibel
 Teacher
 x34757
-[email protected]
+Esquibel_Stephanie@svvsd.org
 Natalie Victor
 Teacher
 x57655
-[email protected]
+Victor_Natalie@svvsd.org
 Whitney Weis
 Social Worker
-[email protected]
+weis_whitney@svvsd.org
 Student Support Services
 Savannah Bingaman
 Family Outreach Liaison
 303-702-7836
-[email protected]
+bingaman_savannah@svvsd.org
 Lourdes “Lulu” Buck
 Coordinator of Student Support Services
 303-702-7814
-[email protected]
+buck_lourdes@svvsd.org
 Olga Cordero
 Executive Director, Student Support Services
 303-702-7857
-[email protected]
+cordero_olga@svvsd.org
 Alberto Rodriguez
 Family Outreach Liaison, Bilingual
 303-702-7840
-[email protected]
+rodriguezjim_alberto@svvsd.org
 Translation & Interpretation Services
 Natalie Boggess
 Translation/Interpretation Services Liaison
 720-698-2228
-[email protected]
+boggess_natalie@svvsd.org
 Martha Bustillos
 Translation/Interpretation Services Coordinator
 303-702-7886
-[email protected]
+bustillos_martha@svvsd.org
 Rosa Castorena
 Translation/Interpretation Services Liaison
 303-702-7804
-[email protected]
+castorena_rosa@svvsd.org
 Griselda Guzman
 Translation/Interpretation Services Liaison
 303-702-7803
-[email protected]
+guzman_griselda@svvsd.org
 Odalys Loya
 Translation/Interpretation Services Liaison
 720-745-0877
-[email protected]
+loya_odalys@svvsd.org
 Stephanie Maturino-Gonzalez
 Translation/Interpretation Services Liaison
 303-775-3596
-[email protected]
+maturino_stephanie@svvsd.org
 Adriana (Lupita) Ramirez
 Translation/Interpretation Services Liaison
 720-491-8899
-[email protected]
+ramirez_adriana@svvsd.org
 Miriam Rodgriguez
 Translation/Interpretation Services Liaison
 x57845
-[email protected]
+Rodriguez_Miriam@svvsd.org
 Ana Soto Harrison
 Translation/Interpretation Services Liaison
 303-775-3444
-[email protected]
+sotoharrison_ana@svvsd.org
 Gifted and Talented
 Mireya Babonoyaba
 Gifted and Talented Secretary
 (303) 702-7808
-[email protected]
+babonoyaba_mireya@svvsd.org
 Jennifer Mayer
 Gifted Coordinator-Elementary (including K through 8 schools)
 (303) 702-7808
-[email protected]
+mayer_jennifer@svvsd.org
 Consuelo Moreno
 Gifted & Talented Secretary
 (303) 702-7808
-[email protected]
+moreno_consuelo@svvsd.org
 Jaimarie Nelson
 Gifted Coordinator-Secondary and Charters
 (303) 702-7808
-[email protected]
+nelson_jaimarie@svvsd.org
 Health Services
 Jennifer Alford
 District School Nurse
-[email protected]
+alford_jennifer@svvsd.org
 Joni Creighton
 District School Nurse
-[email protected]
+creighton_johnita@svvsd.org
 Emily Dietrick
 District School Nurse
-[email protected]
+dietrick_emily@svvsd.org
 Penny Dutka
 District School Nurse
-[email protected]
+dutka_penny@svvsd.org
 Jessica Emerson
 District School Nurse
-[email protected]
+emerson_jessica@svvsd.org
 Bronwyn Fraser
 Lead Hearing & Vision Screener
 303-678-5662
-[email protected]
+fraser_bronwyn@svvsd.org
 Marianne Lee
 District School Nurse
-[email protected]
+Lee_Marianne@svvsd.org
 Karen Luttrell
 1:1 Student Nurse
-[email protected]
+luttrell_karen@svvsd.org
 Jamie Lyles
 District School Nurse
-[email protected]
+lyles_jamie@svvsd.org
 Andrea Martinez-Wilson
 Secretary for Health Services
 303-702-7821
-[email protected]
+martinezwilsn_andrea@svvsd.org
 Lauren McIntyre
 District School Nurse
-[email protected]
+McIntyre_Lauren@svvsd.org
 Chris McNiff
 District School Nurse
-[email protected]
+mcniff_christine@svvsd.org
 Samantha Przygocki
 District School Nurse
-[email protected]
+przygocki_sam@svvsd.org
 Annemarie Schutte
 District School Nurse
-[email protected]
+schutte_annemarie@svvsd.org
 Michele Springstead
 District School Nurse
-[email protected]
+springstead_michele@svvsd.org
 Debra Stamback
 District School Nurse
-[email protected]
+stamback_debra@svvsd.org
 Wendi Stewart
 District School Nurse – Child Find
-[email protected]
+stewart_wendi@svvsd.org
 Gloria Strong
 District School Nurse
-[email protected]
+strong_gloria@svvsd.org
 Amy Szymanski
 District School Nurse
-[email protected]
+szymanski_amy@svvsd.org
 Raquel Villalobos
 District Health Clerk
-[email protected]
+villalobos_raquel@svvsd.org
 Crystal WAters
 1:1 Student Nurse
-[email protected]
+waters_crystal@svvsd.org
 Kayla West
 District School Nurse
-[email protected]
+west_kayla@svvsd.org
 Sophia Yager
 Health Services Coordinator
 303-702-7895
-[email protected]
+yager_sophia@svvsd.org
 Medicaid Reimbursement
 Melissa Formby
 Specialist – Student Services
 Medicaid
 303-702-7882
-[email protected]
+formby_melissa@svvsd.org
 Counseling/Interventionist Support
 Maura Brady-McMullen
 Lead District Counselor
 303-702-7700
-[email protected]
+brady-mcMullen_maura@svvsd.org
 Title IX
 Tracy Dabney
 Administrative Assistant for Johnny Terrell
 303-702-7879
-[email protected]
+dabney_tracy@svvsd.org
 Johnny Terrell
 Assistant Superintendent, Student Services
 303-772-7700
-[email protected]
+terrell_johnny@svvsd.org
 504
 Tracy Dabney
 Administrative Assistant for Johnny Terrell
 303-702-7879
-[email protected]
+dabney_tracy@svvsd.org
 Johnny Terrell
 Assistant Superintendent, Student Services
 303-772-7700
-[email protected]
+terrell_johnny@svvsd.org
 
 Source: https://www.svvsd.org/departments/student-services/about/contact-info/
 
@@ -17388,7 +17357,7 @@ For additional questions related to accessing resources feel free to reach out t
 Savannah Bingaman, Community Outreach Liaison (303-702-7836)
 Alberto Rodriguez-Jimenez, Community Outreach Liaison (303-702-7840)
 Or email at
-[email protected]
+family_outreach-group@svvsd.org
 .
 
 Source: https://www.svvsd.org/departments/student-services/community-resources/
@@ -17444,19 +17413,19 @@ Meet the Gifted and Talented Services Team/Conozca al Equipo del Programa de Sup
 Jennifer Mayer
 Gifted Coordinator-Elementary (including K through 8 schools)
 (303) 702-7808
-[email protected]
+mayer_jennifer@svvsd.org
 Jaimarie Nelson
 Gifted Coordinator-Secondary and Charters
 (303) 702-7808
-[email protected]
+nelson_jaimarie@svvsd.org
 Consuelo Moreno
 Gifted & Talented Secretary
 (303) 702-7808
-[email protected]
+moreno_consuelo@svvsd.org
 Mireya Babonoyaba
 Gifted and Talented Secretary
 (303) 702-7808
-[email protected]
+babonoyaba_mireya@svvsd.org
 Parent Resources/Recursos para Padres
 In the News & GT Articles
 National Association for Gifted Children
@@ -17562,120 +17531,130 @@ Name
 Email Address
 Alpine
 Allison Fitzgerald
-[email protected]
+fitzgerald_allison@svvsd.org
 Black Rock
 Megan Hawkins
-[email protected]
+hawkins_megan@svvsd.org
 Blue Mountain
 Shannan Olson
-[email protected]
+olson_shannan@svvsd.org
 Burlington
 Jesse Sapir
-[email protected]
+sapir_jesse@svvsd.org
 Centennial
 Deb Evans
-[email protected]
+evans_donnae@svvsd.org
 Central
 Hillary Simonson
-[email protected]
+simonson_hillary@svvsd.org
 Columbine
 Sherie “DW” Dike-Wilhelm
-[email protected]
+dikewilhelm_sherie@svvsd.org
 Eagle Crest
 Lindsey Cheney
-[email protected]
+cheney_lindsey@svvsd.org
 Erie
 Maggie Sisk
-[email protected]
+sisk_maggie@svvsd.org
 Fall River
 Melinda Schluckebier
-[email protected]
+schluckebier_melinda@svvsd.org
 Grand View
 Kayla Hawkins
-[email protected]
+hawkins_kayla@svvsd.org
 Highlands
 Jolene Lewis
-[email protected]
+lewis_jolene@svvsd.org
 Hygiene
 Anna Carr
-[email protected]
+carr_anna@svvsd.org
 Indian Peaks
 Laurel Urquidi
-[email protected]
+urquidi_laurel@svvsd.org
 Legacy
 Kristin Pierce
-[email protected]
+pierce_kristin@svvsd.org
 Longmont Estates
 Jessica Shaffer
 s
-[email protected]
+haffer_jessica@svvsd.org
 Lyons
 Jamie Meyers
-[email protected]
+meyers_jamie@svvsd.org
 Mead
 Ann Schenk
 Skylar Vaughn
-[email protected]
+schenkenberger_ann@svvsd.org
+vaughn_skylar@svvsd.org
 Mountain View
 Lisa Selleck
-[email protected]
+selleck_lisa@svvsd.org
 Niwot
 Audrey Lenger
-[email protected]
+lenger_audrey@svvsd.org
 Northridge
 Emily Fiebig
-[email protected]
+fiebig_emily@svvsd.org
 Prairie Ridge
 Heidi Cloud
-[email protected]
+cloud_heidi@svvsd.org
 Red Hawk
 Wendy Durst
 Brittany Jenkins
-[email protected]
+durst_wendy@svvsd.org
+jenkins_brittany@svvsd.org
 Rocky Mountain
 Carleen Hester
-[email protected]
+hester_carleen@svvsd.org
 Sanborn
 Maisie Phillips
-[email protected]
+phillips_maisie@svvsd.org
 Middle Schools
 Name
 Email Address
 Altona
 Kate Riddle
 Lindsay Gahn
-[email protected]
+riddle_kate@svvsd.org
+gahn_lindsay@svvsd.org
 Coal Ridge
 Sarah Cavender
 Michael Stover
 Val Luutran
-[email protected]
+cavender_sarah@svvsd.org
+stover_michael@svvsd.org
+luutran_val@svvsd.org
 Erie
 Jen Saless-6th
 Sam Fenster-7th/8th
-[email protected]
+saless_jennifer@svvsd.org
+fenster_Samantha@svvsd.org
+guzman_jody@svvsd.org
 Longs Peak
 Addison Mayer-5th/6th
 Candyce Wondercheck-7th/8th
-[email protected]
+wondercheck_candyce@svvsd.org
+mayer_addison@svvsd.org
 Lyons
 Kris Coniway
-[email protected]
+coniway_kristine@svvsd.org
 Mead
 Eric Salva
-[email protected]
+salva_eric@svvsd.org
 Sunset
 Jennifer Macios
-[email protected]
+macios_jennifer@svvsd.org
 Trail Ridge
 Erin Elsen
-[email protected]
+elsen_erin@svvsd.org
 Westview
 Evan Oldroyd/Jenna Oldroyd-6th
 Kate Courtney-7th
 Anna Swearingen-7th
 Christy Kocjancic-8th
-[email protected]
+oldroyd_evan@svvsd.org
+kocjancic_christine@svvsd.org
+rude_jenna@svvsd.org
 K-12 Schools
 Name
 Email Address
@@ -17683,152 +17662,96 @@ Soaring Heights
 K-8
 Kate Nelson PK-5
 Katie Kaminski 6-8
-[email protected]
+nelson_kathryn@svvsd.org
+kaminski_katie@svvsd.org
 Thunder Valley K-8
 Kelli Frost
-[email protected]
+frost_kelli@svvsd.org
 Timberline PK-8
 Tonia Beard
-[email protected]
+beard_tonia@svvsd.org
 St. Vrain LaunchEd Virtual Academy
 K-12
 Lori Houghton
-[email protected]
+houghton_lori@svvsd.org
 Charter Schools
 Name
 Email Address
 Carbon Valley Academy
 Stacey Chavez
-[email protected]
+stacey.chavez@cvamail.com
 Twin Peaks Charter K-12
 Max Kleber K-5
 Quinn Kirner 6-12
-[email protected]
+kleber_maxwell@svvsd.org
+kirner_quinn@svvsd.org
 St. Vrain Community Montessori
 Jessica Davidson Chervenak
 jdavidson@svcmontessori@org
 Flagstaff Academy
 Nina Lindeke
-[email protected]
+nlindeke@flagstaffacademy.org
 Firestone Charter Academy
 David Weisbart
 Amber Plitz
-[email protected]
+david.weisbart@firestonecharteracademy.org
+plitz_amber@firestonecharteracademy.org
 Aspen Ridge Prep School
 Ryanne Mascioli
-[email protected]
+rmascioli@aspenridgeprepschool.org
 High School
 Name
 Email Address
 Erie
 Beth Lee
 Catherine Zwink
-[email protected]
+lee_beth@svvsd.org
+zwink_catherine@svvsd.org
 Frederick
 Jake Marsing
-[email protected]
+marsing_jake@svvsd.org
 Longmont
 Kaitlyn Schiffelbein
 David Wrisley
-[email protected]
+schiffelbein_kaitlyn@svvsd.org
+wrisley_david@svvsd.org
 Lyons
 Kris Coniway
-[email protected]
+coniway_kristine@svvsd.org
 Mead
 Brittany Tangora
-[email protected]
+tangora_brittany@svvsd.org
 Niwot
 Taylor Renquist
 Megan Smith
-[email protected]
+renquist_taylor@svvsd.org
+smith_megan@svvsd.org
 New Meridian
 Bailey Fowler
-[email protected]
+fowler_bailey@svvsd.org
 Silver Creek
 Ashlee Gerner
 Christina Tillery
-[email protected]
+gerner_ashlee@svvsd.org
+tillery_christina@svvsd.org
 Skyline
 Michael Aragon
-[email protected]
+aragon_michael@svvsd.org
 St. Vrain Virtual High School
 Lisa Parnaby-Wells
-[email protected]
+parnaby-wells_lisa@svvsd.org
 Contactos en las escuelas y descripción de la programación (Haga clic en el nombre de la escuela para ver la descripcion de la programacion).
 Elementary Schools
 Name
 Email Address
 Alpine
 Allison Fitzgerald
-[email protected]
+fitzgerald_allison@svvsd.org
 Black Rock
 Megan Hawkins
-[email protected]
+hawkins_megan@svvsd.org
 Blue Mountain
-Shannan Olson
-[email protected]
-Burlington
-Jesse Sapir
-[email protected]
-Centennial
-Deb Evans
-[email protected]
-Central
-Hillary Simonson
-[email protected]
-Columbine
-Sherrie DW Dike-Wilhelm
-[email protected]
-Eagle Crest
-Lindsey Cheney
-[email protected]
-Erie
-Maggie Sisk
-[email protected]
-Fall River
-Melinda Schluckebier
-[email protected]
-Grand View
-Kayla Hawkins
-[email protected]
-Highlands
-Jolene Lewis
-[email protected]
-Hygiene
-Anna Carr
-[email protected]
-Indian Peaks
-Laurel Urquidi
-[email protected]
-Legacy
-Kristin Pierce
-[email protected]
-Longmont Estates
-Jessica Shaffer
-s
-[email protected]
-Lyons
-Jamie Meyers
-[email protected]
-Mead
-Ann Schenk
-Skylar Vaughn
-[email protected]
-Mountain View
-Lisa Selleck
-[email protected]
-Niwot
-Audrey Lenger
-[email protected]
-Northridge
-Emily Fiebig
-[email protected]
-Prairie Ridge
-Heidi Cloud
-[email protected]
-Red Hawk
-Wendy Durst
-Br...
+S...
 
 Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/
 
@@ -17867,200 +17790,219 @@ Name
 Email Address
 Alpine
 Allison Fitzgerald
-[email protected]
+fitzgerald_allison@svvsd.org
 Black Rock
 Meghan Hawkins
-[email protected]
+hawkins_meghan@svvsd.org
 Blue Mountain
 Shannan Olson
-[email protected]
+olson_shannan@svvsd.org
 Burlington
 Jesse Sapir
-[email protected]
+sapir_jesse@svvsd.org
 Centennial
 Deb Evans
-[email protected]
+evans_donnae@svvsd.org
 Central
 Hillary Simonson
-[email protected]
+simonson_hillary@svvsd.org
 Columbine
 Sherie DW Dike-Wilhelm
-[email protected]
+dikewilhelm_sherie@svvsd.org
 Eagle Crest
 Lindsey Cheney
-[email protected]
+cheney_lindsey@svvsd.org
 Erie
 Maggie Sisk
-[email protected]
+sisk_maggie@svvsd.org
 Fall River
 Melinda Schluckebier
-[email protected]
+schluckebier_melinda@svvsd.org
 Grand View
 Kayla Hawkins
-[email protected]
+hawkins_kayla@svvsd.org
 Highlands
 Jolene Lewis
-[email protected]
+lewis_jolene@svvsd.org
 Hygiene
 Anna Carr
-[email protected]
+carr_anna@svvsd.org
 Indian Peaks
 Laurel Urquidi
-[email protected]
+urquidi_laurel@svvsd.org
 Legacy
 Kristin Pierce
-[email protected]
+pierce_kristin@svvsd.org
 Longmont Estates
 Jessicca Shaffer
 s
-[email protected]
+haffer_jessicca@svvsd.org
 Lyons
 Jamie Meyers
-[email protected]
+meyers_jamie@svvsd.org
 Main Street
 TBD
 Mead
 Skylar Vaughn
 Ann Schenkenberger
-[email protected]
+vaughn_skylar@svvsd.org
+schenkenberger_ann@svvsd.org
 Mountain View
 Lisa Selleck
-[email protected]
+selleck_lisa@svvsd.org
 Niwot
 Audrey Lenger
-[email protected]
+lenger_audrey@svvsd.org
 Northridge
 Emily Fiebig
-[email protected]
+fiebig_emily@svvsd.org
 Prairie Ridge
 Heidi Cloud
-[email protected]
+cloud_heidi@svvsd.org
 Red Hawk
 Brittany Jenkins
 Wendy Durst
-[email protected]
+jenkins_brittany@svvsd.org
+durst_wendy@svvsd.org
 Rocky Mountain
 Carleen Hester
-[email protected]
+hester_carleen@svvsd.org
 Sanborn
 Maisie Phillips
-[email protected]
+phillips_maisie@svvsd.org
 Middle Schools
 Name
 Email Address
 Altona
 Kate Riddle
 Lindsay Gahn
-[email protected]
+riddle_kate@svvsd.org
+gahn_lindsay@svvsd.org
 Coal Ridge
 Sarah Cavender
 Michael Stover
 Val Luutran
-[email protected]
+cavender_sarah@svvsd.org
+stover_michael@svvsd.org
+luutran_val@svvsd.org
 Erie
 Jennifer Saless, 6th grade
 Sam Fenster, 7th/8th grade
-[email protected]
+saless_jennifer@svvsd.org
+fenster_samantha@svvsd.org
 Longs Peak
 Addison Mayer
 Candyce Wondercheck
-[email protected]
+mayer_addison@svvsd.org
+wondercheck_candyce@svvsd.org
 Lyons
 Kris Coniway
-[email protected]
+coniway_kristine@svvsd.org
 Mead
 Eric Salva
-[email protected]
+salva_eric@svvsd.org
 Sunset
 Jennifer Macios
-[email protected]
+macios_jennifer@svvsd.org
 Trail Ridge
 Erin Elsen
-[email protected]
+elsen_erin@svvsd.org
 Westview
 Jenna Rude 6th
 Evan Oldroyd 6th
 Christy Kocjancic 8th
 Kate Courtney 7th
 Anna Swearingen 7th
-[email protected]
+rude_jenna@svvsd.org
+oldroyd_evan@svvsd.org
+kocjancic_christine@svvsd.org
+courtney_kathryn@svvsd.org
+swearingen_anna@svvsd.org
 K-8/K-12 Schools
 Name
 Email Address
 Soaring Heights
 Kate Nelson PK-5
 Katie Kaminski 6-8
-[email protected]
+nelson_kathryn@svvsd.org
+kaminski_katie@svvsd.org
 Thunder Valley K-8
 Kelli Frost
-[email protected]
+frost_kelli@svvsd.org
 Timberline PK-8
 Tonia Beard
-[email protected]
+beard_tonia@svvsd.org
 St. Vrain LaunchEd Virtual Academy K-12
 Lori Houghton
-[email protected]
+houghton_lori@svvsd.org
 Charter Schools
 Name
 Email Address
 Carbon Valley Academy
 Stacey Chavez
-[email protected]
+stacey.chavez@cvmail.com
 Twin Peaks Charter K-12
 Max Kleber K-5
 Quinn Kirner 6-12
-[email protected]
+kleber_maxwell@svvsd.org
+kirner_quinn@svvsd.org
 St. Vrain Community Montessori
 Jessica Chervenak
-[email protected]
+jchervenak@svcmontessori.org
 Flagstaff Academy
 Nina Lindeke
-[email protected]
+nlindeke@flagstaffacademy.org
 Firestone Charter Academy
 Amber Plitz
 David Weisbart
-[email protected]
+amber.plitz@firestonecharteracademy.org
+david.weisbart@firestonecharteracademy.org
 Aspen Ridge Prep School
 Ryan Mascioli K-8
 Sara Britt Grein
-[email protected]
+rmascioli@arprep.org
+sbgrein@arprep.org
 High School
 Name
 Email Address
 Erie
 Beth Lee
 Catherine Zwink
-[email protected]
+lee_beth@svvsd.org
+zwink_catherine@svvsd.org
 Frederick
 Jake Marsing
-[email protected]
+marsing_jacob@svvsd.org
 Longmont
 Kaitlyn Schiffelbein
 David Wrisley
-[email protected]
+schiffelbein_kaitlyn@svvsd.org
+wrisley_david@svvsd.org
 Lyons
 Kris Coniway
-[email protected]
+coniway_kristine@svvsd.org
 Mead
 Brittany Tangora
-[email protected]
+tangora_brittany@svvsd.org
 Niwot
 Taylor Renquist
 Megan Smith
-[email protected]
+renquist_taylor@svvsd.org
+smith_megan_j@svvsd.org
 New Meridian
 Bailey Fowler
-[email protected]
+fowler_bailey@svvsd.org
 Silver Creek
 Ashlee Gerner
 Christina Tillery
-[email protected]
+gerner_ashlee@svvsd.og
+tillery_christina@svvsd.org
 Skyline
 Michael Aragón
-[email protected]
+aragon_michael@svvsd.org
 St. Vrain Virtual High School
 Lisa Parnaby-Wells
-[email protected]
+parnaby_lisa@svvsd.org
 
 Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
 
@@ -18173,7 +18115,7 @@ If approved, Student Services (Tracy Dabney) assigns a Homebound Teacher.
 Contact
 Tracy Dabney
 303-702-7879 x57879
-[email protected]
+dabney_tracy@svvsd.org
 Homebound Application
 Please download to access the PDF fill-in form.
 Homebound Roles and Responsibilities
@@ -18393,7 +18335,7 @@ We have Family Outreach Liaisons available as members of our Student Support Ser
 Our Family Outreach Liaisons support families’ access to: Housing, Food Assistance, Financial Assistance, Health Coverage, Child Care Assistance, Mental & Emotional Well-Being
 If you are interested in receiving information about additional resources and support,
 please call the Office of Student Support Services at 303-702-7836 (Español 303-702-7840) or email
-[email protected]
+family_outreach-group@svvsd.org
 .
 
 Source: https://www.svvsd.org/departments/student-services/student-support-services/
@@ -18408,7 +18350,7 @@ The Translation and Interpretation Services Liaisons support our schools’ and 
 Click here
 for contact information for all schools.
 If you would like to provide feedback or receive information about how this team serves St. Vrain, please contact Martha Bustillos, Translation and Interpretation Services Coordinator, at 303-702-7886 or
-[email protected]
+bustillos_martha@svvsd.org
 .
 
 Source: https://www.svvsd.org/departments/student-services/student-support-services/translation-and-interpretation-services/
@@ -19234,7 +19176,7 @@ Codex
 How Data Can Help Teachers
 The Data Quality Campaign
 Colorado Department of Education (CDE) has created and gathered the following resources to help parents understand what data is collected about students and how that data is used. If you have questions, contact the Data Privacy Office at
-[email protected]
+dataprivacy@cde.state.co.us
 .
 Family Educational Rights and Privacy Act (FERPA) General Guidance for Parents
 About the Family Policy Compliance Office – U.S Dept. of Education (FPCO)
@@ -19527,11 +19469,11 @@ In addition to high-quality neighborhood schools and open enrollment across the 
 New Meridian High School
 New Meridian High School is St. Vrain Valley Schools’ alternative high school program, offering a regular high school diploma in a small, community-oriented environment.
 Learn more at
-http://nmhs.svvsd.org
+https://nmhs.svvsd.org
 St. Vrain Virtual High School
 St. Vrain Virtual High School is a free public online high school supporting students in achieving academic and personal success utilizing high-quality instruction and curriculum. While the curriculum is online, students are required to attend some hours in-person.
 Learn more at
-http://svvhs.svvsd.org
+https://svvhs.svvsd.org
 APEX Homeschool Program
 The APEX Program is a homeschool program sponsored by the St. Vrain Valley Schools designed to supplements and complement the efforts of parents who have chosen to be their child’s primary educator.
 Learn more at
@@ -19539,7 +19481,7 @@ https://www.apexhomeschool.org
 Main Street School
 Main Street School is a collaborative learning community providing services dedicated to fostering self-advocacy and independence, supporting the district’s highest need students.
 Learn more at
-http://mainstreet.svvsd.org
+https://mainstreet.svvsd.org
 
 Source: https://www.svvsd.org/programs/alternative-options/
 
@@ -19575,7 +19517,7 @@ A parent who wishes to home school must provide written notification of their in
 To Submit your letter of Intent or test scores:
 By Mail: APEX – SVVSD Homeschool, ATTN: Michelle Fuller, 1351 S. Sunset, Unit B, Longmont CO 80501
 By Email: Please attach your letter as a PDF document and email it to
-[email protected]
+apex@svvsd.org
 APEX Homeschool Program – Additional Information
 Please visit the following Colorado Dept. of Education website for additional information:
 https://www.cde.state.co.us/choice/homeschool
@@ -19837,9 +19779,9 @@ With just a small amount of your time, you can truly change the professional pat
 Join us on this rewarding journey and make a difference today!
 Contact Us:
 Brandon Shaffer, Executive Director P-TECH
-[email protected]
+shaffer_brandon@svvsd.org
 Louise March, P-TECH District Coordinator
-[email protected]
+march_louise@svvsd.org
 
 Source: https://www.svvsd.org/programs/p-tech/become-a-mentor/
 
@@ -19901,9 +19843,9 @@ By partnering with P-TECH, you can play a crucial role in shaping the profession
 Join us on this rewarding journey and make a difference today!
 Contact Us:
 Brandon Shaffer, Executive Director P-TECH
-[email protected]
+shaffer_brandon@svvsd.org
 Louise March, P-TECH District Coordinator
-[email protected]
+march_louise@svvsd.org
 
 Source: https://www.svvsd.org/programs/p-tech/partner-with-p-tech/
 

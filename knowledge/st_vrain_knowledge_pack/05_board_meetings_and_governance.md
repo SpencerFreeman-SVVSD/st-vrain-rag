@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-15T04:35:39.277885-06:00
+generated_at: 2026-05-17T03:58:18.623994-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -14,35 +14,35 @@ section_title: Board meetings and governance
 Member: Jocelyn Gilligan
 Role: President
 District: E, Term: 2023 – 2029
-Contact: 303-817-9077 | [email protected]
+Contact: 303-817-9077 | gilligan_jocelyn@svvsd.org
 About: Jocelyn Gilligan brings a global perspective and deep financial expertise to her role on the St. Vrain Valley School District Board of Education, where she currently serves as Treasurer. After earning her B.S. in Finance from the University of Colorado, Jocelyn began her career with Ernst & Young in New York City, later expanding her work to Shanghai and Hong Kong. During this time, she earned both the Chartered Financial Analyst (CFA) and the Certificate in Investment Performance Measurement (CIPM) designations. Now based in Longmont, Colorado, Jocelyn and her husband co-founded a consulting firm that helps investment managers around the world comply with the Global Investment Performance Standards (GIPS®). Under her leadership, the firm has supported hundreds of investment firms in promoting transparency and integrity in financial reporting. Jocelyn also serves on the Board of Directors for High Plains Bank as Secretary and is a Board Member for the Women in Performance Measurement Network. In addition to her professional accomplishments, Jocelyn is an active community volunteer, previously serving on the Executive Board of the Central Elementary PTO and advocating for safer routes to schools. She and her husband are raising four children in Longmont who attend schools in the St. Vrain Valley School District. As both a parent and board member, she is committed to supporting educational excellence and responsible stewardship across the district.
 
 Member: Jim Berthold
 Role: Vice President
 District: C, Term: 2019 – 2027
-Contact: 720-771-0605 | [email protected]
+Contact: 720-771-0605 | berthold_james@svvsd.org
 About: Jim Berthold was sworn in on November 14, 2019 for a four-year term on the Board. He retired from the Department of Justice in 2002 after 32 years. He is also a proud veteran. From 2009-2014, he served as Lead Driver for the SVVSD Transportation Department. Jim has participated in Leadership St. Vrain and Grassroots St. Vrain. Jim was born and raised in Pittsburgh, PA, and graduated with a B.A. in Economics from the University of Pittsburgh. Jim has lived in Longmont since 1993 and has two daughters who attended St. Vrain Valley Schools. He is committed to supporting the SVVSD Mission Statement “assuring that all students in the District have an equal opportunity to be educated in a safe learning environment so that they may develop to their highest potential and become contributing citizens.”
 
 Member: Sarah Hurianek
 Role: Secretary
 District: F, Term: 2021 – 2029
-Contact: 303-217-1011 | [email protected]
+Contact: 303-217-1011 | hurianek_sarah@svvsd.org
 About: Sarah Hurianek was sworn in on December 1, 2021 for a four-year term on the Board. Sarah grew up in upstate New York and moved to Colorado in 1993. She graduated from Skyline High School and has worked in early childhood education for over 20 years. She and her husband live in Mead where their two children attend St. Vrain Valley Schools. Sarah is involved with the Mead Parent Advisory Committee and serves as the Spring Fundraiser’s Chair. She also served as a guardian with the High Plains Honor Flight, a program that supports local veterans. Sarah is committed to supporting the district’s forward progress.
 
 Member: Jacqueline
 Role: Treasurer
 District: A, Term: 2023 – 2027
-Contact: 206-596-1946 | [email protected]
+Contact: 206-596-1946 | weiss_jacqueline@svvsd.org
 About: Jacqueline joined the SVVSD school board in 2023. She serves to further the mission of SVVSD and due to her passion for providing the best public education to all students and supporting teachers and school employees. As a teacher of 12 years, she has firsthand experience with how policies and school board actions affect learning and school culture. Jacqueline’s expertise as a seasoned and celebrated classroom teacher, her reputation in her community, and her desire to serve her community without ulterior motives drive her experience as an SVVSD school board member. Jacqueline is a lifelong learner who is zealous about the power of education and the importance of equal access for all students. After earning her Bachelor of Arts in Music and Master of Arts in Teaching from Colorado College, Jacqueline taught at numerous schools in K-12 and middle school positions as a band, choir, general music teacher, music director, and department head. She also served her students as a district championship-winning soccer coach, grade-level advisor, and sponsor of various after-school clubs and programs. Throughout her 12-year career in the classroom, she served on several leadership committees to provide the best possible education to all students while advocating for more robust resources for schools and teachers. In her time in the classroom, Jacqueline was recognized for excellence as an educator with several awards, most recently, Teacher of The Year for the 2021-2022 school year at Sunset Middle School in the St. Vrain Valley School District. Jacqueline is a full-time mother to her young daughter, a member of the Longmont Concert Band, and serves on the Lyons Urban Renewal Authority Board. She enjoys spending time with her family, friends, and dogs, listening to, seeing, or performing music, doing all the ‘outdoorsy’ Colorado things (hiking, mountain biking, skiing, running, backpacking, fishing, gardening), cooking, reading, and enjoying all that our incredible surroundings have to offer.
 
 Member: Geno Lechuga
 Role: Assistant Secretary
 District: G, Term: 2023 – 2027
-Contact: 303-775-8103 | [email protected]
+Contact: 303-775-8103 | lechuga_geno@svvsd.org
 About: Geno was appointed to the SVVSD Board in November 2023. He and his wife Caitlin and their two children (Dante and Ava) live in Firestone. Since 2007, Geno has been a youth football and basketball coach at the High School, Middle School, and Elementary School levels. To add, him and his family coordinated, organized, and ran a reduced cost kids sports camp for the last eight years. The Lechuga family along with several businesses and volunteers of the Tri-Town community have touched the lives of over 2000 kids through this volunteer effort. Geno is also a motivational speaker for the youth. He has spoken at schools and churches around the state. His passion and mission is to serve and be a value for the leaders of tomorrow. Geno holds a BA in Business from the University of Northern Colorado and, having lived in Mexico City in 2001, is bilingual in Spanish and English. Geno spent significant time overseas working as a civilian for the Department of Defense, and was stationed in La Maddalena, Italy at one point. However, since 2008, Geno has worked in the Safety Industry and is a Director of Sales for a world class brand in this sector. Geno and his wife of 20 years both graduated from Lyons High School, and continue to serve their community. Geno hasn’t fully stepped away from youth sports, you can find him at the Frederick High School basketball games as the Public Announcer for all home varsity games. Member Meosha Babbs District: D, Term: 2021 – 2029
-Contact: 832-971-8062 | [email protected]
+Contact: 832-971-8062 | babbs_meosha@svvsd.org
 About: MEMBER Hadley Solomon District: B, Term 2025 – 2029
-Contact: 303-870-2241 | [email protected]
+Contact: 303-870-2241 | solomon_hadley@svvsd.org
 About: Hadley Solomon was sworn into the St. Vrain Valley School District Board, District B seat, on December 3rd, 2025. She holds a lifelong belief that education can change lives. To her, it is the great equalizer, giving every child the foundation to think critically, build a good life, and connect with others. Hadley also believes that strong public schools are the heart of a strong community. She grew up in Colorado and is a mother of four children who have all attended SVVSD schools. As President of Niwot Elementary PTAC and Sunset Middle School PAC, and the Online Auction Chair for the Niwot High School Education Foundation, Hadley worked to strengthen school-family partnerships. She also served as President of Grassroots St. Vrain, where she worked to educate the community and advocated for fair funding for public schools. In this role, she supported the passage of the 2016 bond and spoke at the Capitol to push for equitable funding for Colorado students. After obtaining a BA in Journalism at the University of Arizona, Hadley built a career focused on solving problems. Today, she helps companies grow strong, effective teams, and she will bring these same problem-solving and communication skills to support the district’s schools. Outside of work, Hadley enjoys cooking, reading, knitting, traveling, and spending time outdoors with her family.
 
 Source: https://www.svvsd.org/about/board-of-education/
@@ -81,7 +81,7 @@ be submitted by clicking here
 Speaking requests will be reviewed on a first-come-first-served basis; however, priority will be given to current parents, teachers, staff members, and taxpayers residing within St. Vrain Valley Schools.
 As the length of public comment time is limited, if more than 10 people sign up to speak about a non-agenda item or more than 10 people for an agenda-specific item, not everyone will be able to share their public comment.
 In these cases, community members can add their name to the public comment list for the next scheduled Board of Education meeting, or email their comments to
-[email protected]
+boardofeducation@svvsd.org
 , which will be included in the public record as part of the minutes for the meeting.
 Emailed comments will only be included in the meeting minutes if the person had registered to provide public comment but was unable to do so due to time limitations.
 The manner of your comments must be appropriate for the business meeting of the board. Use of foul language, obscenity, or other inappropriate behavior that is disruptive of the orderly process of the board meeting may result in being escorted from the podium or removed from the meeting.
@@ -95,13 +95,13 @@ Board of Education
 In addition to contacting a teacher or staff member, there are many avenues for the public to share comments and feedback with the Board of Education and district staff. This includes:
 School-specific matters should first be discussed with your school principal.
 Personnel matters about an individual should be directed to the Human Resources department at
-[email protected]
+humanresources@svvsd.org
 or 303-682-7394.
 Questions for district staff can be submitted through the
 district’s contact form
 or by calling 303-776-6200
 Feedback or comments can be submitted to the Board of Education at
-https://www.svvsd.org/about/board-of-education/board-of-education-contact-form
+https://svvsd.org/about/board-of-education/board-of-education-contact-form
 .
 
 Source: https://www.svvsd.org/about/board-of-education/board-meetings/public-comment-during-board-of-education-meetings/
@@ -164,7 +164,7 @@ Source: https://www.svvsd.org/about/board-of-education/board-of-education-electi
 Board Policies
 The policies developed by the Board of Education outline a course of action for the District. Board of Education policies are typically passed in a two reading process with final adoption following. All such readings are done at Board meetings that are open to the public.
 If you have any questions about this process, please call Kristie Jonason, Executive Assistant to the Superintendent and Board of Education, at 303-682-7205 or
-[email protected]
+jonason_kristie@svvsd.org
 .
 Policy Table of Contents
 Section A Foundations and Basic Commitments
