@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-18T05:52:55.657915-06:00
+generated_at: 2026-05-19T05:30:53.241891-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,53 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Parent Teacher Conference Advice Column: Supporting Your Student with Dyslexia
+
+- Published: 2026-05-18T14:26:42-06:00
+- Source URL: https://www.svvsd.org/2026/05/18/parent-teacher-conference-advice-column-supporting-your-student-with-dyslexia/
+
+Dear Parent Teacher Conference,
+Earlier this year, my daughter’s teacher recognized characteristics of dyslexia. We had also been concerned about her performance on reading assessments so she began receiving extra support to strengthen her foundational skills.
+We are encouraged by the instruction she’s receiving at school and want to build on it at home. Learning to read with dyslexia takes extra effort, and we hope to support her in ways that feel positive and encouraging. She doesn’t always want guidance from her parents, so we’re looking for strategies that help her progress without creating extra tension at home.
+What are some ways we can help her at home that are both positive and sustainable?
+– Between a Book and a Hard Place in Erie
+Dear Between a Book and a Hard Place,
+First, thank you for your questions and for partnering with your child’s support team. We care about your experience and have resources to support you in taking your next step. Here are a few ideas to get you started as you learn more about the unique needs of your student.
+Connect with her teacher:
+To better understand how the characteristics of dyslexia may be affecting your student’s learning, connect with their teacher. The teacher can share helpful information about dyslexia, discuss your student’s current performance, and work with you to identify meaningful instructional goals and areas of progress. They can also explain the strategies currently being used in the classroom and suggest brief, manageable ways (5-10 minutes) to practice previously taught skills at home.
+Dyslexia looks different at
+various stages of development
+because its observable features shift as academic demands increase. Collaborating with your student and the school support team is a great way to discuss barriers to learning and the accommodations your student is already utilizing.
+Access a community of support:
+Understanding how learning difficulties impact both you and your student is an important part of this process, and you’ve already begun that work by reaching out to us.
+Remember that you are not alone and learning how to best support your student also means making sure you have support as well. Connecting with other parents facing similar challenges through parent engagement opportunities can help build that community of support. These opportunities within St. Vrain Valley Schools can be found on the
+Dyslexia Task Force page.
+Take the long view and keep joy in mind:
+When working on homework, manage complex tasks one step at a time, and communicate difficulties with your student’s teacher. It’s okay to stop and take breaks.
+Be mindful that reading difficulties, including dyslexia, are not your fault. It’s encouraging to know that the strategies that help children with dyslexia are excellent practices for supporting all readers. You do not need to have special knowledge or skills to be supportive.
+When things feel too difficult, keep in mind that your goal is to model a love of learning and do your best to build your student’s confidence when learning takes extra time.
+Approach homework with the goal of collaboration and to unleash thinking:
+You can try sitting beside her during assignments, reading instructions aloud, and allowing her to dictate her responses while you write them down. These small adjustments can reduce frustration and help her stay focused on the task itself. For reading-heavy assignments, audiobooks can be a valuable support, allowing her to engage with the content and ideas without being slowed down by decoding challenges. Thoughtful accommodations like these give her the opportunity to demonstrate her understanding and strengths, rather than having her learning limited by the mechanics of reading and writing.
+Celebrate and manage effort:
+Children who struggle with reading often work twice as hard to achieve the same results as their peers. Acknowledge that work ethic explicitly: “I saw how you kept trying even when that word was tricky.” Every sm...
+
+Source: https://www.svvsd.org/2026/05/18/parent-teacher-conference-advice-column-supporting-your-student-with-dyslexia/
+
+### Silver Creek Orchestra Takes Center Stage with Spinphony
+
+- Published: 2026-05-18T09:21:18-06:00
+- Source URL: https://www.svvsd.org/2026/05/18/silver-creek-orchestra-takes-center-stage-with-spinphony/
+
+Silver Creek orchestra students joined Spinphony, an electric string quartet, on stage for a collaborative performance that offered students a firsthand look at the energy and expectations of professional musicianship. Known for blending classical strings with rock, pop, and cinematic music, Spinphony has performed internationally while pairing electric string performances with dynamic stage production. The concert also featured guest performers from Altona Middle School, creating an experience that challenged students beyond the scope of a traditional school ensemble.
+Silver Creek Orchestra students perform alongside Spinphony (photos courtesy of Katie Topham).
+Silver Creek orchestra teacher Katarina Pliego said performing alongside professional musicians gave students the opportunity to experience music-making at a much higher level while seeing the discipline and artistry required in a professional setting. She emphasized that experiences like the collaboration with Spinphony can have a lasting impact on young musicians by helping them see music as something dynamic and full of possibility. “Many students left the performance feeling more motivated and connected to their own musical goals,” Pliego said.
+Sophomore violinist Nat Alegria Chavez was similarly inspired by the experience and said performing with Spinphony prompted her to reflect on her own future as a musician. “These women have been musicians for a long time, and it made me wonder, ‘If I stick with my instrument, what will I be able to achieve?’” she said.
+The collaboration also challenged students in unexpected ways. While some initially believed the music would be simple, students quickly recognized the increased demands of performing with a professional ensemble, from adapting to a fast-paced rehearsal process to delivering a polished performance after only one rehearsal together. “They had to be 100% ready from the first note,” said Pliego. “Through it all, students supported each other and soaked up the excitement of the moment.”
+For senior cellist Jared Dettlebach, the performance reflected the resilience and dedication of the Silver Creek music program. Dettlebach noted that Silver Creek’s orchestra program has continued to grow and succeed despite evolving through several program changes over the years. “It’s the soul of the people who go to this high school that really puts us a notch above,” Dettlebach said. “It comes from the passion of the students and teachers who come together and create this kind of music.”
+As the only high school orchestra selected to perform alongside Spinphony, students shared that the experience challenged them to think differently about collaboration, musicianship, and performance while showcasing the strength of the Silver Creek music community.
+
+Source: https://www.svvsd.org/2026/05/18/silver-creek-orchestra-takes-center-stage-with-spinphony/
 
 ### Meet Some of St. Vrain’s 2026 Outstanding Grads
 
@@ -449,33 +496,6 @@ Innovation Center staff, the OtterCares Foundation, and Braeden Macchia celebrat
 As the initiative grows, Innovation Center staff and students hope to continue strengthening partnerships with nonprofit and industry organizations while expanding access to meaningful, real-world learning experiences. Through the support of the grant, the Innovation Center aims to build a lasting culture of service that extends far beyond a single program or student project.
 
 Source: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
-
-### “All the World’s A Stage”: St. Vrain Elementary Students Perform Shakespeare in the Park
-
-- Published: 2026-05-08T13:59:51-06:00
-- Source URL: https://www.svvsd.org/2026/05/08/all-the-worlds-a-stage-st-vrain-elementary-students-perform-shakespeare-in-the-park/
-
-Fifth grade students from across St. Vrain Valley Schools gathered at Thompson Park in Old Town Longmont on a sunny spring Friday for the annual Shakespeare in the Park program. Put on through the district’s Gifted and Talented department, this year included performances from A Midsummer Night’s Dream, Hamlet, Julius Caesar, Romeo and Juliet, Macbeth, Much Ado About Nothing, and the Tempest.
-The performances in front of their peers and families are the culmination of their Shakespeare curriculum, as well as months of practice. During the near-semester long curriculum, students build critical reading and comprehension skills, alongside leadership skills as each school’s production is student-led.
-Participating groups this year were from Niwot Elementary, Highlands Elementary, Red Hawk Elementary, Black Rock Elementary, Soaring Heights PK-8, Timberline PK-8, Blue Mountain Elementary, Lyons Elementary, Flagstaff Academy, and Erie Elementary.
-View the full event image gallery
-
-Source: https://www.svvsd.org/2026/05/08/all-the-worlds-a-stage-st-vrain-elementary-students-perform-shakespeare-in-the-park/
-
-### Innovation Center Welcomes Astronaut, Sparks Student Inspiration
-
-- Published: 2026-05-06T14:57:43-06:00
-- Source URL: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
-
-Duane “Digger” Carey, a former NASA astronaut, visited the Innovation Center on May 5 for “An Audience with an Astronaut,” hosted in partnership with the Space Foundation. During his presentation, Carey reflected on his path to serving as the pilot of Space Shuttle Columbia on the STS-109 mission in 2002, a critical servicing mission for the Hubble Space Telescope, and the challenges he overcame along the way.
-Duane Carey shows students at the Innovation Center a model of the aircraft he flew into space.
-Carey’s journey to NASA was shaped by perseverance, as he navigated personal and academic challenges throughout his formative years. While in high school, he committed to attending class consistently and to focus on his studies, allowing him to enter the workforce post-graduation. Later, recognizing that a four-year degree was required to become a pilot in the U.S. Air Force, he worked to improve his entrance exam scores and enrolled at the University of Minnesota. He went on to earn both his bachelor’s and master’s degrees in aerospace engineering, setting the foundation for his career as an astronaut.
-Duane Carey speaks to St. Vrain Valley Schools’ students about the space industry.
-Carey emphasized that success at NASA and in the space industry extends beyond traditional academics, highlighting the need for diverse talents, including tradesmen, athletes, and creatives. Above all, he encouraged students to develop grit – the ability to learn from setbacks and continue moving forward. While he described himself as academically capable, Carey reinforced that it was his work ethic and resilience that ultimately shaped his path forward.
-Innovation Center students present Duane Carey with a gift following his presentation.
-Following the presentation, students participated in a moderated question-and-answer session with Carey, asking about his time in space, the experience of returning to Earth, and the journey that led him to become a successful pilot and astronaut. Opportunities like this provide students with valuable perspective, highlighting that educational and career pathways are diverse. Through these experiences, St. Vrain Valley Schools continues to connect students with real-world learning, helping them explore a wide range of possibilities and prepare for future success.
-
-Source: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
 
 ### District alerts
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-18T05:52:55.657915-06:00
+generated_at: 2026-05-19T05:30:53.241891-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -258,13 +258,16 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 - Last modified: 2025-11-19T18:47:10-07:00
 
 Inclement Weather
+fad fa-snowflakes
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
 Anytime our community experiences inclement weather, our operations and leadership teams are driving roads throughout the evening and early morning, and in communication with various city and town officials, closely monitoring weather conditions. Based on road conditions and weather forecasts, we will make one of three decisions:
 To keep a normal in-person school schedule
 Delay the start of school by two hours
 Shift to a shortened online learning day
 Our first priority, as long as it is deemed safe by our team in consultation with other municipality officials, will be in-person learning.
+fad fa-exclamation-circle
 When the district remains open to in-person learning, but you believe that weather conditions in your specific area are unsafe or otherwise problematic for your student to attend school, please feel free to contact your school’s attendance clerk to obtain an excused absence for your student. If weather conditions cause you to keep your student at home, they will be able to make up any missed schoolwork without penalty.
+fad fa-calendar-check
 Additionally, families will continue to have the choice to obtain an excused absence for their student if for any reason they are unable or choose not to participate in a shortened online learning schedule, or if weather conditions in their area are problematic for transporting their student to school when we have in-person learning.
 2-Hour Weather Delay
 If the weather is such that the normal start is problematic due to weather conditions, we may implement a 2-hour weather delay. A weather delay will only be used if the delay will accommodate warmer temperatures at the bus stops and/or a substantive improvement in road conditions.
@@ -417,11 +420,7 @@ Synchronous Learning
 Period 3
 9:45-10:05
 (Webex)
-Synchronous Learning
-Period 4
-10:10-10:30
-(Webex)
-Synchronous Learni...
+Sy...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 

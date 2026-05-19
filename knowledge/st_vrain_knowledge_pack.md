@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-18T05:52:55.657915-06:00
+generated_at: 2026-05-19T05:30:53.241891-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,53 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Parent Teacher Conference Advice Column: Supporting Your Student with Dyslexia
+
+- Published: 2026-05-18T14:26:42-06:00
+- Source URL: https://www.svvsd.org/2026/05/18/parent-teacher-conference-advice-column-supporting-your-student-with-dyslexia/
+
+Dear Parent Teacher Conference,
+Earlier this year, my daughter’s teacher recognized characteristics of dyslexia. We had also been concerned about her performance on reading assessments so she began receiving extra support to strengthen her foundational skills.
+We are encouraged by the instruction she’s receiving at school and want to build on it at home. Learning to read with dyslexia takes extra effort, and we hope to support her in ways that feel positive and encouraging. She doesn’t always want guidance from her parents, so we’re looking for strategies that help her progress without creating extra tension at home.
+What are some ways we can help her at home that are both positive and sustainable?
+– Between a Book and a Hard Place in Erie
+Dear Between a Book and a Hard Place,
+First, thank you for your questions and for partnering with your child’s support team. We care about your experience and have resources to support you in taking your next step. Here are a few ideas to get you started as you learn more about the unique needs of your student.
+Connect with her teacher:
+To better understand how the characteristics of dyslexia may be affecting your student’s learning, connect with their teacher. The teacher can share helpful information about dyslexia, discuss your student’s current performance, and work with you to identify meaningful instructional goals and areas of progress. They can also explain the strategies currently being used in the classroom and suggest brief, manageable ways (5-10 minutes) to practice previously taught skills at home.
+Dyslexia looks different at
+various stages of development
+because its observable features shift as academic demands increase. Collaborating with your student and the school support team is a great way to discuss barriers to learning and the accommodations your student is already utilizing.
+Access a community of support:
+Understanding how learning difficulties impact both you and your student is an important part of this process, and you’ve already begun that work by reaching out to us.
+Remember that you are not alone and learning how to best support your student also means making sure you have support as well. Connecting with other parents facing similar challenges through parent engagement opportunities can help build that community of support. These opportunities within St. Vrain Valley Schools can be found on the
+Dyslexia Task Force page.
+Take the long view and keep joy in mind:
+When working on homework, manage complex tasks one step at a time, and communicate difficulties with your student’s teacher. It’s okay to stop and take breaks.
+Be mindful that reading difficulties, including dyslexia, are not your fault. It’s encouraging to know that the strategies that help children with dyslexia are excellent practices for supporting all readers. You do not need to have special knowledge or skills to be supportive.
+When things feel too difficult, keep in mind that your goal is to model a love of learning and do your best to build your student’s confidence when learning takes extra time.
+Approach homework with the goal of collaboration and to unleash thinking:
+You can try sitting beside her during assignments, reading instructions aloud, and allowing her to dictate her responses while you write them down. These small adjustments can reduce frustration and help her stay focused on the task itself. For reading-heavy assignments, audiobooks can be a valuable support, allowing her to engage with the content and ideas without being slowed down by decoding challenges. Thoughtful accommodations like these give her the opportunity to demonstrate her understanding and strengths, rather than having her learning limited by the mechanics of reading and writing.
+Celebrate and manage effort:
+Children who struggle with reading often work twice as hard to achieve the same results as their peers. Acknowledge that work ethic explicitly: “I saw how you kept trying even when that word was tricky.” Every sm...
+
+Source: https://www.svvsd.org/2026/05/18/parent-teacher-conference-advice-column-supporting-your-student-with-dyslexia/
+
+### Silver Creek Orchestra Takes Center Stage with Spinphony
+
+- Published: 2026-05-18T09:21:18-06:00
+- Source URL: https://www.svvsd.org/2026/05/18/silver-creek-orchestra-takes-center-stage-with-spinphony/
+
+Silver Creek orchestra students joined Spinphony, an electric string quartet, on stage for a collaborative performance that offered students a firsthand look at the energy and expectations of professional musicianship. Known for blending classical strings with rock, pop, and cinematic music, Spinphony has performed internationally while pairing electric string performances with dynamic stage production. The concert also featured guest performers from Altona Middle School, creating an experience that challenged students beyond the scope of a traditional school ensemble.
+Silver Creek Orchestra students perform alongside Spinphony (photos courtesy of Katie Topham).
+Silver Creek orchestra teacher Katarina Pliego said performing alongside professional musicians gave students the opportunity to experience music-making at a much higher level while seeing the discipline and artistry required in a professional setting. She emphasized that experiences like the collaboration with Spinphony can have a lasting impact on young musicians by helping them see music as something dynamic and full of possibility. “Many students left the performance feeling more motivated and connected to their own musical goals,” Pliego said.
+Sophomore violinist Nat Alegria Chavez was similarly inspired by the experience and said performing with Spinphony prompted her to reflect on her own future as a musician. “These women have been musicians for a long time, and it made me wonder, ‘If I stick with my instrument, what will I be able to achieve?’” she said.
+The collaboration also challenged students in unexpected ways. While some initially believed the music would be simple, students quickly recognized the increased demands of performing with a professional ensemble, from adapting to a fast-paced rehearsal process to delivering a polished performance after only one rehearsal together. “They had to be 100% ready from the first note,” said Pliego. “Through it all, students supported each other and soaked up the excitement of the moment.”
+For senior cellist Jared Dettlebach, the performance reflected the resilience and dedication of the Silver Creek music program. Dettlebach noted that Silver Creek’s orchestra program has continued to grow and succeed despite evolving through several program changes over the years. “It’s the soul of the people who go to this high school that really puts us a notch above,” Dettlebach said. “It comes from the passion of the students and teachers who come together and create this kind of music.”
+As the only high school orchestra selected to perform alongside Spinphony, students shared that the experience challenged them to think differently about collaboration, musicianship, and performance while showcasing the strength of the Silver Creek music community.
+
+Source: https://www.svvsd.org/2026/05/18/silver-creek-orchestra-takes-center-stage-with-spinphony/
+
 ### Meet Some of St. Vrain’s 2026 Outstanding Grads
 
 - Published: 2026-05-15T14:30:25-06:00
@@ -933,33 +980,6 @@ As the initiative grows, Innovation Center staff and students hope to continue s
 
 Source: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
 
-### “All the World’s A Stage”: St. Vrain Elementary Students Perform Shakespeare in the Park
-
-- Published: 2026-05-08T13:59:51-06:00
-- Source URL: https://www.svvsd.org/2026/05/08/all-the-worlds-a-stage-st-vrain-elementary-students-perform-shakespeare-in-the-park/
-
-Fifth grade students from across St. Vrain Valley Schools gathered at Thompson Park in Old Town Longmont on a sunny spring Friday for the annual Shakespeare in the Park program. Put on through the district’s Gifted and Talented department, this year included performances from A Midsummer Night’s Dream, Hamlet, Julius Caesar, Romeo and Juliet, Macbeth, Much Ado About Nothing, and the Tempest.
-The performances in front of their peers and families are the culmination of their Shakespeare curriculum, as well as months of practice. During the near-semester long curriculum, students build critical reading and comprehension skills, alongside leadership skills as each school’s production is student-led.
-Participating groups this year were from Niwot Elementary, Highlands Elementary, Red Hawk Elementary, Black Rock Elementary, Soaring Heights PK-8, Timberline PK-8, Blue Mountain Elementary, Lyons Elementary, Flagstaff Academy, and Erie Elementary.
-View the full event image gallery
-
-Source: https://www.svvsd.org/2026/05/08/all-the-worlds-a-stage-st-vrain-elementary-students-perform-shakespeare-in-the-park/
-
-### Innovation Center Welcomes Astronaut, Sparks Student Inspiration
-
-- Published: 2026-05-06T14:57:43-06:00
-- Source URL: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
-
-Duane “Digger” Carey, a former NASA astronaut, visited the Innovation Center on May 5 for “An Audience with an Astronaut,” hosted in partnership with the Space Foundation. During his presentation, Carey reflected on his path to serving as the pilot of Space Shuttle Columbia on the STS-109 mission in 2002, a critical servicing mission for the Hubble Space Telescope, and the challenges he overcame along the way.
-Duane Carey shows students at the Innovation Center a model of the aircraft he flew into space.
-Carey’s journey to NASA was shaped by perseverance, as he navigated personal and academic challenges throughout his formative years. While in high school, he committed to attending class consistently and to focus on his studies, allowing him to enter the workforce post-graduation. Later, recognizing that a four-year degree was required to become a pilot in the U.S. Air Force, he worked to improve his entrance exam scores and enrolled at the University of Minnesota. He went on to earn both his bachelor’s and master’s degrees in aerospace engineering, setting the foundation for his career as an astronaut.
-Duane Carey speaks to St. Vrain Valley Schools’ students about the space industry.
-Carey emphasized that success at NASA and in the space industry extends beyond traditional academics, highlighting the need for diverse talents, including tradesmen, athletes, and creatives. Above all, he encouraged students to develop grit – the ability to learn from setbacks and continue moving forward. While he described himself as academically capable, Carey reinforced that it was his work ethic and resilience that ultimately shaped his path forward.
-Innovation Center students present Duane Carey with a gift following his presentation.
-Following the presentation, students participated in a moderated question-and-answer session with Carey, asking about his time in space, the experience of returning to Earth, and the journey that led him to become a successful pilot and astronaut. Opportunities like this provide students with valuable perspective, highlighting that educational and career pathways are diverse. Through these experiences, St. Vrain Valley Schools continues to connect students with real-world learning, helping them explore a wide range of possibilities and prepare for future success.
-
-Source: https://www.svvsd.org/2026/05/06/innovation-center-welcomes-astronaut-sparks-student-inspiration/
-
 ### District alerts
 
 No recent alert items were found within the configured coverage window.
@@ -1218,13 +1238,16 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 - Last modified: 2025-11-19T18:47:10-07:00
 
 Inclement Weather
+fad fa-snowflakes
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
 Anytime our community experiences inclement weather, our operations and leadership teams are driving roads throughout the evening and early morning, and in communication with various city and town officials, closely monitoring weather conditions. Based on road conditions and weather forecasts, we will make one of three decisions:
 To keep a normal in-person school schedule
 Delay the start of school by two hours
 Shift to a shortened online learning day
 Our first priority, as long as it is deemed safe by our team in consultation with other municipality officials, will be in-person learning.
+fad fa-exclamation-circle
 When the district remains open to in-person learning, but you believe that weather conditions in your specific area are unsafe or otherwise problematic for your student to attend school, please feel free to contact your school’s attendance clerk to obtain an excused absence for your student. If weather conditions cause you to keep your student at home, they will be able to make up any missed schoolwork without penalty.
+fad fa-calendar-check
 Additionally, families will continue to have the choice to obtain an excused absence for their student if for any reason they are unable or choose not to participate in a shortened online learning schedule, or if weather conditions in their area are problematic for transporting their student to school when we have in-person learning.
 2-Hour Weather Delay
 If the weather is such that the normal start is problematic due to weather conditions, we may implement a 2-hour weather delay. A weather delay will only be used if the delay will accommodate warmer temperatures at the bus stops and/or a substantive improvement in road conditions.
@@ -1377,11 +1400,7 @@ Synchronous Learning
 Period 3
 9:45-10:05
 (Webex)
-Synchronous Learning
-Period 4
-10:10-10:30
-(Webex)
-Synchronous Learni...
+Sy...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 
@@ -10760,16 +10779,21 @@ View the 2026-2027 Preschool Program Locations
 The St. Vrain PRE Advantage
 Give your child the strongest start possible with St. Vrain Valley Schools’ exceptional preschool programming. As part of a nationally recognized public school district, we offer resources and support that stand apart from typical preschool settings. Our comprehensive approach to early childhood education combines expert teaching, innovative curriculum, and a nurturing environment that prepares children for lifelong success.
 Led by Expert Educators
+fad fa-chalkboard-teacher
 Far exceeding typical preschool program standards, every St. Vrain preschool classroom is led by licensed teachers holding bachelor’s degrees in early childhood education, who are supported by highly qualified paraprofessionals. Our teaching teams bring a deep understanding of child development to create engaging experiences that build both cognitive and social-emotional skills during these crucial early years.
 Small Class Sizes
+fad fa-school
 St. Vrain’s commitment to small class sizes means your child receives the personalized attention they need to flourish. In our intimate learning environments, teachers can observe and respond to each child’s unique needs, interests, and learning style. Research consistently shows that children in smaller preschool classes demonstrate stronger social skills, more advanced language development, and better preparation for kindergarten compared to peers in larger group settings.
 High-Quality Early Intervention Supports
+fad fa-book-reader
 Your child benefits from St. Vrain’s extensive support network, including district specialists in speech therapy, occupational therapy, special education, and language development. Highly trained staff to help identify early intervention needs. Our program seamlessly integrates these professional services into the daily learning environment. Our students have access to the same high-quality resources and expertise that support learning throughout our K-12 programs.
 Flexible Programming for Your Family
+fad fa-calendar-check
 Families can choose from morning, afternoon, or full-day sessions, with
 wraparound care
 options available at select locations. Our programs serve both 3- and 4-year-olds, ensuring the right fit for your child’s developmental stage and your family’s needs.
 Convenient Preschool Locations
+fad fa-search-location
 By choosing St. Vrain preschool, your child becomes part of their elementary school community from the start, allowing them to build confidence in their future school setting while forming lasting friendships with future classmates. The seamless transition into kindergarten comes naturally as children are already familiar with their school community, and many enjoy the added benefit of staying connected with siblings in the same building.
 St. Vrain Valley Schools offers preschool programming at 25 elementary schools across the district, offering families flexibility in finding a program that meets their unique needs.
 Spark! Discovery Preschool
@@ -11751,7 +11775,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-03-06T11:42:01-07:00
+- Last modified: 2026-05-18T13:50:39-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -11865,21 +11889,19 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/employee-assi
 ### Flex Spending Account
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/flex-spending-account/
-- Last modified: 2025-12-11T11:50:17-07:00
+- Last modified: 2026-05-18T13:54:47-06:00
 
 Flexible Spending Accounts (FSAs)
 A Flexible Spending Account (FSA) allows you to pay for eligible out-of-pocket medical and/or dependent care expenses with pre-tax dollars (an estimated savings of 15-40% depending on your tax bracket). Health care expenses can quickly add up; and dependent day care or elder care expenses can be even more expensive. An FSA lets you pay these expenses with pre-tax dollars. This means that the money you set aside is subtracted from your taxable income so that you are not taxed on what you contribute.
 Each year that you would like to participate in the FSAs,
 you must re-enroll and elect the amount you want to contribute to either or both of the FSAs.
 Your contributions will be deducted from your monthly paychecks and deposited into your FSA account(s).
-2025 Contribution Limit
 2026 Contribution Limit
 Health Care FSA
-$3,300 – Per Individual
-$3,400 – Per Individual
+$3,400* – Per Individual
 Dependent Care (Daycare) FSA
-$5,000 – Per Household
-$7,500 – Per Household
+$7,500* – Per Household
+*New hires or mid-year enrollees in the FSA should keep in mind that the annual amount elected will be divided by the number of remaining pay dates in the calendar year – the fewer the pay dates remaining, the higher your monthly contribution will be.
 Health Care FSA
 Eligible expenses for the Health Care FSA include medical, dental, and vision expenses not covered by health care plans, including (but not limited to):
 Copays and deductibles
@@ -11961,7 +11983,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disa
 ### Medical & Pharmacy
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/medical/
-- Last modified: 2026-04-29T11:34:55-06:00
+- Last modified: 2026-05-18T13:52:14-06:00
 
 Choosing a Health Plan That’s Right For You
 As an employee, the health benefits available to you represent a significant component of your compensation package. They also provide important protection for you and your family in case of illness or injury.
@@ -12254,7 +12276,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-11T16:02:00-06:00
+- Last modified: 2026-05-18T13:14:44-06:00
 
 Summer 2026
 Mindful Mondays and Well-being Wednesdays
@@ -12808,7 +12830,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Administrators
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/administrators/
-- Last modified: 2025-12-09T13:10:25-07:00
+- Last modified: 2026-05-18T13:55:38-06:00
 
 New Employee Information
 Congratulations on your new administrative position with St. Vrain Valley Schools
@@ -12872,7 +12894,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2025-12-09T13:11:52-07:00
+- Last modified: 2026-05-18T13:56:20-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -12933,7 +12955,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Classified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/classified-professional-technical-employees/
-- Last modified: 2025-12-09T13:13:14-07:00
+- Last modified: 2026-05-18T13:56:47-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -12995,7 +13017,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Professional Technical Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/professional-technical-employees/
-- Last modified: 2025-12-09T13:14:27-07:00
+- Last modified: 2026-05-18T13:57:22-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -14100,6 +14122,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/environmental-c
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 - Last modified: 2026-04-03T13:20:48-06:00
 
+fad fa-exclamation-circle
 Temporary Field Closures
 St. Vrain has made the difficult decision to temporarily close all district athletic fields and exterior play spaces from May 20 through September 2026 due to unusually dry conditions this past winter and a significant lack of soil moisture.
 Read more about temporary closures
@@ -16136,59 +16159,6 @@ Supports extended day and extended year intervention and enrichment opportunitie
 
 Source: https://www.svvsd.org/departments/priority-programs/title-i/
 
-### Professional Development
-
-- Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-04-27T13:28:53-06:00
-
-Office of Professional Development
-The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
-If you are working toward a salary advancement, please refer to the
-LATERAL MOVE GUIDELINES
-on the Human Resources Webpage.
-If you are considering taking a class that is not related to an advanced degree, please use
-THIS FORM
-to submit that information to the Office of Professional Development for
-prior approval
-.
-If you have a certificate that you would like have added to your SVVS transcript, please upload it to
-THIS FORM
-and it will be reviewed for possible credit.
-If you need to make a payment for a professional development course/certificate
-CLICK HERE
-.
-Learn more
-Upcoming Events & Opportunities
-New Teacher Orientation 2026
-will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
-August 10, 2026 at Longmont High School
-.5 Salary Credit — 7.5 ELPD Hours — No cost!
-Click Here for More Information
-The Blueprint for Belonging: Building Classrooms Where Every Identity Drives Excellence
-Choose from over 20 breakout sessions to advance your instruction, build classroom community, and grow as a connected educator.
-Sessions will expand your skills in advancing literacy, thinking, speaking, reading, and writing across all content areas and grade levels!
-REGISTER TODAY
-Exploration AI Conversations Beyond the Algorithm
-Go
-Beyond the Algorithm
-–
-New AI PD in Bitesize Format!
-Hi SVVSD!
-We’re excited to share one of our newest AI Professional Development offerings:
-Exploration AI Conversations Beyond the Algorithm
-.
-Beyond the Algorithm
-is a low-stakes, bite-sized way to grow your practice with AI. Each episode comes with a downloadable PDF to guide your reflection and application. Just listen and explore. That’s it.
-Whether you’re dipping your toes into AI or helping students lead the way, this is for you.
-Let’s keep going
-beyond the algorithm
-—together.
-REGISTER HERE
-Join the Conversation
-Follow us on Twitter
-
-Source: https://www.svvsd.org/departments/professional-development/
-
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/about-us/
@@ -16716,7 +16686,7 @@ Source: https://www.svvsd.org/departments/professional-development/parent-univer
 ### Parent Teacher Conference Advice Column
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/parent-university/parent-teacher-conference-advice-column/
-- Last modified: 2026-03-24T15:56:32-06:00
+- Last modified: 2026-05-18T14:28:01-06:00
 
 The
 Parent Teacher Conference Advice Column
@@ -16727,6 +16697,10 @@ Families are invited to submit their parenting questions for consideration in fu
 Click here to submit your question
 Listen to this Month’s Episode
 Check Out Previous Episodes
+Parent Teacher Conference
+Supporting Your Student with Dyslexia
+Learn more about how to support your student with dyslexia at home.
+Learn More
 Parent Teacher Conference
 Supporting Early Language Developement
 Learn more about how to support early language development for your youngest learner.
@@ -21308,11 +21282,17 @@ Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Biochemistry (Aims Community College), Cybersecurity (Aims Community College) and General Business (Front Range Community College).
 St. Vrain Valley Schools P-TECH serves approximately 450-500 students annually. 55% of P-TECH students are first generation college students, and 41% are second language learners.
 P-TECH By the Numbers:
+fad fa-diploma
 223 P-TECH students have earned an associate’s degree at no cost to them.
+fad fa-building
 Since 2019, 344 P-TECH students have engaged in internship opportunities.
+fad fa-hands-helping
 P-TECH works with over 18 different industry partners.
+fad fa-graduation-cap
 Over one third of P-TECH graduates have gone on to pursue a bachelor’s degree.
+fad fa-users-cog
 P-TECH has 312 active mentors working with P-TECH students (almost one to one).
+fad fa-bolt
 Upon receiving their associate degree, 30+ P-TECH graduates have landed jobs with the following companies: Corden Pharma, IBM, Agilent, CISCO, BI Inc, City of Longmont, St. Vrain Valley Schools’ District Technology Services Department, Intrado, Life and Safety, Adams 12 Schools, BPG Designs SafeBUILT, and URSA Major.
 
 Source: https://www.svvsd.org/programs/p-tech/
@@ -24705,7 +24685,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 371
+- Department and program pages: 370
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80

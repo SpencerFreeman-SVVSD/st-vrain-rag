@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-18T05:52:55.657915-06:00
+generated_at: 2026-05-19T05:30:53.241891-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9192,16 +9192,21 @@ View the 2026-2027 Preschool Program Locations
 The St. Vrain PRE Advantage
 Give your child the strongest start possible with St. Vrain Valley Schools’ exceptional preschool programming. As part of a nationally recognized public school district, we offer resources and support that stand apart from typical preschool settings. Our comprehensive approach to early childhood education combines expert teaching, innovative curriculum, and a nurturing environment that prepares children for lifelong success.
 Led by Expert Educators
+fad fa-chalkboard-teacher
 Far exceeding typical preschool program standards, every St. Vrain preschool classroom is led by licensed teachers holding bachelor’s degrees in early childhood education, who are supported by highly qualified paraprofessionals. Our teaching teams bring a deep understanding of child development to create engaging experiences that build both cognitive and social-emotional skills during these crucial early years.
 Small Class Sizes
+fad fa-school
 St. Vrain’s commitment to small class sizes means your child receives the personalized attention they need to flourish. In our intimate learning environments, teachers can observe and respond to each child’s unique needs, interests, and learning style. Research consistently shows that children in smaller preschool classes demonstrate stronger social skills, more advanced language development, and better preparation for kindergarten compared to peers in larger group settings.
 High-Quality Early Intervention Supports
+fad fa-book-reader
 Your child benefits from St. Vrain’s extensive support network, including district specialists in speech therapy, occupational therapy, special education, and language development. Highly trained staff to help identify early intervention needs. Our program seamlessly integrates these professional services into the daily learning environment. Our students have access to the same high-quality resources and expertise that support learning throughout our K-12 programs.
 Flexible Programming for Your Family
+fad fa-calendar-check
 Families can choose from morning, afternoon, or full-day sessions, with
 wraparound care
 options available at select locations. Our programs serve both 3- and 4-year-olds, ensuring the right fit for your child’s developmental stage and your family’s needs.
 Convenient Preschool Locations
+fad fa-search-location
 By choosing St. Vrain preschool, your child becomes part of their elementary school community from the start, allowing them to build confidence in their future school setting while forming lasting friendships with future classmates. The seamless transition into kindergarten comes naturally as children are already familiar with their school community, and many enjoy the added benefit of staying connected with siblings in the same building.
 St. Vrain Valley Schools offers preschool programming at 25 elementary schools across the district, offering families flexibility in finding a program that meets their unique needs.
 Spark! Discovery Preschool
@@ -10183,7 +10188,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-03-06T11:42:01-07:00
+- Last modified: 2026-05-18T13:50:39-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -10297,21 +10302,19 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/employee-assi
 ### Flex Spending Account
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/flex-spending-account/
-- Last modified: 2025-12-11T11:50:17-07:00
+- Last modified: 2026-05-18T13:54:47-06:00
 
 Flexible Spending Accounts (FSAs)
 A Flexible Spending Account (FSA) allows you to pay for eligible out-of-pocket medical and/or dependent care expenses with pre-tax dollars (an estimated savings of 15-40% depending on your tax bracket). Health care expenses can quickly add up; and dependent day care or elder care expenses can be even more expensive. An FSA lets you pay these expenses with pre-tax dollars. This means that the money you set aside is subtracted from your taxable income so that you are not taxed on what you contribute.
 Each year that you would like to participate in the FSAs,
 you must re-enroll and elect the amount you want to contribute to either or both of the FSAs.
 Your contributions will be deducted from your monthly paychecks and deposited into your FSA account(s).
-2025 Contribution Limit
 2026 Contribution Limit
 Health Care FSA
-$3,300 – Per Individual
-$3,400 – Per Individual
+$3,400* – Per Individual
 Dependent Care (Daycare) FSA
-$5,000 – Per Household
-$7,500 – Per Household
+$7,500* – Per Household
+*New hires or mid-year enrollees in the FSA should keep in mind that the annual amount elected will be divided by the number of remaining pay dates in the calendar year – the fewer the pay dates remaining, the higher your monthly contribution will be.
 Health Care FSA
 Eligible expenses for the Health Care FSA include medical, dental, and vision expenses not covered by health care plans, including (but not limited to):
 Copays and deductibles
@@ -10393,7 +10396,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disa
 ### Medical & Pharmacy
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/medical/
-- Last modified: 2026-04-29T11:34:55-06:00
+- Last modified: 2026-05-18T13:52:14-06:00
 
 Choosing a Health Plan That’s Right For You
 As an employee, the health benefits available to you represent a significant component of your compensation package. They also provide important protection for you and your family in case of illness or injury.
@@ -10686,7 +10689,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-11T16:02:00-06:00
+- Last modified: 2026-05-18T13:14:44-06:00
 
 Summer 2026
 Mindful Mondays and Well-being Wednesdays
@@ -11240,7 +11243,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Administrators
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/administrators/
-- Last modified: 2025-12-09T13:10:25-07:00
+- Last modified: 2026-05-18T13:55:38-06:00
 
 New Employee Information
 Congratulations on your new administrative position with St. Vrain Valley Schools
@@ -11304,7 +11307,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2025-12-09T13:11:52-07:00
+- Last modified: 2026-05-18T13:56:20-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -11365,7 +11368,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Classified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/classified-professional-technical-employees/
-- Last modified: 2025-12-09T13:13:14-07:00
+- Last modified: 2026-05-18T13:56:47-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -11427,7 +11430,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Professional Technical Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/professional-technical-employees/
-- Last modified: 2025-12-09T13:14:27-07:00
+- Last modified: 2026-05-18T13:57:22-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -12532,6 +12535,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/environmental-c
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 - Last modified: 2026-04-03T13:20:48-06:00
 
+fad fa-exclamation-circle
 Temporary Field Closures
 St. Vrain has made the difficult decision to temporarily close all district athletic fields and exterior play spaces from May 20 through September 2026 due to unusually dry conditions this past winter and a significant lack of soil moisture.
 Read more about temporary closures
@@ -14568,59 +14572,6 @@ Supports extended day and extended year intervention and enrichment opportunitie
 
 Source: https://www.svvsd.org/departments/priority-programs/title-i/
 
-### Professional Development
-
-- Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-04-27T13:28:53-06:00
-
-Office of Professional Development
-The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
-If you are working toward a salary advancement, please refer to the
-LATERAL MOVE GUIDELINES
-on the Human Resources Webpage.
-If you are considering taking a class that is not related to an advanced degree, please use
-THIS FORM
-to submit that information to the Office of Professional Development for
-prior approval
-.
-If you have a certificate that you would like have added to your SVVS transcript, please upload it to
-THIS FORM
-and it will be reviewed for possible credit.
-If you need to make a payment for a professional development course/certificate
-CLICK HERE
-.
-Learn more
-Upcoming Events & Opportunities
-New Teacher Orientation 2026
-will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
-August 10, 2026 at Longmont High School
-.5 Salary Credit — 7.5 ELPD Hours — No cost!
-Click Here for More Information
-The Blueprint for Belonging: Building Classrooms Where Every Identity Drives Excellence
-Choose from over 20 breakout sessions to advance your instruction, build classroom community, and grow as a connected educator.
-Sessions will expand your skills in advancing literacy, thinking, speaking, reading, and writing across all content areas and grade levels!
-REGISTER TODAY
-Exploration AI Conversations Beyond the Algorithm
-Go
-Beyond the Algorithm
-–
-New AI PD in Bitesize Format!
-Hi SVVSD!
-We’re excited to share one of our newest AI Professional Development offerings:
-Exploration AI Conversations Beyond the Algorithm
-.
-Beyond the Algorithm
-is a low-stakes, bite-sized way to grow your practice with AI. Each episode comes with a downloadable PDF to guide your reflection and application. Just listen and explore. That’s it.
-Whether you’re dipping your toes into AI or helping students lead the way, this is for you.
-Let’s keep going
-beyond the algorithm
-—together.
-REGISTER HERE
-Join the Conversation
-Follow us on Twitter
-
-Source: https://www.svvsd.org/departments/professional-development/
-
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/about-us/
@@ -15148,7 +15099,7 @@ Source: https://www.svvsd.org/departments/professional-development/parent-univer
 ### Parent Teacher Conference Advice Column
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/parent-university/parent-teacher-conference-advice-column/
-- Last modified: 2026-03-24T15:56:32-06:00
+- Last modified: 2026-05-18T14:28:01-06:00
 
 The
 Parent Teacher Conference Advice Column
@@ -15159,6 +15110,10 @@ Families are invited to submit their parenting questions for consideration in fu
 Click here to submit your question
 Listen to this Month’s Episode
 Check Out Previous Episodes
+Parent Teacher Conference
+Supporting Your Student with Dyslexia
+Learn more about how to support your student with dyslexia at home.
+Learn More
 Parent Teacher Conference
 Supporting Early Language Developement
 Learn more about how to support early language development for your youngest learner.
@@ -19740,11 +19695,17 @@ Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Biochemistry (Aims Community College), Cybersecurity (Aims Community College) and General Business (Front Range Community College).
 St. Vrain Valley Schools P-TECH serves approximately 450-500 students annually. 55% of P-TECH students are first generation college students, and 41% are second language learners.
 P-TECH By the Numbers:
+fad fa-diploma
 223 P-TECH students have earned an associate’s degree at no cost to them.
+fad fa-building
 Since 2019, 344 P-TECH students have engaged in internship opportunities.
+fad fa-hands-helping
 P-TECH works with over 18 different industry partners.
+fad fa-graduation-cap
 Over one third of P-TECH graduates have gone on to pursue a bachelor’s degree.
+fad fa-users-cog
 P-TECH has 312 active mentors working with P-TECH students (almost one to one).
+fad fa-bolt
 Upon receiving their associate degree, 30+ P-TECH graduates have landed jobs with the following companies: Corden Pharma, IBM, Agilent, CISCO, BI Inc, City of Longmont, St. Vrain Valley Schools’ District Technology Services Department, Intrado, Life and Safety, Adams 12 Schools, BPG Designs SafeBUILT, and URSA Major.
 
 Source: https://www.svvsd.org/programs/p-tech/
