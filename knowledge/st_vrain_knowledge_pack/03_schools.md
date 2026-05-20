@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-19T05:30:53.241891-06:00
+generated_at: 2026-05-20T05:18:44.347606-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -258,7 +258,6 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 - Last modified: 2025-11-19T18:47:10-07:00
 
 Inclement Weather
-fad fa-snowflakes
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
 Anytime our community experiences inclement weather, our operations and leadership teams are driving roads throughout the evening and early morning, and in communication with various city and town officials, closely monitoring weather conditions. Based on road conditions and weather forecasts, we will make one of three decisions:
 To keep a normal in-person school schedule
@@ -420,7 +419,7 @@ Synchronous Learning
 Period 3
 9:45-10:05
 (Webex)
-Sy...
+Synchronous Learning...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 

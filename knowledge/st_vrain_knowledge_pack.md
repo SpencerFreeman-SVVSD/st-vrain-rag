@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-19T05:30:53.241891-06:00
+generated_at: 2026-05-20T05:18:44.347606-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,34 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### More Than Music: Erie Elementary Students Build Confidence and Connection Through Band
+
+- Published: 2026-05-19T16:17:08-06:00
+- Source URL: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
+
+Fourth and fifth grade students at Erie Elementary file into the music room with anticipation, eagerly pulling their instruments from their cases as they prepare for their final performance of the year. The sounds of trumpets, trombones, clarinets, flutes, and even a saxophone quickly fill the room as students warm-up. While a handful of students are returning for their second year in band, for many, this marks the very first time they have ever picked up an instrument.
+Since starting the program in 2013, band director and music teacher Anna Schultz has watched the program continuously grow each year. She believes introducing students to music at a young age gives them an opportunity to discover new interests while building confidence and connection with their peers. “At this age, there are a lot of opportunities for clubs and physical activities, but not as many for music,” Schultz shared. “Starting at a younger age provides them with a community to be a part of, and a chance to find an instrument that they enjoy playing.”
+At Erie Elementary, band has become more than just learning notes and rhythms. It has created a space where they can challenge themselves, collaborate with classmates, and build friendships as they prepare for performances throughout the year. Each student brings their own interests and inspirations to the program, creating a band community filled with different personalities and musical goals.
+For Aaron Farnsworth, a fourth grade saxophone player, music has always been part of his life. Growing up surrounded by family members who play instruments, such as the flute and clarinet, inspired his interest in music. However it was seeing a character play the saxophone in the Super Mario Brothers video game that convinced him to give the instrument a try. “If another student asked me about band, I would tell them they should do it and it’s really cool,” he shared.
+Fifth grade clarinet player Nora Mauck also found band to be a meaningful way to connect with others while further exploring her love of music. With previous experience playing the ukulele, she decided to join band and quickly discovered how much she enjoyed being part of the group. “Band is really fun, and you get to know a lot of people before middle school,” Nora shared. “My brother was in band and that’s where he met his best friend, and they’re still friends.”
+As the school year comes to a close, the excitement filling the music room reflects more than just preparation for a performance. For Erie Elementary students, band has become a place to discover new talents, gain confidence, and create lasting friendships through music.
+
+Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
+
+### Longmont Estates Elementary Kitchen Manager Recognized with School Nutrition Award
+
+- Published: 2026-05-19T13:12:04-06:00
+- Source URL: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
+
+Lance Thorne, kitchen manager at Longmont Estates Elementary School, has been named the 2026 Colorado School Nutrition Association Manager of the Year.
+Lance Thorne, Kitchen Manager at Longmont Estates Elementary School.
+Presented by the Colorado School Nutrition Association, the award recognizes outstanding school nutrition professionals across the state for their leadership, dedication, and commitment to supporting students through healthy, high-quality meals.
+Thorne was selected for his leadership and the positive culture he has built within the school cafeteria environment. Through creativity, strong relationships with students and staff, and a commitment to inclusivity, he has helped create a welcoming space where students feel valued and excited to participate each day.
+In addition to his work supporting students, Thorne is recognized for mentoring team members and encouraging professional growth among colleagues. His leadership has strengthened collaboration within his school community and across the broader school nutrition profession.
+Thorne will be recognized during the Colorado School Nutrition Association Summer Conference in June.
+
+Source: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
+
 ### Parent Teacher Conference Advice Column: Supporting Your Student with Dyslexia
 
 - Published: 2026-05-18T14:26:42-06:00
@@ -952,34 +980,6 @@ Live Spanish interpretation will be provided by the district’s Translation and
 
 Source: https://www.svvsd.org/2026/05/13/2026-graduation-information/
 
-### Eagle Crest Families Experience Student Learning Through Coding Showcase
-
-- Published: 2026-05-13T14:59:23-06:00
-- Source URL: https://www.svvsd.org/2026/05/13/eagle-crest-families-experience-student-learning-through-coding-showcase/
-
-An Eagle Crest student presents his coding project to family.
-The sounds of excited students explaining code, testing robots and guiding parents through virtual worlds filled the halls of Eagle Crest Elementary on Thursday, May 7 during the school’s annual “Eagles Can Code” event. Families and friends gathered alongside teachers to experience firsthand how students have been using technology and creative problem-solving throughout the school year. As parents visited their students’ classrooms, they explored coding applications on iPads that allowed students to customize projects, control robots, and more.
-An Eagle Crest student shows a family member what she’s coded in class.
-Students from the Innovation Center also offered their support by leading hands-on robotics and virtual reality activities in the gym. Using low-code programming methods, Eagle Crest students directed how robots moved and interacted, while VR headsets transported participants into immersive digital environments. The evening celebrated a year of learning and highlighted how students across all grade levels advanced beyond foundational instruction to pursue passion-driven projects. Families also had the opportunity to experience firsthand the creativity, innovation, and technical skills students developed throughout the year.
-An Innovation Center student hands an Eagle Crest student a robot.
-
-Source: https://www.svvsd.org/2026/05/13/eagle-crest-families-experience-student-learning-through-coding-showcase/
-
-### Student’s “Drones for Dreams” Inspires $25,000 OtterCares Grant for Innovation Center’s New Philanthropy Initiative
-
-- Published: 2026-05-11T12:25:38-06:00
-- Source URL: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
-
-On Thursday, May 7, the Innovation Center received a $25,000 grant from the OtterCares Foundation to help expand opportunities for students to apply their professional skills in support of nonprofit organizations across the region. The grant was inspired by Silver Creek High School junior Braeden Macchia’s work through “Drones for Dreams,” a student-led initiative that provides pro-bono drone services to community nonprofits.
-High School junior Braeden Macchia meets with the OtterCares Foundation’s Linda Crum, whose conversations with Braeden inspired the Innovation Center’s new philanthropy initiative.
-After connecting with Linda Crum and Lucy Nuremberg of the Ottercares Foundation last fall, Braeden shared his vision for growing and sustaining the program. “Braeden is a change maker,” Crum said. “He’s taken what he’s passionate about and asked, ‘How can I use this skill and talent to create lasting change and difference in the world?’ What he’s accomplished with ‘Drones for Dreams’ is incredible.”
-The OtterCares Foundation presents the Innovation Center with a $25,000 grant inspired by Braeden’s “Drones for Dreams” – funding that will expand nonprofit partnerships across every Innovation Center division.
-Inspired by Braeden’s leadership, Innovation Center administrators applied for the grant to help expand that same spirit of service across more than 20 student project teams. Beginning next year, students in programs including artificial intelligence, cybersecurity, design, media production, and more will dedicate a portion of their professional work to nonprofit partners, creating new opportunities for students to gain hands-on experience while supporting community organizations.
-Innovation Center staff, the OtterCares Foundation, and Braeden Macchia celebrate a $25,000 grant that will scale Braeden’s spirit of service into student project teams across the Innovation Center.
-As the initiative grows, Innovation Center staff and students hope to continue strengthening partnerships with nonprofit and industry organizations while expanding access to meaningful, real-world learning experiences. Through the support of the grant, the Innovation Center aims to build a lasting culture of service that extends far beyond a single program or student project.
-
-Source: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
-
 ### District alerts
 
 No recent alert items were found within the configured coverage window.
@@ -1238,7 +1238,6 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 - Last modified: 2025-11-19T18:47:10-07:00
 
 Inclement Weather
-fad fa-snowflakes
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
 Anytime our community experiences inclement weather, our operations and leadership teams are driving roads throughout the evening and early morning, and in communication with various city and town officials, closely monitoring weather conditions. Based on road conditions and weather forecasts, we will make one of three decisions:
 To keep a normal in-person school schedule
@@ -1400,7 +1399,7 @@ Synchronous Learning
 Period 3
 9:45-10:05
 (Webex)
-Sy...
+Synchronous Learning...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 
@@ -12301,47 +12300,6 @@ Register Here for Well-Being Wednesdays
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
-### Wellness Resources
-
-- Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-12T10:01:59-06:00
-
-This Month
-May Wellbeing Flyer:
-The Importance of Mental Health
-May Well Newsletter:
-Maintaining Your Mental Health
-Guidance Resource Flyer –
-Mental Health Awareness Month: Focus on Adolescents
-Ongoing Resources
-Active&Fit
-Make your move with Active&Fit Direct
-Wherever you are on your health journey, the Active&Fit Direct program is here to help. Active&Fit offers discount rates at local gyms, free on-demand videos, 1:1 well-being coaching, and spouse enrollment. Choose from a network of over 12,800 gyms and exercise studios.
-NEW! All enrolled Active&Fit Direct members have access to the Active&Fit Direct Marketplace, the new go-to destination for big discounts on top-tier health & fitness brands.
-Learn more about the Active&Fit program here
-Pay $0 on enrollment fees now through May 31st!
-Access the SVVSD Active & Fit program in
-Infinite Visions under Resources
-Nurse Health Coaching
-Our certified coaches will meet you where you are on your health journey and empower you to be the best version of yourself. Free to all benefit eligible employees, coaching is available whenever you want to schedule it and at whatever location is best to meet. Learn more on our
-Nurse Health Coaching
-page.
-Employee Assistance Program
-Life events can affect the lives of team members both at home and at work. That is why St. Vrain Valley Schools offers a district-paid Employee Assistance Program (EAP) through ComPsych. All services are provided at no-cost to you and your eligible family members and all services are strictly confidential. Learn more on our
-Employee Assistance Program
-page.
-Financial Education
-Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
-ENT Credit Union Events
-Headspace
-Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you
-Create Your Headspace Account
-Maternity Program
-Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
-Click here for program information.
-
-Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
@@ -15035,7 +14993,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondi
 ### Nutrition Services Open Solicitations
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
-- Last modified: 2026-04-29T10:35:44-06:00
+- Last modified: 2026-05-19T15:51:36-06:00
 
 St Vrain Virtual Solicitations
 Vendors are encouraged to register and become familiar with the Rocky Mountain E-Purchasing System at
@@ -15052,7 +15010,7 @@ Bid Name
 Bid Number
 Open Date
 Close Date
-OPEN:
+CLOSED:
 Locally Grown or Produced Food Product Provider(s)
 KM-2026-049
 April 13, 2026
@@ -16158,6 +16116,59 @@ Emphasizes parental involvement
 Supports extended day and extended year intervention and enrichment opportunities
 
 Source: https://www.svvsd.org/departments/priority-programs/title-i/
+
+### Professional Development
+
+- Canonical URL: https://www.svvsd.org/departments/professional-development/
+- Last modified: 2026-04-27T13:28:53-06:00
+
+Office of Professional Development
+The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
+If you are working toward a salary advancement, please refer to the
+LATERAL MOVE GUIDELINES
+on the Human Resources Webpage.
+If you are considering taking a class that is not related to an advanced degree, please use
+THIS FORM
+to submit that information to the Office of Professional Development for
+prior approval
+.
+If you have a certificate that you would like have added to your SVVS transcript, please upload it to
+THIS FORM
+and it will be reviewed for possible credit.
+If you need to make a payment for a professional development course/certificate
+CLICK HERE
+.
+Learn more
+Upcoming Events & Opportunities
+New Teacher Orientation 2026
+will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
+August 10, 2026 at Longmont High School
+.5 Salary Credit — 7.5 ELPD Hours — No cost!
+Click Here for More Information
+The Blueprint for Belonging: Building Classrooms Where Every Identity Drives Excellence
+Choose from over 20 breakout sessions to advance your instruction, build classroom community, and grow as a connected educator.
+Sessions will expand your skills in advancing literacy, thinking, speaking, reading, and writing across all content areas and grade levels!
+REGISTER TODAY
+Exploration AI Conversations Beyond the Algorithm
+Go
+Beyond the Algorithm
+–
+New AI PD in Bitesize Format!
+Hi SVVSD!
+We’re excited to share one of our newest AI Professional Development offerings:
+Exploration AI Conversations Beyond the Algorithm
+.
+Beyond the Algorithm
+is a low-stakes, bite-sized way to grow your practice with AI. Each episode comes with a downloadable PDF to guide your reflection and application. Just listen and explore. That’s it.
+Whether you’re dipping your toes into AI or helping students lead the way, this is for you.
+Let’s keep going
+beyond the algorithm
+—together.
+REGISTER HERE
+Join the Conversation
+Follow us on Twitter
+
+Source: https://www.svvsd.org/departments/professional-development/
 
 ### About Us
 

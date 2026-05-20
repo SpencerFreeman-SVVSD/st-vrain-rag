@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-19T05:30:53.241891-06:00
+generated_at: 2026-05-20T05:18:44.347606-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,34 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### More Than Music: Erie Elementary Students Build Confidence and Connection Through Band
+
+- Published: 2026-05-19T16:17:08-06:00
+- Source URL: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
+
+Fourth and fifth grade students at Erie Elementary file into the music room with anticipation, eagerly pulling their instruments from their cases as they prepare for their final performance of the year. The sounds of trumpets, trombones, clarinets, flutes, and even a saxophone quickly fill the room as students warm-up. While a handful of students are returning for their second year in band, for many, this marks the very first time they have ever picked up an instrument.
+Since starting the program in 2013, band director and music teacher Anna Schultz has watched the program continuously grow each year. She believes introducing students to music at a young age gives them an opportunity to discover new interests while building confidence and connection with their peers. “At this age, there are a lot of opportunities for clubs and physical activities, but not as many for music,” Schultz shared. “Starting at a younger age provides them with a community to be a part of, and a chance to find an instrument that they enjoy playing.”
+At Erie Elementary, band has become more than just learning notes and rhythms. It has created a space where they can challenge themselves, collaborate with classmates, and build friendships as they prepare for performances throughout the year. Each student brings their own interests and inspirations to the program, creating a band community filled with different personalities and musical goals.
+For Aaron Farnsworth, a fourth grade saxophone player, music has always been part of his life. Growing up surrounded by family members who play instruments, such as the flute and clarinet, inspired his interest in music. However it was seeing a character play the saxophone in the Super Mario Brothers video game that convinced him to give the instrument a try. “If another student asked me about band, I would tell them they should do it and it’s really cool,” he shared.
+Fifth grade clarinet player Nora Mauck also found band to be a meaningful way to connect with others while further exploring her love of music. With previous experience playing the ukulele, she decided to join band and quickly discovered how much she enjoyed being part of the group. “Band is really fun, and you get to know a lot of people before middle school,” Nora shared. “My brother was in band and that’s where he met his best friend, and they’re still friends.”
+As the school year comes to a close, the excitement filling the music room reflects more than just preparation for a performance. For Erie Elementary students, band has become a place to discover new talents, gain confidence, and create lasting friendships through music.
+
+Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
+
+### Longmont Estates Elementary Kitchen Manager Recognized with School Nutrition Award
+
+- Published: 2026-05-19T13:12:04-06:00
+- Source URL: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
+
+Lance Thorne, kitchen manager at Longmont Estates Elementary School, has been named the 2026 Colorado School Nutrition Association Manager of the Year.
+Lance Thorne, Kitchen Manager at Longmont Estates Elementary School.
+Presented by the Colorado School Nutrition Association, the award recognizes outstanding school nutrition professionals across the state for their leadership, dedication, and commitment to supporting students through healthy, high-quality meals.
+Thorne was selected for his leadership and the positive culture he has built within the school cafeteria environment. Through creativity, strong relationships with students and staff, and a commitment to inclusivity, he has helped create a welcoming space where students feel valued and excited to participate each day.
+In addition to his work supporting students, Thorne is recognized for mentoring team members and encouraging professional growth among colleagues. His leadership has strengthened collaboration within his school community and across the broader school nutrition profession.
+Thorne will be recognized during the Colorado School Nutrition Association Summer Conference in June.
+
+Source: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
 
 ### Parent Teacher Conference Advice Column: Supporting Your Student with Dyslexia
 
@@ -468,34 +496,6 @@ Spanish Interpretation Services Available at Graduation
 Live Spanish interpretation will be provided by the district’s Translation and Interpretation Services team during many of the St. Vrain graduation ceremonies. This service allows families and community members to experience the celebration in Spanish using their cellphones. A link will be provided at the ceremony, and guests may listen in real time using their own headphones or wireless earbuds.
 
 Source: https://www.svvsd.org/2026/05/13/2026-graduation-information/
-
-### Eagle Crest Families Experience Student Learning Through Coding Showcase
-
-- Published: 2026-05-13T14:59:23-06:00
-- Source URL: https://www.svvsd.org/2026/05/13/eagle-crest-families-experience-student-learning-through-coding-showcase/
-
-An Eagle Crest student presents his coding project to family.
-The sounds of excited students explaining code, testing robots and guiding parents through virtual worlds filled the halls of Eagle Crest Elementary on Thursday, May 7 during the school’s annual “Eagles Can Code” event. Families and friends gathered alongside teachers to experience firsthand how students have been using technology and creative problem-solving throughout the school year. As parents visited their students’ classrooms, they explored coding applications on iPads that allowed students to customize projects, control robots, and more.
-An Eagle Crest student shows a family member what she’s coded in class.
-Students from the Innovation Center also offered their support by leading hands-on robotics and virtual reality activities in the gym. Using low-code programming methods, Eagle Crest students directed how robots moved and interacted, while VR headsets transported participants into immersive digital environments. The evening celebrated a year of learning and highlighted how students across all grade levels advanced beyond foundational instruction to pursue passion-driven projects. Families also had the opportunity to experience firsthand the creativity, innovation, and technical skills students developed throughout the year.
-An Innovation Center student hands an Eagle Crest student a robot.
-
-Source: https://www.svvsd.org/2026/05/13/eagle-crest-families-experience-student-learning-through-coding-showcase/
-
-### Student’s “Drones for Dreams” Inspires $25,000 OtterCares Grant for Innovation Center’s New Philanthropy Initiative
-
-- Published: 2026-05-11T12:25:38-06:00
-- Source URL: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
-
-On Thursday, May 7, the Innovation Center received a $25,000 grant from the OtterCares Foundation to help expand opportunities for students to apply their professional skills in support of nonprofit organizations across the region. The grant was inspired by Silver Creek High School junior Braeden Macchia’s work through “Drones for Dreams,” a student-led initiative that provides pro-bono drone services to community nonprofits.
-High School junior Braeden Macchia meets with the OtterCares Foundation’s Linda Crum, whose conversations with Braeden inspired the Innovation Center’s new philanthropy initiative.
-After connecting with Linda Crum and Lucy Nuremberg of the Ottercares Foundation last fall, Braeden shared his vision for growing and sustaining the program. “Braeden is a change maker,” Crum said. “He’s taken what he’s passionate about and asked, ‘How can I use this skill and talent to create lasting change and difference in the world?’ What he’s accomplished with ‘Drones for Dreams’ is incredible.”
-The OtterCares Foundation presents the Innovation Center with a $25,000 grant inspired by Braeden’s “Drones for Dreams” – funding that will expand nonprofit partnerships across every Innovation Center division.
-Inspired by Braeden’s leadership, Innovation Center administrators applied for the grant to help expand that same spirit of service across more than 20 student project teams. Beginning next year, students in programs including artificial intelligence, cybersecurity, design, media production, and more will dedicate a portion of their professional work to nonprofit partners, creating new opportunities for students to gain hands-on experience while supporting community organizations.
-Innovation Center staff, the OtterCares Foundation, and Braeden Macchia celebrate a $25,000 grant that will scale Braeden’s spirit of service into student project teams across the Innovation Center.
-As the initiative grows, Innovation Center staff and students hope to continue strengthening partnerships with nonprofit and industry organizations while expanding access to meaningful, real-world learning experiences. Through the support of the grant, the Innovation Center aims to build a lasting culture of service that extends far beyond a single program or student project.
-
-Source: https://www.svvsd.org/2026/05/11/students-drones-for-dreams-inspires-25000-ottercares-grant-for-innovation-centers-new-philanthropy-initiative/
 
 ### District alerts
 

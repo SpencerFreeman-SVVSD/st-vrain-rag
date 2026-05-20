@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-19T05:30:53.241891-06:00
+generated_at: 2026-05-20T05:18:44.347606-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10714,47 +10714,6 @@ Register Here for Well-Being Wednesdays
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
-### Wellness Resources
-
-- Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-12T10:01:59-06:00
-
-This Month
-May Wellbeing Flyer:
-The Importance of Mental Health
-May Well Newsletter:
-Maintaining Your Mental Health
-Guidance Resource Flyer –
-Mental Health Awareness Month: Focus on Adolescents
-Ongoing Resources
-Active&Fit
-Make your move with Active&Fit Direct
-Wherever you are on your health journey, the Active&Fit Direct program is here to help. Active&Fit offers discount rates at local gyms, free on-demand videos, 1:1 well-being coaching, and spouse enrollment. Choose from a network of over 12,800 gyms and exercise studios.
-NEW! All enrolled Active&Fit Direct members have access to the Active&Fit Direct Marketplace, the new go-to destination for big discounts on top-tier health & fitness brands.
-Learn more about the Active&Fit program here
-Pay $0 on enrollment fees now through May 31st!
-Access the SVVSD Active & Fit program in
-Infinite Visions under Resources
-Nurse Health Coaching
-Our certified coaches will meet you where you are on your health journey and empower you to be the best version of yourself. Free to all benefit eligible employees, coaching is available whenever you want to schedule it and at whatever location is best to meet. Learn more on our
-Nurse Health Coaching
-page.
-Employee Assistance Program
-Life events can affect the lives of team members both at home and at work. That is why St. Vrain Valley Schools offers a district-paid Employee Assistance Program (EAP) through ComPsych. All services are provided at no-cost to you and your eligible family members and all services are strictly confidential. Learn more on our
-Employee Assistance Program
-page.
-Financial Education
-Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
-ENT Credit Union Events
-Headspace
-Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you
-Create Your Headspace Account
-Maternity Program
-Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
-Click here for program information.
-
-Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
@@ -13448,7 +13407,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondi
 ### Nutrition Services Open Solicitations
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
-- Last modified: 2026-04-29T10:35:44-06:00
+- Last modified: 2026-05-19T15:51:36-06:00
 
 St Vrain Virtual Solicitations
 Vendors are encouraged to register and become familiar with the Rocky Mountain E-Purchasing System at
@@ -13465,7 +13424,7 @@ Bid Name
 Bid Number
 Open Date
 Close Date
-OPEN:
+CLOSED:
 Locally Grown or Produced Food Product Provider(s)
 KM-2026-049
 April 13, 2026
@@ -14571,6 +14530,59 @@ Emphasizes parental involvement
 Supports extended day and extended year intervention and enrichment opportunities
 
 Source: https://www.svvsd.org/departments/priority-programs/title-i/
+
+### Professional Development
+
+- Canonical URL: https://www.svvsd.org/departments/professional-development/
+- Last modified: 2026-04-27T13:28:53-06:00
+
+Office of Professional Development
+The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
+If you are working toward a salary advancement, please refer to the
+LATERAL MOVE GUIDELINES
+on the Human Resources Webpage.
+If you are considering taking a class that is not related to an advanced degree, please use
+THIS FORM
+to submit that information to the Office of Professional Development for
+prior approval
+.
+If you have a certificate that you would like have added to your SVVS transcript, please upload it to
+THIS FORM
+and it will be reviewed for possible credit.
+If you need to make a payment for a professional development course/certificate
+CLICK HERE
+.
+Learn more
+Upcoming Events & Opportunities
+New Teacher Orientation 2026
+will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
+August 10, 2026 at Longmont High School
+.5 Salary Credit — 7.5 ELPD Hours — No cost!
+Click Here for More Information
+The Blueprint for Belonging: Building Classrooms Where Every Identity Drives Excellence
+Choose from over 20 breakout sessions to advance your instruction, build classroom community, and grow as a connected educator.
+Sessions will expand your skills in advancing literacy, thinking, speaking, reading, and writing across all content areas and grade levels!
+REGISTER TODAY
+Exploration AI Conversations Beyond the Algorithm
+Go
+Beyond the Algorithm
+–
+New AI PD in Bitesize Format!
+Hi SVVSD!
+We’re excited to share one of our newest AI Professional Development offerings:
+Exploration AI Conversations Beyond the Algorithm
+.
+Beyond the Algorithm
+is a low-stakes, bite-sized way to grow your practice with AI. Each episode comes with a downloadable PDF to guide your reflection and application. Just listen and explore. That’s it.
+Whether you’re dipping your toes into AI or helping students lead the way, this is for you.
+Let’s keep going
+beyond the algorithm
+—together.
+REGISTER HERE
+Join the Conversation
+Follow us on Twitter
+
+Source: https://www.svvsd.org/departments/professional-development/
 
 ### About Us
 
