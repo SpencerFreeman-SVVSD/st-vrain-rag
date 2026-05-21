@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-20T05:18:44.347606-06:00
+generated_at: 2026-05-21T05:35:06.253931-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -19,6 +19,7 @@ At Erie Elementary, band has become more than just learning notes and rhythms. I
 For Aaron Farnsworth, a fourth grade saxophone player, music has always been part of his life. Growing up surrounded by family members who play instruments, such as the flute and clarinet, inspired his interest in music. However it was seeing a character play the saxophone in the Super Mario Brothers video game that convinced him to give the instrument a try. “If another student asked me about band, I would tell them they should do it and it’s really cool,” he shared.
 Fifth grade clarinet player Nora Mauck also found band to be a meaningful way to connect with others while further exploring her love of music. With previous experience playing the ukulele, she decided to join band and quickly discovered how much she enjoyed being part of the group. “Band is really fun, and you get to know a lot of people before middle school,” Nora shared. “My brother was in band and that’s where he met his best friend, and they’re still friends.”
 As the school year comes to a close, the excitement filling the music room reflects more than just preparation for a performance. For Erie Elementary students, band has become a place to discover new talents, gain confidence, and create lasting friendships through music.
+View Full Photo Album
 
 Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-20T05:18:44.347606-06:00
+generated_at: 2026-05-21T05:35:06.253931-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -10195,7 +10195,7 @@ St. Vrain Valley Schools is committed to maintaining a competitive and affordabl
 2026 benefits enrollment guide
 Benefits App:
 A quick reference for benefits phone numbers, websites, links to find your ID cards, and links to find a provider.
-benefits app
+open benefits app
 View more information about:
 Medical
 Dental
@@ -10221,15 +10221,20 @@ Newborns and Mothers Health Protection Act (NMHPA) Notice
 Notice of Health Insurance Marketplace Coverage Options
 Medicare Part D Creditable Coverage Notice
 Your Rights and Protections from Surprise Medical Bills
-health plan notices
-Health Plan Coverage Summaries
+read health plan notices
+Health Plan Coverage Documents
 The plan documents provide detailed information about the coverages and limitations of your benefit plans. It is important to review them to understand what your plan
 will and will not cover
 and what you can expect to pay for covered services.
-Kaiser Permanente DHMO Summary of Benefits and Coverage
+Kaiser DHMO Summary of Benefits and Coverage
+Kaiser DHMO Evidence of Coverage
+(Full Coverage Details)
 Kaiser Prescription Drug Listing
 UMR Direct Care Summary of Benefits and Coverage
 UMR Choice Plus HRA Summary of Benefits and Coverage
+HRA Plan Document
+UMR Summary Plan Description
+(Full Coverage Details)
 CVS Prescription Drug Listing (UMR Plans)
 Delta Dental Plan Summary
 VSP Vision Plan Summary
@@ -10713,6 +10718,47 @@ Register Here for Mindful Monday Classes
 Register Here for Well-Being Wednesdays
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
+
+### Wellness Resources
+
+- Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
+- Last modified: 2026-05-12T10:01:59-06:00
+
+This Month
+May Wellbeing Flyer:
+The Importance of Mental Health
+May Well Newsletter:
+Maintaining Your Mental Health
+Guidance Resource Flyer –
+Mental Health Awareness Month: Focus on Adolescents
+Ongoing Resources
+Active&Fit
+Make your move with Active&Fit Direct
+Wherever you are on your health journey, the Active&Fit Direct program is here to help. Active&Fit offers discount rates at local gyms, free on-demand videos, 1:1 well-being coaching, and spouse enrollment. Choose from a network of over 12,800 gyms and exercise studios.
+NEW! All enrolled Active&Fit Direct members have access to the Active&Fit Direct Marketplace, the new go-to destination for big discounts on top-tier health & fitness brands.
+Learn more about the Active&Fit program here
+Pay $0 on enrollment fees now through May 31st!
+Access the SVVSD Active & Fit program in
+Infinite Visions under Resources
+Nurse Health Coaching
+Our certified coaches will meet you where you are on your health journey and empower you to be the best version of yourself. Free to all benefit eligible employees, coaching is available whenever you want to schedule it and at whatever location is best to meet. Learn more on our
+Nurse Health Coaching
+page.
+Employee Assistance Program
+Life events can affect the lives of team members both at home and at work. That is why St. Vrain Valley Schools offers a district-paid Employee Assistance Program (EAP) through ComPsych. All services are provided at no-cost to you and your eligible family members and all services are strictly confidential. Learn more on our
+Employee Assistance Program
+page.
+Financial Education
+Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
+ENT Credit Union Events
+Headspace
+Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you
+Create Your Headspace Account
+Maternity Program
+Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
+Click here for program information.
+
+Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
 
 ### Current Employees
 
@@ -11685,31 +11731,6 @@ keith_heather@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/risk-management/forms/
 
-### Overnight Trip Request
-
-- Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
-- Last modified: 2026-05-08T11:13:08-06:00
-
-To access the Overnight/Out of State Trip request, please go to
-studenttrips.svvsd.org
-.
-Commonly Used Forms
-Procedure for Requesting Student Trips
-Acknowledgment of Risk and Hold Harmless Agreement
-Acknowledgement of Risk and Hold Harmless Agreement (Spanish)
-Trip Sponsor Checklist
-Code of Conduct
-Trip Chaperone Ratio Requirements
-Volunteer Chaperone Agreement
-Volunteer Background Check Form
-List of High Risk Activities
-Medication Permission Form
-Medication Permission Form (Spanish)
-Health Insurance Requirement Opt Out Form
-Non-Sponsored Trip Form
-
-Source: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
-
 ### Worker’s Compensation
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/workers-compensation/
@@ -12155,6 +12176,7 @@ Erie Middle
 Fall River Elementary
 Frederick High
 Grand View Elementary
+Highlands Elementary
 Hygiene Elementary
 Indian Peaks Elementary
 Legacy Elementary
@@ -18845,6 +18867,9 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 - Last modified: 2026-04-15T07:10:41-06:00
 
 DTS Newsletter Archives
+2025-2026 School Year
+May 2026
+– Email Retention Policy Reminder, Critical Tech Dates for Spring and Summer 2026, Salesforce Project Update, Completing the Wireless Refresh, Strengthening Email Security with Darktrace
 April 2026
 – Big Sky PK-8 Opens Fall 2026, How to Check, Block, or Unblock Websites, Important Grade Passback Update, Infinite Campus Messenger 2.0 Reminder, Join the 2026 ITAC
 February 2026
@@ -18857,6 +18882,7 @@ October 2025
 – DTS Supporting Bond Construction, AI Summit with Catlin Tucker, Caught in the Web? Check It First, Exploration AI: Conversations Beyond the Algorithm, MyVideoSpot YouTube Update
 September 2025
 – From the CTO, Overnight Student Field Trips: New Online Request Portal, Insurance Window Closes Soon
+2024-2025 School Year
 May 2025
 – Accessibility in St. Vrain Valley Schools, Google Chrome Extension Review, Infinite Campus New Look Coming July 1st, Introducing Platform SSO, iPhone MS Exchange Account Issue
 March 2025
@@ -18871,6 +18897,7 @@ September 2024
 – MFA, Exploration AI, DTS Apprentices
 August 2024
 – iPad Distribution, Blended Boost Camp, Windows 11
+2023-2024 School Year
 May 2024
 – Staff Password Management Portal and MFA Changes, ClassLink LaunchPad Refresh, New Substitute Management System Coming Soon, Moving to a New Building?
 April 2024
@@ -18887,6 +18914,7 @@ September 2023
 – Phishing Tip, Nearpod, AI, and Featured Knowledge
 August 2023
 – Google Storage Limits, Pretexting, Support in Spanish
+2022-2023 School Year
 May 2023
 – From the CTO, Schoology Archive Delete
 April 2023
@@ -18905,6 +18933,7 @@ September 2022
 – Duo, IC Messenger
 August 2022
 – Google Storage Limits, Mac Automatic Restarts, IC Messenger 2.0
+2021-2022 School Year
 June 2022
 – Duo Opt In, Long Distance Codes,
 May 2022
@@ -18927,10 +18956,12 @@ September 2021
 – Staff Password Change, Anatomy of a ClassLink Button, CyberSmart Award
 August 2021
 – ClassLink, AirServer, Start of School Prep
+2020-2021 School Year
 May 2021
 – iPad Refresh, Ceran Graduating, At Home Filtering
 April 2021
 – Staff Password Changes, Infinite Campus Enhancements, and School Messenger
+2019-2020 School Year
 November 2019
 -YouTube Access, Infinite Campus Tips
 October 2019
@@ -18938,6 +18969,7 @@ October 2019
 August 2019
 – SPEAR Upgrade, Websites Tech Menu
 July 2019
+2018-2019 School Year
 May 2019
 – Schoology, WordPress, Summer Plans, and lots more.
 April 2019
@@ -18956,6 +18988,7 @@ August 2018
 – Busy Summer, Printing to New Copiers, Digital Curriculum
 July 2018
 – Self Service & Scheduled Maintenance
+2017-2018 School Year
 May 2018
 – Traveling Outside the US, Teacher iPad Refresh, Exiting St. Vrain, and a Couple Reminders
 March 2018
@@ -18972,6 +19005,7 @@ September 2017
 – Automatic Computer Updates, myON News, Phishing Awareness
 August 2017
 – New Wireless Network, Password Changes Coming, Automatic Updates
+2016-2017 School Year
 June 2017
 May 2017
 April 2017
