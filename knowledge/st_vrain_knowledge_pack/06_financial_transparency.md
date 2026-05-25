@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-22T05:14:25.626504-06:00
+generated_at: 2026-05-25T05:58:51.621153-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-22T05:14:25.626504-06:00
+generated_at: 2026-05-25T05:58:51.621153-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -5789,15 +5789,15 @@ June 1st – June 19th from 9am – 12pm
 Mandatory IN PERSON class Monday – Thursday with Fridays virtual
 Locations and Courses Offered:
 Erie High School
-– English
-(FULL
-), Social Studies(
+– English, Social Studies, Math, Health, & PFL (
+All Seats
 FULL
-), Math, Health, & PFL
+)
 Frederick High School
-– English, Social Studies, Science, Math (
+– English, Social Studies, Science, Math , Health, & PFL (
+All Seats
 FULL
-), Health, & PFL
+)
 Longmont High School
 – English, Social Studies, Health, & PFL
 Mead High School
@@ -5805,7 +5805,10 @@ Mead High School
 Niwot High School
 – English, Social Studies, Science, Health, & PFL
 Silver Creek High School
-– English, Social Studies, Math, Health, & PFL
+– English, Social Studies, Math, Health, & PFL (
+All Seats
+FULL
+)
 Skyline High School
 – Not offering courses at this location for the Summer Session
 SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2026 Student Waitlist.
@@ -10188,7 +10191,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-05-18T13:50:39-06:00
+- Last modified: 2026-05-20T15:43:19-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -10539,7 +10542,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/payinsurance-
 ### Vision
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/vision/
-- Last modified: 2025-12-11T09:40:55-07:00
+- Last modified: 2026-05-20T15:44:55-06:00
 
 St. Vrain Valley Schools offers a voluntary vision plan through VSP, providing valuable benefits for routine eye exams, prescription glasses, and contact lenses. There are different options for In-network care and out-of-network care.
 In-Network Care
@@ -12178,7 +12181,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/energy-sustaina
 ### eGauge
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/energy-sustainability/egauge/
-- Last modified: 2024-05-13T11:28:38-06:00
+- Last modified: 2026-05-20T08:21:14-06:00
 
 eGauge
 Real-time electricity monitors
@@ -13454,7 +13457,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/nondi
 ### Nutrition Services Open Solicitations
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/nutrition-services-open-solicitations/
-- Last modified: 2026-04-29T10:35:44-06:00
+- Last modified: 2026-05-19T15:51:36-06:00
 
 St Vrain Virtual Solicitations
 Vendors are encouraged to register and become familiar with the Rocky Mountain E-Purchasing System at
@@ -15488,7 +15491,7 @@ Source: https://www.svvsd.org/departments/professional-development/professional-
 ### Professional Development Models
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/professional-development-models/
-- Last modified: 2025-06-13T15:46:46-06:00
+- Last modified: 2026-05-21T08:34:37-06:00
 
 Professional Development Models
 In response to the call for differentiated learning opportunities for all district employees and growing focus on accountability for professional development results, St. Vrain Valley School District has developed a variety of Results-Based Professional Development Models. These models have been designed to assist employees in developing formal study and training to increase their ability to accomplish the district strategic plan and the specific goals of the Board of Education. These models have been supported and promoted by Learning Forward as representative of the types of job embedded professional development that is likely to support sustained school improvement.
@@ -18889,7 +18892,7 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 ### Newsletter Archives
 
 - Canonical URL: https://www.svvsd.org/departments/technology/newsletter-archives/
-- Last modified: 2026-04-15T07:10:41-06:00
+- Last modified: 2026-05-20T12:40:18-06:00
 
 DTS Newsletter Archives
 2025-2026 School Year
