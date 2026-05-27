@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-25T05:58:51.621153-06:00
+generated_at: 2026-05-27T05:48:12.754510-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -871,7 +871,6 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 - Last modified: 2025-11-19T18:47:10-07:00
 
 Inclement Weather
-fad fa-snowflakes
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
 Anytime our community experiences inclement weather, our operations and leadership teams are driving roads throughout the evening and early morning, and in communication with various city and town officials, closely monitoring weather conditions. Based on road conditions and weather forecasts, we will make one of three decisions:
 To keep a normal in-person school schedule
@@ -1033,7 +1032,7 @@ Synchronous Learning
 Period 3
 9:45-10:05
 (Webex)
-Sy...
+Synchronous Learning...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 
@@ -2030,7 +2029,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-04-22T10:46:54-06:00
+- Last modified: 2026-05-21T14:02:46-06:00
 
 Counselor eCredit Support
 View Timeline
@@ -6996,7 +6995,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-05-12T14:31:23-06:00
+- Last modified: 2026-05-24T09:32:47-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -11779,7 +11778,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-05-11T14:23:48-06:00
+- Last modified: 2026-05-26T10:49:29-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -11833,25 +11832,25 @@ Longs Peak Middle School – Karin Blough
 Lyons Elementary – Kim Doering
 Lyons Middle/ Senior High School – Nina DeFrange
 Main Street School – Mary Soroka
-Mead Elementary – Lindsay Bryce & Kylea Winka
+Mead Elementary – Kylea Winka
 Mead High School – Kasey Choksey
 Mead Middle School – Kim Styles
 Mountain View Elementary – Patty Romero
 Niwot Elementary – Erin White
 Niwot High School – Michelle Baker
 Northridge Elementary – Kristi Campbell
-Operations and Maintenance (ESC) – Helen Pronk
+Operations and Maintenance (ESC) – Christina Haid & Helen Pronk
 Prairie Ridge Elementary – Vicky Arriaga
 Red Hawk Elementary – Anna Lopez
 Rocky Mountain Elementary – Andrea Almanza & Christina Wilson
-Sanborn Elementary – Shawn Gregg
+Sanborn Elementary – Anne Capener
 Silver Creek High School – Ryley Allen
 Skyline High School – Adriana Solc
 Soaring Heights K-8 – Tanya Peal
 SPARK! Discovery Preschool – Paige Gordon
 SPED (Student Services Center) – Kelsey Hargash
 Student Services Center – Donna Armentrout & Joni Creighton
-Sunset Middle School – Gina Pedrett
+Sunset Middle School – Kim Campbell
 Thunder Valley K-8 – Denise LaSalle
 Timberline K-8 – Josh Lemon
 Trail Ridge Middle School – Rebeca Melara
@@ -11917,7 +11916,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-18T13:14:44-06:00
+- Last modified: 2026-05-21T12:39:59-06:00
 
 Summer 2026
 Mindful Mondays and Well-being Wednesdays
@@ -16072,7 +16071,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-04-02T14:38:19-06:00
+- Last modified: 2026-05-26T11:55:16-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -16095,7 +16094,7 @@ The approved St. Vrain Pathway classes have been updated. Here are the
 CURRENT
 classes you can take to meet these requirements (Classes with a link are currently open for registration).
 Elevating Instruction for Multilingual Learners Book Study
-(up to 52.5 hours): Empower your instruction and maximize student achievement with this self-paced book study focused on creating accessible learning opportunities for all students in SVVSD. Choose the resource that best addresses your students’ needs, deepen your pedagogical expertise, and earn professional development credit.
+(up to 60 hours): Empower your instruction and maximize student achievement with this self-paced book study focused on creating accessible learning opportunities for all students in SVVSD. Choose the resource that best addresses your students’ needs, deepen your pedagogical expertise, and earn professional development credit.
 Teach to REACH Conference
 (7.5 hours): Join St. Vrain educators at a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas. This is a late-summer conference.
 WIDA Professional Learning
