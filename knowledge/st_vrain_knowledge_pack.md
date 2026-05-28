@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-27T05:48:12.754510-06:00
+generated_at: 2026-05-28T05:48:40.357099-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -551,6 +551,18 @@ Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools C
 
 Source: https://www.svvsd.org/2026/05/22/2026-nmhs-graduation-photos/
 
+### St. Vrain Valley high schools celebrate successes of 2026 graduates
+
+- Published: 2026-05-22T12:29:52-06:00
+- Source URL: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
+
+About 2,400 receive diplomas
+Longmont High School graduating senior Adalee Mathias kept track of each step of her high school experience.
+“It took 1,375 days, and hopefully a few less tardies, to get to this field with these caps and gowns on and so many amazing memories,” Mathias told her fellow graduates.
+Read the full story in the Times-Call
+
+Source: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
+
 ### Superintendent’s Update: Congratulations Class of 2026
 
 - Published: 2026-05-22T12:24:27-06:00
@@ -598,20 +610,6 @@ As the school year comes to a close, the excitement filling the music room refle
 View Full Photo Album
 
 Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
-
-### Longmont Estates Elementary Kitchen Manager Recognized with School Nutrition Award
-
-- Published: 2026-05-19T13:12:04-06:00
-- Source URL: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
-
-Lance Thorne, kitchen manager at Longmont Estates Elementary School, has been named the 2026 Colorado School Nutrition Association Manager of the Year.
-Lance Thorne, Kitchen Manager at Longmont Estates Elementary School.
-Presented by the Colorado School Nutrition Association, the award recognizes outstanding school nutrition professionals across the state for their leadership, dedication, and commitment to supporting students through healthy, high-quality meals.
-Thorne was selected for his leadership and the positive culture he has built within the school cafeteria environment. Through creativity, strong relationships with students and staff, and a commitment to inclusivity, he has helped create a welcoming space where students feel valued and excited to participate each day.
-In addition to his work supporting students, Thorne is recognized for mentoring team members and encouraging professional growth among colleagues. His leadership has strengthened collaboration within his school community and across the broader school nutrition profession.
-Thorne will be recognized during the Colorado School Nutrition Association Summer Conference in June.
-
-Source: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
 
 ### District alerts
 
@@ -1573,7 +1571,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Advanced Placement
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/apinsvvsd/
-- Last modified: 2025-08-11T09:11:25-06:00
+- Last modified: 2026-05-27T10:31:37-06:00
 
 AP Students
 Get your AP course off to a great start by following this
@@ -1590,6 +1588,7 @@ Spanish
 AP exams will be administered May 4 – 15 according to this
 schedule
 set by College Board. Some students may be required to take their exam at a St. Vrain Valley Schools location other than their primary high school. Students will receive testing location information in late March. Contact your school’s AP Coordinator with any questions.
+AP exam scores will be released by College Board in early July through students’ College Board accounts.
 AP Parents
 Understand AP and how to support your student in this College Board
 article
@@ -1753,7 +1752,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### SAT
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/sat/
-- Last modified: 2025-08-11T09:29:47-06:00
+- Last modified: 2026-05-27T10:34:03-06:00
 
 SAT Suite of Assessments
 All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
@@ -1761,7 +1760,7 @@ College Board
 and the
 Colorado Department of Education
 .
-All St. Vrain 11th-grade students will take the National Merit Scholarship Qualifying Test (NMSQT) for free at their high school on October 8. All 9th and 10th-grade students will also take a practice PSAT test at their high school on October 8.
+SAT, PSAT 10, and PSAT 9 test scores are now available through students’ College Board accounts.
 Please contact your student’s school for more information on these assessment events.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/sat/
@@ -11069,18 +11068,6 @@ murphy_shelly@svvsd.org
 
 Source: https://www.svvsd.org/departments/financial-services/financial-services-team/
 
-### Letter of Intent to Apply for Grant
-
-- Canonical URL: https://www.svvsd.org/departments/financial-services/letter-of-intent-to-apply-for-grant/
-- Last modified: 2020-12-16T12:46:45-07:00
-
-Letter of Intent to Apply for a Grant
-St. Vrain Valley Schools deeply appreciates the support of many corporate, non-profit, and government partners.
-Staff in St. Vrain wishing to apply for a grant must complete this letter of intent form for all grants greater than $10,000. Instructions for completing and submitting the form are located within the document. Grants greater than $10,000 are led by the grants office. Contact Hilary Sontag, Director of Competitive Grants & Strategic Partnerships for support in developing your grant proposal.
-download letter of intent
-
-Source: https://www.svvsd.org/departments/financial-services/letter-of-intent-to-apply-for-grant/
-
 ### Online Payments
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/online-payments/
@@ -15634,7 +15621,7 @@ Source: https://www.svvsd.org/departments/priority-programs/homeless-education/
 ### Project Launch Summer Learning
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/project-launch-summer-literacy/
-- Last modified: 2025-12-15T12:23:02-07:00
+- Last modified: 2026-05-27T10:54:04-06:00
 
 Project Launch Elementary School
 Through Project Launch, elementary students can strengthen their reading and math skills over the summer in a fun, friendly camp-like environment. They will receive small classroom instruction from high-quality St. Vrain teachers, allowing them to get extra support for a great start on the upcoming school year.
@@ -15643,7 +15630,7 @@ Exiting K – 4th graders are eligible
 Monday – Thursday, June 1-25, 2026
 Full day program: 8:30 a.m. – 3:30 p.m. *May vary at some schools.
 Transportation provided
-Breakfast and sack lunch provided (please pack a snack for your child)
+Sack lunch provided (please pack a snack for your child)
 Students enrolled in a St. Vrain Valley neighborhood school are eligible to participate in this program at no cost to families.
 Program Site Locations for Summer 2026
 Alpine Elementary
@@ -15669,7 +15656,7 @@ Program Features
 Dates: June 1-25, 2026
 Time: 6 hour day. Schedule varies per school site.
 Transportation provided for students eligible for busing
-Breakfast and sack lunch provided
+Sack lunch provided
 Students enrolled in a St. Vrain Valley neighborhood school are eligible to participate in this program at no cost to families.
 To register, please contact your student’s middle school.
 Project Launch Accelerated 6th Grade Math
@@ -15679,7 +15666,7 @@ Program Features:
 June 1-25, 2026 Monday – Thursday
 Six hour days
 Transportation provided for students eligible for busing
-Breakfast and lunch provided
+Sack lunch provided
 Students enrolled in a St. Vrain Valley neighborhood school are eligible to participate in this program at no cost to families.
 Dates and times may vary by middle school site. For more information or to register, please contact your middle school.
 
@@ -22310,9 +22297,9 @@ Board of Education Regular Meeting
 June 10, 2026
 Board of Education Member Events for June
 June 1, 2026
-Board of Education Regular Meeting
-May 27, 2026
 Board of Education Study Session
+May 27, 2026
+Board of Education Regular Meeting
 May 27, 2026
 Board of Education Study Session
 May 20, 2026
@@ -22666,15 +22653,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-june-9/
 
-### Board of Education Regular Meeting
-
-- Meeting date: May 27, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-171/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-171/
-
 ### Board of Education Study Session
 
 - Meeting date: May 27, 2026
@@ -22683,6 +22661,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-114/
+
+### Board of Education Regular Meeting
+
+- Meeting date: May 27, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-171/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-171/
 
 ### Board of Education Study Session
 
@@ -24391,7 +24378,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 371
+- Department and program pages: 370
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80

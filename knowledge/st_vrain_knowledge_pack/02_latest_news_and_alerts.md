@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-27T05:48:12.754510-06:00
+generated_at: 2026-05-28T05:48:40.357099-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -68,6 +68,18 @@ Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools C
 
 Source: https://www.svvsd.org/2026/05/22/2026-nmhs-graduation-photos/
 
+### St. Vrain Valley high schools celebrate successes of 2026 graduates
+
+- Published: 2026-05-22T12:29:52-06:00
+- Source URL: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
+
+About 2,400 receive diplomas
+Longmont High School graduating senior Adalee Mathias kept track of each step of her high school experience.
+“It took 1,375 days, and hopefully a few less tardies, to get to this field with these caps and gowns on and so many amazing memories,” Mathias told her fellow graduates.
+Read the full story in the Times-Call
+
+Source: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
+
 ### Superintendent’s Update: Congratulations Class of 2026
 
 - Published: 2026-05-22T12:24:27-06:00
@@ -115,20 +127,6 @@ As the school year comes to a close, the excitement filling the music room refle
 View Full Photo Album
 
 Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
-
-### Longmont Estates Elementary Kitchen Manager Recognized with School Nutrition Award
-
-- Published: 2026-05-19T13:12:04-06:00
-- Source URL: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
-
-Lance Thorne, kitchen manager at Longmont Estates Elementary School, has been named the 2026 Colorado School Nutrition Association Manager of the Year.
-Lance Thorne, Kitchen Manager at Longmont Estates Elementary School.
-Presented by the Colorado School Nutrition Association, the award recognizes outstanding school nutrition professionals across the state for their leadership, dedication, and commitment to supporting students through healthy, high-quality meals.
-Thorne was selected for his leadership and the positive culture he has built within the school cafeteria environment. Through creativity, strong relationships with students and staff, and a commitment to inclusivity, he has helped create a welcoming space where students feel valued and excited to participate each day.
-In addition to his work supporting students, Thorne is recognized for mentoring team members and encouraging professional growth among colleagues. His leadership has strengthened collaboration within his school community and across the broader school nutrition profession.
-Thorne will be recognized during the Colorado School Nutrition Association Summer Conference in June.
-
-Source: https://www.svvsd.org/2026/05/19/longmont-estates-elementary-kitchen-manager-recognized-with-school-nutrition-award/
 
 ### District alerts
 
