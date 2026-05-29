@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-28T05:48:40.357099-06:00
+generated_at: 2026-05-29T05:38:36.768015-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -137,9 +137,9 @@ General Fund
 The St. Vrain Valley School District’s annual General Fund operating budget is used to teach students, to purchase textbooks and other classroom supplies, for student transportation, and to maintain school buildings and grounds. It funds special education programs, school-based focus programs, charter schools and programs for students for whom English is a second language. It is used to pay salaries for teachers and other staff, provide health and retirement benefits, and support additional ongoing professional training.
 ST. VRAIN VALLEY SCHOOL DISTRICT RE-1J
 PROPOSED BUDGET SUMMARY BY FUND
-FISCAL YEAR ENDING JUNE 30, 2026
+FISCAL YEAR ENDING JUNE 30, 2027
 Other Funds
-In addition to the FY26 General Fund expenditure budget of $525.2 million, the District manages 10 other funds. Separate from the General Fund, expenditure budgets for all other funds total approximately $477.5 million. A summary and description of these funds are listed below.
+In addition to the FY27 General Fund expenditure budget of $525.4 million, the District manages 10 other funds. Separate from the General Fund, expenditure budgets for all other funds total approximately $449.1 million. A summary and description of these funds are listed below.
 The Risk Management and Capital Reserve Funds contain a per-student allocation transferred from total state funding to purchase land, construct or improve facilities, and to provide liability insurance coverage.
 The Nutrition Services Fund provides resources for student meals. St. Vrain Valley schools serves tens of thousands of lunches each day in addition to providing a breakfast program, summer lunch program, and snack program. This fund receives income from cash sales and from the Federal School Lunch and Breakfast Program.
 The Grants Fund is funded primarily from federal sources that have been awarded to the District for specific programs such as Title I (additional support for students in poverty), hearing impaired, special education, English as a Second Language, and other special projects and grants.
@@ -152,6 +152,8 @@ The Self Insurance Fund is used to account for the District’s self-funded medi
 The Colorado Preschool Fund was used to track state-funded CPP program funds for qualifying preschool students. With the implementation of Universal Preschool (UPK) in Colorado starting in the 2023-2024 school year the CPP Fund will not be utilized starting with the 2024-2025 fiscal year. UPK revenues are categorized as state funded revenue within the General Fund. The fund remains in the budget document for historical purposes only.
 Budget Report Archive
 A listing of adopted budgets and subsequent amended budgets are made available to the public.
+2027
+Proposed budget for the fiscal year ending June 30, 2027
 2026
 Adopted budget for the fiscal year ending June 30, 2026
 Amended budget for the fiscal year ending June 30, 2026
@@ -313,6 +315,7 @@ The Financial Services Department publishes monthly financial reports that list 
 January
 February
 March
+April
 2025
 January
 February

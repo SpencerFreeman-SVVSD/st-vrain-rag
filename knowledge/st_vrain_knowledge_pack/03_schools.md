@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-28T05:48:40.357099-06:00
+generated_at: 2026-05-29T05:38:36.768015-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -37,16 +37,11 @@ Source: https://www.svvsd.org/schools/enrollment/
 - Last modified: 2025-12-01T05:30:01-07:00
 
 Please select the school year and charter school that you wish to register with.
-Aspen Ridge Preparatory 2025-2026
 Aspen Ridge Preparatory 2026-2027
-Carbon Valley Charter 2025-2026
 Carbon Valley Charter 2026-2027
-Firestone Charter Academy 2025-2026
 Firestone Charter Academy 2026-2027
-Flagstaff Academy 2025-2026
 Flagstaff Academy 2026-2027
 St. Vrain Community Montessori Enrollment
-Twin Peaks Classical Academy 2025-2026
 Twin Peaks Classical Academy 2026-2027
 
 Source: https://www.svvsd.org/schools/enrollment/charter-school-registration/
@@ -135,7 +130,6 @@ You are registering at your Neighborhood School
 You are registering at a Charter School
 You have been approved on Open Enrollment
 Your student is 5 on or before Oct. 1 and you are registering for Kindergarten
-2025-2026 School Year K-12 Registration
 2026-2027 School Year K-12 Registration
 Charter School Registration
 **Please apply for open enrollment if you wish for your student to attend a school other than your neighborhood school for grades K – 12.
