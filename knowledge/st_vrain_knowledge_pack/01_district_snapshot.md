@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-29T05:38:36.768015-06:00
+generated_at: 2026-05-30T04:13:49.288672-06:00
 coverage_window_days: 90
 section_title: District snapshot
 ---
@@ -419,28 +419,28 @@ Leadership St. Vrain
 Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active participants in St. Vrain Valley Schools.
 Depending on the size of the applicant pool, all applicants may not be accepted into this year’s program. However, every effort will be made to ensure that every parent is provided an opportunity to become engaged in their school or district in some way.
 If you want to learn more about our school district, meet a wide variety of district officials, share information with your school community and get to know engaged parents from schools across the district, we hope you consider applying for Leadership St. Vrain. It’s a serious commitment of time, but we believe it’s an invaluable learning opportunity.
-2025-2026 Leadership St. Vrain Cohort Schedule
+2026-2027 Leadership St. Vrain Cohort Schedule
 All Leadership St. Vrain meetings will be held in-person at a different location each month. Meetings will run from 9:30 a.m.-11:30 a.m. on the dates and locations listed below:
-Friday, September 12: District Vision and Governance
-Location: Timberline PK-8
-Friday, October 17: Investing in Public Education and District Finances
-Location: Longmont High School
-Friday, November 14: Elevating the Teaching Profession
-Location: Frederick High School
-Friday, December 5: Instructional Framework and Advancing Learning through Technology
-Location: Silver Creek High School
-Friday, January 9: Legislative Priorities and Advocacy
-Location: Skyline High School
-Friday, February 6: The Success of All Students: Special Education & Student Services
+Friday, September 11: District Vision and Governance
+Location: Innovation Center
+Friday, October 9: Investing in Public Education, District Finances, and Enrollment
 Location: Erie High School
-Friday, March 6: Student Safety and Engagement
+Friday, November 13: Elevating the Teaching Profession
+Location: Skyline High School
+Friday, December 11: Instructional Framework and Learning Technology
+Location: Longmont High School
+Friday, January 8: Legislative Priorities and Advocacy
+Location: Frederick High School
+Friday, February 5: The Success of All Students: Special Education & Student Services
 Location: Mead High School
-Friday, April 10: Operational Excellence
+Friday, March 5: Student Safety and Engagement
+Location: Silver Creek High School
+Friday, April 9: Operational Excellence
 Location: Niwot High School
-Friday, May 8: The St. Vrain Advantage
-Location: Innovation Center of St. Vrain Valley Schools
+Friday, May 7: The St. Vrain Advantage: Career-Connected Learning
+Location: Career Elevation and Technology Center
 Leadership St. Vrain Application
-Please submit your application by Friday, September 5.
+Applications for the 2026-2027 cohort will open in August.
 Loading…
 
 Source: https://www.svvsd.org/about/district-committees/leadership-st-vrain/

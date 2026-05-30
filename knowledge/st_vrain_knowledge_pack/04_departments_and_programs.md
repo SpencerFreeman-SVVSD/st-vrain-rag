@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-29T05:38:36.768015-06:00
+generated_at: 2026-05-30T04:13:49.288672-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -354,7 +354,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Advanced Placement
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/apinsvvsd/
-- Last modified: 2025-08-11T09:11:25-06:00
+- Last modified: 2026-05-27T10:31:37-06:00
 
 AP Students
 Get your AP course off to a great start by following this
@@ -535,7 +535,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### SAT
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/sat/
-- Last modified: 2025-08-11T09:29:47-06:00
+- Last modified: 2026-05-27T10:34:03-06:00
 
 SAT Suite of Assessments
 All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
@@ -5781,7 +5781,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
-SUMMER 2026 eCredit Registration OPEN
+SUMMER 2026 eCredit Registration CLOSED
 LOCATION FULL? – CLICK HERE to be put on the Waitlist
 Registration:
 Wednesday, April 22nd – Tuesday, May 26th (at NOON or EARLIER IF AVAILABLE SEATS FILL)
@@ -5800,9 +5800,18 @@ All Seats
 FULL
 )
 Longmont High School
-– English, Social Studies, Health, & PFL
+– English, Social Studies, Health, & PFL (
+All Seats
+FULL
+)
 Mead High School
-– English, Social Studies, Science, Math, Health, & PFL
+– English (
+FULL
+), Social Studies (
+FULL
+), Math(
+FULL
+), Science, Health, & PFL
 Niwot High School
 – English, Social Studies, Science, Health, & PFL
 Silver Creek High School
@@ -9850,176 +9859,6 @@ School Business Services Director
 murphy_shelly@svvsd.org
 
 Source: https://www.svvsd.org/departments/financial-services/financial-services-team/
-
-### St. Vrain Valley Schools
-
-- Canonical URL: https://www.svvsd.org/
-- Last modified: 2020-12-16T12:46:45-07:00
-
-We are the future of America.
-We are providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world.
-Learn More
-Join our Team
-Focus Programs
-Enroll in St. Vrain
-Online Payments
-Infinite Campus
-Safe2Tell
-Nutrition & Menus
-Job Openings
-Advancing Academic Excellence
-24.5
-credits required for graduation – among the most rigorous requirements in the state.
-331
-industry certifications earned by students in the 2021-2022 school year.
-$53
-million dollars received in competitive grant awards since January 2018.
-120+
-district-level partnerships and 435+ direct to school partnerships.
-More Achievements
-Families
-Students
-Staff
-Community
-Quick Links
-Enrollment
-Infinite Campus
-Payments
-Schoology
-Academics
-St. Vrain provides a rigorous academic foundation designed to prepare students for career and postsecondary readiness, including over 70 instructional focus programs.
-Find a Focus Program
-Safety & Well-Being
-Students safety and well-being is paramount, with over $45 million invested in safety upgrades over the past decade, as well as significant investments in mental health resources.
-Learn more
-Get Involved
-St. Vrain has many opportunities for parents and caregivers to be involved in their student’s education, including our nationally recognized program, Leadership St. Vrain.
-Learn more
-Community Schools
-St. Vrain supports working families by providing high-quality before- and after-school childcare programming that is available in all elementary school communities.
-Learn more
-Enrollment
-St. Vrain Valley Schools promotes open enrollment so that families can select the school and program that best meets their students interests and needs.
-Learn more
-Get Social
-St. Vrain promotes communication and safe interaction on social media to promote parent, student, and community engagement with our schools and programs.
-Follow us
-Quick Links
-Schoology
-Classlink
-Lunch Menus
-Concurrent Enrollment
-Students in St. Vrain have many opportunities to earn college credit while in high school through concurrent enrollment in courses with partner colleges and universities.
-Learn more
-Athletics & Activities
-St. Vrain offers a robust portfolio of athletics, arts, and other activities to engage students beyond the school day.
-Learn More
-Advanced Placement
-The AP® Program is continuously introducing new resources and processes designed to help students earn college credit and placement.
-Learn more
-Graduation
-St. Vrain has some of the most rigorous graduation requirements in Colorado, designed to best prepare students for postsecondary success.
-Learn More
-Innovation Center
-Student learning at the Innovation Center transcends the traditional classroom and provides experiential opportunities that are developing today’s students into tomorrow’s leaders, innovators, and changemakers.
-Visit the Innovation Center
-Career Elevation & Technology Center
-The CETC offers classes that provide real-world, hands-on experiences in pathways that are high-wage, high-growth, high-demand, and with a post-secondary trajectory.
-Visit the CETC
-Quick Links
-Staff Portal
-Infinite Visions
-Help Desk
-Curricular Resources
-Our content leadership teams designed a set of 21st century curricular resources to supply our students with a guaranteed and viable curriculum aligned with the new Colorado Academic Standards.
-Learn more
-Benefits
-St. Vrain values the health and well-being of its employees and seeks to establish and maintain a culture of health and wellness.
-Learn more
-Open Positions
-We hope you will consider a career with St. Vrain Valley Schools and join our highly effective and supportive team of professionals who are having a significant impact in the lives of many students and families.
-Search and Apply
-Professional Development
-There are many professional development opportunities available to build the capacity of all district employees through staff development that improves the learning of all the children we serve.
-Register for Courses
-Human Resources
-We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students.
-Learn more
-Wellness
-In an effort to improve the health of all SVVSD employees and promote a healthier and happier workforce, the district has established an active Worksite Wellness Program.
-Learn more
-Quick Links
-Financial Transparency
-Records Request
-Senior Volunteers
-There are many ways for the community to get involved with our students and schools, including earning credit toward their property taxes by volunteering with the district.
-Learn more
-Promotional Flyers
-Businesses and organizations seeking to distribute an electronic flyer to benefit the students and parents of the St. Vrain Valley Schools may do so by following the guidelines below.
-Learn more
-Facility Use
-Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. We support and encourage community use with priority given to youth activities.
-Learn more
-Educator Highlight
-Madelynn Baird, Candice Blake, Jessica Evans and Angie Helzer
-Second Grade Team, Thunder Valley K-8
-“The second grade team consistently demonstrates excellence in teaching and collaboration. Each classroom is filled with engaging instruction and challenges students to think critically, take risks, and grow every day.”
-Watch the Video
-Join our team today
-Join a team of over 5,000 employees dedicated to helping students succeed.
-Apply Today
-Featured Stories
-Getting to Know Our New Superintendent
-Dr. Jackie Kapushion officially became St. Vrain Valley Schools’ new superintendent on July 1, 2025 after serving as Deputy Superintendent for the past eight years. We sat down with Dr. Kapushion to learn more about her journey, her passion for education, and her vision for our district’s future. Read the…
-St. Vrain Valley Schools
-Opportunities Abound
-One of the most frequent questions children get asked is, “What do you want to be when you grow up?” Their faces light up with wonder as they imagine a future without limitations. After a moment’s thought, they excitedly share answers ranging from impactful careers like a teacher, first responder,…
-St. Vrain Valley Schools
-The Sound of St. Vrain
-As the grand finale of St. Vrain’s districtwide Band Night begins, hundreds of high school musicians take to the stadium field after two hours of individual performances. Thousands of spectators cheer as the percussion, brass, and woodwind musicians from more than ten schools unite in a single soaring sound –…
-St. Vrain Valley Schools
-Upcoming Board Meetings
-Jun
-1
-Board of Education Member Events for June
-June 1, 2026 – –
-Jun
-10
-Board of Education Regular Meeting
-June 10, 2026 – 6:00 p.m.
-Jun
-17
-Board of Education Study Session
-June 17, 2026 – 6:00 p.m.
-Previous Board Meetings
-May
-27
-Board of Education Study Session
-May 27, 2026 – 5:15 p.m.
-May
-27
-Board of Education Regular Meeting
-May 27, 2026 – 6:00 p.m.
-May
-20
-Board of Education Study Session
-May 20, 2026 – 6:00 p.m.
-All Board Meetings
-District News
-St. Vrain Valley high schools celebrate successes of 2026 graduates
-About 2,400 receive diplomas Longmont High School graduating senior Adalee Mathias kept track of each step of her high school experience. “It took 1,375 days, and hopefully a few less tardies, to get to this field with these caps and gowns on and so many amazing memories,” Mathias told her…
-St. Vrain Valley Schools
-Soaring Heights PK-8 Students Bring Shoe Designs to Life with Crocs, Inc.
-Sixth grade students at Soaring Heights PK-8 recently combined creativity and business strategy through a classroom economics project in partnership with Crocs, Inc., designing custom shoes while exploring key principles of economics. As part of the experience, the winning design created by Olivia Sanders and Taylor Wharry was later manufactured…
-St. Vrain Valley Schools
-More Than Music: Erie Elementary Students Build Confidence and Connection Through Band
-Fourth and fifth grade students at Erie Elementary file into the music room with anticipation, eagerly pulling their instruments from their cases as they prepare for their final performance of the year. The sounds of trumpets, trombones, clarinets, flutes, and even a saxophone quickly fill the room as students warm-up.…
-St. Vrain Valley Schools
-All News
-Join the #StVrainStorm
-Across St. Vrain Valley Schools, we are taking public education by #StVrainStorm – our shared passion and commitment to advancing academic excellence and student success.
-
-Source: https://www.svvsd.org/
 
 ### Online Payments
 
@@ -14574,7 +14413,7 @@ Source: https://www.svvsd.org/departments/priority-programs/homeless-education/
 ### Project Launch Summer Learning
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/project-launch-summer-literacy/
-- Last modified: 2025-12-15T12:23:02-07:00
+- Last modified: 2026-05-27T10:54:04-06:00
 
 Project Launch Elementary School
 Through Project Launch, elementary students can strengthen their reading and math skills over the summer in a fun, friendly camp-like environment. They will receive small classroom instruction from high-quality St. Vrain teachers, allowing them to get extra support for a great start on the upcoming school year.
