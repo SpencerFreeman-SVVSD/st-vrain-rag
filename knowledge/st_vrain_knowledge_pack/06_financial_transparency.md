@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-05-31T04:22:28.357512-06:00
+generated_at: 2026-06-01T07:44:56.051814-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -126,7 +126,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Adopted Budget
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/fiscal-budgets/
-- Last modified: 2026-05-28T07:14:52-06:00
+- Last modified: 2026-01-29T13:29:38-07:00
 
 District Adopted Budget
 State law requires the Board of Education to adopt and appropriate a budget for all District funds each year. The Budget serves three primary purposes:
@@ -305,7 +305,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-05-28T09:41:17-06:00
+- Last modified: 2026-04-23T12:34:00-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.
