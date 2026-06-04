@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-01T07:44:56.051814-06:00
+generated_at: 2026-06-04T05:23:48.672337-06:00
 coverage_window_days: 90
 section_title: District snapshot
 ---
@@ -413,7 +413,7 @@ Source: https://www.svvsd.org/about/superintendent/
 ### Leadership St. Vrain
 
 - Canonical URL: https://www.svvsd.org/about/district-committees/leadership-st-vrain/
-- Last modified: 2025-08-13T12:00:45-06:00
+- Last modified: 2026-05-29T08:44:32-06:00
 
 Leadership St. Vrain
 Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active participants in St. Vrain Valley Schools.

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-01T07:44:56.051814-06:00
+generated_at: 2026-06-04T05:23:48.672337-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -426,7 +426,7 @@ Source: https://www.svvsd.org/about/superintendent/
 ### Leadership St. Vrain
 
 - Canonical URL: https://www.svvsd.org/about/district-committees/leadership-st-vrain/
-- Last modified: 2025-08-13T12:00:45-06:00
+- Last modified: 2026-05-29T08:44:32-06:00
 
 Leadership St. Vrain
 Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active participants in St. Vrain Valley Schools.
@@ -645,7 +645,7 @@ Source: https://www.svvsd.org/schools/enrollment/
 ### Charter School Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/charter-school-registration/
-- Last modified: 2025-12-01T05:30:01-07:00
+- Last modified: 2026-05-28T14:22:02-06:00
 
 Please select the school year and charter school that you wish to register with.
 Aspen Ridge Preparatory 2026-2027
@@ -732,7 +732,7 @@ Source: https://www.svvsd.org/schools/enrollment/enrollment-statistics/
 ### New Student Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/new-student-registration/
-- Last modified: 2025-12-01T05:30:04-07:00
+- Last modified: 2026-05-28T14:06:01-06:00
 
 New Student Registration
 Online Registration is a great option for families that are new to St. Vrain Valley Schools. Parents and Guardians fill out an online application that includes information about members of the household, emergency contacts and student data. Application processing will be handled by Central Registration and notification will be sent via email as an application moves through the approval process. Processing time will vary based on time of the year and demand. Upon application approval, it is necessary for the family to contact the school(s) to complete the registration process.
@@ -764,7 +764,7 @@ Source: https://www.svvsd.org/schools/enrollment/new-student-registration/
 ### Open Enrollment
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/open-enrollment/
-- Last modified: 2025-12-01T05:30:04-07:00
+- Last modified: 2026-06-02T14:08:19-06:00
 
 Open Enrollment
 Open Enrollment is an opportunity to request that your student attend a school of choice, which is outside of their attendance area. Students who do not live within district boundaries, but want to attend a school in St. Vrain, need to complete the Open Enrollment form.
@@ -780,7 +780,6 @@ Begin your open enrollment application
 STEP 2
 :
 Upon being offered a seat through Open Enrollment, you will need to accept that seat and then you will need to Register with that school.
-Register for 2025-2026
 Register for 2026-2027
 Frequently Asked Questions
 Who?
@@ -1565,7 +1564,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Advanced Placement
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/apinsvvsd/
-- Last modified: 2025-08-11T09:11:25-06:00
+- Last modified: 2026-05-27T10:31:37-06:00
 
 AP Students
 Get your AP course off to a great start by following this
@@ -1746,7 +1745,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### SAT
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/sat/
-- Last modified: 2025-08-11T09:29:47-06:00
+- Last modified: 2026-05-27T10:34:03-06:00
 
 SAT Suite of Assessments
 All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
@@ -6988,7 +6987,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-05-24T09:32:47-06:00
+- Last modified: 2026-05-29T16:55:56-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -11071,176 +11070,6 @@ murphy_shelly@svvsd.org
 
 Source: https://www.svvsd.org/departments/financial-services/financial-services-team/
 
-### St. Vrain Valley Schools
-
-- Canonical URL: https://www.svvsd.org/
-- Last modified: 2020-12-16T12:46:45-07:00
-
-We are the future of America.
-We are providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world.
-Learn More
-Join our Team
-Focus Programs
-Enroll in St. Vrain
-Online Payments
-Infinite Campus
-Safe2Tell
-Nutrition & Menus
-Job Openings
-Advancing Academic Excellence
-24.5
-credits required for graduation – among the most rigorous requirements in the state.
-331
-industry certifications earned by students in the 2021-2022 school year.
-$53
-million dollars received in competitive grant awards since January 2018.
-120+
-district-level partnerships and 435+ direct to school partnerships.
-More Achievements
-Families
-Students
-Staff
-Community
-Quick Links
-Enrollment
-Infinite Campus
-Payments
-Schoology
-Academics
-St. Vrain provides a rigorous academic foundation designed to prepare students for career and postsecondary readiness, including over 70 instructional focus programs.
-Find a Focus Program
-Safety & Well-Being
-Students safety and well-being is paramount, with over $45 million invested in safety upgrades over the past decade, as well as significant investments in mental health resources.
-Learn more
-Get Involved
-St. Vrain has many opportunities for parents and caregivers to be involved in their student’s education, including our nationally recognized program, Leadership St. Vrain.
-Learn more
-Community Schools
-St. Vrain supports working families by providing high-quality before- and after-school childcare programming that is available in all elementary school communities.
-Learn more
-Enrollment
-St. Vrain Valley Schools promotes open enrollment so that families can select the school and program that best meets their students interests and needs.
-Learn more
-Get Social
-St. Vrain promotes communication and safe interaction on social media to promote parent, student, and community engagement with our schools and programs.
-Follow us
-Quick Links
-Schoology
-Classlink
-Lunch Menus
-Concurrent Enrollment
-Students in St. Vrain have many opportunities to earn college credit while in high school through concurrent enrollment in courses with partner colleges and universities.
-Learn more
-Athletics & Activities
-St. Vrain offers a robust portfolio of athletics, arts, and other activities to engage students beyond the school day.
-Learn More
-Advanced Placement
-The AP® Program is continuously introducing new resources and processes designed to help students earn college credit and placement.
-Learn more
-Graduation
-St. Vrain has some of the most rigorous graduation requirements in Colorado, designed to best prepare students for postsecondary success.
-Learn More
-Innovation Center
-Student learning at the Innovation Center transcends the traditional classroom and provides experiential opportunities that are developing today’s students into tomorrow’s leaders, innovators, and changemakers.
-Visit the Innovation Center
-Career Elevation & Technology Center
-The CETC offers classes that provide real-world, hands-on experiences in pathways that are high-wage, high-growth, high-demand, and with a post-secondary trajectory.
-Visit the CETC
-Quick Links
-Staff Portal
-Infinite Visions
-Help Desk
-Curricular Resources
-Our content leadership teams designed a set of 21st century curricular resources to supply our students with a guaranteed and viable curriculum aligned with the new Colorado Academic Standards.
-Learn more
-Benefits
-St. Vrain values the health and well-being of its employees and seeks to establish and maintain a culture of health and wellness.
-Learn more
-Open Positions
-We hope you will consider a career with St. Vrain Valley Schools and join our highly effective and supportive team of professionals who are having a significant impact in the lives of many students and families.
-Search and Apply
-Professional Development
-There are many professional development opportunities available to build the capacity of all district employees through staff development that improves the learning of all the children we serve.
-Register for Courses
-Human Resources
-We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students.
-Learn more
-Wellness
-In an effort to improve the health of all SVVSD employees and promote a healthier and happier workforce, the district has established an active Worksite Wellness Program.
-Learn more
-Quick Links
-Financial Transparency
-Records Request
-Senior Volunteers
-There are many ways for the community to get involved with our students and schools, including earning credit toward their property taxes by volunteering with the district.
-Learn more
-Promotional Flyers
-Businesses and organizations seeking to distribute an electronic flyer to benefit the students and parents of the St. Vrain Valley Schools may do so by following the guidelines below.
-Learn more
-Facility Use
-Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. We support and encourage community use with priority given to youth activities.
-Learn more
-Educator Highlight
-Madelynn Baird, Candice Blake, Jessica Evans and Angie Helzer
-Second Grade Team, Thunder Valley K-8
-“The second grade team consistently demonstrates excellence in teaching and collaboration. Each classroom is filled with engaging instruction and challenges students to think critically, take risks, and grow every day.”
-Watch the Video
-Join our team today
-Join a team of over 5,000 employees dedicated to helping students succeed.
-Apply Today
-Featured Stories
-Getting to Know Our New Superintendent
-Dr. Jackie Kapushion officially became St. Vrain Valley Schools’ new superintendent on July 1, 2025 after serving as Deputy Superintendent for the past eight years. We sat down with Dr. Kapushion to learn more about her journey, her passion for education, and her vision for our district’s future. Read the…
-St. Vrain Valley Schools
-Opportunities Abound
-One of the most frequent questions children get asked is, “What do you want to be when you grow up?” Their faces light up with wonder as they imagine a future without limitations. After a moment’s thought, they excitedly share answers ranging from impactful careers like a teacher, first responder,…
-St. Vrain Valley Schools
-The Sound of St. Vrain
-As the grand finale of St. Vrain’s districtwide Band Night begins, hundreds of high school musicians take to the stadium field after two hours of individual performances. Thousands of spectators cheer as the percussion, brass, and woodwind musicians from more than ten schools unite in a single soaring sound –…
-St. Vrain Valley Schools
-Upcoming Board Meetings
-Jun
-1
-Board of Education Member Events for June
-June 1, 2026 – –
-Jun
-10
-Board of Education Regular Meeting
-June 10, 2026 – 6:00 p.m.
-Jun
-17
-Board of Education Study Session
-June 17, 2026 – 6:00 p.m.
-Previous Board Meetings
-May
-27
-Board of Education Regular Meeting
-May 27, 2026 – 6:00 p.m.
-May
-27
-Board of Education Study Session
-May 27, 2026 – 5:15 p.m.
-May
-20
-Board of Education Study Session
-May 20, 2026 – 6:00 p.m.
-All Board Meetings
-District News
-St. Vrain Valley high schools celebrate successes of 2026 graduates
-About 2,400 receive diplomas Longmont High School graduating senior Adalee Mathias kept track of each step of her high school experience. “It took 1,375 days, and hopefully a few less tardies, to get to this field with these caps and gowns on and so many amazing memories,” Mathias told her…
-St. Vrain Valley Schools
-Soaring Heights PK-8 Students Bring Shoe Designs to Life with Crocs, Inc.
-Sixth grade students at Soaring Heights PK-8 recently combined creativity and business strategy through a classroom economics project in partnership with Crocs, Inc., designing custom shoes while exploring key principles of economics. As part of the experience, the winning design created by Olivia Sanders and Taylor Wharry was later manufactured…
-St. Vrain Valley Schools
-More Than Music: Erie Elementary Students Build Confidence and Connection Through Band
-Fourth and fifth grade students at Erie Elementary file into the music room with anticipation, eagerly pulling their instruments from their cases as they prepare for their final performance of the year. The sounds of trumpets, trombones, clarinets, flutes, and even a saxophone quickly fill the room as students warm-up.…
-St. Vrain Valley Schools
-All News
-Join the #StVrainStorm
-Across St. Vrain Valley Schools, we are taking public education by #StVrainStorm – our shared passion and commitment to advancing academic excellence and student success.
-
-Source: https://www.svvsd.org/
-
 ### Online Payments
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/online-payments/
@@ -11570,7 +11399,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-05-20T15:43:19-06:00
+- Last modified: 2026-06-03T15:26:59-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -11662,7 +11491,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/dental/
 ### Employee Assistance Program
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
-- Last modified: 2026-05-01T10:58:17-06:00
+- Last modified: 2026-06-01T09:06:31-06:00
 
 Employee Assistance Program
 Call ComPsych EAP at
@@ -11679,10 +11508,8 @@ to gain access to the site).
 Call ComPsych EAP at 855.699.6908 to be connected to licensed counselors who can provide you and all members of your household with face-to-face counseling (up to six free visits per episode) and provide discounted rates or referrals.
 Up to 3 additional face-to-face emotional or work-life counseling sessions are available to all SVVSD employees who are covered on the district’s Basic Life Plan. For access, call 1-800-964-3577. Your Web ID # is HLF902 and the Company Name is: ABILI.
 This Month
-Guidance Resource Flyers –
-Mental Health Awareness Month: Focus on Adolescents
 This month’s huddles, webinars, and guided practices –
-May schedule and sign ups
+June schedule and sign ups
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/employee-assistance-program/
 
@@ -11938,7 +11765,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-05-26T10:49:29-06:00
+- Last modified: 2026-06-03T08:30:00-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -11983,7 +11810,7 @@ Human Resources (ESC) – Josie Vigil
 Hygiene Elementary – Amanda Dawson
 Indian Peaks Elementary – Stacy Trembly & Dora Villavicencio
 Innovation Center – Socorro Marquez
-Learning Services – Kahle Charles
+Learning Services – Jane Lim
 Legacy Elementary – Lynette Frank
 Lincoln Support Center – Jerri Mason
 Longmont Estates Elementary – Tara Roeder
@@ -12104,22 +11931,15 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-05-12T10:01:59-06:00
+- Last modified: 2026-06-03T15:08:56-06:00
 
-This Month
-May Wellbeing Flyer:
-The Importance of Mental Health
-May Well Newsletter:
-Maintaining Your Mental Health
-Guidance Resource Flyer –
-Mental Health Awareness Month: Focus on Adolescents
 Ongoing Resources
 Active&Fit
 Make your move with Active&Fit Direct
 Wherever you are on your health journey, the Active&Fit Direct program is here to help. Active&Fit offers discount rates at local gyms, free on-demand videos, 1:1 well-being coaching, and spouse enrollment. Choose from a network of over 12,800 gyms and exercise studios.
 NEW! All enrolled Active&Fit Direct members have access to the Active&Fit Direct Marketplace, the new go-to destination for big discounts on top-tier health & fitness brands.
 Learn more about the Active&Fit program here
-Pay $0 on enrollment fees now through May 31st!
+Pay $0 on enrollment fees now through August 31st!
 Access the SVVSD Active & Fit program in
 Infinite Visions under Resources
 Nurse Health Coaching
@@ -12131,8 +11951,9 @@ Life events can affect the lives of team members both at home and at work. That 
 Employee Assistance Program
 page.
 Financial Education
-Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes. Click below to access a full list of financial advising events and to register.
+Looking to build your financial knowledge? ENT Credit Union offers ongoing free virtual financial classes and podcasts. Click below to visit the ENT website and access a full list of financial advising events and to register.
 ENT Credit Union Events
+ENT Credit Union Podcasts
 Headspace
 Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you
 Create Your Headspace Account
@@ -12694,7 +12515,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2026-05-18T13:56:20-06:00
+- Last modified: 2026-06-02T07:29:24-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -12755,7 +12576,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Classified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/classified-professional-technical-employees/
-- Last modified: 2026-05-18T13:56:47-06:00
+- Last modified: 2026-06-02T07:30:58-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -12817,7 +12638,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Professional Technical Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/professional-technical-employees/
-- Last modified: 2026-05-18T13:57:22-06:00
+- Last modified: 2026-06-02T07:31:36-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -15794,7 +15615,7 @@ Source: https://www.svvsd.org/departments/priority-programs/homeless-education/
 ### Project Launch Summer Learning
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/project-launch-summer-literacy/
-- Last modified: 2025-12-15T12:23:02-07:00
+- Last modified: 2026-05-27T10:54:04-06:00
 
 Project Launch Elementary School
 Through Project Launch, elementary students can strengthen their reading and math skills over the summer in a fun, friendly camp-like environment. They will receive small classroom instruction from high-quality St. Vrain teachers, allowing them to get extra support for a great start on the upcoming school year.
@@ -15963,7 +15784,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-04-27T13:28:53-06:00
+- Last modified: 2026-06-03T09:44:27-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -15980,11 +15801,12 @@ THIS FORM
 and it will be reviewed for possible credit.
 If you need to make a payment for a professional development course/certificate
 CLICK HERE
-.
+. Payment must be made prior to the start of the class.
 Learn more
 Upcoming Events & Opportunities
 New Teacher Orientation 2026
-will be held on August 6 and 7 at Longmont High School. More details will be sent out to new teachers in summer and the website will show the most up-to-date information.
+will be held on August 6 and 7 at Longmont High School.
+CLICK HERE FOR MORE INFORMATION
 August 10, 2026 at Longmont High School
 .5 Salary Credit — 7.5 ELPD Hours — No cost!
 Click Here for More Information
@@ -15992,22 +15814,6 @@ The Blueprint for Belonging: Building Classrooms Where Every Identity Drives Exc
 Choose from over 20 breakout sessions to advance your instruction, build classroom community, and grow as a connected educator.
 Sessions will expand your skills in advancing literacy, thinking, speaking, reading, and writing across all content areas and grade levels!
 REGISTER TODAY
-Exploration AI Conversations Beyond the Algorithm
-Go
-Beyond the Algorithm
-–
-New AI PD in Bitesize Format!
-Hi SVVSD!
-We’re excited to share one of our newest AI Professional Development offerings:
-Exploration AI Conversations Beyond the Algorithm
-.
-Beyond the Algorithm
-is a low-stakes, bite-sized way to grow your practice with AI. Each episode comes with a downloadable PDF to guide your reflection and application. Just listen and explore. That’s it.
-Whether you’re dipping your toes into AI or helping students lead the way, this is for you.
-Let’s keep going
-beyond the algorithm
-—together.
-REGISTER HERE
 Join the Conversation
 Follow us on Twitter
 
@@ -19177,7 +18983,7 @@ Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/r
 ### School Contacts
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
-- Last modified: 2026-05-12T15:07:25-06:00
+- Last modified: 2026-06-01T10:25:42-06:00
 
 School Contacts
 Programming is a site based decision. Click on the school name in order to view their programming options. Contact the school directly with any questions regarding programming or services.
@@ -19257,9 +19063,7 @@ Heidi Cloud
 cloud_heidi@svvsd.org
 Red Hawk
 Brittany Jenkins
-Wendy Durst
 jenkins_brittany@svvsd.org
-durst_wendy@svvsd.org
 Rocky Mountain
 Carleen Hester
 hester_carleen@svvsd.org
@@ -19334,9 +19138,6 @@ houghton_lori@svvsd.org
 Charter Schools
 Name
 Email Address
-Carbon Valley Academy
-Stacey Chavez
-stacey.chavez@cvmail.com
 Twin Peaks Charter K-12
 Max Kleber K-5
 Quinn Kirner 6-12
@@ -21148,17 +20949,11 @@ Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Biochemistry (Aims Community College), Cybersecurity (Aims Community College) and General Business (Front Range Community College).
 St. Vrain Valley Schools P-TECH serves approximately 450-500 students annually. 55% of P-TECH students are first generation college students, and 41% are second language learners.
 P-TECH By the Numbers:
-fad fa-diploma
 223 P-TECH students have earned an associate’s degree at no cost to them.
-fad fa-building
 Since 2019, 344 P-TECH students have engaged in internship opportunities.
-fad fa-hands-helping
 P-TECH works with over 18 different industry partners.
-fad fa-graduation-cap
 Over one third of P-TECH graduates have gone on to pursue a bachelor’s degree.
-fad fa-users-cog
 P-TECH has 312 active mentors working with P-TECH students (almost one to one).
-fad fa-bolt
 Upon receiving their associate degree, 30+ P-TECH graduates have landed jobs with the following companies: Corden Pharma, IBM, Agilent, CISCO, BI Inc, City of Longmont, St. Vrain Valley Schools’ District Technology Services Department, Intrado, Life and Safety, Adams 12 Schools, BPG Designs SafeBUILT, and URSA Major.
 
 Source: https://www.svvsd.org/programs/p-tech/
@@ -21337,7 +21132,7 @@ Source: https://www.svvsd.org/programs/summer-programs/
 ### Board of Education
 
 - Canonical URL: https://www.svvsd.org/about/board-of-education/
-- Last modified: 2026-01-06T15:44:05-07:00
+- Last modified: 2026-06-03T12:11:31-06:00
 
 Member: Jocelyn Gilligan
 Role: President
@@ -23434,7 +23229,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Adopted Budget
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/fiscal-budgets/
-- Last modified: 2026-01-29T13:29:38-07:00
+- Last modified: 2026-05-28T07:14:52-06:00
 
 District Adopted Budget
 State law requires the Board of Education to adopt and appropriate a budget for all District funds each year. The Budget serves three primary purposes:
@@ -23613,7 +23408,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-04-23T12:34:00-06:00
+- Last modified: 2026-05-28T09:41:17-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.
@@ -24554,7 +24349,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 371
+- Department and program pages: 370
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80
