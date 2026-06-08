@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-04T05:23:48.672337-06:00
+generated_at: 2026-06-08T06:41:09.572607-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -257,9 +257,7 @@ To keep a normal in-person school schedule
 Delay the start of school by two hours
 Shift to a shortened online learning day
 Our first priority, as long as it is deemed safe by our team in consultation with other municipality officials, will be in-person learning.
-fad fa-exclamation-circle
 When the district remains open to in-person learning, but you believe that weather conditions in your specific area are unsafe or otherwise problematic for your student to attend school, please feel free to contact your school’s attendance clerk to obtain an excused absence for your student. If weather conditions cause you to keep your student at home, they will be able to make up any missed schoolwork without penalty.
-fad fa-calendar-check
 Additionally, families will continue to have the choice to obtain an excused absence for their student if for any reason they are unable or choose not to participate in a shortened online learning schedule, or if weather conditions in their area are problematic for transporting their student to school when we have in-person learning.
 2-Hour Weather Delay
 If the weather is such that the normal start is problematic due to weather conditions, we may implement a 2-hour weather delay. A weather delay will only be used if the delay will accommodate warmer temperatures at the bus stops and/or a substantive improvement in road conditions.
@@ -412,7 +410,11 @@ Synchronous Learning
 Period 3
 9:45-10:05
 (Webex)
-Synchronous Learning...
+Synchronous Learning
+Period 4
+10:10-10:30
+(Webex)
+Synchronous Learni...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-04T05:23:48.672337-06:00
+generated_at: 2026-06-08T06:41:09.572607-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9205,21 +9205,16 @@ View the 2026-2027 Preschool Program Locations
 The St. Vrain PRE Advantage
 Give your child the strongest start possible with St. Vrain Valley Schools’ exceptional preschool programming. As part of a nationally recognized public school district, we offer resources and support that stand apart from typical preschool settings. Our comprehensive approach to early childhood education combines expert teaching, innovative curriculum, and a nurturing environment that prepares children for lifelong success.
 Led by Expert Educators
-fad fa-chalkboard-teacher
 Far exceeding typical preschool program standards, every St. Vrain preschool classroom is led by licensed teachers holding bachelor’s degrees in early childhood education, who are supported by highly qualified paraprofessionals. Our teaching teams bring a deep understanding of child development to create engaging experiences that build both cognitive and social-emotional skills during these crucial early years.
 Small Class Sizes
-fad fa-school
 St. Vrain’s commitment to small class sizes means your child receives the personalized attention they need to flourish. In our intimate learning environments, teachers can observe and respond to each child’s unique needs, interests, and learning style. Research consistently shows that children in smaller preschool classes demonstrate stronger social skills, more advanced language development, and better preparation for kindergarten compared to peers in larger group settings.
 High-Quality Early Intervention Supports
-fad fa-book-reader
 Your child benefits from St. Vrain’s extensive support network, including district specialists in speech therapy, occupational therapy, special education, and language development. Highly trained staff to help identify early intervention needs. Our program seamlessly integrates these professional services into the daily learning environment. Our students have access to the same high-quality resources and expertise that support learning throughout our K-12 programs.
 Flexible Programming for Your Family
-fad fa-calendar-check
 Families can choose from morning, afternoon, or full-day sessions, with
 wraparound care
 options available at select locations. Our programs serve both 3- and 4-year-olds, ensuring the right fit for your child’s developmental stage and your family’s needs.
 Convenient Preschool Locations
-fad fa-search-location
 By choosing St. Vrain preschool, your child becomes part of their elementary school community from the start, allowing them to build confidence in their future school setting while forming lasting friendships with future classmates. The seamless transition into kindergarten comes naturally as children are already familiar with their school community, and many enjoy the added benefit of staying connected with siblings in the same building.
 St. Vrain Valley Schools offers preschool programming at 25 elementary schools across the district, offering families flexibility in finding a program that meets their unique needs.
 Spark! Discovery Preschool
@@ -10189,7 +10184,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-06-03T15:26:59-06:00
+- Last modified: 2026-06-02T07:26:41-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -10555,7 +10550,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-06-03T08:30:00-06:00
+- Last modified: 2026-05-26T10:49:29-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -10721,7 +10716,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-06-03T15:08:56-06:00
+- Last modified: 2026-06-01T08:58:47-06:00
 
 Ongoing Resources
 Active&Fit
@@ -12925,6 +12920,8 @@ Selections Finalized:
 May of each year
 Recognition:
 Award recipients will be celebrated during the Nutrition Services annual end of the school year celebration.
+2025-2026 Winners
+Culture Builder Award – Brenda Walters | Heart of the School – Debbie Maranville | Excellence in Service Award – Brenda Loomis | Innovator’s Award – Brenda Hamilton | Rising Star Award – Jason Taittinger
 Perfect Attendance Awards Program
 The Perfect Attendance Awards recognize individuals and teams who demonstrate exceptional reliability and commitment to their work. Consistent attendance supports smooth kitchen operations, strong teamwork, and reliable service to students and staff.
 These awards celebrate individuals and teams who consistently show up for their coworkers and the students we serve.
@@ -12972,6 +12969,7 @@ In addition, the award celebrates teams that elevate the
 presentation and appeal of food
 , using creative displays, promotions, and student-centered ideas to generate excitement around school meals.
 Together, these elements recognize programs that go beyond simply serving food—they build vibrant school dining experiences that encourage participation, foster community, and ensure every student has access to nutritious, appealing meals.
+2025-2026 Winner
 The Storm Star Award
 The
 Storm Star Award
@@ -12991,6 +12989,7 @@ Storm Elite
 and receive the
 St. Vrain Storm Award
 . Winning schools are honored with a framed certificate recognizing their achievement and year of distinction, celebrating the teams who set the standard for excellence across the district.
+2025-2026 Winners
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/department-recognition/
 
@@ -13059,7 +13058,7 @@ Teri Zaynor, Kitchen Manager
 “Working for nutrition services is the most rewarding job ever! Not only do you get the reward of seeing all the kids everyday, you also make a big impact in a lot of their little lives making sure they are fed throughout the week. Another plus side in working with nutrition services is you get the same days off as your kiddos making it easier to take vacations.”
 Constance Cordova, Kitchen Worker
 “Working for SVVSD nutrition services has been a great experience for me so far. I have only been with the district since the beginning of the school year and I have already been entrusted with a great opportunity and responsibility of being a travel manager early on, helping me accelerate my growth. Every manager and supervisor I have worked with so far has been very helpful, and I am always learning something new from everybody each day. I am very excited to see what the years bring working for SVVSD nutrition services.”
-Brenda Walters, Floating Manager
+Brenda Walters, Kitchen Manager
 FAQs
 Q: What are the work hours?
 A: The exact shift hours are contingent on the requirements of each location and may vary accordingly. However, it’s important to note that shifts will not extend beyond the timeframe of 6:00 am to 3:00 pm.
@@ -13314,9 +13313,6 @@ rowan_jim@svvsd.org
 View School Menus
 Hosting an event at an SVVSD school or administrative building? Nutrition Services is here to cater! Visit our online catering website to learn more:
 Place a SVVSD Catering Order
-Rochelle Borrego
-Catering Manager
-borrego_rochelle@svvsd.org
 Purchasing & Procurement
 For vendor appointments related to food, supplies, and disposables for Child Nutrition Programs:
 Mindi Wolf
@@ -13875,12 +13871,12 @@ St. Vrain Valley Schools offers robust summer programming options to keep studen
 here
 . Many schools across the district offer various athletics, fine arts, and activities for students over the summer. Visit your school’s webpage or contact the main office for additional information.
 Open all Summer Long…..
-These sites will be open June 2nd- July31st*, Monday through Thursday. Outdoor dining is available.
+These sites will be open June 1st- July 30th*, Monday through Thursday.
 Skyline High School
 11:30am-12:00pm
 Frederick High School
 11:30am-12:00pm
-*We are closed on Fridays, and July 14th-17th.
+*We are closed on Fridays, and July 13th-16th.
 Frequently Asked Questions
 What are summer meals programs?
 Summer meals programs are funded by the USDA and designed to provide children and teens ages 18 and under with nutritious meals during the summer months when school is out of session.
@@ -14574,7 +14570,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-06-03T09:44:27-06:00
+- Last modified: 2026-04-27T13:28:53-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -15481,8 +15477,6 @@ Leadership Team
 Independent Study
 – There is a limit of two Independent Studies per person per semester (fall, spring, summer).
 Professional Conference
-How Do I Add this Certificate to My SVVS Transcript?
-Will credit from this organization count for Professional Development credit at St. Vrain?
 Professional Intern Credit
 Lateral Move Information
 Certified staff members may submit requests of Lateral Salary Movement in accordance with the provisions of Article 32 of the Agreement. Requirements for non-degree vocational teachers are in accordance with the provisions of Article 34 of the Agreement. All lateral moves are done through Human Resources. Lateral moves are available twice per year: January 1 – February 15 and August 1 – October 15.
