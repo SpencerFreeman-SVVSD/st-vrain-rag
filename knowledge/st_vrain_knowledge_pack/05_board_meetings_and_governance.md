@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-08T06:41:09.572607-06:00
+generated_at: 2026-06-11T06:16:35.088537-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -9,7 +9,7 @@ section_title: Board meetings and governance
 ### Board of Education
 
 - Canonical URL: https://www.svvsd.org/about/board-of-education/
-- Last modified: 2026-01-06T15:44:05-07:00
+- Last modified: 2026-06-03T12:11:31-06:00
 
 Member: Jocelyn Gilligan
 Role: President
@@ -960,7 +960,7 @@ JLJ* – Physical Activity
 JQ – Student Fees, Fines and Charges
 114 KB
 JQ-E – Schedule of Student Fees
-69 KB
+70 KB
 JQ-R – Student Fees, Fines and Charges
 84 KB
 JRA/JRC – Student Records/Release of Information on Students

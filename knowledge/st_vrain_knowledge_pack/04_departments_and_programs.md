@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-08T06:41:09.572607-06:00
+generated_at: 2026-06-11T06:16:35.088537-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -5616,16 +5616,15 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Fall 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/fall-2020-ecredit-recovery/
-- Last modified: 2026-04-22T11:20:26-06:00
+- Last modified: 2026-06-08T08:05:25-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Dates and Times for the Fall 2026 Session will be posted by March 30th 2026
+Fall 2026 Registration OPENS ON August 24th, 2026
 Did you Miss the Registration Window or Your Location is Full? (Click Here for Waitlist)
 Registration Dates:
-Fall 2025 eCredit Registration:
-OPENS for SENIORS ONLY – Monday, August 11th, 2025- Sunday, August 17th
-ALL GRADES (10th-12th) – Monday, August 18th – Friday, September 12th, 2025 at 8pm
+Fall 2026 eCredit Registration:
+OPENS TO ALL GRADES (10th-12th) – Monday, August 24th – Monday, September 14th, 2025 at NOON.
 If you are not sure what course to register for, we recommend reaching out to your counselor ASAP about what options you have.
 Courses offered – Fall 2025 eCredit Recovery session:
 English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
@@ -5636,31 +5635,31 @@ PLEASE NOTE:
 Not all sites will offer every course listed above. Availability of teachers for that content area determine what courses will be offered.
 Locations and Schedules
 Fall eCredit begins on
-Tuesday, Sept. 23rd and ends on Thursday, Dec. 4th
+Tuesday, Sept. 22nd and ends on Thursday, Dec. 3rd
 .
 Fall eCredit runs Tuesday/Thursdays from 3:00 – 5:00 pm at the following locations (except Lyons):
 Erie HS
-– Math
+– TBD
 Frederick HS
-– English (Full), Social Studies (Full), Science, Math (FULL), Health (Full), & PFL(Full)
+– TBD
 Longmont High
-– English & Social Studies, Science, Health, & PFL
+– TBD
 Lyons HS
-– English, Social Studies, Science, Math, Health, & PFL
+– TBD
 Lyons HS will be held on Wednesdays & Thursdays from 2:50-4:50.
 Mead High
-– Math, Science, Health, & PFL
+– TBD
 Niwot High
-– English (Full), Social Studies (Full), Science, Health, & PFL
+– TBD
 Skyline High
-– English, Social Studies, Science, Math, Health, and PFL
+– TBD
 Final note
 : Meeting days may be subject to change depending on teacher availability at certain locations. Communication from the eLearning office and/or the eCredit teacher will make students and families aware of any last-minute changes. Thanks in advance for your understanding!
 Required Parent/Guardian Orientation
-ONLINE Parent Orientation will be REQUIRED for ALL PARENTS/GUARDIANS that have a student enrolled in the Fall 2025 eCredit Session.
+ONLINE Parent Orientation will be REQUIRED for ALL PARENTS/GUARDIANS that have a student enrolled in the Fall 2026 eCredit Session.
 This orientation is a 12-minute video
 that will need to be completed before the eCredit start date.
-Once Registration has ended on Thursday, September 11th, we will send out an email by September,19th with all the information regarding this eCredit Session and a reminder that guardians
+Once Registration has ended on Thursday, September 14th, we will send out an email by September,18th with all the information regarding this eCredit Session and a reminder that guardians
 must view this Parent/Guardian Orientation
 .
 If you have any questions, please email
@@ -5777,7 +5776,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Summer 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/summer-2020-ecredit-recovery/
-- Last modified: 2026-05-29T16:55:56-06:00
+- Last modified: 2026-06-09T15:52:32-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -5813,7 +5812,10 @@ FULL
 FULL
 ), Science, Health, & PFL
 Niwot High School
-– English, Social Studies, Science, Health, & PFL
+– English, Social Studies, Science, Health, & PFL (
+All Seats
+FULL
+)
 Silver Creek High School
 – English, Social Studies, Math, Health, & PFL (
 All Seats
@@ -7627,7 +7629,7 @@ Source: https://www.svvsd.org/departments/communications/about-us/communications
 ### Communication Awards
 
 - Canonical URL: https://www.svvsd.org/departments/communications/about-us/communication-awards/
-- Last modified: 2026-01-26T11:03:45-07:00
+- Last modified: 2026-06-08T11:35:24-06:00
 
 Communication Awards
 National Academy of Television Arts & Sciences, Heartland Chapter
@@ -7635,6 +7637,17 @@ National Academy of Television Arts & Sciences, Heartland Chapter
 Beyond Compare | They Call Him Coach
 “
 National Schools Public Relations Association (NSPRA)
+2026 Awards
+National Excellence in Branding/Image Package:
+Frederick High Athletic Entrance Branding
+National Excellence in Marketing Materials:
+This is What a Champion is Made Of
+National Excellence in Video:
+The Power of Firsts
+National Merit in Website:
+Elementary Options
+National Merit in Magazine:
+Fall of 2025 St. Vrainnovation Magazine
 2025 Awards
 National Excellence in Magazine:
 2024-2025 St. Vrainnovation Magazine
@@ -7987,7 +8000,7 @@ Source: https://www.svvsd.org/departments/communications/messenger-notification-
 ### ParentSquare Communication Tool
 
 - Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
-- Last modified: 2026-04-03T14:15:22-06:00
+- Last modified: 2026-06-10T15:53:56-06:00
 
 ParentSquare: Our New District Communication Tool
 Clear, consistent communication is essential to keeping our community informed and connected. St. Vrain Valley Schools has been exploring ways to strengthen districtwide communication and simplify how information reaches families and staff. To support these efforts, we will begin using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with plans to expand access to all schools at the start of the new school year.
@@ -8028,10 +8041,8 @@ ParentSquare supports one email per user. Staff members who are also parents in 
 For more information about Parent and Staff accounts,
 visit ParentSquare to view their help article
 . You must first create your account and be logged in to view any help articles.
-Will this impact how I receive newsletters from my child’s school?
-We will transition to ParentSquare for school newsletter communications beginning in the 2026-2027 school year. Newsletters will be delivered directly to your email inbox and will also be accessible through your ParentSquare account via the app or desktop platform should you choose to register.
-How often will I be receiving communications from ParentSquare?
-For the remainder of the 2025-2026 school year, ParentSquare will be used to distribute Superintendent Updates, urgent school notifications, and other districtwide communications. Families will continue to receive school-specific updates directly from their child’s school through Infinite Campus or via the school’s newsletter for the remainder of the school year.
+What types of communications will I be receiving from ParentSquare?
+Communications from ParentSquare will include Superintendent’s Updates, school newsletters, school communications, weather updates, and critical communications.
 Who do I contact with questions about ParentSquare?
 Please
 fill out this form
@@ -10184,7 +10195,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-06-02T07:26:41-06:00
+- Last modified: 2026-06-03T15:26:59-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -10550,7 +10561,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-05-26T10:49:29-06:00
+- Last modified: 2026-06-03T08:30:00-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -10716,7 +10727,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-06-01T08:58:47-06:00
+- Last modified: 2026-06-03T15:08:56-06:00
 
 Ongoing Resources
 Active&Fit
@@ -12527,9 +12538,12 @@ Source: https://www.svvsd.org/departments/operations-maintenance/environmental-c
 ### Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/
-- Last modified: 2026-04-03T13:20:48-06:00
+- Last modified: 2026-06-09T08:04:13-06:00
 
-fad fa-exclamation-circle
+Facility Use Scheduling System Update: Transition to FMX
+St. Vrain has transitioned to FMX for facility reservations and event scheduling. Event Manager is no longer being used for new requests. The community reservation portal will open on
+July 15
+for all public reservation submissions.
 Temporary Field Closures
 St. Vrain has made the difficult decision to temporarily close all district athletic fields and exterior play spaces from May 20 through September 2026 due to unusually dry conditions this past winter and a significant lack of soil moisture.
 Read more about temporary closures
@@ -12858,7 +12872,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/
 ### Ala Carte & Smart Snacks
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-06-04T10:46:00-06:00
 
 A La Carte Offerings in SVVSD
 Did you know that the Nutrition Service department is self-funded? This means that the money the department earns from selling food items to students, families and staff, as well as federal and state government funding, must cover the cost of food, salary & benefits for approximately 220 employees, equipment and other operational expenses. Nutrition Services does not receive money outside of its meal service operations and grants related to the service of food to students.
@@ -12876,7 +12890,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-c
 ### Department Recognition
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/department-recognition/
-- Last modified: 2026-03-16T10:12:01-06:00
+- Last modified: 2026-06-04T10:40:19-06:00
 
 Director’s Choice Award
 Criteria & Evaluation
@@ -12996,7 +13010,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/depar
 ### Employment Opportunities
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/employment-opportunities/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-06-04T10:25:43-06:00
 
 Welcome to St Vrain Valley Schools’ Nutrition Team! We are dedicated to providing nutritious meals to support the well-being and learning of our students. Join our dynamic team of professionals committed to making a positive impact every day.
 Why join our team?
@@ -13092,7 +13106,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/emplo
 ### Free & Reduced: The Education Benefit Form
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-reduced-the-education-benefit-form/
-- Last modified: 2026-03-16T09:53:41-06:00
+- Last modified: 2026-06-04T09:51:31-06:00
 
 Education Benefit Form
 All students in St Vrain Valley Schools have access to free healthy, nutritious school meals thanks to the Healthy School Meals for All program approved by Colorado voters in November 2023.
@@ -13261,7 +13275,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/local
 ### Meet Our Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-our-leadership-team/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-06-04T10:15:39-06:00
 
 Department Correspondence
 For questions or comments, please contact us via the department email, and we will connect you with the appropriate subject matter expert.
@@ -13858,7 +13872,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Summer Meals
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-meals-2/
-- Last modified: 2026-05-12T13:38:41-06:00
+- Last modified: 2026-06-04T10:11:31-06:00
 
 “I have the audacity to believe that people everywhere can have three meals a day for their bodies, education and culture for the minds and dignity, equality and freedom for their spirits.”
 Martin Luther King, Jr.
@@ -14570,7 +14584,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-04-27T13:28:53-06:00
+- Last modified: 2026-06-03T09:44:27-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -14719,24 +14733,17 @@ magyar_amy@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
 morenomartinz_monica@svvsd.org
-Jenny Rhoadarmer
-Success Coach
-rhoadarmer_jennifer@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
 rudman_nicole@svvsd.org
-Misti Snow
-Teaching and Learning Coach
-303-702-8249
-snow_misti@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/about-us/staff-directory/
 
 ### Alternative Licensure Pathway to Special Education
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/alternative-licensure-pathway-to-special-education/
-- Last modified: 2025-04-29T11:02:17-06:00
+- Last modified: 2026-06-10T14:06:24-06:00
 
 Overview & Pathways
 St. Vrain Valley School District’s Alternative Licensure Pathway to Special Education Program (ALPSE) is a two-year cohort-model program designed for individuals who are seeking their initial or added endorsement licensure as a Special Education Generalist (Ages 5-21).
@@ -14763,7 +14770,7 @@ Commitments vary depending on which pathway you take. For Initial and Added Endo
 For Initial and Added Endorsement out of district participants, the cohort will meet virtually 3-4 times monthly during the first year. Initial licensure out of district candidates will be invited to join the SVVSD cohort for the June meetings. During year two, the cohort will meet virtually once monthly. Requirements for this pathway include class participation, book studies, and independent work.
 Participants on all pathways will receive dedicated instructional coaching throughout the two-year program in order to support learning.
 Q: What are Praxis exams and when do I take them?
-A: The Praxis exam is a content area exam accepted for meeting content competency requirements for certain Colorado endorsements. The Praxis exam is a requirement for licensure in the state of Colorado. Before a candidate is granted an alternative license by CDE, the candidate must pass the 5901 Praxis series. An added endorsement candidate who will be working in a general education position will not need to take the Praxis exams prior to program start.
+A: The Praxis exam is a content area exam accepted for meeting content competency requirements for certain Colorado endorsements. The Praxis exam is a requirement for licensure in the state of Colorado. Before a candidate is granted an alternative license by CDE, the candidate must pass the 5903 Math Praxis assessment. Two Praxis exams, 5355 Special Education: Foundational Knowledge and 5205 Teaching Reading: Elementary must be passed prior to program exit.
 Q: Can this program be used to add an endorsement in special education?
 A: Yes. This program offers a pathway for an added endorsement as a Special Education Generalist (Ages 5-21) for those currently licensed in another area.
 Q: How do I get started?
@@ -15462,7 +15469,7 @@ Source: https://www.svvsd.org/departments/professional-development/professional-
 ### Professional Development Models
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/professional-development-models/
-- Last modified: 2026-05-21T08:34:37-06:00
+- Last modified: 2026-06-04T10:08:11-06:00
 
 Professional Development Models
 In response to the call for differentiated learning opportunities for all district employees and growing focus on accountability for professional development results, St. Vrain Valley School District has developed a variety of Results-Based Professional Development Models. These models have been designed to assist employees in developing formal study and training to increase their ability to accomplish the district strategic plan and the specific goals of the Board of Education. These models have been supported and promoted by Learning Forward as representative of the types of job embedded professional development that is likely to support sustained school improvement.
@@ -19225,16 +19232,11 @@ Source: https://www.svvsd.org/departments/technology/sdp/school-department-resou
 ### Scheduled Service Disruptions
 
 - Canonical URL: https://www.svvsd.org/departments/technology/ssd/
-- Last modified: 2026-05-13T08:24:04-06:00
+- Last modified: 2026-06-08T09:19:35-06:00
 
 Scheduled Service Disruptions
 The following schedule has been established to provide for the smallest disruption to student learning and district operations while allowing District Technology Services to maintain, update, and secure the technology systems and services used everyday in the district’s classrooms and offices.
 Please plan around the district’s technology systems being unavailable.
-2025-26
-Sat, June 6, 2026
-12:00am – 11:00pm
-Full day outage for extended equipment replacement and updates
-~ Schedule approved by Superintendent’s Cabinet
 2026-27
 Sat, July 11, 2026
 12:00 AM-11:00 PM

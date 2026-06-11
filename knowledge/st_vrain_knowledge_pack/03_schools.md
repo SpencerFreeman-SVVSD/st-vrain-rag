@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-08T06:41:09.572607-06:00
+generated_at: 2026-06-11T06:16:35.088537-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -526,7 +526,7 @@ Eagle Crest Elementary School
 Longmont Estates Elementary School*
 Area 3 Schools
 Dina Perfetti-Deany, Ed.D.
-Area Assistant Superintendent – Area 3
+Chief of School Leadership
 Adrienne Pequeen
 Executive Administrative Assistant
 pequeen_adrienne@svvsd.org
