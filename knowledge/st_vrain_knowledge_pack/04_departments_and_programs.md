@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-11T06:16:35.088537-06:00
+generated_at: 2026-06-12T05:50:55.861338-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -12575,17 +12575,17 @@ Announcements & Timelines
 Athletic Timeline
 Processing of contracts will begin 6 weeks prior to each season start. See below for season dates:
 Fall Sports
-: August 18th – October 31st
+: August 17th – October 31st
 Winter Sports
-: November 1st – December 19th
+: November 2nd – December 18th
 Early Spring Sports
-: January 6th – March 13th
+: January 5th – March 12th
 Late Spring Sports
-: March 23rd – May 21st
+: March 22nd – May 31st
 Summer Sports Requests
 (
 FIELDS ONLY
-): May 25th – June 30th / July 1st – July 31st
+): June 1st – June 30th / July 1st – July 31st
 Auditorium Timeline
 Auditorium event requests may be submitted beginning July 1.
 July 1 – October 31 events:
