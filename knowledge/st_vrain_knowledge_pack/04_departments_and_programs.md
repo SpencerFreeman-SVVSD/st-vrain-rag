@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-12T05:50:55.861338-06:00
+generated_at: 2026-06-13T04:36:58.838480-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -12538,7 +12538,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/environmental-c
 ### Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/
-- Last modified: 2026-06-09T08:04:13-06:00
+- Last modified: 2026-06-11T11:48:07-06:00
 
 Facility Use Scheduling System Update: Transition to FMX
 St. Vrain has transitioned to FMX for facility reservations and event scheduling. Event Manager is no longer being used for new requests. The community reservation portal will open on
