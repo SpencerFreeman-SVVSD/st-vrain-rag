@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-14T05:07:29.368223-06:00
+generated_at: 2026-06-15T08:32:07.014778-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---

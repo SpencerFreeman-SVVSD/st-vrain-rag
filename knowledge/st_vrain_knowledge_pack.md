@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-14T05:07:29.368223-06:00
+generated_at: 2026-06-15T08:32:07.014778-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -11773,7 +11773,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-06-03T08:30:00-06:00
+- Last modified: 2026-06-15T07:52:35-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -11809,7 +11809,7 @@ Eagle Crest Elementary – Lindsey Cheney
 Erie Elementary – Cindy Barstow
 Erie High School – Darlene Peters
 Erie Middle School – Felicia Sanchez
-Fall River Elementary – Chris Higgins
+Fall River Elementary – Amanda Rogowski
 Finance (BSC) – Shelly Murphy
 Frederick High School – Jen Kenfield
 Grand View Elementary – Marc Gorenstein
