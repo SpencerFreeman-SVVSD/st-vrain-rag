@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-15T08:32:07.014778-06:00
+generated_at: 2026-06-20T04:39:52.338463-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,49 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### St. Vrain Valley Schools receives ASBO Certificate of Excellence for 22nd consecutive year
+
+- Published: 2026-06-16T13:55:35-06:00
+- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
+
+St. Vrain Valley Schools has once again been honored with the Certificate of Excellence in Financial Reporting from the Association of School Business Officials International (ASBO), marking the 22nd consecutive year the district has received this prestigious award. The recognition is based on the district’s Annual Comprehensive Financial Report (ACFR) for the fiscal year ending June 30, 2025.
+This award recognizes school districts that meet the highest standards for financial reporting and transparency. To qualify, applicants submit their ACFR for review by a team of financial professionals who evaluate the report’s content, accuracy, and overall quality.
+“For over half a century, ASBO International’s Certificate of Excellence in Financial Reporting has been the gold standard for promoting and recognizing excellence in financial transparency,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “Clear and accurate financial reporting is crucial for engaging school communities and building their trust. Districts that earn the COE have demonstrated an extraordinary commitment to these principles.”
+“Earning this recognition year after year reflects a longstanding commitment to excellence in financial reporting,” said Tony Whiteley, Chief Financial Officer for St. Vrain Valley Schools. “Our team takes great pride in maintaining the high standards and fiscal stewardship that support the district’s operational and strategic priorities.”
+Participation in ASBO’s program also supports ongoing bond rating and disclosure processes, reinforcing the district’s commitment to fiscal responsibility.
+About ASBO International
+Founded in 1910, the Association of School Business Officials International (ASBO) represents approximately 30,000 school business professionals worldwide. ASBO supports student achievement through effective resource management in finance, operations, food services, and transportation. Learn more at
+asbointl.org
+.
+
+Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
+
+### St. Vrain Valley Schools Earns National Recognition for Budget Excellence
+
+- Published: 2026-06-16T13:54:12-06:00
+- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
+
+For the third consecutive year, St. Vrain Valley Schools has received the Meritorious Budget Award (MBA) from the Association of School Business Officials (ASBO) International for its fiscal year 2025-2026 budget. This award recognizes the district’s commitment to clear, transparent, and high-quality budget presentation.
+The Meritorious Budget Award acknowledges St. Vrain’s dedication to crafting budget documents that clearly communicate financial information to all stakeholders. A panel of school financial professionals reviewed the district’s submission to ensure compliance with ASBO International’s MBA Criteria Checklist and other requirements.
+“An effective school budget is more than just numbers—it’s a vital tool for building trust and engaging the community,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “The Meritorious Budget Award recognizes districts like St. Vrain Valley School District that prioritize financial clarity and accountability. We commend their dedication to upholding nationally recognized budget presentation standards.”
+This achievement recognizes the outstanding efforts of St. Vrain’s finance team, who worked diligently to align the budget document with ASBO International’s rigorous criteria. “Receiving the Meritorious Budget Award for the third consecutive year reflects the expertise and dedication of our budget team,” said Tony Whiteley, Chief Financial Officer of St. Vrain Valley Schools. “Their work helps ensure that district resources are thoughtfully aligned to support our schools, programs, and long-term priorities.”
+For more information about the Meritorious Budget Award program, please visit
+ASBO International’s official website
+.
+
+Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
+
+### 60 St. Vrain Valley incoming seniors attend cybersecurity mini-internships
+
+- Published: 2026-06-12T13:37:21-06:00
+- Source URL: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
+
+About 60 St. Vrain Valley rising high school seniors are helping local businesses beef up their cybersecurity through a two-week, paid mini-internship program.
+The students, in sessions held at Silver Creek and Skyline high schools this month, spend the morning learning about the The National Institute of Standards and Technology, or NIST, Cybersecurity Framework and hearing from those who work in cybersecurity. In the afternoons, they work in teams with businesses to to conduct security audits.
+Read the full story in the Times-Call
+
+Source: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
 
 ### 2026 SCHS Graduation Photos
 
@@ -79,54 +122,6 @@ Longmont High School graduating senior Adalee Mathias kept track of each step of
 Read the full story in the Times-Call
 
 Source: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
-
-### Superintendent’s Update: Congratulations Class of 2026
-
-- Published: 2026-05-22T12:24:27-06:00
-- Source URL: https://www.svvsd.org/2026/05/22/superintendents-update-congratulations-class-of-2026/
-
-St. Vrain Valley Schools is grateful for the outstanding educators who inspire curiosity, build meaningful relationships, and empower students to reach their full potential. Our teachers are the heart of the St. Vrain Advantage, and we thank them for their dedication and lasting impact across our communities.
-View Full Video Library.
-Superintendent’s Update
-Our Graduates Are Proof of the Public School Advantage
-Graduation is my favorite time of year, and this spring, as I have the privilege of celebrating my first graduation season as Superintendent of St. Vrain Valley Schools, I am overwhelmed with pride for the approximately 2,400 graduates who will walk across the stage to receive their diplomas. Standing alongside our Board of Education, our teachers and staff, families, and the business and community partners who have invested so deeply in these students, there is no moment in education more powerful than watching a graduate step into their future. The Class of 2026 has earned every bit of the celebration they are about to receive.
-I have spent my entire career in public education because I believe that public schools are the greatest pathway to opportunity in America. In a time when public education faces no shortage of criticism and political headwinds, I want our community to know that what is happening inside St. Vrain Valley Schools should make everyone very proud. Our public schools are doing extraordinary work, and our graduates are living proof. They have been educated in a system that prioritizes opportunity through both rigorous academics and real-world relevance, tradition and innovation, and high expectations and genuine care for every child. This is the St. Vrain Advantage, and it is something we will continue to champion loudly and unapologetically.
-St. Vrain Valley Schools has achieved a 96.8% on-time graduation rate, the highest in the Denver Metro Area, while maintaining among the most rigorous graduation requirements of any school district in the region and the lowest dropout rate. Our students are meeting and exceeding expectations that would challenge students anywhere in the country, and that combination of high completion and high standards reflects the commitment our teachers, counselors, and staff make to every student who walks through our doors.
-This graduating class has shattered records in enrollment in Advanced Placement, International Baccalaureate, and concurrent enrollment college-level courses, earning thousands of college credits before receiving their high school diplomas. Those credits save families millions of dollars in future tuition costs and give our graduates a running start on their postsecondary journeys. Our seniors have also earned millions of dollars in scholarships, including some of the most prestigious awards in the state and nation. Daniels Scholars, National Merit honorees, and students accepted to highly competitive universities, military service academies, and sought-after apprenticeship and skilled trades programs are all represented in this graduating class.
-From their earliest years in our high-quality preschool programs through their final days of high school, these graduates have had access to an educational experience that is unmatched. They have thrived in our instructional focus academies spanning Biomedical Sciences, Engineering and Aerospace, Leadership, STEM, Visual and Performing Arts, P-TEACH, P-TECH, and dozens of workforce pathways that connect classroom learning to careers in cybersecurity, artificial intelligence, advanced manufacturing, healthcare, aerospace, and beyond. They have logged countless hours in internships and community service, and competed on athletic fields and performed on stages across the country. They have built world-championship robots, earned industry certifications, conducted original medical and scientific research, and in many cases, completed associate degrees before picking up their high school diplomas. Our world-class f...
-
-Source: https://www.svvsd.org/2026/05/22/superintendents-update-congratulations-class-of-2026/
-
-### Soaring Heights PK-8 Students Bring Shoe Designs to Life with Crocs, Inc.
-
-- Published: 2026-05-21T15:40:39-06:00
-- Source URL: https://www.svvsd.org/2026/05/21/soaring-heights-pk-8-students-bring-shoe-designs-to-life-with-crocs-inc/
-
-Sixth grade students at Soaring Heights PK-8 recently combined creativity and business strategy through a classroom economics project in partnership with Crocs, Inc., designing custom shoes while exploring key principles of economics. As part of the experience, the winning design created by Olivia Sanders and Taylor Wharry was later manufactured and presented to the students and their teachers.
-Olivia Sanders and Taylor Wharry, sixth grade students at Soaring Heights, pose with their winning shoe design from Crocs.
-Before the winning shoe design was chosen, students explored supply and demand, marketing, and pricing strategies. Working collaboratively in teams, they researched buyer trends and considered what kinds of designs would appeal to specific audiences. The students discussed how much their shoes should cost, what features would make their designs stand out from competitors, and how innovation can influence consumer interest.
-The project challenged students to think beyond the classroom by combining creativity with real-world business concepts. Melissa Layton, Vice President of Global Communications at Crocs, said the company was impressed by the thoughtful way students approached the process, from identifying their target audience to collaborating on designs that stood out. “Being able to bring the winning design to life and sharing the final product with the students made the experience even more meaningful and fun, and we look forward to creating with them again in the future,” she shared.
-Max Mandel, Sr. Director Digital Insights And Innovation at Crocs, and Melissa Layton, Vice President of Global Communications visit the classroom to meet the students and present the winning shoes
-.
-As students received the final shoe designs, the partnership highlighted how hands-on learning opportunities can connect classroom lessons to real-world experiences. Through collaboration and problem-solving, students gained a deeper understanding of economics while seeing firsthand how an idea can grow from a concept into a finished product.
-Students learn more about the Crocs brand and their sustainability efforts.
-
-Source: https://www.svvsd.org/2026/05/21/soaring-heights-pk-8-students-bring-shoe-designs-to-life-with-crocs-inc/
-
-### More Than Music: Erie Elementary Students Build Confidence and Connection Through Band
-
-- Published: 2026-05-19T16:17:08-06:00
-- Source URL: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
-
-Fourth and fifth grade students at Erie Elementary file into the music room with anticipation, eagerly pulling their instruments from their cases as they prepare for their final performance of the year. The sounds of trumpets, trombones, clarinets, flutes, and even a saxophone quickly fill the room as students warm-up. While a handful of students are returning for their second year in band, for many, this marks the very first time they have ever picked up an instrument.
-Since starting the program in 2013, band director and music teacher Anna Schultz has watched the program continuously grow each year. She believes introducing students to music at a young age gives them an opportunity to discover new interests while building confidence and connection with their peers. “At this age, there are a lot of opportunities for clubs and physical activities, but not as many for music,” Schultz shared. “Starting at a younger age provides them with a community to be a part of, and a chance to find an instrument that they enjoy playing.”
-At Erie Elementary, band has become more than just learning notes and rhythms. It has created a space where they can challenge themselves, collaborate with classmates, and build friendships as they prepare for performances throughout the year. Each student brings their own interests and inspirations to the program, creating a band community filled with different personalities and musical goals.
-For Aaron Farnsworth, a fourth grade saxophone player, music has always been part of his life. Growing up surrounded by family members who play instruments, such as the flute and clarinet, inspired his interest in music. However it was seeing a character play the saxophone in the Super Mario Brothers video game that convinced him to give the instrument a try. “If another student asked me about band, I would tell them they should do it and it’s really cool,” he shared.
-Fifth grade clarinet player Nora Mauck also found band to be a meaningful way to connect with others while further exploring her love of music. With previous experience playing the ukulele, she decided to join band and quickly discovered how much she enjoyed being part of the group. “Band is really fun, and you get to know a lot of people before middle school,” Nora shared. “My brother was in band and that’s where he met his best friend, and they’re still friends.”
-As the school year comes to a close, the excitement filling the music room reflects more than just preparation for a performance. For Erie Elementary students, band has become a place to discover new talents, gain confidence, and create lasting friendships through music.
-View Full Photo Album
-
-Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
 
 ### District alerts
 

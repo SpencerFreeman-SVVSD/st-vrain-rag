@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-15T08:32:07.014778-06:00
+generated_at: 2026-06-20T04:39:52.338463-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,49 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### St. Vrain Valley Schools receives ASBO Certificate of Excellence for 22nd consecutive year
+
+- Published: 2026-06-16T13:55:35-06:00
+- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
+
+St. Vrain Valley Schools has once again been honored with the Certificate of Excellence in Financial Reporting from the Association of School Business Officials International (ASBO), marking the 22nd consecutive year the district has received this prestigious award. The recognition is based on the district’s Annual Comprehensive Financial Report (ACFR) for the fiscal year ending June 30, 2025.
+This award recognizes school districts that meet the highest standards for financial reporting and transparency. To qualify, applicants submit their ACFR for review by a team of financial professionals who evaluate the report’s content, accuracy, and overall quality.
+“For over half a century, ASBO International’s Certificate of Excellence in Financial Reporting has been the gold standard for promoting and recognizing excellence in financial transparency,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “Clear and accurate financial reporting is crucial for engaging school communities and building their trust. Districts that earn the COE have demonstrated an extraordinary commitment to these principles.”
+“Earning this recognition year after year reflects a longstanding commitment to excellence in financial reporting,” said Tony Whiteley, Chief Financial Officer for St. Vrain Valley Schools. “Our team takes great pride in maintaining the high standards and fiscal stewardship that support the district’s operational and strategic priorities.”
+Participation in ASBO’s program also supports ongoing bond rating and disclosure processes, reinforcing the district’s commitment to fiscal responsibility.
+About ASBO International
+Founded in 1910, the Association of School Business Officials International (ASBO) represents approximately 30,000 school business professionals worldwide. ASBO supports student achievement through effective resource management in finance, operations, food services, and transportation. Learn more at
+asbointl.org
+.
+
+Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
+
+### St. Vrain Valley Schools Earns National Recognition for Budget Excellence
+
+- Published: 2026-06-16T13:54:12-06:00
+- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
+
+For the third consecutive year, St. Vrain Valley Schools has received the Meritorious Budget Award (MBA) from the Association of School Business Officials (ASBO) International for its fiscal year 2025-2026 budget. This award recognizes the district’s commitment to clear, transparent, and high-quality budget presentation.
+The Meritorious Budget Award acknowledges St. Vrain’s dedication to crafting budget documents that clearly communicate financial information to all stakeholders. A panel of school financial professionals reviewed the district’s submission to ensure compliance with ASBO International’s MBA Criteria Checklist and other requirements.
+“An effective school budget is more than just numbers—it’s a vital tool for building trust and engaging the community,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “The Meritorious Budget Award recognizes districts like St. Vrain Valley School District that prioritize financial clarity and accountability. We commend their dedication to upholding nationally recognized budget presentation standards.”
+This achievement recognizes the outstanding efforts of St. Vrain’s finance team, who worked diligently to align the budget document with ASBO International’s rigorous criteria. “Receiving the Meritorious Budget Award for the third consecutive year reflects the expertise and dedication of our budget team,” said Tony Whiteley, Chief Financial Officer of St. Vrain Valley Schools. “Their work helps ensure that district resources are thoughtfully aligned to support our schools, programs, and long-term priorities.”
+For more information about the Meritorious Budget Award program, please visit
+ASBO International’s official website
+.
+
+Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
+
+### 60 St. Vrain Valley incoming seniors attend cybersecurity mini-internships
+
+- Published: 2026-06-12T13:37:21-06:00
+- Source URL: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
+
+About 60 St. Vrain Valley rising high school seniors are helping local businesses beef up their cybersecurity through a two-week, paid mini-internship program.
+The students, in sessions held at Silver Creek and Skyline high schools this month, spend the morning learning about the The National Institute of Standards and Technology, or NIST, Cybersecurity Framework and hearing from those who work in cybersecurity. In the afternoons, they work in teams with businesses to to conduct security audits.
+Read the full story in the Times-Call
+
+Source: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
+
 ### 2026 SCHS Graduation Photos
 
 - Published: 2026-05-24T08:29:43-06:00
@@ -562,54 +605,6 @@ Longmont High School graduating senior Adalee Mathias kept track of each step of
 Read the full story in the Times-Call
 
 Source: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
-
-### Superintendent’s Update: Congratulations Class of 2026
-
-- Published: 2026-05-22T12:24:27-06:00
-- Source URL: https://www.svvsd.org/2026/05/22/superintendents-update-congratulations-class-of-2026/
-
-St. Vrain Valley Schools is grateful for the outstanding educators who inspire curiosity, build meaningful relationships, and empower students to reach their full potential. Our teachers are the heart of the St. Vrain Advantage, and we thank them for their dedication and lasting impact across our communities.
-View Full Video Library.
-Superintendent’s Update
-Our Graduates Are Proof of the Public School Advantage
-Graduation is my favorite time of year, and this spring, as I have the privilege of celebrating my first graduation season as Superintendent of St. Vrain Valley Schools, I am overwhelmed with pride for the approximately 2,400 graduates who will walk across the stage to receive their diplomas. Standing alongside our Board of Education, our teachers and staff, families, and the business and community partners who have invested so deeply in these students, there is no moment in education more powerful than watching a graduate step into their future. The Class of 2026 has earned every bit of the celebration they are about to receive.
-I have spent my entire career in public education because I believe that public schools are the greatest pathway to opportunity in America. In a time when public education faces no shortage of criticism and political headwinds, I want our community to know that what is happening inside St. Vrain Valley Schools should make everyone very proud. Our public schools are doing extraordinary work, and our graduates are living proof. They have been educated in a system that prioritizes opportunity through both rigorous academics and real-world relevance, tradition and innovation, and high expectations and genuine care for every child. This is the St. Vrain Advantage, and it is something we will continue to champion loudly and unapologetically.
-St. Vrain Valley Schools has achieved a 96.8% on-time graduation rate, the highest in the Denver Metro Area, while maintaining among the most rigorous graduation requirements of any school district in the region and the lowest dropout rate. Our students are meeting and exceeding expectations that would challenge students anywhere in the country, and that combination of high completion and high standards reflects the commitment our teachers, counselors, and staff make to every student who walks through our doors.
-This graduating class has shattered records in enrollment in Advanced Placement, International Baccalaureate, and concurrent enrollment college-level courses, earning thousands of college credits before receiving their high school diplomas. Those credits save families millions of dollars in future tuition costs and give our graduates a running start on their postsecondary journeys. Our seniors have also earned millions of dollars in scholarships, including some of the most prestigious awards in the state and nation. Daniels Scholars, National Merit honorees, and students accepted to highly competitive universities, military service academies, and sought-after apprenticeship and skilled trades programs are all represented in this graduating class.
-From their earliest years in our high-quality preschool programs through their final days of high school, these graduates have had access to an educational experience that is unmatched. They have thrived in our instructional focus academies spanning Biomedical Sciences, Engineering and Aerospace, Leadership, STEM, Visual and Performing Arts, P-TEACH, P-TECH, and dozens of workforce pathways that connect classroom learning to careers in cybersecurity, artificial intelligence, advanced manufacturing, healthcare, aerospace, and beyond. They have logged countless hours in internships and community service, and competed on athletic fields and performed on stages across the country. They have built world-championship robots, earned industry certifications, conducted original medical and scientific research, and in many cases, completed associate degrees before picking up their high school diplomas. Our world-class f...
-
-Source: https://www.svvsd.org/2026/05/22/superintendents-update-congratulations-class-of-2026/
-
-### Soaring Heights PK-8 Students Bring Shoe Designs to Life with Crocs, Inc.
-
-- Published: 2026-05-21T15:40:39-06:00
-- Source URL: https://www.svvsd.org/2026/05/21/soaring-heights-pk-8-students-bring-shoe-designs-to-life-with-crocs-inc/
-
-Sixth grade students at Soaring Heights PK-8 recently combined creativity and business strategy through a classroom economics project in partnership with Crocs, Inc., designing custom shoes while exploring key principles of economics. As part of the experience, the winning design created by Olivia Sanders and Taylor Wharry was later manufactured and presented to the students and their teachers.
-Olivia Sanders and Taylor Wharry, sixth grade students at Soaring Heights, pose with their winning shoe design from Crocs.
-Before the winning shoe design was chosen, students explored supply and demand, marketing, and pricing strategies. Working collaboratively in teams, they researched buyer trends and considered what kinds of designs would appeal to specific audiences. The students discussed how much their shoes should cost, what features would make their designs stand out from competitors, and how innovation can influence consumer interest.
-The project challenged students to think beyond the classroom by combining creativity with real-world business concepts. Melissa Layton, Vice President of Global Communications at Crocs, said the company was impressed by the thoughtful way students approached the process, from identifying their target audience to collaborating on designs that stood out. “Being able to bring the winning design to life and sharing the final product with the students made the experience even more meaningful and fun, and we look forward to creating with them again in the future,” she shared.
-Max Mandel, Sr. Director Digital Insights And Innovation at Crocs, and Melissa Layton, Vice President of Global Communications visit the classroom to meet the students and present the winning shoes
-.
-As students received the final shoe designs, the partnership highlighted how hands-on learning opportunities can connect classroom lessons to real-world experiences. Through collaboration and problem-solving, students gained a deeper understanding of economics while seeing firsthand how an idea can grow from a concept into a finished product.
-Students learn more about the Crocs brand and their sustainability efforts.
-
-Source: https://www.svvsd.org/2026/05/21/soaring-heights-pk-8-students-bring-shoe-designs-to-life-with-crocs-inc/
-
-### More Than Music: Erie Elementary Students Build Confidence and Connection Through Band
-
-- Published: 2026-05-19T16:17:08-06:00
-- Source URL: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
-
-Fourth and fifth grade students at Erie Elementary file into the music room with anticipation, eagerly pulling their instruments from their cases as they prepare for their final performance of the year. The sounds of trumpets, trombones, clarinets, flutes, and even a saxophone quickly fill the room as students warm-up. While a handful of students are returning for their second year in band, for many, this marks the very first time they have ever picked up an instrument.
-Since starting the program in 2013, band director and music teacher Anna Schultz has watched the program continuously grow each year. She believes introducing students to music at a young age gives them an opportunity to discover new interests while building confidence and connection with their peers. “At this age, there are a lot of opportunities for clubs and physical activities, but not as many for music,” Schultz shared. “Starting at a younger age provides them with a community to be a part of, and a chance to find an instrument that they enjoy playing.”
-At Erie Elementary, band has become more than just learning notes and rhythms. It has created a space where they can challenge themselves, collaborate with classmates, and build friendships as they prepare for performances throughout the year. Each student brings their own interests and inspirations to the program, creating a band community filled with different personalities and musical goals.
-For Aaron Farnsworth, a fourth grade saxophone player, music has always been part of his life. Growing up surrounded by family members who play instruments, such as the flute and clarinet, inspired his interest in music. However it was seeing a character play the saxophone in the Super Mario Brothers video game that convinced him to give the instrument a try. “If another student asked me about band, I would tell them they should do it and it’s really cool,” he shared.
-Fifth grade clarinet player Nora Mauck also found band to be a meaningful way to connect with others while further exploring her love of music. With previous experience playing the ukulele, she decided to join band and quickly discovered how much she enjoyed being part of the group. “Band is really fun, and you get to know a lot of people before middle school,” Nora shared. “My brother was in band and that’s where he met his best friend, and they’re still friends.”
-As the school year comes to a close, the excitement filling the music room reflects more than just preparation for a performance. For Erie Elementary students, band has become a place to discover new talents, gain confidence, and create lasting friendships through music.
-View Full Photo Album
-
-Source: https://www.svvsd.org/2026/05/19/more-than-music-erie-elementary-students-build-confidence-and-connection-through-band/
 
 ### District alerts
 
@@ -1049,15 +1044,10 @@ Source: https://www.svvsd.org/schools/maps-boundaries/
 ### School Calendar
 
 - Canonical URL: https://www.svvsd.org/schools/school-calendar/
-- Last modified: 2026-04-13T09:19:22-06:00
+- Last modified: 2026-06-16T08:12:53-06:00
 
 Academic Calendars
 Each year the Board of Education approves a calendar that shows the days in which District students are scheduled to attend school.
-2025-2026 Academic Calendars
-2025-2026 School Year
-(
-en español
-)
 2026-2027 Academic Calendars
 2026-2027 School Year
 (
@@ -1074,6 +1064,10 @@ Archived
 en español
 )
 2024-2025 School Year
+(
+en español
+)
+2025-2026 School Year
 (
 en español
 )
@@ -1343,7 +1337,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### State Testing Assessment Schedule
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-02-12T14:44:23-07:00
+- Last modified: 2026-06-18T16:24:13-06:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -1351,7 +1345,8 @@ Detailed information about Colorado’s assessment program can be found on the
 Colorado Department of Education Assessment page
 .
 Definitions:
-WIDA ACCESS
+WIDA
+ACCESS
 is a large-scale English language proficiency assessment given annually to kindergarten through 12th graders who have been identified as English Learners (EL) to monitor students’ progress in learning academic English. It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
 Colorado Measures of Academic Success (CMAS)
 includes assessments for English language arts (ELA), math, science, and social studies.
@@ -1369,8 +1364,10 @@ DIBELS 8th
 (Dynamic Indicators of Basic Early Literacy Skills) is a set of procedures and measures for assessing the acquisition of literacy skills.
 i-Ready
 is an adaptive diagnostic assessment that pinpoints students’ needs down to the sub-skill level in math and reading.
+CogAT/NGAT
+are universal screeners assessments used to support identification of students with exceptional cognitive abilities. The screeners contribute to a body of evidence for identifying students for gifted services or placement in talent development programming.
 DRDP-K
-is a child observation assessment that supports teachers in observing, documenting, and reflecting on children’s learning, development and progress during the transitional kindergarten and kindergarten years.
+is an observation-based assessment that is designed to track a student’s kindergarten readiness and developmental progress.
 Elementary School Assessment Schedule 2025-2026
 WIDA ACCESS (K-12): January 20 – 23, 2026
 Full Window: January 12 – February 13, 2026
@@ -10576,10 +10573,10 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/children-wit
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-04-29T14:54:52-06:00
+- Last modified: 2026-06-17T14:23:32-06:00
 
 Welcome to Preschool in St. Vrain
-On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience. Success begins here.
+On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience.
 Across St. Vrain Valley Schools, we recognize the importance of a quality early childhood experience for all children with emphasis around partnering with families. Parent involvement is highly encouraged and appreciated.
 Understanding that children learn in the home and school environment, our program is family focused and facilitates child learning in all developmental areas (cognitive, language, physical and social/emotional) and content areas (literacy, math, social studies, science, and the arts).
 Looking forward to a great school year together.
@@ -10587,7 +10584,6 @@ Shela Blankinship
 Director of Early Childhood Education
 Preschool Handbook
 Please review St. Vrain Valley Schools’ preschool handbook information below. There are four forms located at the bottom of the page that are required to be turned into your child’s school office. Please reach out to your child’s preschool for questions regarding the preschool handbook.
-Go to Parent/Guardian Forms
 Purpose and Philosophy
 The purpose of the District Preschool Program is to provide a high quality early childhood experience for your child in a safe, supportive and stimulating environment where children develop and progress through a developmentally appropriate curriculum. Our focus is to prepare children for Kindergarten, providing students a curriculum that promotes learning through intentional learning opportunities during the day supporting social and academic progress.
 Standards and Kindergarten Readiness
@@ -10620,21 +10616,41 @@ Full Day (M-F) – $1,342.00
 Programs Offered
 The St. Vrain Valley School District has 25 preschool programs located in elementary schools and Spark! Discovery Preschool serving children three and four years of age. Children must be three and four years of age on or before October 1st of the current year to be registered. Children with disabilities must be served by age three, therefore they may be enrolled throughout the year at their 3rd birthday.
 Universal Preschool Program
-The Colorado Department of Early Childhood (CDEC) now offers FREE preschool programming up to 15 hours, but no less than 10 hours per week for ALL in district boundary four-year-old children going into kindergarten the following year (age cutoff is 4 on or before October 1st) and some funding for three-year old’s with a qualifying factor(s). Applications must be submitted through the district only for 3-year olds and both the district and Universal Preschool Colorado parent portal linked below for age qualifying 4-year olds. Four-year old with a qualifying factor can be considered for full day programming should additional hours funding be made available through UPK. Supporting documentation for qualifying factors are required for proof of qualification.
-Should you have questions about Universal Preschool, please reach out to our local coordinating Local Coordinating Organization, the Early Childhood Council of Boulder County, at 720-548-3981.
+The Colorado Department of Early Childhood (CDEC) offers free preschool programming for all in district four-year-old children who will enter kindergarten the following school year. Eligible children must be 4 years old on or before Oct. 1 of the school year in which they are enrolling and may receive between 10 and 15 hours of preschool programming per week.
+Funding is also available for some three-year-old children with qualifying factors. Families of three-year-old children should submit a district preschool application. Families of eligible four-year-old children must complete both the district preschool application and the Universal Preschool Colorado (UPK) parent application linked below.
+Four-year-old children with qualifying factors may be considered for additional UPK funding to access full-day preschool programming if additional hours become available. Supporting documentation is required to verify qualifying factors.
+Should you have questions about Universal Preschool, please reach out to our local coordinating Local Coordinating Organization, the Early Childhood Council of Boulder County, at 720-548-3987.
 https://upk.colorado.gov/
 Special Needs/Disabilities
-Preschools in the St. Vrain Valley School District work collaboratively with the District’s Special Education Department in the assessment, identification, and programming for children with disabilities. We work with parents, special education, and the preschool staff to determine the best program for the child based on individual needs. If you have a concern about your child’s development, please speak to your preschool teacher.
+St. Vrain Valley Schools preschools work collaboratively with the Special Education Department in the assessment, identification and programming of children with disabilities. We partner with families, special education staff and classroom teachers to determine the best program and supports for each child based on their individual needs.
+If you have concerns about your child’s development, please speak with your child’s teacher.
+Translation Services
+The Translation and Interpretation Services Liaisons support our schools’ and departments’ efforts to communicate with families who speak or prefer other languages. To request translation and/or interpretation services, please contact your school’s main office.
+Click here
+for contact information for all schools.
+Please visit the
+Translation and Interpretation Services website
+for more information.
 Transportation
 District transportation is not provided for preschool programs unless it is determined to be a related service for children with disabilities and addressed through the Individualized Education Plan (IEP), or special education administrative placement.
 Attendance
 Consistent daily attendance is expected of your student to achieve optimal educational benefits. Missing school sets students back in their learning, and children learn best with consistency. Parents are expected to make all efforts to have their students at school each day with the exception of illness or a family emergency. Attendance is tracked and monitored for student’s continuation in the preschool program.
-Vision, Hearing, and Dental Screenings
-As part of the preschool enrollment process, every new preschool student has the opportunity to receive a developmental screening. This will help us to begin to know more about your student, providing the teacher with useful information in meeting your child’s individual needs. This will include vision, hearing, and dental screenings.
+Developmental and Health Screenings
+As part of the preschool enrollment process, preschool students have the opportunity to participate in voluntary developmental and health screenings. These screenings help staff better understand each student’s strengths and provide valuable information to support individual learning and developmental needs.
+Parent/guardian consent is required prior to participation in any screening. Screening results are confidential and shared only with families to support each student’s growth and success. If concerns are identified, families will be provided with information regarding available resources and support services.
+Developmental Screenings
+New preschool students have the opportunity to participate in developmental screenings that may include social-emotional, cognitive, and language development.
+Annual Vision, Hearing, and Dental Screenings
+Preschool students have the opportunity to participate in annual vision, hearing, and dental screenings. Vision and hearing screenings are provided through the St. Vrain Valley Schools Health Services Department, and dental screenings are provided in partnership with the Sunshine Club.
+General Health Appraisal
+A General Health Appraisal Form completed by your child’s health care provider is required for all preschool students in accordance with Colorado Department of Early Childhood (CDEC) licensing requirements. The General Health Appraisal Form can be found in the Parent/Guardian Forms section.
+Within 30 calendar days of admission, and within 30 calendar days following the expiration of a previous health statement, parents/guardians must submit a statement of the student’s current health status or written verification of a scheduled appointment with a health care provider. The health statement must be signed and dated by a health care provider who has examined the student within the previous 12 months and must include the date of the next recommended visit.
 Toileting
-Typically developing children are expected to be potty trained while understanding accidents may occasionally occur. If a student has consistent toileting accidents, a meeting will be held to determine appropriateness of continued programming. In the event of an accident, we will help the child change and the soiled clothing will be sent home in a plastic bag. Students should be provided extra clothing daily in case of accidents. If no extra clothing is provided, the Health Clerk has limited clothing for emergencies. Please return the loaned clothing promptly after it has been washed.
-In accordance with non-discriminatory laws and policies (Americans with Disabilities Act/ADA and Individuals with Disabilities Education Act/IDEA), children with disabilities will not be excluded from District preschools due to the lack of successful potty training. Diapering will be conducted according to state health department and child care licensing standards.
-Supply List
+Children attending preschool are generally expected to be toilet trained, while recognizing that occasional accidents are a normal part of development. In the event of a toileting accident, staff will assist the student with changing, and soiled clothing will be sent home.
+Parents/guardians must provide an extra set of clothing for their student each day in case of accidents. Extra clothing must be placed directly in the student’s backpack and may not be sent in a Ziploc bag, plastic bag, or any other separate bag to ensure it is readily accessible when needed.
+If a student experiences ongoing toileting accidents, the preschool team will collaborate with the family to determine appropriate supports and discuss the student’s individual needs and continued success in the program.
+In accordance with the Americans with Disabilities Act (ADA) and the Individuals with Disabilities Education Act (IDEA), students with disabilities will not be excluded from District preschool programs due to a lack of successful toilet training. Diapering will be conducted in accordance with state health department and child care licensing requirements.
+Preschool Supply List
 1 Box (10 ct.) Washable Colored Broad Tip Markers
 4 Glue Sticks
 1 Tray of Washable Watercolors
@@ -10645,18 +10661,7 @@ Child Behavior Guidance
 Our aim is to promote a positive learning environment where all students can succeed academically, socially, and emotionally. Our preschool classrooms utilize positive behavior supports and developmentally appropriate behavior guidance as supported with our social emotional curriculum, Promoting Alternative Thinking Strategies (PATHS). If you have any questions regarding these guidelines, please ask your child’s teacher. In challenging situations, teachers will use positive guidance, redirection, and logical/natural consequences.
 Teaching staff will teach desired classroom expectations. Students will also be taught appropriate ways to express their needs and manage their emotions. Instructional and/or environmental changes along with individual student accommodations will be made in hopes to deescalate undesirable behaviors If a child displays a pattern of negative behavior or has a serious behavior, a meeting will take place with parents to colaborate and discuss next steps and as deemed appropriate, a Child Behavior Plan will be developed. The district has Early Childhood Coaches for supporting children and faculty in such situations. The district also employs behavior consultants or other specialists as needed, who may be asked to collaborate with the staff and parents.
 Student Supervision, Authorized Pick-Up
-Classroom teaching staff will ensure that each parent/guardian signs in their child upon arrival and departure from the classroom daily. Teachers will continuously monitor the presence of children throughout the preschool day in the classroom, on the playground, and on field trips. Children will have their name to face head count taken before and after each transition. Please assist them by following the school’s procedures at all times:
-An authorized adult, 18 years or older, must sign children in and out of the classroom; children can be left after the teacher knows of his/her presence. The sign-out portion of the log and facility is checked at the end of each day before it is closed and vacated.
-Authorized persons not known to the staff by sight will be required to provide a photo I.D. before the child will be released to them. Children will not be released to any person who has not been authorized in writing by the parent/guardian. Please notify the teacher of any changes in persons authorized to pick up your child.
-Late Pick-Up Procedure
-It is critical for young children to come to school on time and be picked up on time. All parents must provide three emergency contact persons on their lists with current phone numbers and addresses.
-Parents may not list themselves or their spouse as an emergency contact, nor should they list a distant relative. Contacts must be people who would be available to pick up a child in the event of an emergency. Persons picking up children must be 18 years of age or older.
-School staff will attempt to make immediate contact with the parent. If the parent cannot get to school within a reasonable length of time, the staff and parent will discuss child pick-up.
-If no contact is made with the parent, the school staff will call the emergency contacts immediately and involve the principal’s office. If necessary, the school staff will notify the Director of Early Childhood Education.
-If all of the above steps have been exhausted and approximately 1 hour or more has passed, the school staff will then call the local law enforcement for assistance in locating the parents.
-Weather, Sunscreen
-The preschool class will go outside daily for outdoor learning and physical development. In the case of severe, inclement or excessively hot weather conditions, the school principal will cancel or limit outdoor play and teachers will provide alternate activities inside the school.
-Understanding the importance of applying sunscreen to assist in limiting children’s exposure to harmful UV rays. St. Vrain Preschool Programs will apply Rocky Mountain Sunscreen SPF 30 to all children prior to sun exposure on exposed skin, to include but not limited to the face, top of ears...
+Classroom teaching staff will ensure that each parent/guardian signs in their child upon arrival and departure from the classroom daily. Teachers will continuously monitor the presence of children throughout the preschool day in the classroom, on the playground, and on field trips. Children will have their name to face head count taken before and after each transition. Please assist them b...
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
 
@@ -11773,7 +11778,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-06-15T07:52:35-06:00
+- Last modified: 2026-06-16T11:18:02-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -11815,7 +11820,7 @@ Frederick High School – Jen Kenfield
 Grand View Elementary – Marc Gorenstein
 Highlands Elementary – Kate Trifiletti
 Human Resources (ESC) – Josie Vigil
-Hygiene Elementary – Amanda Dawson
+Hygiene Elementary – Zuzana Garcala
 Indian Peaks Elementary – Stacy Trembly & Dora Villavicencio
 Innovation Center – Socorro Marquez
 Learning Services – Jane Lim
@@ -11939,7 +11944,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-06-03T15:08:56-06:00
+- Last modified: 2026-06-17T10:34:57-06:00
 
 Ongoing Resources
 Active&Fit
@@ -11963,7 +11968,7 @@ Looking to build your financial knowledge? ENT Credit Union offers ongoing free 
 ENT Credit Union Events
 ENT Credit Union Podcasts
 Headspace
-Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you
+Did you know Headspace is free for educators? Headspace is your guide to better mental health. Through evidence-based meditation and mindfulness tools, sleep resources, mental health coaching, and more, Headspace helps you create life-changing habits to support your mental health and find a healthier, happier you.
 Create Your Headspace Account
 Maternity Program
 Whether you are considering having a baby or are already expecting, UMR Maternity CARE can explain how to reduce your risk of complications and prepare you to have a successful, full-term pregnancy and a healthy baby.
@@ -12398,7 +12403,7 @@ Executive Administrative Assistant
 goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Technician
-303-682-7290
+303-682-2290
 kocourek_katarina@svvsd.org
 Bruna Omati
 Human Resources Specialist
@@ -12459,11 +12464,11 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Administrators
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/administrators/
-- Last modified: 2026-05-18T13:55:38-06:00
+- Last modified: 2026-06-17T13:12:17-06:00
 
 New Employee Information
 Congratulations on your new administrative position with St. Vrain Valley Schools
-. As the 7th largest district in the State of Colorado, boasting over 5000 employees, we are committed to providing our students with the highest quality education. Your addition to the team of talented and energetic professionals is a testament to our ongoing mission of academic excellence by design. We’re excited to have you on board! To align you with some of our practices and procedures, we’ve highlighted some key areas of focus for you to explore.
+. As the 7th largest district in the State of Colorado, boasting over 5,000 employees, we are committed to providing our students with the highest quality education. Your addition to the team of talented and energetic professionals is a testament to our ongoing mission of academic excellence by design. We’re excited to have you on board! To align you with some of our practices and procedures, we’ve highlighted some key areas of focus for you to explore.
 Pay Schedule
 St Vrain Valley Schools employees are paid once a month, on the last working day of the month.
 Benefits
@@ -12499,6 +12504,7 @@ Spring Break (refer to Work Calendar)
 Memorial Day
 To view your specific work calendar, please click
 here
+.
 Evaluations
 The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Administrative employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found at
 hr.svvsd.org
@@ -12523,13 +12529,11 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2026-06-02T07:29:24-06:00
+- Last modified: 2026-06-17T13:24:31-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
 As the 7th largest district in the State of Colorado, boasting over 5000 employees, we are committed to providing our students with the highest quality education. Your addition to the team of talented and energetic professionals is a testament to our ongoing mission of academic excellence by design. We’re excited to have you on board! To align you with some of our practices and procedures, we’ve highlighted some key areas of focus for you to explore.
-Pay Schedule
-St Vrain Valley Schools employees are paid once a month, on the last working day of the month. Employees who are hired and begin working after the 15th of the month will be paid the following month.
 Benefits
 Benefits will begin on the first of the month following 31 days after your first date of employment. For example, if you begin working August 9th, your benefits will begin October 1st.
 You are eligible for the District provided Basic Life Insurance if you have a regular FTE position and are scheduled to work 10 or more hours per week. If you work 17.5 hours or more per week in a regular FTE position, you are eligible for all District benefits. Please refer to the
@@ -12555,7 +12559,7 @@ St. Vrain Valley Schools provides ongoing educational support for certified, adm
 opd.svvsd.org
 .
 Pay Schedule
-Employees get paid once a month on the last working day of the month. Most Certified Employees are paid August through July in twelve equal payments.
+Employees get paid once a month on the last working day of the month. Most Certified Employees are paid August through July in twelve equal payments. Employees who are hired and begin working after the 15th of the month will be paid the following month.
 Fingerprints
 In addition to fingerprints required for Colorado Department of Education (CDE) licensing, St. Vrain Valley Schools requires an additional set of fingerprints on file. Employees do not receive reimbursement for this.
 Requesting Time Off and Obtaining a Guest Teacher
@@ -12584,13 +12588,11 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Classified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/classified-professional-technical-employees/
-- Last modified: 2026-06-02T07:30:58-06:00
+- Last modified: 2026-06-17T13:30:15-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
 As the 7th largest district in the State of Colorado, boasting over 5000 employees, we are committed to providing our students with the highest quality education. Your addition to the team of talented and energetic professionals is a testament to our ongoing mission of academic excellence by design. We’re excited to have you on board! To align you with some of our practices and procedures, we’ve highlighted some key areas of focus for you to explore.
-Pay Schedule
-St Vrain Valley Schools employees are paid once a month, on the last working day of the month. Employees who are hired and begin working after the 15th of the month will be paid the following month.
 Benefits
 Benefits will begin on the first of the month following 31 days after your first date of employment. For example, if you begin working August 9th, your benefits will begin October 1st.
 You are eligible for the District provided Basic Life Insurance if you have a regular FTE position and are scheduled to work 10 or more hours per week. If you work 17.5 hours or more per week in a regular FTE position, you are eligible for all District benefits. Please refer to the
@@ -12607,7 +12609,7 @@ Annually, as of June 30th, up to 40 hours of PTO will remain in the employee’s
 hr.svvsd.org
 > Handbooks.
 If you have been hired for a bus driver position please check with your hiring manager regarding PTO.
-Vacation Leave for 248 Day Employees Only
+Vacation for 248 Day Employees Only
 Vacation is granted to all 248-Day employees. Vacation leave is based on the number of months of service and will be accrued on a monthly basis. Please refer to the Classified Handbook for the accrued vacation leave schedule. Earned vacation will be accrued up to 240 hours. Additional accruals will resume when the employee’s balance falls below 240 hours. See Section 3.9 in the Classified Handbook for further information.
 Listed below are scheduled holidays and other non-work days for 12 month (248-Day) employees.
 Independence Day
@@ -12646,13 +12648,11 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Professional Technical Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/professional-technical-employees/
-- Last modified: 2026-06-02T07:31:36-06:00
+- Last modified: 2026-06-17T13:35:51-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
 As the 7th largest district in the State of Colorado, boasting over 5000 employees, we are committed to providing our students with the highest quality education. Your addition to the team of talented and energetic professionals is a testament to our ongoing mission of academic excellence by design. We’re excited to have you on board! To align you with some of our practices and procedures, we’ve highlighted some key areas of focus for you to explore.
-Pay Schedule
-St Vrain Valley Schools employees are paid once a month, on the last working day of the month. Employees who are hired and begin working after the 15th of the month will be paid the following month.
 Benefits
 Benefits will begin on the first of the month following 31 days after your first date of employment. For example, if you begin working August 9th, your benefits will begin October 1st.
 You are eligible for the District provided Basic Life Insurance if you have a regular FTE position and are scheduled to work 10 or more hours per week. If you work 17.5 hours or more per week in a regular FTE position, you are eligible for all District benefits. Please refer to the
@@ -12667,7 +12667,7 @@ Paid Time Off (PTO)
 PTO is a benefit to all Professional Technical employees. For every month that an employee is assigned to work, the employee will accumulate leave equal to the number of hours that the employee is assigned to work each day. Annually, as of June 30th, up to 40 hours of PTO will remain in the employee’s PTO account. Any remaining hours of PTO above 40 hours will be converted to Accrued Sick Leave. See Section 4.1 in the APT Handbook for additional information,
 hr.svvsd.org
 > Handbooks.
-Vacation Leave for 248 Day Employees
+Vacation Leave for 248 Day Employees Only
 Only Professional Technical employees who are on a 248 day calendar receive vacation leave. Professional Technical personnel who are assigned 248 days, based on FTE, will earn twenty paid vacation days during the contract year beginning July 1. For new employees, vacation time will be front-loaded for your use and prorated based on start date. In each subsequent year, vacation will be accrued monthly, and prorated based on FTE. Earned vacation will be accrued up to 240 hours. When an employee’s balance falls below 240 hours the employee will resume accruing vacation hours. See Section 3.9 of the APT Handbook for further information,
 hr.svvsd.org
 > Handbooks.
@@ -12693,7 +12693,7 @@ St. Vrain Valley Schools provides ongoing educational support for Professional T
 opd.svvsd.org
 .
 Pay Schedule
-Employees get paid once a month on the last working day of the month. Most Professional Technical employees are paid July through June in twelve equal payments.
+Employees get paid once a month on the last working day of the month. Most Professional Technical employees are paid July through June in twelve equal payments. Employees who are hired and begin working after the 15th of the month will be paid the following month.
 Fingerprints
 St. Vrain Valley Schools requires each employee to be fingerprinted. Employees are charged $40 for the background check, $20 deducted from the first two paychecks.
 Welcome to PERA
@@ -12850,7 +12850,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-05-13T07:22:21-06:00
+- Last modified: 2026-06-18T09:28:54-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -12858,7 +12858,7 @@ In accordance with the Agreement between the St. Vrain Valley Education Associat
 Teachers and licensed employees newly hired for the current school year will be placed on the salary schedule at the appropriate education level documented by official transcripts and granted initial experience step placement according to the language in Appendix A, Section 1 & Section 2 of the Master Agreement. For the current school year, teachers will receive one step for each year of prior qualified teaching experience, up to a maximum of six years and will be placed at a maximum of step 7.
 Classified staff are placed on the Classified Salary Schedule based on the market price and salary range for the particular position applied for. Previous years of experience in a similar position and job related education/training are considered when formulating salary.
 For specific questions related to salary placement, please contact Human Resources at 303-682-7435.
-2025-2026 Salary Schedules
+2026-2027 Salary Schedules
 Please click the links below for this school year’s current schedules.
 Administrator Salary Schedule
 Professional/Technical Salary Schedule
@@ -13826,7 +13826,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 ### Community Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/community-facility-use/
-- Last modified: 2025-08-07T10:30:49-06:00
+- Last modified: 2026-06-18T10:06:51-06:00
 
 The Facility Use Department manages all non-district use of school buildings and fields. All use must align with established policies, procedures, and regulations, which outline permitted activities.
 A separate fee structure applies to user groups to ensure district funds remain focused on educating students while supporting appropriate community access.
@@ -13840,10 +13840,7 @@ by phone or email.
 Submitting a Request / Community Log In
 All facility use requests must be submitted through the
 Community Use Portal
-. To begin the process See
-Community Event Manager Manua
-l
-or for further assistance, contact the Facility Use Department.
+. To begin the process, please contact the Facility Use Department.
 Please note: Charter schools manage their own facility rentals and must be contacted directly for use of their spaces.
 Insurance Requirement
 Most users must provide a Certificate of Liability Insurance with a minimum of $1,000,000 in general liability coverage. The certificate must name:
@@ -13863,7 +13860,7 @@ Outdoor Facility Use
 Youth Group Gym Facility Use
 Youth Group Indoor Facility Use
 Announcements
-2025-2026 School Year Timelines are posted below!
+2026-2027 School Year Timelines are posted below!
 Timelines
 Athletic Timeline
 Processing of contracts will begin 6 weeks prior to each season start. See below for season dates:
@@ -15439,7 +15436,7 @@ Source: https://www.svvsd.org/departments/priority-programs/
 ### Dyslexia Task Force
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
-- Last modified: 2026-04-09T11:21:37-06:00
+- Last modified: 2026-06-15T12:29:33-06:00
 
 OVERVIEW
 The goal of St. Vrain Valley Schools’ Dyslexia Task Force is to provide high quality support to students with dyslexic characteristics. The model of support includes using current research, evidence-based interventions and early identification screeners to support students identified as dyslexic, or who have characteristics of dyslexia.
@@ -15460,8 +15457,8 @@ Coming Fall 2026
 YES! Events:
 Coming Fall 2026
 Upcoming Dyslexia Simulations:
-June 2026
-details available soon
+Details available
+Fall 2026
 
 Source: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
 
