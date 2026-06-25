@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-22T07:42:44.460753-06:00
+generated_at: 2026-06-25T04:52:41.771312-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,36 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Commentary: This new path into teaching could be a way out of the teacher shortage
+
+- Published: 2026-06-24T09:54:28-06:00
+- Source URL: https://www.svvsd.org/2026/06/24/commentary-this-new-path-into-teaching-could-be-a-way-out-of-the-teacher-shortage/
+
+The P-TEACH initiative lowers costs and opens doors for high school students who are interested in careers in education
+By
+Stanley Litow and Diallo Shabazz
+, Published in the
+Albany Times Union
+June 24, 2026
+As schools across the country struggle to recruit and retain qualified educators, New York’s investment may prove far more significant than its price tag suggests.
+Modeled after the successful P-TECH (Pathways in Technology Early College High School) framework, P-TEACH creates partnerships between school districts and public colleges to establish pipelines into teaching careers. Students can graduate in four to six years with both a high school diploma and an associate’s degree while also receiving mentoring from experienced educators and paid internships working in classrooms.
+Gov. Kathy Hochul has warned of an approaching “
+steep retirement cliff
+” for teachers, and according to a recent Georgetown University
+labor market analysis
+, U.S. schools will need approximately 611,000 new teachers over the next four years. New York alone is expected to need roughly 180,000 educators over the next decade, even as enrollment in teacher preparation programs continues to decline. In New York City, recently enacted class-size reductions are expected to increase demand for classroom teachers even further.
+For many young people the cost of college and the burden of student debt make the profession difficult to justify. P-TEACH directly addresses that barrier by allowing students to earn substantial college credit before graduating from high school, potentially saving families thousands of dollars.
+Colleges benefit from students who arrive academically prepared and less likely to require remedial coursework, and school districts gain a pipeline of homegrown educators who already understand and reflect the communities they serve.
+P-TEACH programs have already demonstrated strong results in other states. In Colorado, St. Vrain Valley Schools launched its P-TEACH program in 2018 and now enrolls more than 100 students. Over the years, 347 students have earned more than 2,000 college credits through the program, with 96% receiving grades of A or B. Students also logged approximately 16,000 hours in paid internships and field experiences and built strong mentor relationships with teachers they already knew and trusted. Graduates can work as paraprofessionals or substitute teachers while pursuing bachelor’s degrees.
+Similar models have expanded to Maryland and Texas, where teaching is the fastest growing pathway in Dallas, said Reo Pruiett, chief programs and engagement officer with the nonprofit Educate Texas. In Dallas, where every district high school includes a P-TECH program, approximately
+200 future teachers
+recently received letters of intent guaranteeing future teaching positions upon completion of their bachelor’s degrees and certification requirements.
+Many students in the teaching program, particularly Latinx ones, want to stay close to their community, which means they will likely stay in their district for longer than other new teachers. They want to stay near home and relatives, Pruiett said: “They’re looking at it as being a role model and giving back to their community. They’re vested.”
+For New York, the investment is tiny in budgetary terms. But if the program succeeds, it could become one of the state’s smartest long-term education investments. By lowering barriers into the profession, strengthening local teacher pipelines and helping districts cultivate educators from within their own communities, P-TEACH offers something increasingly rare in education policy: a practical solution with proven results.
+Stanley Litow, a former deputy chancellor of the New York City schools, founded the P-TECH model while head of the IBM Foundation. Diallo Shabazz is the executive director of the nonprofit national P-TECH Alliance.
+
+Source: https://www.svvsd.org/2026/06/24/commentary-this-new-path-into-teaching-could-be-a-way-out-of-the-teacher-shortage/
+
 ### St. Vrain Valley Schools receives ASBO Certificate of Excellence for 22nd consecutive year
 
 - Published: 2026-06-16T13:55:35-06:00
@@ -593,18 +623,6 @@ Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools C
 2026 New Meridian Graduation Photo Album
 
 Source: https://www.svvsd.org/2026/05/22/2026-nmhs-graduation-photos/
-
-### St. Vrain Valley high schools celebrate successes of 2026 graduates
-
-- Published: 2026-05-22T12:29:52-06:00
-- Source URL: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
-
-About 2,400 receive diplomas
-Longmont High School graduating senior Adalee Mathias kept track of each step of her high school experience.
-“It took 1,375 days, and hopefully a few less tardies, to get to this field with these caps and gowns on and so many amazing memories,” Mathias told her fellow graduates.
-Read the full story in the Times-Call
-
-Source: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
 
 ### District alerts
 
@@ -11881,35 +11899,12 @@ worthington_chara@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
 
-### Nurse Health Coaching
+### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
 - Last modified: 2025-12-02T12:58:45-07:00
 
-Health Coaching
-Contact our Health Coaches if you are looking to make an impactful change in your life. All
-benefit eligible
-employees are able to receive this service
-free of charge
-! Our certified coaches will meet you where you are on your health journey and empower you to be the best version of yourself. Coaching is available whenever you want to schedule it and at whatever location is best to meet.
-To sign up, click below and one of the coaches will be sure to reach out to you!
-Sign Up Here
-Meet Our Coaches:
-Jerri Mason – R.N., B.S.N., C.H.C
-Jerri Mason is very passionate about living a healthy lifestyle! She is a Colorado native and enjoys spending time with family and friends, healthy cooking, gardening, and her more active endeavors include mountaineering, cycling, circuit training, golf, and snowboarding. Jerri has worked in the healthcare and wellness industry for over 30 years. Through her lifelong commitment to learning, she has completed and held various certifications including the most recent Health Coach Certification through the National Society of Health Coaches. Jerri has been health coaching over 10 yr and 8 of those at SVVSD.
-Jerri is looking forward to working with you! She is energized by helping others and believes that we each have the inner ability to lead healthy lives. Through her experiences and education, she has gained understanding that each individual’s path to wellness is unique. She wants to partner and support you in ways that truly work for you. If you have considered taking steps towards better health, Jerri can help you in a supportive, individualized, and positive way. Jerri can assist you with weight loss/maintenance, healthy eating, exercise, hypertension, stress management, depression, high blood cholesterol, and host of other health related things. You will set and reach goals that will create a healthier and happier You! Jerri’s work hours are Tuesdays, Wednesdays and Thursdays. Her office is located at the Lincoln building at 619 Bowen St., Longmont.
-Dana Ballare-Davidson – BSN, RN, NC-BC
-Dana is a Registered Nurse and a Board-Certified Nurse Coach. She received a Bachelor of Science in Nursing from the University of Colorado and spent the first 10 years of her career caring for people in the hospital. She furthered her education in nutrition by completing a certificate program from Tufts University and found her calling during her training to become a Nurse Coach in 2017.
-As a
-weight neutral
-coach, Dana is passionate about supporting people’s health directly through realistic behavior change that is centered around flexibility, nourishment and satisfaction rather than encouraging food restriction or trials of weight loss. She believes that each person deserves and has the potential to achieve well-being in their own unique way regardless of body size or shape. Coaching is rooted in the philosophy that each client is an expert in their health and wellness. She honors the fact that you know your body best and when we trust and listen to our bodies, while having a supportive, compassionate healthcare team, profound healing can happen. Dana has coached the employees of SVVSD since 2019 and has loved supporting each client in discovering what health looks like for them. Check out testimonials from past and present clients
-here
-. If you are curious about
-divesting from dieting
-and finding more peace with food and body, reach out to Dana!
-Dana grew up in Colorado Springs and has lived in Lafayette since 2014. She enjoys food in all forms, skiing, golfing, hiking, biking to brunch, paddle boarding and just having fun with her husband and 2 young children.
-Lori Hartmann – MA, Health Coach
-Lori holds a Master’s degree in holistic health education and is a certified professional life coach. Her background includes 15+ years in the health and wellness field. Lori has helped hundreds of clients lose weight, get in-shape, eat healthier, improve relationships, enhance careers, sleep better, increase energy, change jobs, create balance and enjoy life more. Lori is deeply passionate about helping people live their best life through balancing what is important to them in mind, body and spirit. Her approach stems from curiosity, compassion and the belief that everyone has the right to and can feel their best. Balance is something Lori strives for in her own life. Lori believes that life is to be enjoyed, self-care is essential and that most things in moderation are just fine (yes, even chocolate). Lori feels privileged to be part of others’ journey and believes with a willingness and desire for change, anything is possible
+This page is undergoing updates – check back soon!
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
 
@@ -13865,17 +13860,15 @@ Timelines
 Athletic Timeline
 Processing of contracts will begin 6 weeks prior to each season start. See below for season dates:
 Fall Sports
-: August 18th – October 31st
+: August 17th – October 31st
 Winter Sports
-: November 1st – December 19th
+: November 2nd – December 18th
 Early Spring Sports
-: January 6th – March 13th
+: January 5th – March 12th
 Late Spring Sports
-: March 23rd – May 21st
+: March 22nd – May 31st
 Summer Sports Requests
-(
-FIELDS ONLY
-): May 25th – June 30th / July 1st – July 31st
+(FIELDS ONLY): June 1st – June 30th / July 1st – July 31st
 Auditorium Timeline
 Auditorium event requests may be submitted beginning July 1.
 July 1 – October 31 events:
@@ -14002,7 +13995,7 @@ Creating a welcoming environment that supports the education & well-being of stu
 Developed October, 2022 by Nutrition Services Kitchen Managers
 Learn about our partnership with CETC, students supporting our Farm to School Program efforts.
 SVVSD Announces No-Cost Meals For All Students
-For the 2025-2026 school year, St Vrain Valley Schools (SVVSD) will provide no-cost Breakfast (at participating sites) and Lunch for all students. The below schools will participate in the Community Eligibility Provision.
+For the 2026-2027 school year, St Vrain Valley Schools (SVVSD) will provide no-cost Breakfast (at participating sites) and Lunch for all students. The below schools will participate in the Community Eligibility Provision.
 Elementary CEP Schools
 Alpine Elementary School
 Black Rock Elementary School
@@ -14325,9 +14318,9 @@ Please continue to fill out the
 Education Benefit Form
 . While meals will be provided for free to all
 St Vrain students through Healthy School Meals for All, it’s important for us to continue gathering this information to receive full access to available federal funds that support educational programs at your school.
-We ask all St Vrain families to please complete the form during registration for the school year. By providing this information, you will help our district access all available funds and grants to assist in educational programs for students. Plus, families who fill out the form may qualify to receive discounted iPad insurance and school fees, class materials, bus passes, utilities support and more!
+Families who complete the Education Benefits Form may qualify to receive discounted iPad insurance and school fees, class materials, bus passes, utilities support and more!
 All household income information provided through this form is strictly confidential and protected by law. Only one form is required for all children in the household. Immigration, migrant, citizenship or refugee status is not required when completing the form.
-If you have questions about completing the form, please contact your school’s nutrition department. Learn more about the Healthy School Meals for All program in this short video:
+If you have questions about completing the form, please contact the Nutrition Services Department. Learn more about the Healthy School Meals for All program in this short video:
 Family Benefits to Submitting an
 Education Benefits Form
 :
@@ -14335,9 +14328,9 @@ Education Benefits Form
 ● After-school program fees may be reduced or waived.
 ● Preschool programs fees may be reduced or waived.
 ● AP course fees, college preparatory tests and college application fees may be reduced or waived
-● Access to community food banks services are available.
+● Access to the Summer-EBT card for free and reduced eligible students
 ● Discounts on utilities and internet service may be available.
-● Discounts for participation in community groups like sports or YMCA programs may be available. ●Access to the Summer-EBT card for free and reduced eligible students
+● Discounts for participation in community groups like sports or YMCA programs may be available.
 School Benefits to Submitting an
 Education Benefits Form
 :
@@ -15051,30 +15044,29 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/speci
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-ebt/
 - Last modified: 2026-03-16T09:53:42-06:00
 
-Staring Summer 2024, Summer EBT (S-EBT) is available for eligible Colorado residents. Summer EBT helps families buy food during the summer months. If you qualify, you will get $40 per child for each month when school is not in session. This amounts to up to $120 per child. You’ll receive a card pre-loaded with money in the mail.
-You Are Eligible If…
-You already participate in SNAP, TANF or Medicaid
-Your child attends a school that offers the National School Lunch or School Breakfast program and you qualify based on income
+Colorado’s Summer EBT program gives families a one-time $120 grocery benefit for each eligible child over the summer, when kids aren’t getting the meals they usually eat at school.
+Most eligible children are automatically enrolled in Summer EBT, but some will need to apply.
+You Are Eligible If You…
+Are approved for free or reduced-price benefits
+Are receiving benefits from SNAP, TANF or FDPIR
+Are receiving Medicaid AND meet the income guidelines for the National School Lunch Program
 How Can You Receive Benefits?
-Make sure your school has a benefits form or household income application on file
-Make sure your school has your current address and parent/guardian information
-Your family will automatically qualify if you participate in SNAP, TANF or Medicaid EBT cards will be mailed by the Colorado Department of Human Services.
+Make sure your district has an
+Education Benefits Form
+on file for the current school year. You must submit a new application each year.
+Make sure your school has your current address and parent/guardian information by updating your profile in Infinite Campus.
+Your family will automatically qualify if you participate in SNAP, TANF or Medicaid. EBT cards will be mailed by the Colorado Department of Human Services.
+Quick Links:
+Check My Enrollment
+Apply Now
+Manage Your myColorado Account
+Frequently Asked Questions
 For more information:
 Colorado Department of Human Resources
-Questions regarding eligibility should be referred to the
-CDHS webpage
-or call center by calling 800-536-5298, texting 720-741-0550 or emailing
+More Questions? Contact CDHS:
+Phone: 888.328.2656
+Email:
 cdhs_sebt_supportcenter@state.co.us
-.
-FAQ
-Do preschool students qualify for S-EBT?
-Yes, if preschoolers attend a school participating in the National School Lunch Program or School Breakfast Program and qualify based on free or reduced-price eligibility status or direct certification then they are able receive benefits.
-Will students who are not directly certified and attend a non-NSLP school receive S-EBT funds?
-No, students who are not directly certified and attend a site that does not participate in the National School Lunch Program or School Breakfast Program will not qualify for S-EBT benefits.
-Can a student who is not currently attending a NSLP school but was enrolled at some point during the current school year qualify for S-EBT benefits?
-Students that have been enrolled in a school participating in the National School Lunch Program at any point during the current school year qualify for S-EBT benefits.
-What is the opt-out procedure for families?
-Families will receive a notice letter included with their card or mailed to them as part of auto-issuance which will include instructions for destroying the card and opting out of the benefits should they wish to decline. Families have a timeframe to expend the funds they receive. If the money is not spent by that expiration date, the money is returned to the USDA.
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-ebt/
 
@@ -15123,37 +15115,6 @@ There is no site in my area. How can summer meals be offered in my community nex
 If there are no summer meals sites in your community, we can help. Email No Kid Hungry at bestpractices@strength.org.
 What else can I do to help?
 You can share information about free summer meals on social media; with friends; family members and neighbors; and with any community groups or faith-based congregations that you belong to. Share the texting hotline (“Text FOOD or COMIDA to 304-304 to find free summer meals in our community”)
-Summer EBT
-Staring Summer 2024, Summer EBT (S-EBT) is available for eligible Colorado residents. Summer EBT helps families buy food during the summer months. If you qualify, you will get $40 per child for each month when school is not in session. This amounts to up to $120 per child. You’ll receive a card pre-loaded with money in the mail.
-You Are Eligible If…
-You already participate in SNAP, TANF or Medicaid
-Your child attends a school that offers the National School Lunch or School Breakfast program and you qualify based on income
-How Can You Receive Benefits?
-Make sure your school has a benefits form or household income application on file
-Make sure your school has your current address and parent/guardian information
-Your family will automatically qualify if you participate in SNAP, TANF or Medicaid EBT cards will be mailed by the Colorado Department of Human Services.
-For more information:
-Colorado Department of Human Services
-Questions regarding eligibility should be referred to the
-CDHS webpage
-or call center by calling 800-536-5298, texting 720-741-0550 or emailing
-cdhs_sebt_supportcenter@state.co.us
-.
-New Tool: Unlock Benefits with Single Stop
-Families may qualify for a range of public benefits and support services and not even realize it.
-Single Stop is a benefit screening tool, designed with strong privacy and data security protections,
-that helps you discover what support you’re eligible for – including SNAP, WIC, healthcare
-assistance, utility help and more.
-Take me to the screener!
-FAQ
-Do preschool students qualify for S-EBT?
-Yes, if preschoolers attend a school participating in the National School Lunch Program or School Breakfast Program and qualify based on free or reduced-price eligibility status or direct certification then they are able receive benefits.
-Will students who are not directly certified and attend a non-NSLP school receive S-EBT funds?
-No, students who are not directly certified and attend a site that does not participate in the National School Lunch Program or School Breakfast Program will not qualify for S-EBT benefits.
-Can a student who is not currently attending a NSLP school but was enrolled at some point during the current school year qualify for S-EBT benefits?
-Students that have been enrolled in a school participating in the National School Lunch Program at any point during the current school year qualify for S-EBT benefits.
-What is the opt-out procedure for families?
-Families will receive a notice letter included with their card or mailed to them as part of auto-issuance which will include instructions for destroying the card and opting out of the benefits should they wish to decline. Families have a timeframe to expend the funds they receive. If the money is not spent by that expiration date, the money is returned to the USDA.
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-meals-2/
 
@@ -20941,15 +20902,16 @@ Source: https://www.svvsd.org/programs/p-teach/
 - Last modified: 2025-11-11T10:39:13-07:00
 
 Pathways in Technology Early College High School
-St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Biochemistry (Aims Community College), Cybersecurity (Aims Community College) and General Business (Front Range Community College).
+St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Pharma Manufacturing (Aims Community College), Cybersecurity (Aims Community College) and Business Administration (Front Range Community College).
 St. Vrain Valley Schools P-TECH serves approximately 450-500 students annually. 55% of P-TECH students are first generation college students, and 41% are second language learners.
 P-TECH By the Numbers:
-223 P-TECH students have earned an associate’s degree at no cost to them.
-Since 2019, 344 P-TECH students have engaged in internship opportunities.
+303 P-TECH students have earned an associate’s degree at no cost to them.
+P-TECH students have earned over 260 industry certifications in Microsoft Office, Python, CompTIA A+, CompTIA Network+, CompTIA Security+, and CompTIA Cloud+.
+Since 2019, 440 P-TECH students have engaged in internship opportunities.
 P-TECH works with over 18 different industry partners.
 Over one third of P-TECH graduates have gone on to pursue a bachelor’s degree.
-P-TECH has 312 active mentors working with P-TECH students (almost one to one).
-Upon receiving their associate degree, 30+ P-TECH graduates have landed jobs with the following companies: Corden Pharma, IBM, Agilent, CISCO, BI Inc, City of Longmont, St. Vrain Valley Schools’ District Technology Services Department, Intrado, Life and Safety, Adams 12 Schools, BPG Designs SafeBUILT, and URSA Major.
+P-TECH has 468 active mentors working with P-TECH students (almost one to one).
+Upon receiving their associate degree, 45+ P-TECH graduates have landed jobs with the following companies: Corden Pharma, IBM, Agilent, CISCO, BI Inc, City of Longmont, St. Vrain Valley Schools’ District Technology Services Department, Intrado, Life and Safety, Adams 12 Schools, BPG Designs SafeBUILT, and URSA Major.
 
 Source: https://www.svvsd.org/programs/p-tech/
 
@@ -20999,10 +20961,10 @@ FalconTECH at Skyline High School
 Students enrolled in FalconTECH at Skyline High School earn an Associate of Applied Science in Computer Information Systems from Front Range Community College, and receive significant mentorship and internship support from industry partners, IBM, ANM, CGI, and District Technology Services.
 Learn More about FalconTECH
 EagleTECH at Frederick High School
-Students enrolled in EagleTECH at Frederick High School earn an associate degree focusing on biochemistry from Aims Community College, and receive significant mentorship and internship support from industry partners, AGC Biologics, Agilent Technologies, Corden Pharma, KBI Biopharma, and Umoja Biopharma.
+Students enrolled in EagleTECH at Frederick High School earn an associate degree focusing on Biopharma Manufacturing from Aims Community College, and receive significant mentorship and internship support from industry partners – Agilent Technologies, Corden Pharma, KBI Biopharma, and Umoja Biopharma.
 Learn more about EagleTECH
 RaptorTECH at Silver Creek High School
-Students enrolled in RaptorTECH at Silver Creek High School earn an associate degree focusing on cybersecurity from Front Range Community College, and receive significant mentorship and internship support from industry partners, Cisco, Comcast, Juniper Networks, and Seagate Technologies.
+Students enrolled in RaptorTECH at Silver Creek High School earn an associate degree focusing on cybersecurity from Aims Community College, and receive significant mentorship and internship support from industry partners, Cisco, Comcast, GeVernova, and Seagate Technologies.
 Learn more about RaptorTECH
 TrojanTECH at Longmont High School
 Students enrolled in TrojanTECH at Longmont High School earn an associate degree focusing on business from Front Range Community College, and receive significant mentorship and internship support from industry partners, City of Longmont, Longmont Chamber of Commerce, Longmont Downtown Development Authority, Longmont Economic Development Partnership, and the Latino Chamber of Commerce of Boulder County.
@@ -23344,6 +23306,11 @@ For the most up-to-date salary schedules, please visit the
 Human Resources website
 .
 Prior Years Salary Schedules
+2025-2026
+Administrator Salary Schedule
+Professional/Technical Salary Schedule
+Licensed Salary Schedule
+Classified Pay Rate Schedule
 2024-2025
 Administrator Salary Schedule
 Professional/Technical Salary Schedule

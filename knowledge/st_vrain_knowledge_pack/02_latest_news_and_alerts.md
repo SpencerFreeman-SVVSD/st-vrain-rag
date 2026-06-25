@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-22T07:42:44.460753-06:00
+generated_at: 2026-06-25T04:52:41.771312-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,36 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Commentary: This new path into teaching could be a way out of the teacher shortage
+
+- Published: 2026-06-24T09:54:28-06:00
+- Source URL: https://www.svvsd.org/2026/06/24/commentary-this-new-path-into-teaching-could-be-a-way-out-of-the-teacher-shortage/
+
+The P-TEACH initiative lowers costs and opens doors for high school students who are interested in careers in education
+By
+Stanley Litow and Diallo Shabazz
+, Published in the
+Albany Times Union
+June 24, 2026
+As schools across the country struggle to recruit and retain qualified educators, New York’s investment may prove far more significant than its price tag suggests.
+Modeled after the successful P-TECH (Pathways in Technology Early College High School) framework, P-TEACH creates partnerships between school districts and public colleges to establish pipelines into teaching careers. Students can graduate in four to six years with both a high school diploma and an associate’s degree while also receiving mentoring from experienced educators and paid internships working in classrooms.
+Gov. Kathy Hochul has warned of an approaching “
+steep retirement cliff
+” for teachers, and according to a recent Georgetown University
+labor market analysis
+, U.S. schools will need approximately 611,000 new teachers over the next four years. New York alone is expected to need roughly 180,000 educators over the next decade, even as enrollment in teacher preparation programs continues to decline. In New York City, recently enacted class-size reductions are expected to increase demand for classroom teachers even further.
+For many young people the cost of college and the burden of student debt make the profession difficult to justify. P-TEACH directly addresses that barrier by allowing students to earn substantial college credit before graduating from high school, potentially saving families thousands of dollars.
+Colleges benefit from students who arrive academically prepared and less likely to require remedial coursework, and school districts gain a pipeline of homegrown educators who already understand and reflect the communities they serve.
+P-TEACH programs have already demonstrated strong results in other states. In Colorado, St. Vrain Valley Schools launched its P-TEACH program in 2018 and now enrolls more than 100 students. Over the years, 347 students have earned more than 2,000 college credits through the program, with 96% receiving grades of A or B. Students also logged approximately 16,000 hours in paid internships and field experiences and built strong mentor relationships with teachers they already knew and trusted. Graduates can work as paraprofessionals or substitute teachers while pursuing bachelor’s degrees.
+Similar models have expanded to Maryland and Texas, where teaching is the fastest growing pathway in Dallas, said Reo Pruiett, chief programs and engagement officer with the nonprofit Educate Texas. In Dallas, where every district high school includes a P-TECH program, approximately
+200 future teachers
+recently received letters of intent guaranteeing future teaching positions upon completion of their bachelor’s degrees and certification requirements.
+Many students in the teaching program, particularly Latinx ones, want to stay close to their community, which means they will likely stay in their district for longer than other new teachers. They want to stay near home and relatives, Pruiett said: “They’re looking at it as being a role model and giving back to their community. They’re vested.”
+For New York, the investment is tiny in budgetary terms. But if the program succeeds, it could become one of the state’s smartest long-term education investments. By lowering barriers into the profession, strengthening local teacher pipelines and helping districts cultivate educators from within their own communities, P-TEACH offers something increasingly rare in education policy: a practical solution with proven results.
+Stanley Litow, a former deputy chancellor of the New York City schools, founded the P-TECH model while head of the IBM Foundation. Diallo Shabazz is the executive director of the nonprofit national P-TECH Alliance.
+
+Source: https://www.svvsd.org/2026/06/24/commentary-this-new-path-into-teaching-could-be-a-way-out-of-the-teacher-shortage/
 
 ### St. Vrain Valley Schools receives ASBO Certificate of Excellence for 22nd consecutive year
 
@@ -110,18 +140,6 @@ Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools C
 2026 New Meridian Graduation Photo Album
 
 Source: https://www.svvsd.org/2026/05/22/2026-nmhs-graduation-photos/
-
-### St. Vrain Valley high schools celebrate successes of 2026 graduates
-
-- Published: 2026-05-22T12:29:52-06:00
-- Source URL: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
-
-About 2,400 receive diplomas
-Longmont High School graduating senior Adalee Mathias kept track of each step of her high school experience.
-“It took 1,375 days, and hopefully a few less tardies, to get to this field with these caps and gowns on and so many amazing memories,” Mathias told her fellow graduates.
-Read the full story in the Times-Call
-
-Source: https://www.svvsd.org/2026/05/22/st-vrain-valley-high-schools-celebrate-successes-of-2026-graduates/
 
 ### District alerts
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-22T07:42:44.460753-06:00
+generated_at: 2026-06-25T04:52:41.771312-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -246,6 +246,11 @@ For the most up-to-date salary schedules, please visit the
 Human Resources website
 .
 Prior Years Salary Schedules
+2025-2026
+Administrator Salary Schedule
+Professional/Technical Salary Schedule
+Licensed Salary Schedule
+Classified Pay Rate Schedule
 2024-2025
 Administrator Salary Schedule
 Professional/Technical Salary Schedule
