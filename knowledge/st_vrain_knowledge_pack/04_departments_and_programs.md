@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-25T04:52:41.771312-06:00
+generated_at: 2026-06-26T05:12:41.628648-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9364,6 +9364,17 @@ No charge to parents for eligible programs and services
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
 
+### Staff Resources
+
+- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+- Last modified: 2026-06-23T09:16:06-06:00
+
+This area contains forms, and information related to Early Childhood Staff. Please
+log in
+with your staff credentials to access these resources
+
+Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
@@ -10678,7 +10689,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2025-12-02T12:58:45-07:00
+- Last modified: 2026-06-23T08:43:23-06:00
 
 This page is undergoing updates – check back soon!
 
@@ -10789,7 +10800,7 @@ Employee Calendars
 195 Day & Main St Para Calendar 2026-2027 August – July
 198 KB
 195 Day Calendar 2026-2027 August – July
-203 KB
+204 KB
 196 Day Calendar 2026-2027 August – July
 199 KB
 198 Day Calendar 2026-2027 August – July
@@ -10807,7 +10818,7 @@ Employee Calendars
 205 Day Calendar 2026-2027 August – July
 198 KB
 205 Day Calendar 2026-2027 NS August – July
-200 KB
+198 KB
 210 Day & Certified Calendar 2026-2027 August – July
 208 KB
 210 Day Calendar – APT 2026-2027 July – June
@@ -12597,7 +12608,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 ### Community Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/community-facility-use/
-- Last modified: 2026-06-18T10:06:51-06:00
+- Last modified: 2026-06-22T15:18:14-06:00
 
 The Facility Use Department manages all non-district use of school buildings and fields. All use must align with established policies, procedures, and regulations, which outline permitted activities.
 A separate fee structure applies to user groups to ensure district funds remain focused on educating students while supporting appropriate community access.
@@ -12759,7 +12770,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/maintenance/mai
 ### Nutrition Services
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/
-- Last modified: 2025-10-03T13:08:56-06:00
+- Last modified: 2026-06-22T09:09:38-06:00
 
 Nutrition Services
 The St. Vrain Valley School District’s Department of Nutrition Services provides quality, nutritious and well balanced meals to the District’s students. The Department strives to provide meals at a reasonable price and to make sure that all meals meet the National School Breakfast and Lunch nutritional guidelines providing a ¼ of the RDA (recommended dietary guidelines) at breakfast and 1/3 of the RDA’S at lunch for students. In addition to the Department’s goal of providing healthy meals for students, the Department works to be an efficient, self-supporting enterprise program within the District.
@@ -13084,7 +13095,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/emplo
 ### Free & Reduced: The Education Benefit Form
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-reduced-the-education-benefit-form/
-- Last modified: 2026-06-04T09:51:31-06:00
+- Last modified: 2026-06-22T09:28:59-06:00
 
 Education Benefit Form
 All students in St Vrain Valley Schools have access to free healthy, nutritious school meals thanks to the Healthy School Meals for All program approved by Colorado voters in November 2023.
@@ -13818,7 +13829,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/speci
 ### Summer EBT
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-ebt/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-06-22T13:03:33-06:00
 
 Colorado’s Summer EBT program gives families a one-time $120 grocery benefit for each eligible child over the summer, when kids aren’t getting the meals they usually eat at school.
 Most eligible children are automatically enrolled in Summer EBT, but some will need to apply.
@@ -13849,7 +13860,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Summer Meals
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/summer-meals-2/
-- Last modified: 2026-06-04T10:11:31-06:00
+- Last modified: 2026-06-22T09:21:50-06:00
 
 “I have the audacity to believe that people everywhere can have three meals a day for their bodies, education and culture for the minds and dignity, equality and freedom for their spirits.”
 Martin Luther King, Jr.
@@ -13923,10 +13934,6 @@ Luana Campos
 Facility Use Coordinator
 303-682-7433
 campos_luana@svvsd.org
-Richard Peebles
-Executive Director of Safety and Security
-303-682-7207
-peebles_richard@svvsd.org
 Bryan Zwisler
 Executive Director of Construction and Maintenance
 303-682-7320
@@ -19675,7 +19682,7 @@ Source: https://www.svvsd.org/programs/p-teach/
 ### P-TECH
 
 - Canonical URL: https://www.svvsd.org/programs/p-tech/
-- Last modified: 2025-11-11T10:39:13-07:00
+- Last modified: 2026-06-22T11:50:38-06:00
 
 Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Pharma Manufacturing (Aims Community College), Cybersecurity (Aims Community College) and Business Administration (Front Range Community College).
@@ -19730,7 +19737,7 @@ Source: https://www.svvsd.org/programs/p-tech/become-a-mentor/
 ### P-TECH Programs
 
 - Canonical URL: https://www.svvsd.org/programs/p-tech/p-tech-programs/
-- Last modified: 2025-04-04T15:41:28-06:00
+- Last modified: 2026-06-22T11:50:36-06:00
 
 St. Vrain Valley Schools offers four P-TECH programs. Students enroll in ninth grade and complete the program in 4-6 years.
 FalconTECH at Skyline High School

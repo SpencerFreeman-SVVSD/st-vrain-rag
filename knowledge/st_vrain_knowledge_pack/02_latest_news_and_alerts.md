@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-25T04:52:41.771312-06:00
+generated_at: 2026-06-26T05:12:41.628648-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,50 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### St. Vrain Valley Schools Students Eligible for Direct Admission to CU Denver
+
+- Published: 2026-06-25T12:30:21-06:00
+- Source URL: https://www.svvsd.org/2026/06/25/st-vrain-valley-schools-students-eligible-for-direct-admission-to-cu-denver/
+
+St. Vrain Valley Schools students who have demonstrated strong academic achievement are now eligible to receive a direct admission offer from the University of Colorado Denver (CU Denver) through a new partnership between the district and the university.
+Under the agreement, current St. Vrain juniors and seniors who have earned a weighted 3.0 GPA or higher will receive a direct admission offer from CU Denver without first submitting a traditional application. The partnership recognizes students’ academic accomplishments and provides another postsecondary option for those considering a four-year degree.
+“Our students work hard to meet rigorous academic expectations throughout their time in St. Vrain,” said Superintendent Jackie Kapushion. “We appreciate CU Denver’s recognition of their achievements and the opportunities this partnership provides for students who choose to pursue a four-year degree.”
+The partnership reflects St. Vrain’s continued commitment to preparing students for success after high school through rigorous academics, Advanced Placement courses, concurrent enrollment, and career-connected learning opportunities.
+“Students who challenge themselves academically should be able to see a clear path to college,” said CU Denver Chancellor Kenneth T. Christensen. “This partnership with St. Vrain recognizes that hard work. At CU Denver, we are committed to making higher education accessible, attainable, and connected to students’ goals.”
+The agreement is effective immediately and applies to the current cohort of St. Vrain juniors and seniors who meet the eligibility requirements.
+
+Source: https://www.svvsd.org/2026/06/25/st-vrain-valley-schools-students-eligible-for-direct-admission-to-cu-denver/
+
+### Teaching: A Career Worth Choosing
+
+- Published: 2026-06-25T09:24:54-06:00
+- Source URL: https://www.svvsd.org/2026/06/25/teaching-a-career-worth-choosing/
+
+By the end of her first year teaching, Mary Kusbel expected to feel exhausted. Instead, she felt energized. “It’s really easy when you’re on social media to see people focusing on the challenges facing public education or saying teacher burnout is at an all-time high,” Kusbel said. “That made me nervous going into my first year.” But as the school year progressed, she found herself feeling increasingly certain she had chosen the right profession. “I have more energy at the end of the year than I did when I started,” she said. “I feel like I’m doing what I’m supposed to be doing.”
+Read the full story in the St. Vrainnovation Magazine
+
+Source: https://www.svvsd.org/2026/06/25/teaching-a-career-worth-choosing/
+
+### What Does it Mean to be Future-Ready?
+
+- Published: 2026-06-25T09:24:41-06:00
+- Source URL: https://www.svvsd.org/2026/06/25/what-does-it-mean-to-be-future-ready/
+
+What is the role of public education in a time of rapid change? The World Economic Forum predicts that 65% of children entering kindergarten today will work in job categories that do not yet exist.¹ How can public education prepare students so that by the time they have completed their K-12 journey, they are ready to succeed in the world that awaits them?
+Read the full story in the St. Vrainnovation Magazine
+
+Source: https://www.svvsd.org/2026/06/25/what-does-it-mean-to-be-future-ready/
+
+### The Public School Advantage
+
+- Published: 2026-06-25T08:52:22-06:00
+- Source URL: https://www.svvsd.org/2026/06/25/the-public-school-advantage/
+
+From my earliest memories, I knew I wanted to be an educator. Thirty-eight years later, that calling still guides me, and my conviction that public schools are among the most important institutions in America has only deepened. They are the heartbeat of every community they serve, and are the gathering places, resource hubs, and centers of tradition and shared identity that build a community. And they remain the single greatest pathway to opportunity this country has ever created.
+Read the full story in the St. Vrainnovation Magazine
+
+Source: https://www.svvsd.org/2026/06/25/the-public-school-advantage/
 
 ### Commentary: This new path into teaching could be a way out of the teacher shortage
 
@@ -100,46 +144,6 @@ Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools C
 2026 Skyline High Graduation Photo Album
 
 Source: https://www.svvsd.org/2026/05/23/2026-shs-graduation-photos/
-
-### 2026 NHS Graduation Photos
-
-- Published: 2026-05-23T14:53:54-06:00
-- Source URL: https://www.svvsd.org/2026/05/23/2026-nhs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Niwot High Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/23/2026-nhs-graduation-photos/
-
-### 2026 FHS Graduation Photos
-
-- Published: 2026-05-23T14:42:26-06:00
-- Source URL: https://www.svvsd.org/2026/05/23/2026-fhs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Frederick High Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/23/2026-fhs-graduation-photos/
-
-### 2026 Erie High School Graduation Photos
-
-- Published: 2026-05-23T13:27:02-06:00
-- Source URL: https://www.svvsd.org/2026/05/23/2026-erie-high-school-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Erie High School Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/23/2026-erie-high-school-graduation-photos/
-
-### 2026 NMHS Graduation Photos
-
-- Published: 2026-05-22T13:51:06-06:00
-- Source URL: https://www.svvsd.org/2026/05/22/2026-nmhs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 New Meridian Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/22/2026-nmhs-graduation-photos/
 
 ### District alerts
 

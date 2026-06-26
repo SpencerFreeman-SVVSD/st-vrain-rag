@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-25T04:52:41.771312-06:00
+generated_at: 2026-06-26T05:12:41.628648-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -136,7 +136,7 @@ It is an instrument of control in spending practices. It indicates the current y
 General Fund
 The St. Vrain Valley School District’s annual General Fund operating budget is used to teach students, to purchase textbooks and other classroom supplies, for student transportation, and to maintain school buildings and grounds. It funds special education programs, school-based focus programs, charter schools and programs for students for whom English is a second language. It is used to pay salaries for teachers and other staff, provide health and retirement benefits, and support additional ongoing professional training.
 ST. VRAIN VALLEY SCHOOL DISTRICT RE-1J
-PROPOSED BUDGET SUMMARY BY FUND
+ADOPTED BUDGET SUMMARY BY FUND
 FISCAL YEAR ENDING JUNE 30, 2027
 Other Funds
 In addition to the FY27 General Fund expenditure budget of $525.4 million, the District manages 10 other funds. Separate from the General Fund, expenditure budgets for all other funds total approximately $449.1 million. A summary and description of these funds are listed below.
@@ -153,7 +153,7 @@ The Colorado Preschool Fund was used to track state-funded CPP program funds for
 Budget Report Archive
 A listing of adopted budgets and subsequent amended budgets are made available to the public.
 2027
-Proposed budget for the fiscal year ending June 30, 2027
+Adopted budget for the fiscal year ending June 30, 2027
 2026
 Adopted budget for the fiscal year ending June 30, 2026
 Amended budget for the fiscal year ending June 30, 2026
@@ -239,7 +239,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Historic Salary Schedules or Policies
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/historic-salary-schedules/
-- Last modified: 2025-08-04T10:04:38-06:00
+- Last modified: 2026-06-22T15:32:34-06:00
 
 Historic Salary Schedules or Policies
 For the most up-to-date salary schedules, please visit the
@@ -321,6 +321,7 @@ January
 February
 March
 April
+May
 2025
 January
 February
