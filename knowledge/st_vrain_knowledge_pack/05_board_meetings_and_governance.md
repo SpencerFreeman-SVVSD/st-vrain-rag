@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-26T05:12:41.628648-06:00
+generated_at: 2026-06-27T04:20:23.898219-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -1132,9 +1132,9 @@ Board of Education Member Events for August
 August 1, 2026
 Board of Education Member Events for July
 July 1, 2026
-Board of Education Regular Meeting
-June 24, 2026
 Board of Education Study Session
+June 24, 2026
+Board of Education Regular Meeting
 June 24, 2026
 Board of Education Study Session
 June 17, 2026
@@ -1453,15 +1453,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-july-7/
 
-### Board of Education Regular Meeting
-
-- Meeting date: June 24, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
-
 ### Board of Education Study Session
 
 - Meeting date: June 24, 2026
@@ -1470,6 +1461,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
+
+### Board of Education Regular Meeting
+
+- Meeting date: June 24, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
 
 ### Board of Education Study Session
 

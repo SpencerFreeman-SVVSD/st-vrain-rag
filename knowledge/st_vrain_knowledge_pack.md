@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-26T05:12:41.628648-06:00
+generated_at: 2026-06-27T04:20:23.898219-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -15136,7 +15136,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Operations Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
-- Last modified: 2026-01-27T12:59:53-07:00
+- Last modified: 2026-06-25T08:08:16-06:00
 
 Operations Leadership Team
 Brian Lamer
@@ -15190,6 +15190,10 @@ Julie Testa
 Construction Manager
 303-702-7524
 testajewell_julie@svvsd.org
+Debbie Sumrall
+Executive Director of Security and School Safety
+303-682-7207
+sumrall_debbie@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
 
@@ -22223,9 +22227,9 @@ Board of Education Member Events for August
 August 1, 2026
 Board of Education Member Events for July
 July 1, 2026
-Board of Education Regular Meeting
-June 24, 2026
 Board of Education Study Session
+June 24, 2026
+Board of Education Regular Meeting
 June 24, 2026
 Board of Education Study Session
 June 17, 2026
@@ -22544,15 +22548,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-july-7/
 
-### Board of Education Regular Meeting
-
-- Meeting date: June 24, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
-
 ### Board of Education Study Session
 
 - Meeting date: June 24, 2026
@@ -22561,6 +22556,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
+
+### Board of Education Regular Meeting
+
+- Meeting date: June 24, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
 
 ### Board of Education Study Session
 
@@ -23197,7 +23201,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Adopted Budget
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/fiscal-budgets/
-- Last modified: 2026-05-28T07:14:52-06:00
+- Last modified: 2026-06-25T08:20:00-06:00
 
 District Adopted Budget
 State law requires the Board of Education to adopt and appropriate a budget for all District funds each year. The Budget serves three primary purposes:
@@ -23381,7 +23385,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-05-28T09:41:17-06:00
+- Last modified: 2026-06-25T10:15:11-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-26T05:12:41.628648-06:00
+generated_at: 2026-06-27T04:20:23.898219-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -13908,7 +13908,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Operations Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
-- Last modified: 2026-01-27T12:59:53-07:00
+- Last modified: 2026-06-25T08:08:16-06:00
 
 Operations Leadership Team
 Brian Lamer
@@ -13962,6 +13962,10 @@ Julie Testa
 Construction Manager
 303-702-7524
 testajewell_julie@svvsd.org
+Debbie Sumrall
+Executive Director of Security and School Safety
+303-682-7207
+sumrall_debbie@svvsd.org
 
 Source: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
 
