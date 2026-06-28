@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-27T04:20:23.898219-06:00
+generated_at: 2026-06-28T04:32:42.672496-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9364,17 +9364,6 @@ No charge to parents for eligible programs and services
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
 
-### Staff Resources
-
-- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-- Last modified: 2026-06-23T09:16:06-06:00
-
-This area contains forms, and information related to Early Childhood Staff. Please
-log in
-with your staff credentials to access these resources
-
-Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
@@ -10689,7 +10678,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2026-06-23T08:43:23-06:00
+- Last modified: 2025-12-02T12:58:45-07:00
 
 This page is undergoing updates – check back soon!
 
@@ -11185,7 +11174,7 @@ Executive Administrative Assistant
 goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Technician
-303-682-2290
+303-682-7290
 kocourek_katarina@svvsd.org
 Bruna Omati
 Human Resources Specialist
@@ -13908,7 +13897,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Operations Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
-- Last modified: 2026-06-25T08:08:16-06:00
+- Last modified: 2026-01-27T12:59:53-07:00
 
 Operations Leadership Team
 Brian Lamer

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-27T04:20:23.898219-06:00
+generated_at: 2026-06-28T04:32:42.672496-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -10592,17 +10592,6 @@ No charge to parents for eligible programs and services
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
 
-### Staff Resources
-
-- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-- Last modified: 2026-06-23T09:16:06-06:00
-
-This area contains forms, and information related to Early Childhood Staff. Please
-log in
-with your staff credentials to access these resources
-
-Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
@@ -11917,7 +11906,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2026-06-23T08:43:23-06:00
+- Last modified: 2025-12-02T12:58:45-07:00
 
 This page is undergoing updates – check back soon!
 
@@ -12413,7 +12402,7 @@ Executive Administrative Assistant
 goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Technician
-303-682-2290
+303-682-7290
 kocourek_katarina@svvsd.org
 Bruna Omati
 Human Resources Specialist
@@ -15136,7 +15125,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Operations Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
-- Last modified: 2026-06-25T08:08:16-06:00
+- Last modified: 2026-01-27T12:59:53-07:00
 
 Operations Leadership Team
 Brian Lamer
@@ -22227,9 +22216,9 @@ Board of Education Member Events for August
 August 1, 2026
 Board of Education Member Events for July
 July 1, 2026
-Board of Education Study Session
-June 24, 2026
 Board of Education Regular Meeting
+June 24, 2026
+Board of Education Study Session
 June 24, 2026
 Board of Education Study Session
 June 17, 2026
@@ -22548,15 +22537,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-july-7/
 
-### Board of Education Study Session
-
-- Meeting date: June 24, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: June 24, 2026
@@ -22565,6 +22545,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
+
+### Board of Education Study Session
+
+- Meeting date: June 24, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
 
 ### Board of Education Study Session
 
@@ -23201,7 +23190,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Adopted Budget
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/fiscal-budgets/
-- Last modified: 2026-06-25T08:20:00-06:00
+- Last modified: 2026-05-28T07:14:52-06:00
 
 District Adopted Budget
 State law requires the Board of Education to adopt and appropriate a budget for all District funds each year. The Budget serves three primary purposes:
@@ -23385,7 +23374,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-06-25T10:15:11-06:00
+- Last modified: 2026-05-28T09:41:17-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.
@@ -24327,7 +24316,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 371
+- Department and program pages: 370
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80
