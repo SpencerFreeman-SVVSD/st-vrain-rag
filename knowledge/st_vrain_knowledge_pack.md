@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-28T04:32:42.672496-06:00
+generated_at: 2026-07-09T05:21:27.079403-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,32 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### CETC Manufacturing Students Create Awards Honoring Colorado’s School Safety Leaders
+
+- Published: 2026-07-06T13:54:32-06:00
+- Source URL: https://www.svvsd.org/2026/07/06/cetc-manufacturing-students-create-awards-honoring-colorados-school-safety-leaders/
+
+When school resource officers, educators, and school safety professionals from across Colorado gathered for the 2026 Colorado Association of School Resource Officers (CASRO) Regional School Safety Conference, the awards they received had a unique local connection. The custom awards presented during the conference were designed and manufactured by students in the Advanced Manufacturing Academy at the Career Elevation and Technology Center (CETC) in Longmont.
+The project was made possible through a partnership initiated by Frederick High School School Resource Officer and Frederick Police Department Sergeant Andrew Fairbanks, who serves as Vice President of CASRO. Looking for a meaningful way to recognize this year’s award recipients while creating a hands-on learning opportunity for students, Fairbanks partnered with Advanced Manufacturing Academy instructor Austin Reid to produce the conference awards.
+Working alongside Reid, students designed, fabricated, and finished the awards using industry-standard manufacturing techniques and equipment. The project allowed students to apply the technical skills they have developed in machining and manufacturing while producing professional-quality awards that were presented to school safety leaders from across Colorado.
+“This project gave our students the opportunity to experience what it’s like to deliver a product for a real client with statewide visibility,” said Austin Reid, instructor for the Advanced Manufacturing Academy. “They weren’t just learning technical skills, they were solving problems, working as a team, and seeing their craftsmanship recognized by professionals from across Colorado. That’s exactly the type of real-world experience we strive to provide.”
+“The craftsmanship and attention to detail demonstrated by these students was outstanding,” said Sergeant Andrew Fairbanks. “The awards represent the professionalism and pride these students put into their work. It was an honor to showcase their talents while recognizing the outstanding school resource officers and educators who make a difference in the lives of students every day.”
+The awards were presented during the 2026 CASRO Regional School Safety Conference, held June 7 – 10 in Colorado Springs. The annual conference brings together school resource officers, educators, administrators, and school safety professionals from across Colorado for training and professional development focused on creating safe, supportive learning environments.
+
+Source: https://www.svvsd.org/2026/07/06/cetc-manufacturing-students-create-awards-honoring-colorados-school-safety-leaders/
+
+### Skyline High School teacher participates in 2026 Supreme Court Summer Institute
+
+- Published: 2026-07-06T13:37:39-06:00
+- Source URL: https://www.svvsd.org/2026/07/06/skyline-high-school-teacher-participates-in-2026-supreme-court-summer-institute/
+
+Skyline High School social studies teacher Katie Strock attended the 2026 Supreme Court Summer Institute in Washington, D.C., June 22-26.
+Following a highly competitive application process, Strock was one of just 60 educators selected nationwide to participate in the prestigious professional learning opportunity, which is co-sponsored by Street Law, Inc. and the Supreme Court Historical Society. More than 1,300 secondary social studies educators have attended the institute and its seminars since the program began in 1995, creating a network of educators who bring innovative approaches to teaching about the U.S. Supreme Court into their classrooms.
+During the weeklong institute, Strock participated in professional learning focused on recent U.S. Supreme Court cases, constitutional law, and civic education. Alongside educators from across the country, she learned from legal experts and attorneys with Supreme Court experience, observed Supreme Court proceedings firsthand, toured the U.S. Supreme Court and other historic government institutions, and explored classroom strategies that make constitutional law and civic education engaging for students.
+“I learned strategies to implement moot courts, student law firm and judicial nomination simulations, and many other teaching strategies that will make this branch of government come alive for my students at Skyline High School,” said Strock.
+
+Source: https://www.svvsd.org/2026/07/06/skyline-high-school-teacher-participates-in-2026-supreme-court-summer-institute/
+
 ### St. Vrain Valley Schools Students Eligible for Direct Admission to CU Denver
 
 - Published: 2026-06-25T12:30:21-06:00
@@ -607,26 +633,6 @@ The students, in sessions held at Silver Creek and Skyline high schools this mon
 Read the full story in the Times-Call
 
 Source: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
-
-### 2026 SCHS Graduation Photos
-
-- Published: 2026-05-24T08:29:43-06:00
-- Source URL: https://www.svvsd.org/2026/05/24/2026-schs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Silver Creek High Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/24/2026-schs-graduation-photos/
-
-### 2026 SHS Graduation Photos
-
-- Published: 2026-05-23T15:02:18-06:00
-- Source URL: https://www.svvsd.org/2026/05/23/2026-shs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Skyline High Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/23/2026-shs-graduation-photos/
 
 ### District alerts
 
@@ -1334,13 +1340,12 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 ### Assessment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
-- Last modified: 2025-08-11T08:51:39-06:00
+- Last modified: 2026-07-07T12:28:38-06:00
 
 Assessment
 The Department of Assessment is part of the Assessment, Curriculum, and Instruction Department at the Learning Services Center. The assessment department oversees all Colorado state assessments, district assessments, and manages the district data warehouse.
 Mission
 The mission of the Department of Assessment is to promote continuous improvement by providing valid, reliable, and actionable assessment data that informs instructional decision-making and propels student success.
-2025-26 Assessment Schedule
 Oversight
 The Assessment Department is responsible for the following to support our community, parents, administrators, teachers, and students in the St. Vrain Valley Schools:
 Support the existing assessment programs PreK-12.
@@ -1351,8 +1356,6 @@ Alignment of PreK-12 assessments with standards, curriculum, instruction, and re
 Analyze PreK-12 assessment data and share results with stakeholders to improve instructional practice.
 Design and facilitate professional development opportunities for teachers.
 Customize support for school-based improvement based on identified needs and goals.
-Committees & Assemblies
-The Department of Assessment, Curriculum, and Instruction has established teacher leadership teams with representation from each building to support District initiatives, District achievement goals, professional development, and district assessment cycles. The Elementary, Middle School, and High School Assessment Leadership Teams meet quarterly as a communication and support link between teachers, schools, and the District.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
 
@@ -2042,7 +2045,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-05-21T14:02:46-06:00
+- Last modified: 2026-07-01T12:24:55-06:00
 
 Counselor eCredit Support
 View Timeline
@@ -10592,6 +10595,17 @@ No charge to parents for eligible programs and services
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
 
+### Staff Resources
+
+- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+- Last modified: 2026-06-23T09:16:06-06:00
+
+This area contains forms, and information related to Early Childhood Staff. Please
+log in
+with your staff credentials to access these resources
+
+Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
@@ -11800,7 +11814,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-06-16T11:18:02-06:00
+- Last modified: 2026-07-08T09:11:11-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -11892,23 +11906,31 @@ Walktober
 Wellness classes from partners
 Wellness classes from SVVSD
 Visit the following pages for details:
-Nurse Health Coaching
+Complimentary Health Coaching
 Upcoming Wellness Events
 Wellness Resources
 Wellness Program Contact
-Chara Worthington
-Wellness Technician
-303-702-7921
-worthington_chara@svvsd.org
+Kristina De Ezpeleta
+Benefits Manager
+303-682-7341
+deezpeleta_kristina@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
 
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2025-12-02T12:58:45-07:00
+- Last modified: 2026-07-08T09:00:42-06:00
 
-This page is undergoing updates – check back soon!
+Individual Lifestyle Coaching, Available to All St. Vrain Employees
+Take the next step in your well-being with personalized lifestyle coaching with St. Vrain Valley Schools’ dedicated lifestyle coach, available both in-person and virtually.
+1:1 coaching focused on YOUR goals
+Short, flexible sessions that fit around your work schedule
+Gain practical tools for stress, energy, and healthy habits
+Lori Hartmann – MA, Health Coach
+Lori holds a Master’s degree in holistic health education and is a certified professional life coach. Her background includes 15+ years in the health and wellness field. Lori has helped hundreds of clients lose weight, get in-shape, eat healthier, improve relationships, enhance careers, sleep better, increase energy, change jobs, create balance and enjoy life more. Lori is deeply passionate about helping people live their best life through balancing what is important to them in mind, body and spirit. Her approach stems from curiosity, compassion and the belief that everyone has the right to and can feel their best. Balance is something Lori strives for in her own life. Lori believes that life is to be enjoyed, self-care is essential and that most things in moderation are just fine (yes, even chocolate). Lori feels privileged to be part of others’ journey and believes with a willingness and desire for change, anything is possible.
+Ready to get started?
+Fill out this Interest Form and schedule your first appointment with Lori! (links coming soon!)
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
 
@@ -12352,13 +12374,17 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/svve
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2025-11-13T09:23:46-07:00
+- Last modified: 2026-06-30T11:17:15-06:00
 
 Human Resources Leadership Team
 Amanda Thompson
 Assistant Superintendent of Human Resources
 303-682-7386
 thompson_amanda@svvsd.org
+Russell Fox
+Executive Director of Human Resources
+303-702-7481
+fox_russell@svvsd.org
 Sarah James
 Executive Director of Human Resources
 303-682-7248
@@ -12367,10 +12393,6 @@ Kate Slick
 Executive Director of Human Resources
 303-682-7377
 slick_katherine@svvsd.org
-Ty Valentine
-Executive Director of Human Resources
-303-682-7439
-valentine_ty@svvsd.org
 Brian Young
 Executive Director of Human Resources
 303-682-7237
@@ -12402,14 +12424,14 @@ Executive Administrative Assistant
 goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Technician
-303-682-7290
+303-682-2290
 kocourek_katarina@svvsd.org
 Bruna Omati
 Human Resources Specialist
 303-682-7241
 omati_bruna@svvsd.org
 Irene Prado
-Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
+Human Resources Technician: Supporting Leave, ADA, Risk Management & Unemployment
 303-682-7212
 prado_irene@svvsd.org
 Marta Quandt
@@ -12439,10 +12461,6 @@ Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name M-Z
 303-682-7383
 tapia_leticia@svvsd.org
-Chara Worthington
-Wellness Technician
-303-702-7921
-worthington_chara@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/human-resources-team/
 
@@ -12849,7 +12867,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-06-18T09:28:54-06:00
+- Last modified: 2026-06-29T08:49:46-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -12891,7 +12909,7 @@ Benefits Manager
 303-682-7341
 deezpeleta_kristina@svvsd.org
 Irene Prado
-Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
+Human Resources Technician: Supporting Leave, ADA, Risk Management & Unemployment
 303-682-7212
 prado_irene@svvsd.org
 More about the Americans with Disabilities Act (ADA):
@@ -13825,7 +13843,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 ### Community Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/community-facility-use/
-- Last modified: 2026-06-22T15:18:14-06:00
+- Last modified: 2026-07-06T14:10:39-06:00
 
 The Facility Use Department manages all non-district use of school buildings and fields. All use must align with established policies, procedures, and regulations, which outline permitted activities.
 A separate fee structure applies to user groups to ensure district funds remain focused on educating students while supporting appropriate community access.
@@ -13851,16 +13869,9 @@ Approval of facility use does not imply district endorsement of any organization
 Terms and Conditions
 Facility Use Guide
 KF Board Policy
-Rules and Regulations
-Adult Use
-Auditorium Use
-Church Use
-Outdoor Facility Use
-Youth Group Gym Facility Use
-Youth Group Indoor Facility Use
 Announcements
 2026-2027 School Year Timelines are posted below!
-Timelines
+Reservation Contracts Submission Timelines
 Athletic Timeline
 Processing of contracts will begin 6 weeks prior to each season start. See below for season dates:
 Fall Sports
@@ -13895,6 +13906,13 @@ If you require approval earlier, please contact the Facility Use Department.
 ** Please allow up to
 2 weeks
 for request processing.
+Rules and Regulations
+Adult Use
+Auditorium Use
+Church Use
+Outdoor Facility Use
+Youth Group Gym Facility Use
+Youth Group Indoor Facility Use
 Auditorium Use
 Some high schools have auditoriums that are available for public rental. Seating capacity and availability varies.
 Seating Capacity
@@ -15125,7 +15143,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Operations Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
-- Last modified: 2026-01-27T12:59:53-07:00
+- Last modified: 2026-06-26T10:47:54-06:00
 
 Operations Leadership Team
 Brian Lamer
@@ -19607,7 +19625,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-05-04T13:59:07-06:00
+- Last modified: 2026-07-01T10:21:22-06:00
 
 Click on the Circular Chart above to open a traditional version.
 
@@ -22216,9 +22234,9 @@ Board of Education Member Events for August
 August 1, 2026
 Board of Education Member Events for July
 July 1, 2026
-Board of Education Regular Meeting
-June 24, 2026
 Board of Education Study Session
+June 24, 2026
+Board of Education Regular Meeting
 June 24, 2026
 Board of Education Study Session
 June 17, 2026
@@ -22537,15 +22555,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-july-7/
 
-### Board of Education Regular Meeting
-
-- Meeting date: June 24, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
-
 ### Board of Education Study Session
 
 - Meeting date: June 24, 2026
@@ -22554,6 +22563,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
+
+### Board of Education Regular Meeting
+
+- Meeting date: June 24, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
 
 ### Board of Education Study Session
 
@@ -23073,11 +23091,11 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for
 ### Financial Transparency
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/
-- Last modified: 2025-11-10T09:12:07-07:00
+- Last modified: 2026-07-01T01:00:06-06:00
 
 Financial Transparency
 Colorado Revised Statutes, 22-44-304
-(Commencing July 1, 2025)
+(Commencing July 1, 2026)
 District Adopted Budget
 – Including Uniform Budget Summary (current and prior two years)
 District Financial Audits
@@ -23096,7 +23114,7 @@ Plan for Distributing Additional Mill Levy Revenue or Statement of Intent to Dis
 Other District-Specific Financial Information
 All documents above must be posted or updated within 60 days after completion or receipt of the applicable report, statement or document
 1
-Financial Data File for FY24-25 is required to be posted no later than March 1st, 2026
+Financial Data File for FY25-26 is required to be posted no later than March 1st, 2027
 2
 Not applicable, no waivers from statute.
 3
@@ -23108,7 +23126,7 @@ Understanding Colorado School Finance and Categorical Funding
 District Informational Summary:
 St. Vrain Valley Schools, organized in 1961, is nationally recognized for rigorous academics, technology, innovation, and a wide variety of outstanding co-curricular activities through inquiry-based and student-centered learning. Located approximately 30 miles north of Denver, in a region with one of the fastest growing economies in the state, the district is the 7th largest in Colorado, serving students across a 411-square mile geographically diverse area that includes 13 communities with a population of about 212,000 residents. Offering a full range of high-quality educational programs and services for students in grades PK-14, St. Vrain Valley Schools is able to continue delivering rigorous academics and exceptional learning opportunities while meeting the needs of a rapidly growing economy through the support and investment of its community.
 Voters approved a $739.8 million capital projects bond in 2024, a $260 million capital projects bond in 2016, a $14.8 million mill levy override in 2012, and a $189 million capital projects bond as well as a $16.5 million mill levy override in 2008. The District has received numerous major state and federal competitive grants, including the Opportunity Now grant ($7 million), Race to the Top grant ($16.6 million), and Investing in Innovation (i3) ($3.6 million). Since January 2018, the District has received $54 million dollars in competitive grant awards and has established more than 470 industry, corporate, non-profit, government, and higher education partnerships. These important relationships provide expertise, mentorship, and resources to ensure that St. Vrain is a leading district in providing opportunities that students will need to be successful beyond graduation.
-St. Vrain Valley Schools has achieved the highest on-time graduation rate of any district in the Denver Metro area at 94.3%, and the highest of any district in Colorado with more than 300 graduates. St. Vrain’s Hispanic graduation rate, at 90% is also the highest of any district in the Denver Metro Area. In addition to the highest graduation rate in the Denver Metro Area, St. Vrain also has the most rigorous graduation requirements at 24.5 credits.
+St. Vrain Valley Schools has achieved the highest on-time graduation rate of any district in the Denver Metro area at 96.8%, and the highest of any district in Colorado with more than 300 graduates. St. Vrain’s Hispanic graduation rate, at 94.3% is also the highest of any district in the Denver Metro Area. In addition to the highest graduation rate in the Denver Metro Area, St. Vrain also has the most rigorous graduation requirements at 24.5 credits.
 St. Vrain Valley Schools is proud of its signature programs for students that are first of its kind and/or nationally recognized including four Pathways in Technology Early College High School (P-TECH) programs, Pathways to Teaching (P-TEACH), Mobile Innovation Lab, Cybersecurity Mobile Lab, Underwater Robotics, Drone Performance Team, Advanced Manufacturing Academy, Toyota TECS Program, Artificial Intelligence Student Team, and many more.
 By building a solid foundation with an exceptional school board, strong leadership, and excellent teachers and staff; prioritizing school safety and student well-being; providing innovative learning and instructional opportunities; and partnering with families, elected officials, business leaders and its community, St. Vrain Valley Schools continues to advance excellence for its students, schools, and community.
 
@@ -23170,10 +23188,10 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Financial Data File
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/financial-data-file-2/
-- Last modified: 2025-11-25T08:08:35-07:00
+- Last modified: 2026-07-01T07:16:11-06:00
 
 Financial Data File
-The FY24-25 data file is required to be posted no later than March 1, 2026.
+The FY25-26 data file is required to be posted no later than March 1, 2027.
 Fiscal Year 2024-2025
 Fiscal Year 2023-2024
 Fiscal Year 2022-2023
@@ -23190,7 +23208,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Adopted Budget
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/fiscal-budgets/
-- Last modified: 2026-05-28T07:14:52-06:00
+- Last modified: 2026-06-25T08:20:00-06:00
 
 District Adopted Budget
 State law requires the Board of Education to adopt and appropriate a budget for all District funds each year. The Budget serves three primary purposes:
@@ -23374,7 +23392,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-05-28T09:41:17-06:00
+- Last modified: 2026-06-25T10:15:11-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.
@@ -24316,7 +24334,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 370
+- Department and program pages: 371
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80

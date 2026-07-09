@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-28T04:32:42.672496-06:00
+generated_at: 2026-07-09T05:21:27.079403-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,32 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### CETC Manufacturing Students Create Awards Honoring Colorado’s School Safety Leaders
+
+- Published: 2026-07-06T13:54:32-06:00
+- Source URL: https://www.svvsd.org/2026/07/06/cetc-manufacturing-students-create-awards-honoring-colorados-school-safety-leaders/
+
+When school resource officers, educators, and school safety professionals from across Colorado gathered for the 2026 Colorado Association of School Resource Officers (CASRO) Regional School Safety Conference, the awards they received had a unique local connection. The custom awards presented during the conference were designed and manufactured by students in the Advanced Manufacturing Academy at the Career Elevation and Technology Center (CETC) in Longmont.
+The project was made possible through a partnership initiated by Frederick High School School Resource Officer and Frederick Police Department Sergeant Andrew Fairbanks, who serves as Vice President of CASRO. Looking for a meaningful way to recognize this year’s award recipients while creating a hands-on learning opportunity for students, Fairbanks partnered with Advanced Manufacturing Academy instructor Austin Reid to produce the conference awards.
+Working alongside Reid, students designed, fabricated, and finished the awards using industry-standard manufacturing techniques and equipment. The project allowed students to apply the technical skills they have developed in machining and manufacturing while producing professional-quality awards that were presented to school safety leaders from across Colorado.
+“This project gave our students the opportunity to experience what it’s like to deliver a product for a real client with statewide visibility,” said Austin Reid, instructor for the Advanced Manufacturing Academy. “They weren’t just learning technical skills, they were solving problems, working as a team, and seeing their craftsmanship recognized by professionals from across Colorado. That’s exactly the type of real-world experience we strive to provide.”
+“The craftsmanship and attention to detail demonstrated by these students was outstanding,” said Sergeant Andrew Fairbanks. “The awards represent the professionalism and pride these students put into their work. It was an honor to showcase their talents while recognizing the outstanding school resource officers and educators who make a difference in the lives of students every day.”
+The awards were presented during the 2026 CASRO Regional School Safety Conference, held June 7 – 10 in Colorado Springs. The annual conference brings together school resource officers, educators, administrators, and school safety professionals from across Colorado for training and professional development focused on creating safe, supportive learning environments.
+
+Source: https://www.svvsd.org/2026/07/06/cetc-manufacturing-students-create-awards-honoring-colorados-school-safety-leaders/
+
+### Skyline High School teacher participates in 2026 Supreme Court Summer Institute
+
+- Published: 2026-07-06T13:37:39-06:00
+- Source URL: https://www.svvsd.org/2026/07/06/skyline-high-school-teacher-participates-in-2026-supreme-court-summer-institute/
+
+Skyline High School social studies teacher Katie Strock attended the 2026 Supreme Court Summer Institute in Washington, D.C., June 22-26.
+Following a highly competitive application process, Strock was one of just 60 educators selected nationwide to participate in the prestigious professional learning opportunity, which is co-sponsored by Street Law, Inc. and the Supreme Court Historical Society. More than 1,300 secondary social studies educators have attended the institute and its seminars since the program began in 1995, creating a network of educators who bring innovative approaches to teaching about the U.S. Supreme Court into their classrooms.
+During the weeklong institute, Strock participated in professional learning focused on recent U.S. Supreme Court cases, constitutional law, and civic education. Alongside educators from across the country, she learned from legal experts and attorneys with Supreme Court experience, observed Supreme Court proceedings firsthand, toured the U.S. Supreme Court and other historic government institutions, and explored classroom strategies that make constitutional law and civic education engaging for students.
+“I learned strategies to implement moot courts, student law firm and judicial nomination simulations, and many other teaching strategies that will make this branch of government come alive for my students at Skyline High School,” said Strock.
+
+Source: https://www.svvsd.org/2026/07/06/skyline-high-school-teacher-participates-in-2026-supreme-court-summer-institute/
 
 ### St. Vrain Valley Schools Students Eligible for Direct Admission to CU Denver
 
@@ -124,26 +150,6 @@ The students, in sessions held at Silver Creek and Skyline high schools this mon
 Read the full story in the Times-Call
 
 Source: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
-
-### 2026 SCHS Graduation Photos
-
-- Published: 2026-05-24T08:29:43-06:00
-- Source URL: https://www.svvsd.org/2026/05/24/2026-schs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Silver Creek High Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/24/2026-schs-graduation-photos/
-
-### 2026 SHS Graduation Photos
-
-- Published: 2026-05-23T15:02:18-06:00
-- Source URL: https://www.svvsd.org/2026/05/23/2026-shs-graduation-photos/
-
-Photos from our 2026 graduation ceremony taken by the St. Vrain Valley Schools Communications Department are now available for you to download and share to celebrate this momentous occasion for you and your student.
-2026 Skyline High Graduation Photo Album
-
-Source: https://www.svvsd.org/2026/05/23/2026-shs-graduation-photos/
 
 ### District alerts
 

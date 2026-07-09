@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-28T04:32:42.672496-06:00
+generated_at: 2026-07-09T05:21:27.079403-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -106,13 +106,12 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 ### Assessment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
-- Last modified: 2025-08-11T08:51:39-06:00
+- Last modified: 2026-07-07T12:28:38-06:00
 
 Assessment
 The Department of Assessment is part of the Assessment, Curriculum, and Instruction Department at the Learning Services Center. The assessment department oversees all Colorado state assessments, district assessments, and manages the district data warehouse.
 Mission
 The mission of the Department of Assessment is to promote continuous improvement by providing valid, reliable, and actionable assessment data that informs instructional decision-making and propels student success.
-2025-26 Assessment Schedule
 Oversight
 The Assessment Department is responsible for the following to support our community, parents, administrators, teachers, and students in the St. Vrain Valley Schools:
 Support the existing assessment programs PreK-12.
@@ -123,8 +122,6 @@ Alignment of PreK-12 assessments with standards, curriculum, instruction, and re
 Analyze PreK-12 assessment data and share results with stakeholders to improve instructional practice.
 Design and facilitate professional development opportunities for teachers.
 Customize support for school-based improvement based on identified needs and goals.
-Committees & Assemblies
-The Department of Assessment, Curriculum, and Instruction has established teacher leadership teams with representation from each building to support District initiatives, District achievement goals, professional development, and district assessment cycles. The Elementary, Middle School, and High School Assessment Leadership Teams meet quarterly as a communication and support link between teachers, schools, and the District.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
 
@@ -814,7 +811,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-05-21T14:02:46-06:00
+- Last modified: 2026-07-01T12:24:55-06:00
 
 Counselor eCredit Support
 View Timeline
@@ -9364,6 +9361,17 @@ No charge to parents for eligible programs and services
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
 
+### Staff Resources
+
+- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+- Last modified: 2026-06-23T09:16:06-06:00
+
+This area contains forms, and information related to Early Childhood Staff. Please
+log in
+with your staff credentials to access these resources
+
+Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
@@ -10572,7 +10580,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-06-16T11:18:02-06:00
+- Last modified: 2026-07-08T09:11:11-06:00
 
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
@@ -10664,23 +10672,31 @@ Walktober
 Wellness classes from partners
 Wellness classes from SVVSD
 Visit the following pages for details:
-Nurse Health Coaching
+Complimentary Health Coaching
 Upcoming Wellness Events
 Wellness Resources
 Wellness Program Contact
-Chara Worthington
-Wellness Technician
-303-702-7921
-worthington_chara@svvsd.org
+Kristina De Ezpeleta
+Benefits Manager
+303-682-7341
+deezpeleta_kristina@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
 
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2025-12-02T12:58:45-07:00
+- Last modified: 2026-07-08T09:00:42-06:00
 
-This page is undergoing updates – check back soon!
+Individual Lifestyle Coaching, Available to All St. Vrain Employees
+Take the next step in your well-being with personalized lifestyle coaching with St. Vrain Valley Schools’ dedicated lifestyle coach, available both in-person and virtually.
+1:1 coaching focused on YOUR goals
+Short, flexible sessions that fit around your work schedule
+Gain practical tools for stress, energy, and healthy habits
+Lori Hartmann – MA, Health Coach
+Lori holds a Master’s degree in holistic health education and is a certified professional life coach. Her background includes 15+ years in the health and wellness field. Lori has helped hundreds of clients lose weight, get in-shape, eat healthier, improve relationships, enhance careers, sleep better, increase energy, change jobs, create balance and enjoy life more. Lori is deeply passionate about helping people live their best life through balancing what is important to them in mind, body and spirit. Her approach stems from curiosity, compassion and the belief that everyone has the right to and can feel their best. Balance is something Lori strives for in her own life. Lori believes that life is to be enjoyed, self-care is essential and that most things in moderation are just fine (yes, even chocolate). Lori feels privileged to be part of others’ journey and believes with a willingness and desire for change, anything is possible.
+Ready to get started?
+Fill out this Interest Form and schedule your first appointment with Lori! (links coming soon!)
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
 
@@ -11124,13 +11140,17 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/svve
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2025-11-13T09:23:46-07:00
+- Last modified: 2026-06-30T11:17:15-06:00
 
 Human Resources Leadership Team
 Amanda Thompson
 Assistant Superintendent of Human Resources
 303-682-7386
 thompson_amanda@svvsd.org
+Russell Fox
+Executive Director of Human Resources
+303-702-7481
+fox_russell@svvsd.org
 Sarah James
 Executive Director of Human Resources
 303-682-7248
@@ -11139,10 +11159,6 @@ Kate Slick
 Executive Director of Human Resources
 303-682-7377
 slick_katherine@svvsd.org
-Ty Valentine
-Executive Director of Human Resources
-303-682-7439
-valentine_ty@svvsd.org
 Brian Young
 Executive Director of Human Resources
 303-682-7237
@@ -11174,14 +11190,14 @@ Executive Administrative Assistant
 goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Technician
-303-682-7290
+303-682-2290
 kocourek_katarina@svvsd.org
 Bruna Omati
 Human Resources Specialist
 303-682-7241
 omati_bruna@svvsd.org
 Irene Prado
-Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
+Human Resources Technician: Supporting Leave, ADA, Risk Management & Unemployment
 303-682-7212
 prado_irene@svvsd.org
 Marta Quandt
@@ -11211,10 +11227,6 @@ Benefits Technician
 Benefits Eligibility & Enrollment – Employees with the last name M-Z
 303-682-7383
 tapia_leticia@svvsd.org
-Chara Worthington
-Wellness Technician
-303-702-7921
-worthington_chara@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/human-resources-team/
 
@@ -11621,7 +11633,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-06-18T09:28:54-06:00
+- Last modified: 2026-06-29T08:49:46-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -11663,7 +11675,7 @@ Benefits Manager
 303-682-7341
 deezpeleta_kristina@svvsd.org
 Irene Prado
-Human Resources Technician: Supporting Leave, ADA. Risk Management, & Unemployment
+Human Resources Technician: Supporting Leave, ADA, Risk Management & Unemployment
 303-682-7212
 prado_irene@svvsd.org
 More about the Americans with Disabilities Act (ADA):
@@ -12597,7 +12609,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 ### Community Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/community-facility-use/
-- Last modified: 2026-06-22T15:18:14-06:00
+- Last modified: 2026-07-06T14:10:39-06:00
 
 The Facility Use Department manages all non-district use of school buildings and fields. All use must align with established policies, procedures, and regulations, which outline permitted activities.
 A separate fee structure applies to user groups to ensure district funds remain focused on educating students while supporting appropriate community access.
@@ -12623,16 +12635,9 @@ Approval of facility use does not imply district endorsement of any organization
 Terms and Conditions
 Facility Use Guide
 KF Board Policy
-Rules and Regulations
-Adult Use
-Auditorium Use
-Church Use
-Outdoor Facility Use
-Youth Group Gym Facility Use
-Youth Group Indoor Facility Use
 Announcements
 2026-2027 School Year Timelines are posted below!
-Timelines
+Reservation Contracts Submission Timelines
 Athletic Timeline
 Processing of contracts will begin 6 weeks prior to each season start. See below for season dates:
 Fall Sports
@@ -12667,6 +12672,13 @@ If you require approval earlier, please contact the Facility Use Department.
 ** Please allow up to
 2 weeks
 for request processing.
+Rules and Regulations
+Adult Use
+Auditorium Use
+Church Use
+Outdoor Facility Use
+Youth Group Gym Facility Use
+Youth Group Indoor Facility Use
 Auditorium Use
 Some high schools have auditoriums that are available for public rental. Seating capacity and availability varies.
 Seating Capacity
@@ -13897,7 +13909,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/summe
 ### Operations Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/operations-leadership-team/
-- Last modified: 2026-01-27T12:59:53-07:00
+- Last modified: 2026-06-26T10:47:54-06:00
 
 Operations Leadership Team
 Brian Lamer
@@ -18379,7 +18391,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-05-04T13:59:07-06:00
+- Last modified: 2026-07-01T10:21:22-06:00
 
 Click on the Circular Chart above to open a traditional version.
 

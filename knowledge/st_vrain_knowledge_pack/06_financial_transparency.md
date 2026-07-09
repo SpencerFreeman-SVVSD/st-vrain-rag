@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-06-28T04:32:42.672496-06:00
+generated_at: 2026-07-09T05:21:27.079403-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -9,11 +9,11 @@ section_title: Financial transparency
 ### Financial Transparency
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/
-- Last modified: 2025-11-10T09:12:07-07:00
+- Last modified: 2026-07-01T01:00:06-06:00
 
 Financial Transparency
 Colorado Revised Statutes, 22-44-304
-(Commencing July 1, 2025)
+(Commencing July 1, 2026)
 District Adopted Budget
 – Including Uniform Budget Summary (current and prior two years)
 District Financial Audits
@@ -32,7 +32,7 @@ Plan for Distributing Additional Mill Levy Revenue or Statement of Intent to Dis
 Other District-Specific Financial Information
 All documents above must be posted or updated within 60 days after completion or receipt of the applicable report, statement or document
 1
-Financial Data File for FY24-25 is required to be posted no later than March 1st, 2026
+Financial Data File for FY25-26 is required to be posted no later than March 1st, 2027
 2
 Not applicable, no waivers from statute.
 3
@@ -44,7 +44,7 @@ Understanding Colorado School Finance and Categorical Funding
 District Informational Summary:
 St. Vrain Valley Schools, organized in 1961, is nationally recognized for rigorous academics, technology, innovation, and a wide variety of outstanding co-curricular activities through inquiry-based and student-centered learning. Located approximately 30 miles north of Denver, in a region with one of the fastest growing economies in the state, the district is the 7th largest in Colorado, serving students across a 411-square mile geographically diverse area that includes 13 communities with a population of about 212,000 residents. Offering a full range of high-quality educational programs and services for students in grades PK-14, St. Vrain Valley Schools is able to continue delivering rigorous academics and exceptional learning opportunities while meeting the needs of a rapidly growing economy through the support and investment of its community.
 Voters approved a $739.8 million capital projects bond in 2024, a $260 million capital projects bond in 2016, a $14.8 million mill levy override in 2012, and a $189 million capital projects bond as well as a $16.5 million mill levy override in 2008. The District has received numerous major state and federal competitive grants, including the Opportunity Now grant ($7 million), Race to the Top grant ($16.6 million), and Investing in Innovation (i3) ($3.6 million). Since January 2018, the District has received $54 million dollars in competitive grant awards and has established more than 470 industry, corporate, non-profit, government, and higher education partnerships. These important relationships provide expertise, mentorship, and resources to ensure that St. Vrain is a leading district in providing opportunities that students will need to be successful beyond graduation.
-St. Vrain Valley Schools has achieved the highest on-time graduation rate of any district in the Denver Metro area at 94.3%, and the highest of any district in Colorado with more than 300 graduates. St. Vrain’s Hispanic graduation rate, at 90% is also the highest of any district in the Denver Metro Area. In addition to the highest graduation rate in the Denver Metro Area, St. Vrain also has the most rigorous graduation requirements at 24.5 credits.
+St. Vrain Valley Schools has achieved the highest on-time graduation rate of any district in the Denver Metro area at 96.8%, and the highest of any district in Colorado with more than 300 graduates. St. Vrain’s Hispanic graduation rate, at 94.3% is also the highest of any district in the Denver Metro Area. In addition to the highest graduation rate in the Denver Metro Area, St. Vrain also has the most rigorous graduation requirements at 24.5 credits.
 St. Vrain Valley Schools is proud of its signature programs for students that are first of its kind and/or nationally recognized including four Pathways in Technology Early College High School (P-TECH) programs, Pathways to Teaching (P-TEACH), Mobile Innovation Lab, Cybersecurity Mobile Lab, Underwater Robotics, Drone Performance Team, Advanced Manufacturing Academy, Toyota TECS Program, Artificial Intelligence Student Team, and many more.
 By building a solid foundation with an exceptional school board, strong leadership, and excellent teachers and staff; prioritizing school safety and student well-being; providing innovative learning and instructional opportunities; and partnering with families, elected officials, business leaders and its community, St. Vrain Valley Schools continues to advance excellence for its students, schools, and community.
 
@@ -106,10 +106,10 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Financial Data File
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/financial-data-file-2/
-- Last modified: 2025-11-25T08:08:35-07:00
+- Last modified: 2026-07-01T07:16:11-06:00
 
 Financial Data File
-The FY24-25 data file is required to be posted no later than March 1, 2026.
+The FY25-26 data file is required to be posted no later than March 1, 2027.
 Fiscal Year 2024-2025
 Fiscal Year 2023-2024
 Fiscal Year 2022-2023
@@ -126,7 +126,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Adopted Budget
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/fiscal-budgets/
-- Last modified: 2026-05-28T07:14:52-06:00
+- Last modified: 2026-06-25T08:20:00-06:00
 
 District Adopted Budget
 State law requires the Board of Education to adopt and appropriate a budget for all District funds each year. The Budget serves three primary purposes:
@@ -310,7 +310,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-05-28T09:41:17-06:00
+- Last modified: 2026-06-25T10:15:11-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.
