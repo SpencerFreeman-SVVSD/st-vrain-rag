@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-07-09T05:21:27.079403-06:00
+generated_at: 2026-07-21T04:32:04.884738-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -471,7 +471,7 @@ Source: https://www.svvsd.org/schools/school-calendar/
 ### School Feeders
 
 - Canonical URL: https://www.svvsd.org/schools/school-feeders/
-- Last modified: 2025-07-21T07:49:49-06:00
+- Last modified: 2026-07-13T14:04:36-06:00
 
 School Feeders
 Students in St. Vrain Valley Schools typically follow the neighborhood school feeder patterns below as they advance from elementary school to middle school to high school (schools marked with * feed in to more than one school). In addition to high-quality neighborhood schools, students can open enroll into any school in the district.
@@ -495,11 +495,6 @@ Centennial Elementary School
 Legacy Elementary School
 Prairie Ridge Elementary School
 Spark! Discovery Preschool
-Mead Feeder
-Mead High School
-Mead Middle School
-Mead Elementary School
-New PK-8 in Mead
 Area 2 Schools
 Matt Buchler
 Area Assistant Superintendent – Area 2
@@ -554,9 +549,11 @@ Executive Administrative Assistant
 pequeen_adrienne@svvsd.org
 303-702-7548
 allenbach_karla@svvsd.org
-Lyons Feeder
-Lyons Middle Senior High School
-Lyons Elementary School
+Mead Feeder
+Mead High School
+Mead Middle School
+Mead Elementary School
+New PK-8 in Mead
 Skyline Feeder
 Skyline High School
 Timberline PK-8
@@ -565,6 +562,14 @@ Alpine Elementary School
 Columbine Elementary
 Fall River Elementary School
 Rocky Mountain Elementary School
+Area 5 Schools
+Kerri McDermid, Ed.D.
+Chief of Staff and Strategic Priorities
+303-702-7511
+mcdermid_kerri@svvsd.org
+Lyons Feeder
+Lyons Middle Senior High School
+Lyons Elementary School
 
 Source: https://www.svvsd.org/schools/school-feeders/
 

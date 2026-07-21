@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-07-09T05:21:27.079403-06:00
+generated_at: 2026-07-21T04:32:04.884738-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -595,9 +595,9 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### AGILE
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/agile/
-- Last modified: 2026-05-05T10:10:18-06:00
+- Last modified: 2026-07-18T17:19:22-06:00
 
-Advanced Global Interactive Learning Environments
+Advanced Global Interactive Learning Environments (AGILE)
 AGILE brings together teachers and students from different schools, districts, and regions in an engaging digital learning environment.
 Through AGILE:
 Students have access to a robust catalog of courses through synchronous/asynchronous instruction.
@@ -612,7 +612,7 @@ Paired Mentor
 A mentor teacher co-instructs a course with a novice teacher who teaches the same course in another school. Classes are held during the same period and are co-taught and co-planned by both teachers.
 For more information, please contact:
 Shauna Polson
-Instructional Technologies Coordinator
+World Languages, AGILE & Seal of Biliteracy Coordinator
 303-682-7356
 polson_shauna@svvsd.org
 
@@ -709,6 +709,7 @@ English Language Arts
 Math
 Science
 Social Studies
+Health
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curricular-resources-3/
 
@@ -729,7 +730,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Curriculum Team
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curriculum-team/
-- Last modified: 2026-02-15T17:44:28-07:00
+- Last modified: 2026-07-18T17:24:59-06:00
 
 Curriculum Team
 Diane Lauer, Ed.D.
@@ -737,15 +738,18 @@ Chief Academic Officer
 303-702-7591
 lauer_diane@svvsd.org
 Leann Shetler
-Executive Assistant to Diane Lauer
+Executive Assistant to Diane Lauer, Chief Academic Officer
 303-702-7591
 shetler_leann@svvsd.org
 Greg George
 Senior Manager, Curriculum & Academic Programs
 (303) 682-7247
 george_gregory@svvsd.org
+Jodi Garner
+PK-8 Futures by Design Learning Coach
+garner_jodi@svvsd.org
 Cathy O’Donnell
-Administrator, Project Launch & AAA
+Administrator, Elementary Project Launch
 303-682-7276
 odonnell_cathy@svvsd.org
 Michael O’Toole
@@ -753,11 +757,11 @@ K-12 Science Coordinator
 303-682-7232
 otoole_michael@svvsd.org
 Shauna Polson
-Instructional Technologies Coordinator
+World Languages, AGILE & Seal of Biliteracy Coordinator
 303-682-7356
 polson_shauna@svvsd.org
 Heidi Ringer, Ed.D.
-Postsecondary Workforce Readiness/CTE Director
+Postsecondary Workforce Readiness & CTE Director
 303-702-8262
 ringer_heidi@svvsd.org
 Shane Saeed, Ed.D.
@@ -10686,7 +10690,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2026-07-08T09:00:42-06:00
+- Last modified: 2026-07-16T11:48:31-06:00
 
 Individual Lifestyle Coaching, Available to All St. Vrain Employees
 Take the next step in your well-being with personalized lifestyle coaching with St. Vrain Valley Schools’ dedicated lifestyle coach, available both in-person and virtually.
@@ -10696,7 +10700,10 @@ Gain practical tools for stress, energy, and healthy habits
 Lori Hartmann – MA, Health Coach
 Lori holds a Master’s degree in holistic health education and is a certified professional life coach. Her background includes 15+ years in the health and wellness field. Lori has helped hundreds of clients lose weight, get in-shape, eat healthier, improve relationships, enhance careers, sleep better, increase energy, change jobs, create balance and enjoy life more. Lori is deeply passionate about helping people live their best life through balancing what is important to them in mind, body and spirit. Her approach stems from curiosity, compassion and the belief that everyone has the right to and can feel their best. Balance is something Lori strives for in her own life. Lori believes that life is to be enjoyed, self-care is essential and that most things in moderation are just fine (yes, even chocolate). Lori feels privileged to be part of others’ journey and believes with a willingness and desire for change, anything is possible.
 Ready to get started?
-Fill out this Interest Form and schedule your first appointment with Lori! (links coming soon!)
+Step 1:
+Fill out this Interest Form
+Step 2:
+Click Here to schedule your first 45-minute appointment with Lori
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
 
@@ -11035,7 +11042,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/forms/
-- Last modified: 2026-02-03T14:16:25-07:00
+- Last modified: 2026-07-14T07:39:46-06:00
 
 APT Employee Forms
 Resignation Form
@@ -11073,6 +11080,10 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/form
 
 Handbooks and Agreements
 The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
+2026-2027
+SVVSD-SVVEA Agreement
+2026-2027 Calendar with 1.5 Dock Days Identified
+Guest Teacher Handbook
 2025-2026
 SVVSD-SVVEA Agreement
 Handbook – Administrative, Professional & Technical
@@ -11769,7 +11780,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/worker
 ### Guest Teachers (Substitutes)
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/substitutes/
-- Last modified: 2025-07-16T08:04:30-06:00
+- Last modified: 2026-07-14T10:11:47-06:00
 
 Guest Teachers (Substitutes)
 Current Guest Teachers have access to Red Rover Absence Management, which allows Guest Teachers to review current assignments, review available jobs, cancel a job, and select your system notifications.
@@ -11856,7 +11867,7 @@ Source: https://www.svvsd.org/departments/human-resources/substitutes/hiring-req
 ### Guest Teacher Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/substitutes/substitute-forms/
-- Last modified: 2025-07-16T08:05:58-06:00
+- Last modified: 2026-07-14T10:16:44-06:00
 
 Guest Teacher Forms
 Guest Teacher Report
@@ -12609,7 +12620,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/facility-use/
 ### Community Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/community-facility-use/
-- Last modified: 2026-07-06T14:10:39-06:00
+- Last modified: 2026-07-14T07:00:34-06:00
 
 The Facility Use Department manages all non-district use of school buildings and fields. All use must align with established policies, procedures, and regulations, which outline permitted activities.
 A separate fee structure applies to user groups to ensure district funds remain focused on educating students while supporting appropriate community access.
@@ -12617,9 +12628,7 @@ Available Spaces & Fees
 Rental fees vary based on the space and user group category. Facilities available for rent may include cafeterias, gyms, kitchens, auditoriums, classrooms, parking lots, and select fields.
 See
 Fee Schedule
-For questions about availability or to determine if a proposed use is permitted, please contact the
-Facility Use Department
-by phone or email.
+For questions about availability or to determine if a proposed use is permitted, please contact the Facility Use Department by phone or email.
 Submitting a Request / Community Log In
 All facility use requests must be submitted through the
 Community Use Portal
@@ -13189,7 +13198,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-03-23T10:35:48-06:00
+- Last modified: 2026-07-09T22:03:52-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -13249,16 +13258,14 @@ View Recording
 April 23rd, 2026
 12:00 pm – 1:00 pm
 Via Zoom
+View PDF Presentation
 June 25th, 2026
 12:00 pm – 2:30 pm
 In-Person SVVSD LSC Building,
 Juniper Room
 In-Person
-Questions?
-Theresa Spires, RDN
-School Wellness Coordinator
-303-702-7750
-spires_theresa@svvsd.org
+Vision Statement Workshop
+Student Success Driven by Health & Wellness
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
 
@@ -13362,12 +13369,6 @@ Breean Harris
 Area Supervisor / Training
 303-702-7756
 harris_breean@svvsd.org
-School Wellness
-Supports local wellness policy as part of the Child Nutrition Programs, advocates for local partnerships, and facilitates initiatives around farm to table.
-Theresa Spires, RDN
-School Wellness Coordinator
-303-702-7750
-spires_theresa@svvsd.org
 Director’s Office
 Katie Cossette, MDA, RDN, SNS
 Director of Nutrition Services & Warehouse
@@ -14908,7 +14909,7 @@ Source: https://www.svvsd.org/departments/professional-development/induction/
 ### Induction Checklists
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/induction/induction-checklist/
-- Last modified: 2025-09-18T08:00:36-06:00
+- Last modified: 2026-07-17T13:48:05-06:00
 
 New Educator Induction
 Process Timeline 2025-2026
@@ -14924,7 +14925,8 @@ ECE/ECSE Early Career Teacher Induction Checklist
 (for Early Childhood and Early Childhood Special Education Teachers with less than three years of experience)
 Experienced Teacher Checklist
 (for teachers who have successfully completed 3 or more full years of K-12 teaching in the United States)
-Interventionist/Social Worker Checklist
+I
+nterventionist/Social Worker Checklist
 School Nurse Consultant Checklist
 SPED Early Career Teacher Checklist
 (for special educators with less than 3 years of experience in the United States)
@@ -18488,7 +18490,7 @@ Source: https://www.svvsd.org/departments/technology/family-resources/how-tos/
 ### IT Standards
 
 - Canonical URL: https://www.svvsd.org/departments/technology/it-standards/
-- Last modified: 2026-05-14T13:27:48-06:00
+- Last modified: 2026-07-14T13:58:11-06:00
 
 Information Technology Standards
 Introduction:
