@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-07-21T04:32:04.884738-06:00
+generated_at: 2026-07-26T04:09:40.698578-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -86,20 +86,19 @@ Source: https://www.svvsd.org/departments/
 ### Assessment, Curriculum, & Instruction
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/
-- Last modified: 2025-12-03T14:39:03-07:00
+- Last modified: 2026-07-21T13:27:36-06:00
 
-OVERVIEW
-The Department of Assessment, Curriculum, and Instruction supports the district-wide development of rigorous, relevant curriculum and supports the implementation of best instructional practices to sustain high student achievement.
-We believe that today’s students must be prepared to thrive in a constantly evolving landscape. If every child is to know that their future is possible, then every educator must feel they have the tools, knowledge, and capacity to put those futures within reach. It is our goal to provide continuous multi-faceted support to develop the self-efficacy to experiment, test, reflect, and collaborate that can be leveraged to illuminate all futures for all students.
-We hold that the relationship between curriculum and technology as a vital part of our district’s vision for advancing the success of students and as an integral part of our Strategic Priorities for Student and Global Success:
-stvra.in/priorities
-.
-With that goal in mind, a foundation of “Actions and Attributes” was developed that gives clarity to our district’s beliefs about learning and environments (
-tech.svvsd.org/itac
-). Our Learning Technology Plan (
-ltp.svvsd.org
-) is a partnership between schools, Technology Services, Curriculum, families, and community. This continuous improvement model provides consensus-driven input to nimbly respond to our learning needs.
-It is the department’s function to work with Learning Services personnel, principals, school teams, and individual teachers on curriculum and instruction issues and implementation as well as school-wide and individual instructional improvement.
+Overview
+We believe
+that a strong foundation for success in today’s complex, globalized world requires a dynamic approach to curriculum, instruction, and assessment. We leverage advanced technologies, resources, and pedagogies to ensure our curriculum remains dynamic, relevant, engaging, and fosters deep understanding that transcends the classroom. By providing access to high-quality, multi-sourced content, we not only improve the learner experience but also promote world-class academic opportunities. Our educators are champions of innovative, learner-centered, as well as culturally and linguistically relevant instruction. They create classrooms that foster robust academic discourse, exploration of multiple perspectives, local and global collaboration with peers and experts, engaging learning journeys for each student, and critical self-reflection and peer analysis. Intentional collection of learner data forms the backbone of our responsive learning environment, providing valuable insights from diagnostic, formative, and summative assessments, indicators of student interests, and personal growth. Our educators advance student agency by developing student metacognition, self-awareness, self-monitoring, and self-directive skills and track their own academic journeys and direct their next course of action.
+Our Mission
+The Department of Assessment, Curriculum & Instruction leads the district-wide development of rigorous, relevant, and high-quality curriculum, the implementation of best instructional and assessment practices to sustain high student achievement, and the accountability system to sustain student achievement and global success.
+In order to achieve our mission, we will:
+Develop a world-class, guaranteed and viable, standards-based curriculum, instructional framework, and comprehensive assessment system to advance excellence, by design, for each and every student.
+Unpack what students need to know, understand, and be able to do, and clearly identify what success looks like to produce a shared understanding of grade-level learning expectations.
+Empower teachers to advance student learning with research-based instructional strategies, high-quality resources, emerging technologies, and a sophisticated suite of valid, reliable, and relevant assessments.
+Provide knowledge, guidance, and support to buildings so that they develop and sustain highly effective continuous improvement systems that demonstrate their deep understanding of their students’ strengths and needs and viable action plans to meet their goals.
+Support all school libraries so that students graduate as critical, ethical, and independent users of information.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 
@@ -128,13 +127,15 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### State Testing Assessment Schedule
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-06-18T16:24:13-06:00
+- Last modified: 2026-07-21T12:16:38-06:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
 Detailed information about Colorado’s assessment program can be found on the
 Colorado Department of Education Assessment page
 .
+Additional Parent and Family Resources, including how to read your child’s CMAS Results can be found on the
+Colorado Department of Education Parent and Family Resources page.
 Definitions:
 WIDA
 ACCESS
@@ -674,7 +675,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Curricular Resources
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curricular-resources-3/
-- Last modified: 2025-12-19T20:47:08-07:00
+- Last modified: 2026-07-20T20:11:12-06:00
 
 Curricular Resources
 St. Vrain Valley Schools is committed to providing high-quality instruction that supports the success of every student. Our instructional resources have been carefully selected and adopted districtwide to align with the
@@ -815,7 +816,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-07-01T12:24:55-06:00
+- Last modified: 2026-07-22T10:47:36-06:00
 
 Counselor eCredit Support
 View Timeline
@@ -823,23 +824,22 @@ Resources
 After eCredit – Fall and Spring (10 Week Session)
 Fall After School eCredit
 Seniors can register starting:
-Aug. 11th
+August 11th
 All Students can register:
-Aug. 18th
+August 18th
 Registration Closes:
 September 12th by 8pm
 Session Begins:
-Sept. 2
-3rd
+September 23rd
 Session Ends:
-Dec. 4th
+December 4th
 Most locations run Tuesdays/Thursdays from 3:00-5:00pm
 The course fees are as follows:
 $150 – 0.5 Credit
 $75 Student with Education Benefits Approved – 0.5 Credits
 Discounted 2nd Course Rate: $75 and $40 (Education Benefits Approved)
 Once seats at your site fill, please feel free to share this waitlist form and if any seats remain open at the end of registration, we will offer them to students on this waitlist.
-Spring After School Dates (TBD) Week Session for Seniors – 10 Week Session for 9th-11th)
+Spring After School Dates
 SENIORS
 Register –
 Dec. 15th – Jan. 11th
@@ -853,14 +853,33 @@ Feb. 10th
 Session Ends:
 April 23rd
 Most locations run Tuesdays/Thursdays from 3:00-5:00pm in teacher’s classroom at site
+Seniors can register at a discount starting:
+Dec. 14th
+thru
+Jan. 11th, 2027
+All Students can register:
+January 12th, 2027
+Registration Closes:
+February 1st at 8pm
+Session Begins:
+February 9th 2027
+Session Ends:
+April 22nd, 2027
+Most locations run Tuesdays/Thursdays from 3:00-5:00pm
+The course fees are as follows:
+$150 – 0.5 Credit
+$75 Student with Education Benefits Approved – 0.5 Credits
+Discounted 2nd Course Rate: $75 and $40 (Education Benefits Approved)
+Once seats at your site fill, please feel free to share this waitlist form and if any seats remain open at the end of registration, we will offer them to students on this waitlist.
 Hints and reminders:
 Students register through our website elearning.svvsd.org, which takes them to RevTrak to pay and register
 Students can apply for Education Benefits Status here
-Students who qualify for McKinney-Vento must be registered through our office; please call 303-702-7906
-If you notice a student is enrolled in the incorrect course, please use the spreadsheet of students registered that is shared with you and input the course change.
+Students who qualify for McKinney-Vento must be registered through our office; please fill out the
+McKinney-Vento
+Registration Request form.
 Check who is registered from your school
-Every Session a spreadsheet will be shared with the counseling team at each school. If you see that your student(s) are in the incorrect course.
-Please input the correct course and the eLearning team will make changes on our end.
+Every Session a spreadsheet will be shared with the counseling team at each school.
+If you notice that a student is enrolled in the incorrect course, please update the shared student registration spreadsheet with the appropriate course change.
 Day eCredit
 Description
 Day eCredit is a program supported by most SVVS high schools as a regularly scheduled class during a student’s day. It runs both semesters, is FREE to students, and priority should be given to students who need to recover more than one course, are 11th and 12th graders, or who cannot afford the after school programming.
@@ -889,10 +908,9 @@ take TWO courses over the semester
 eLearning recommends that students try and complete their courses the week BEFORE finals, so they can focus on their other classes during finals week
 once a student is enrolled in eCredit (see above), it can take 24-48 hours for the student’s coursework to populate in Edmentum.
 Summer eCredit
-Registration will open on Wednesday, April 22nd for all students and will close on Tuesday, May 26th (Earlier if seats fill before the end date)
+Registration will open on Wednesday, April 21st for all students and will close on Tuesday, May 25th (Earlier if seats fill before the end date)
 Forms and Links
 Enrolling Students/Scheduling eCredit Courses with the NEW IC FORMAT
-Course Change Form
 Unique eCredit Situations Form
 McKinney Vento – eCredit Registration Request
 eCredit Student Scholarship Request Form
@@ -9936,7 +9954,7 @@ Source: https://www.svvsd.org/departments/financial-services/purchasing/
 ### Procurement Team
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/purchasing/meet-the-team/
-- Last modified: 2025-02-18T07:13:25-07:00
+- Last modified: 2026-07-23T15:14:16-06:00
 
 Procurement Team
 Tim Wellmann, NIGP-CPP, CPPB
@@ -9963,6 +9981,10 @@ Bill Oliver
 Senior Procurement Specialist
 303-682-7294
 oliver_william@svvsd.org
+Chara Worthington
+Procurement Assistant
+303-702-7921
+worthington_chara@svvsd.org
 
 Source: https://www.svvsd.org/departments/financial-services/purchasing/meet-the-team/
 
@@ -10218,7 +10240,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-06-03T15:26:59-06:00
+- Last modified: 2026-07-20T13:18:03-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -10429,7 +10451,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disa
 ### Medical & Pharmacy
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/medical/
-- Last modified: 2026-05-18T13:52:14-06:00
+- Last modified: 2026-07-23T12:51:02-06:00
 
 Choosing a Health Plan That’s Right For You
 As an employee, the health benefits available to you represent a significant component of your compensation package. They also provide important protection for you and your family in case of illness or injury.
@@ -10464,7 +10486,7 @@ Low-cost in-home urgent care, hospitalist and infusion services through Origin H
 Prescription drug coverage through CVS Caremark
 2026 UMR Plan Document
 2026 UMR Choice Plus Summary of Benefits and Coverage (SBC)
-CVS Caremark Covered Prescription Drugs
+CVS Caremark Prescription Drug Formulary
 Log into your Pharmacy Benefit Plan:
 caremark.com
 UMR Treatment Cost Calculator
@@ -10513,7 +10535,7 @@ Use the Spruce Messaging App:
 Download Here
 2026 UMR Plan Document
 2026 UMR Direct Care Summary of Benefits and Coverage (SBC)
-CVS Caremark Covered Prescription Drugs
+CVS Caremark Prescription Drug Formulary
 Log into your CVS Caremark Pharmacy Benefit Plan:
 caremark.com
 UMR Treatment Cost Calculator
@@ -10808,7 +10830,7 @@ Employee Calendars
 186 Day Calendar 2026-2027 August – July 1.5x leave dock
 213 KB
 191 Day Calendar 2026-2027 August – July
-200 KB
+202 KB
 195 Day & Main St Para Calendar 2026-2027 August – July
 198 KB
 195 Day Calendar 2026-2027 August – July
@@ -10854,7 +10876,7 @@ Employee Calendars
 260 Day Calendar 2026-2027 July – June (1)
 187 KB
 Work Calendar Guide 26-27
-38 KB
+144 KB
 2025-2026
 174 Day Calendar 2025 – 2026 August – July
 192 KB
@@ -11076,7 +11098,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/form
 ### Handbooks and Agreements
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/handbooks-and-agreements/
-- Last modified: 2026-01-15T10:07:45-07:00
+- Last modified: 2026-07-21T13:34:25-06:00
 
 Handbooks and Agreements
 The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
@@ -11644,7 +11666,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-06-29T08:49:46-06:00
+- Last modified: 2026-07-20T12:38:00-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -11780,7 +11802,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/worker
 ### Guest Teachers (Substitutes)
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/substitutes/
-- Last modified: 2026-07-14T10:11:47-06:00
+- Last modified: 2026-07-21T13:35:11-06:00
 
 Guest Teachers (Substitutes)
 Current Guest Teachers have access to Red Rover Absence Management, which allows Guest Teachers to review current assignments, review available jobs, cancel a job, and select your system notifications.
@@ -12574,7 +12596,7 @@ Assistant Facility Use Coordinator
 anderson_korri@svvsd.org
 David Dean
 Auditorium Specialist
-303-702-7564
+303-257-5087
 dean_david@svvsd.org
 Announcements & Timelines
 2025-2026 School Year Timelines are posted below!
@@ -12780,7 +12802,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/maintenance/mai
 ### Nutrition Services
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/
-- Last modified: 2026-06-22T09:09:38-06:00
+- Last modified: 2026-07-23T11:06:37-06:00
 
 Nutrition Services
 The St. Vrain Valley School District’s Department of Nutrition Services provides quality, nutritious and well balanced meals to the District’s students. The Department strives to provide meals at a reasonable price and to make sure that all meals meet the National School Breakfast and Lunch nutritional guidelines providing a ¼ of the RDA (recommended dietary guidelines) at breakfast and 1/3 of the RDA’S at lunch for students. In addition to the Department’s goal of providing healthy meals for students, the Department works to be an efficient, self-supporting enterprise program within the District.
@@ -13198,7 +13220,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-07-09T22:03:52-06:00
+- Last modified: 2026-07-20T10:14:51-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -13272,7 +13294,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/local
 ### Meet Our Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-our-leadership-team/
-- Last modified: 2026-06-04T10:15:39-06:00
+- Last modified: 2026-07-20T10:14:05-06:00
 
 Department Correspondence
 For questions or comments, please contact us via the department email, and we will connect you with the appropriate subject matter expert.
@@ -14689,9 +14711,17 @@ Amy Magyar
 Department Secretary
 303-702-8252
 magyar_amy@svvsd.org
+Jasmine McGarr
+Instructional Program Consultant – Special Education
+303-702-8259
+mcgarr_jasmine@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
 morenomartinz_monica@svvsd.org
+Erin Quakenbush
+Instructional Program Consultant – Special Education
+303-702-8220
+quakenbush_erin@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
@@ -14789,7 +14819,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-05-26T11:55:16-06:00
+- Last modified: 2026-07-21T10:15:44-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -14814,7 +14844,7 @@ classes you can take to meet these requirements (Classes with a link are current
 Elevating Instruction for Multilingual Learners Book Study
 (up to 60 hours): Empower your instruction and maximize student achievement with this self-paced book study focused on creating accessible learning opportunities for all students in SVVSD. Choose the resource that best addresses your students’ needs, deepen your pedagogical expertise, and earn professional development credit.
 Teach to REACH Conference
-(7.5 hours): Join St. Vrain educators at a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas. This is a late-summer conference.
+(7.5 hours) (Registration is now closed): Join St. Vrain educators at a one-day conference to raise your awareness and ability to support English language development so that ALL students can engage in robust academic discourse and disciplinary literacy in all content areas. This is a late-summer conference.
 WIDA Professional Learning
 (Hours depend on the modules completed): Register in WisdomWhere, for access to WIDA modules. Once you register in WisdomWhere, please email magyar_amy@svvsd.org to be set up with a WIDA login. When you have completed the modules of your choice, email your certificates to
 magyar_amy@svvsd.org
@@ -15011,7 +15041,7 @@ Source: https://www.svvsd.org/departments/professional-development/k-3-early-lit
 ### New Special Education Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/new-special-education-requirements/
-- Last modified: 2025-12-10T14:07:54-07:00
+- Last modified: 2026-07-20T14:50:55-06:00
 
 As a result of HB 20-1128 and HB 20-1312, educators, administrators, and certified educators must complete a minimum of 10 contact hours of training in special education and behavioral health, with at least one (1) hour in special education or behavioral health.
 This is a recurring requirement for licensure renewal
@@ -15050,7 +15080,7 @@ Source: https://www.svvsd.org/departments/professional-development/p-teach-instr
 ### P-TEACH
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/p-teach/
-- Last modified: 2024-03-27T15:56:51-06:00
+- Last modified: 2026-07-23T08:08:21-06:00
 
 Pathways to Teaching (P-TEACH)
 The P-TEACH Program introduces St.Vrain high school students to a career as an educator by offering a variety of concurrent enrollment courses. Students can earn credit through UC Denver, as well as participate in a variety of enrichment activities such as field trips to the UC Denver School of Education and Human Development. Opportunities for paid externship with the SVVSD Community Schools program are also available.
@@ -15060,6 +15090,9 @@ Early Childhood Education Pathway
 SPED or CLD/Bilingual Pathway
 STEM Pathway
 Learn more about P-Teach
+P-TEACH Pathways to Teaching Startup Kit
+This Startup Kit gives other school districts a process and talking points to begin their own Teacher Pipeline. It also serves as a detailed description of the program for those within our district and community.
+View the Startup Kit
 Timberline P-TEACH Student Video
 
 Source: https://www.svvsd.org/departments/professional-development/p-teach/
@@ -15851,10 +15884,10 @@ Source: https://www.svvsd.org/departments/safety/insurance-for-students/
 - Last modified: 2020-12-17T07:14:25-07:00
 
 Safety & Security Team
-Richard Peebles
+Debbie Sumrall
 Executive Director of Safety and Security
 303-682-7207
-peebles_richard@svvsd.org
+sumrall_debbie@svvsd.org
 Bob Johnson
 Emergency Preparedness Specialist
 303-682-7352
@@ -15996,17 +16029,18 @@ Assistant Superintendent of Special Education
 hess_laura@svvsd.org
 Emily Scott
 Executive Director of Special Education
-Erie Elementary, Northridge, Soaring Heights,
+Big Sky PK-8, Erie Elementary, Northridge, Soaring Heights, Apex
 720-652-8214
 scott_emily@svvsd.org
 Amanda Ferguson
 Director of Special Education – Secondary
-Erie HS, Frederick HS, Life Skills ACE (18-21), Longmont HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, Skyline HS, St. Vrain Virtual HS
+Erie HS, Frederick HS, Life Skills ACE (18-21), Longmont HS, Lyons MS/HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, Skyline HS, St. Vrain Virtual HS
 303-702-7640
 ferguson_amanda@svvsd.org
 Meredith Pogonyi
 Director of Special Education – Elementary
-Blue Mountain, Central, Child Find, Columbine, Hygiene, Mead Elementary, Mountain View, Prairie Ridge, Sanborn, Spark! Discovery Preschool
+Lyons ES, Mead ES, Prairie Ridge,
+Child Find, Spark! Discovery Preschool
 720-652-8216
 pogonyi_meredith@svvsd.org
 Alyse Fieldgrove
@@ -16016,22 +16050,22 @@ LEAD program
 fieldgrove_alyse@svvsd.org
 Eric Neessen
 Assistant Director of Special Education
-Altona MS, Coal Ridge MS, Erie MS, Longs Peak MS, Lyons Middle/Senior, Mead MS, Sunset MS, Trail Ridge MS, St. Vrain LaunchEd Virtual Academy
+Altona MS, Coal Ridge MS, Erie MS, Longs Peak MS, Mead MS, Sunset MS, Trail Ridge MS, St. Vrain LaunchEd Virtual Academy, Westview MS
 303-702-7689
 neessen_eric@svvsd.org
 Nathalie Tuhari-Katz
 Assistant Director of Special Education
-Aspen Ridge Preparatory, Carbon Valley Academy, Firestone Charter Academy, Flagstaff Academy, St. Vrain Community Montessori, Thunder Valley (5th-8th), Timberline (5th-8th), Twin Peaks Charter Academy, Westview MS
+Aspen Ridge Preparatory, Firestone Charter Academy, Flagstaff Academy, St. Vrain Community Montessori, Soaring Heights, Thunder Valley, Timberline, Twin Peaks Charter Academy,
 303-702-7689
 tuharikatz_nathalie@svvsd.org
 Benjamin Yamato
 Assistant Director of Special Education
-Black Rock, Fall River, Grandview, Highlands, Indian Peaks, Longmont Estates, Niwot Elementary, Red Hawk, Rocky Mountain
+Black Rock, Blue Mountain, Burlington, Eagle Crest, Grandview, Highlands, Indian Peaks, Longmont Estates, Niwot ES, Red Hawk,
 303-702-7687
 yamato_benjamin@svvsd.org
 Stephanie Zechmann
 Assistant Director of Special Education
-Alpine, Burlington, Centennial, Eagle Crest, Legacy, Lyons Elementary, Thunder Valley (K-5th), Timberline (K-5th)
+Alpine, Centennial, Central, Columbine, Fall River, Hygiene, Legacy, Mountain View, Sanborn, Rocky Mountain,
 303-702-7683
 zechmann_stephanie@svvsd.org
 Administrative Support
@@ -19689,11 +19723,12 @@ Source: https://www.svvsd.org/programs/p-teach/
 ### P-TECH
 
 - Canonical URL: https://www.svvsd.org/programs/p-tech/
-- Last modified: 2026-06-22T11:50:38-06:00
+- Last modified: 2026-07-21T16:14:57-06:00
 
 Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Pharma Manufacturing (Aims Community College), Cybersecurity (Aims Community College) and Business Administration (Front Range Community College).
 St. Vrain Valley Schools P-TECH serves approximately 450-500 students annually. 55% of P-TECH students are first generation college students, and 41% are second language learners.
+Meet Some of Our P-TECH Alumni
 P-TECH By the Numbers:
 303 P-TECH students have earned an associate’s degree at no cost to them.
 P-TECH students have earned over 260 industry certifications in Microsoft Office, Python, CompTIA A+, CompTIA Network+, CompTIA Security+, and CompTIA Cloud+.
