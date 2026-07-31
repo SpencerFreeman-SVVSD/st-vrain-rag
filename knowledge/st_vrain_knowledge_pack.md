@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-07-26T04:09:40.698578-06:00
+generated_at: 2026-07-31T04:49:01.253949-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -9849,7 +9849,7 @@ Source: https://www.svvsd.org/departments/communityschools/
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/about-us/
-- Last modified: 2026-04-03T14:30:49-06:00
+- Last modified: 2026-07-28T10:35:07-06:00
 
 Meet the Team
 Esperanza Ruiz
@@ -9860,6 +9860,9 @@ Susanne Herren
 Regulatory Compliance Clerk
 303-702-7936
 herren_susanne@svvsd.org
+Wendi Stewart
+Community Schools Nurse
+stewart_wendi@svvsd.org
 Martha Clemensen
 Community Schools Assistant Coordinator
 303-702-7926
@@ -9873,6 +9876,10 @@ Larissa Prieto
 Program Manager, Alpine Elementary
 720-652-8146
 prieto_larissa@svvsd.org
+Irena Dietz
+Program Manager, Big Sky PK8
+720-652-8126
+dietz_irena@svvsd.org
 Carly Ertle
 Program Manager, Black Rock Elementary
 720-890-3995
@@ -9889,10 +9896,10 @@ Jake Anderson
 Program Manager, Centennial Elementary
 720-652-8240
 anderson_jacob@svvsd.org
-Jessyca Chermak
+Sarah Herren
 Program Manager, Central Elementary
 303-776-3236
-chermak_jessyca@svvsd.org
+herren_sarah@svvsd.org
 Harley Bolitho
 Program Manager, Eagle Crest Elementary
 720-652-7871
@@ -9905,18 +9912,18 @@ Kelley McGhie-Wyjad
 Program Manager, Fall River Elementary
 720-652-7923
 mcghiewyjad_kelley@svvsd.org
-Tarah Sable
-Program Manager, Grand View Elementary
+Elicia Strazzeri
+Program Manager, Grand View
 303-702-8000
-sable_tarah@svvsd.org
+strazzeri_elicia@svvsd.org
 Deidre Taylor
 Program Manager, Highlands
 303-702-8040
 taylor_deidre@svvsd.org
-Veronica Vigil
-Program Manager, Hygiene Elementary
-720-652-8021
-vigil_veronica@svvsd.org
+Maria Ochoa
+Program Manager, Mountain View Elementary
+720-652-8272
+ochoa_maria@svvsd.org
 Becky Champlin
 Program Manager, Legacy Elementary
 720-652-8169
@@ -9933,10 +9940,10 @@ Christy Scott
 Program Manager, Mead Elementary
 720-652-8046
 scott_christine@svvsd.org
-Maria Ochoa
-Program Manager, Mountain View Elementary
+Gracie Winka
+Program Manager, Mountain View
 720-652-8272
-ochoa_maria@svvsd.org
+winka_gracie@svvsd.org
 Jennifer Novick
 Program Manager, Niwot Elementary
 720-652-8065
@@ -9949,10 +9956,6 @@ Linda Spencer
 Program Manager, Red Hawk Elementary
 303-774-2716
 spencer_linda@svvsd.org
-Irena Dietz
-Program Manager, Sanborn Elementary
-720-652-8126
-dietz_irena@svvsd.org
 David Zuniga
 Program Manager, Soaring Heights PK8
 303-702-8026
@@ -9961,10 +9964,10 @@ Tasha Lugg
 Program Manager, SPARK Discovery Preschool
 720-652-7908
 lugg_tasha@svvsd.org
-Jess Halloran
-Program Manager, Thunder Valley K-8
+Sara Karstens
+Program Manager, Thunder Valley
 303-833-2456
-halloran_jess@svvsd.org
+karstens_sara@svvsd.org
 
 Source: https://www.svvsd.org/departments/communityschools/about-us/
 
@@ -15950,17 +15953,9 @@ Amy Magyar
 Department Secretary
 303-702-8252
 magyar_amy@svvsd.org
-Jasmine McGarr
-Instructional Program Consultant – Special Education
-303-702-8259
-mcgarr_jasmine@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
 morenomartinz_monica@svvsd.org
-Erin Quakenbush
-Instructional Program Consultant – Special Education
-303-702-8220
-quakenbush_erin@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
@@ -16178,7 +16173,7 @@ Source: https://www.svvsd.org/departments/professional-development/induction/
 ### Induction Checklists
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/induction/induction-checklist/
-- Last modified: 2026-07-17T13:48:05-06:00
+- Last modified: 2026-07-30T15:38:30-06:00
 
 New Educator Induction
 Process Timeline 2025-2026
@@ -16202,7 +16197,7 @@ SPED Early Career Teacher Checklist
 SPED Experienced Teacher Checklist
 (for special educators with 3+ years of experience in the United States)
 SPED Specialists Checklist
-(School Psychologists, SLP, OT, PT, TVI and DHH)
+(School Psychologists, Social Workers, SLP, OT, PT, TVI and DHH)
 Questions about induction? E-mail Amy Magyar at magyar_amy@svvsd.org
 
 Source: https://www.svvsd.org/departments/professional-development/induction/induction-checklist/
@@ -16319,7 +16314,7 @@ Source: https://www.svvsd.org/departments/professional-development/p-teach-instr
 ### P-TEACH
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/p-teach/
-- Last modified: 2026-07-23T08:08:21-06:00
+- Last modified: 2026-07-28T12:01:50-06:00
 
 Pathways to Teaching (P-TEACH)
 The P-TEACH Program introduces St.Vrain high school students to a career as an educator by offering a variety of concurrent enrollment courses. Students can earn credit through UC Denver, as well as participate in a variety of enrichment activities such as field trips to the UC Denver School of Education and Human Development. Opportunities for paid externship with the SVVSD Community Schools program are also available.
@@ -19666,9 +19661,9 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-07-01T10:21:22-06:00
+- Last modified: 2026-07-30T09:50:42-06:00
 
-Click on the Circular Chart above to open a traditional version.
+Click on the Circular Chart below to open a traditional version.
 
 Source: https://www.svvsd.org/departments/technology/dts-org-chart/
 
