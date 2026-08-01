@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-07-31T04:49:01.253949-06:00
+generated_at: 2026-08-01T04:07:42.291874-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -915,6 +915,7 @@ Unique eCredit Situations Form
 McKinney Vento – eCredit Registration Request
 eCredit Student Scholarship Request Form
 Checking Students Registration (your school site)
+(Check the Google spreadsheet that is shared)
 Education Benefits Application
 Parent Letter: Edmentum Overview
 Fall eCredit – Student Brochure
@@ -9875,6 +9876,10 @@ Kimberly Woolett
 Executive Administrative Assistant to Chief Financial Officer
 303-682-7203
 Woolett_Kimberly@svvsd.org
+Chara Worthington
+Procurement Assistant
+303-702-7921
+worthington_chara@svvsd.org
 Justin Petrone
 Executive Director Budget & Finance
 303-682-7287
@@ -14714,9 +14719,17 @@ Amy Magyar
 Department Secretary
 303-702-8252
 magyar_amy@svvsd.org
+Jasmine McGarr
+Instructional Program Consultant – Special Education
+303-702-8259
+mcgarr_jasmine@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
 morenomartinz_monica@svvsd.org
+Erin Quakenbush
+Instructional Program Consultant – Special Education
+303-702-8220
+quakenbush_erin@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
