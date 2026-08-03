@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-01T04:07:42.291874-06:00
+generated_at: 2026-08-03T05:40:21.746130-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -816,7 +816,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-07-22T10:47:36-06:00
+- Last modified: 2026-07-31T11:39:34-06:00
 
 Counselor eCredit Support
 View Timeline
