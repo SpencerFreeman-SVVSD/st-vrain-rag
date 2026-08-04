@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-03T05:40:21.746130-06:00
+generated_at: 2026-08-04T04:48:12.409644-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -9667,6 +9667,7 @@ Frederick High School Theatre (X)
 Frederick High School Theatre (Youtube)
 Highlands Elementary School
 Highlands Elementary School (X)
+Highlands Elementary School (Facebook)
 Hygiene Elementary School
 Hygiene Elementary School (X)
 Hygiene Elementary School Library (X)
@@ -10518,8 +10519,9 @@ Morning session (8:55-11:35 a.m.)
 Afternoon session (12:50-3:30 p.m.)
 Full-day session (8:55 a.m. – 3:30 p.m.)
 Highlands Elementary
-Morning session (8:50-11:30 a.m.)
-Afternoon session (12:40-3:20 p.m.)
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+Full-day session (8:55 a.m. – 3:35 p.m.)
 Red Hawk Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:50-3:30 p.m.)
@@ -12457,8 +12459,8 @@ Human Resources Technician
 303-682-7282
 chaparro_jakie@svvsd.org
 Heather Coventon
-Department Secretary/District Receptionist
-303-776-6200
+Human Resources Technician
+303-682-2290
 coventon_heather@svvsd.org
 Rebecca Ewer
 Employee Leave Specialist
@@ -12469,13 +12471,21 @@ Executive Administrative Assistant
 303-682-7386
 goellner_elisa@svvsd.org
 Katarina Kocourek
-Human Resources Technician
-303-682-2290
+Human Resources Hiring Specialist
+303-682-7439
 kocourek_katarina@svvsd.org
+Laney Miller
+Department Secretary/District Receptionist
+303-776-6200
+miller_laney@svvsd.org
 Bruna Omati
 Human Resources Specialist
 303-682-7241
 omati_bruna@svvsd.org
+Becki Pembleton
+Enterprise Systems Analyst
+303-682-7426
+pembleton_becki@svvsd.org
 Irene Prado
 Human Resources Technician: Supporting Leave, ADA, Risk Management & Unemployment
 303-682-7212
@@ -13846,7 +13856,7 @@ Auditorium Specialist
 303-257-5087
 dean_david@svvsd.org
 Announcements & Timelines
-2025-2026 School Year Timelines are posted below!
+2026-2027 School Year Timelines are posted below!
 Athletic Timeline
 Processing of contracts will begin 6 weeks prior to each season start. See below for season dates:
 Fall Sports
