@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-04T04:48:12.409644-06:00
+generated_at: 2026-08-05T04:44:48.516541-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -19391,18 +19391,21 @@ Johnny Terrell, Assistant Superintendent of Student Services
 Olga Cordero, Executive Director of Student Services
 Maura Brady McMullen, District Lead Counselor, Crisis Response Lead, and Local District Scholarship Coordinator
 High School Leadership
-Calan Anderson, Niwot High School Counselor
 Carey Beneke, Frederick High School Interventionist
-Diana Carty, Niwot High School Counselor
-Tony (Anthony) Delisa-Ludwig, New Meridian Interventionist
+Connie Dewlen, CTE Work-Based Learning & Internship Coordinator
+Anthony Elliott, Mead High School Counselor
+Tenica Henry, Niwot High School Interventionist
+Ciara Lucero, Longmont High School Counselor
 Ashlea Patterson, Frederick High School Counselor
 Middle School Leadership
-Connie Dewlen, CTE Counselor for SVVSD
-Cathy (Catherine) Gomez, Soaring Heights Counselor
-Ben (Benjamin) Knighten, Erie Middle and Coal Ridge Middle Interventionist
+Sara Nazari, Trail Ridge Middle School Counselor
+Zenia Quintana, Sunset Middle School Counselor
+Ben (Benjamin) Knighten,
+Interim
+, Frederick High School Counselor
 Elementary School Leadership
-Lexie (Alexandra) Francis, Central Elementary Counselor
-Sarah Knighten, Sanborn Elementary and Student Services MTSS Support Counselor
+Sarah Knighten, Big Sky PK – 8 Counselor
+Shaun Manzanares, Fall River Elementary Counselor
 Becky (Rebecca) Ramsay, Alpine Elementary Counselor
 
 Source: https://www.svvsd.org/departments/student-services/school-counselor-and-interventionist-information-and-resources/counseling-leadership-steering-committee/
