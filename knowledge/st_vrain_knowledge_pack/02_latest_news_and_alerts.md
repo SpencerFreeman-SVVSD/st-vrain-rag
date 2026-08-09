@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-05T04:44:48.516541-06:00
+generated_at: 2026-08-09T02:57:58.669997-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,23 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Superintendent Jackie Kapushion Receives CU Denver Alumni Leadership Award
+
+- Published: 2026-08-07T08:02:02-06:00
+- Source URL: https://www.svvsd.org/2026/08/07/superintendent-jackie-kapushion-receives-cu-denver-alumni-leadership-award/
+
+St. Vrain Valley Schools Superintendent Jackie Kapushion, Ed.D., was
+honored last month with an Alumni Leadership Award from the University of Colorado Denver School of Education & Human Development
+. The award recognizes graduates whose leadership has strengthened schools and communities across Colorado.
+Kapushion earned her doctorate from CU Denver in 2019 and was one of five alumni recognized at this year’s ceremony. Her career in public education spans 38 years, beginning in the classroom and continuing through roles as a principal and district administrator before she was named superintendent of St. Vrain Valley Schools.
+When she accepted the award, Kapushion spent her time at the microphone emphasizing the importance of public education and the teaching profession.
+“Honor and encourage our educators and give them the support needed to persevere in this profession. Encourage the most brilliant people you know, who want to live a life of extraordinary purpose, to become a teacher and work in education. Working in public schools is the highest honor and responsibility that no other profession can begin to replicate.”
+Marvin Lynn, Ph.D., dean of the School of Education & Human Development, opened the evening by describing the reach of the school’s graduates and what it means to see them leading districts, schools, and community organizations throughout the state. Susana Córdova, commissioner of the Colorado Department of Education and a CU Denver graduate herself, served as emcee. Provost Karen Marrongelle, Ph.D., shared that every honoree had earned a CU Denver degree within the past decade and now holds a position of real influence in Colorado education.
+Near the end of the program, Lynn asked the faculty mentors in the room to stand and be recognized. It was a small moment, but it matched something each honoree had said in one way or another, which is that nobody arrives in this work alone.
+Kapushion’s message that evening was equal parts gratitude and charge. Our public schools are worth protecting, and the people who staff them are worth championing. That work belongs to all of us, in St. Vrain Valley and well beyond it.
+
+Source: https://www.svvsd.org/2026/08/07/superintendent-jackie-kapushion-receives-cu-denver-alumni-leadership-award/
 
 ### CETC Manufacturing Students Create Awards Honoring Colorado’s School Safety Leaders
 
@@ -139,17 +156,6 @@ ASBO International’s official website
 .
 
 Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
-
-### 60 St. Vrain Valley incoming seniors attend cybersecurity mini-internships
-
-- Published: 2026-06-12T13:37:21-06:00
-- Source URL: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
-
-About 60 St. Vrain Valley rising high school seniors are helping local businesses beef up their cybersecurity through a two-week, paid mini-internship program.
-The students, in sessions held at Silver Creek and Skyline high schools this month, spend the morning learning about the The National Institute of Standards and Technology, or NIST, Cybersecurity Framework and hearing from those who work in cybersecurity. In the afternoons, they work in teams with businesses to to conduct security audits.
-Read the full story in the Times-Call
-
-Source: https://www.svvsd.org/2026/06/12/60-st-vrain-valley-incoming-seniors-attend-cybersecurity-mini-internships/
 
 ### District alerts
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-05T04:44:48.516541-06:00
+generated_at: 2026-08-09T02:57:58.669997-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -714,16 +714,19 @@ Health
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curricular-resources-3/
 
-### Curriculum Review Process
+### New Course Requests
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curriculum-review-process/
-- Last modified: 2023-07-12T07:55:01-06:00
+- Last modified: 2026-08-06T20:09:30-06:00
 
-Curriculum Review Process
-The Department of Assessment, Curriculum and Instruction is responsible for the development, articulation, implementation, revision, and evaluation of the curriculum necessary for delivering the instructional program at the District level.
-Principals are responsible for use and appropriate implementation of approved curriculum at the school level.
-If schools are interested in reviewing or piloting new courses, please use the
-SVVSD Curriculum Application
+Review Process for New Courses
+The Department of Assessment, Curriculum, and Instruction oversees the development, implementation, evaluation, revision, and districtwide alignment of curriculum to support student achievement, postsecondary and workforce readiness, and global success.
+Principals are responsible for implementing the approved curriculum at the school level.
+Schools interested in developing and piloting a new course should complete the
+New Course Request
+form. Submissions will be reviewed and approved by the building principal before being sent to the Curriculum Department.
+General high school course proposals for the following school year must be submitted by
+November 1
 .
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curriculum-review-process/
@@ -5639,7 +5642,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Fall 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/fall-2020-ecredit-recovery/
-- Last modified: 2026-06-08T08:05:25-06:00
+- Last modified: 2026-08-05T08:01:34-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
@@ -5647,9 +5650,9 @@ Fall 2026 Registration OPENS ON August 24th, 2026
 Did you Miss the Registration Window or Your Location is Full? (Click Here for Waitlist)
 Registration Dates:
 Fall 2026 eCredit Registration:
-OPENS TO ALL GRADES (10th-12th) – Monday, August 24th – Monday, September 14th, 2025 at NOON.
+OPENS TO ALL GRADES (10th-12th) – Monday, August 24th – Monday, September 14th, 2026 at NOON.
 If you are not sure what course to register for, we recommend reaching out to your counselor ASAP about what options you have.
-Courses offered – Fall 2025 eCredit Recovery session:
+Courses offered – Fall 2026 eCredit Recovery session:
 English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
 World Studies A/B, US History A/B, US Government A/B, Personal Financial Literacy
 Algebra 1A/B, Geometry A/B, Algebra 2A/B, Int Algebra A/B
@@ -7972,6 +7975,9 @@ Design Templates
 Presentations, Flyers, Posters, Social
 Media Assets
 Google Drive
+Attendance Resources
+Attendance Materials Toolkit
+Google Drive
 Slide Templates
 Branded Google Slide Templates
 Google Drive
@@ -8023,11 +8029,11 @@ Source: https://www.svvsd.org/departments/communications/messenger-notification-
 ### ParentSquare Communication Tool
 
 - Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
-- Last modified: 2026-06-10T15:53:56-06:00
+- Last modified: 2026-08-06T15:29:18-06:00
 
 ParentSquare: Our New District Communication Tool
-Clear, consistent communication is essential to keeping our community informed and connected. St. Vrain Valley Schools has been exploring ways to strengthen districtwide communication and simplify how information reaches families and staff. To support these efforts, we will begin using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences. St. Vrain’s communications team will pilot ParentSquare for the remainder of the school year with plans to expand access to all schools at the start of the new school year.
-St. Vrain families and staff received an email invitation directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
+Clear, consistent communication is essential to keeping our community informed and connected. To support these efforts, we will be using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences.
+St. Vrain families and staff will receive an email invitation before the 2026-2027 school year directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
 While registration or downloading the app is not required, and communications will continue to be sent via email, text, and voice to the contact information listed in Infinite Campus, doing so allows users to confirm their information and school associations are accurate and to customize notification settings.
 ParentSquare Tools and Features
 :
@@ -8067,7 +8073,7 @@ visit ParentSquare to view their help article
 What types of communications will I be receiving from ParentSquare?
 Communications from ParentSquare will include Superintendent’s Updates, school newsletters, school communications, weather updates, and critical communications.
 Who do I contact with questions about ParentSquare?
-Please
+Please reach out to your school with ParentSquare questions. If they are not able to assist you, please
 fill out this form
 with any questions you may have and the communications team will reach out to you.
 ParentSquare also offers a variety of resources for additional help. Once logged into your account, you can select the question mark icon in the top right hand corner for a variety of help options including
@@ -8283,7 +8289,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2025-12-16T12:43:24-07:00
+- Last modified: 2026-08-05T10:09:44-06:00
 
 District Accounts
 Assessment (X)
@@ -8478,6 +8484,7 @@ Lyons Middle Senior High School (X)
 Lyons Middle Senior High School (Instagram)
 Lyons Middle School High School Football (X)
 Lyons Middle Senior High School Library (Instagram)
+Lyons Middle Senior High School Student Council (Instagram)
 Mead High School
 Mead High School (Facebook)
 Mead High School Athletics (X)
@@ -9264,7 +9271,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/
 ### 2026-2027 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
-- Last modified: 2026-05-13T11:22:07-06:00
+- Last modified: 2026-08-03T08:32:43-06:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers exceptional preschool programs across the district, giving families more opportunities for consistent learning and connection. Families can choose from a variety of high-quality options, including half-day morning and afternoon sessions, with full-day programs available at select schools.
@@ -9399,6 +9406,23 @@ log in
 with your staff credentials to access these resources
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
+
+### Developmental & Health Screenings
+
+- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/developmental-health-screenings/
+- Last modified: 2026-08-07T13:55:25-06:00
+
+Developmental & Health Screenings
+Preschool students have the opportunity to participate in voluntary developmental and health screenings. These screenings help staff identify each student’s strengths and gather information to support individual learning, health and developmental needs.
+Parent/guardian consent must be obtained before a student participates in any screening. Screening results are confidential and should be shared only with the student’s family and appropriate staff. If concerns are identified, staff should provide the family with information about available resources, referrals and support services.
+Developmental Screenings
+New preschool students may participate in developmental screenings that assess areas such as social-emotional, cognitive and language development. School staff are responsible for coordinating screening opportunities and communicating relevant information to families.
+2026-2027 Screening Presentation
+Speed Dial Tutorial Video
+Annual Vision, Hearing and Dental Screenings
+Preschool students may participate in annual vision, hearing and dental screenings. Vision and hearing screenings are provided through the St. Vrain Valley Schools Health Services Department. Dental screenings are provided in partnership with the Sunshine Club. Staff should follow district procedures for obtaining consent, coordinating screenings and communicating results to families.
+
+Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/developmental-health-screenings/
 
 ### Preschool Handbook
 
@@ -9878,10 +9902,6 @@ Kimberly Woolett
 Executive Administrative Assistant to Chief Financial Officer
 303-682-7203
 Woolett_Kimberly@svvsd.org
-Chara Worthington
-Procurement Assistant
-303-702-7921
-worthington_chara@svvsd.org
 Justin Petrone
 Executive Director Budget & Finance
 303-682-7287
@@ -10250,7 +10270,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-07-20T13:18:03-06:00
+- Last modified: 2026-08-07T13:36:08-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -10297,7 +10317,7 @@ UMR Choice Plus HRA Summary of Benefits and Coverage
 HRA Plan Document
 UMR Summary Plan Description
 (Full Coverage Details)
-CVS Prescription Drug Listing (UMR Plans)
+CVS Prescription Drug Formulary (UMR Plans)
 Delta Dental Plan Summary
 VSP Vision Plan Summary
 The Hartford Short Term Disability Policy Document
@@ -10461,7 +10481,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disa
 ### Medical & Pharmacy
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/medical/
-- Last modified: 2026-07-23T12:51:02-06:00
+- Last modified: 2026-08-07T13:38:33-06:00
 
 Choosing a Health Plan That’s Right For You
 As an employee, the health benefits available to you represent a significant component of your compensation package. They also provide important protection for you and your family in case of illness or injury.
@@ -10558,7 +10578,7 @@ Origin Healthcare
 – Origin Healthcare brings health care services to you! Access acute care medical services that may have previously been provided in higher cost setting like the hospital, emergency room or infusion center. Now you can receive many of the same services in the comfort of your own home — including in-home labs, x-rays, hydration therapy, electrolyte replacement and some chemotherapy treatments. Origin provides post-surgical care at a lower cost — saving you and the district money. Origin services are available to UMR plan members 18 years of age or older.
 originhc.com
 Zero Card
-– Through Zero Card, when you or your covered family members use a contracted Zero Card provider for a covered service, you pay zero dollars — no copays, deductibles or coinsurance — for dozens of covered services including physical therapy, sleep studies, non-emergency surgeries, including tonsillectomies, sinus surgeries and gall bladder removal, orthopedics, including spinal fusions, knee, hip and shoulder surgeries, labs, X-rays and advanced imaging (such as CT, MRI and ultrasounds) and more. Access to Zero Card is automatic when you enroll in the UMR Choice Plus or Direct Care plans.
+– Through Zero Card, when you or your covered family members use a contracted Zero Card provider for a covered service, you pay zero dollars — no copays, deductibles or coinsurance — for dozens of covered services including physical therapy, sleep studies, non-emergency surgeries, including tonsillectomies, sinus surgeries and gall bladder removal, orthopedics, spinal fusions, knee, hip and shoulder surgeries, labs, X-rays and advanced imaging (such as CT, MRI and ultrasounds) and more. Access to Zero Card is automatic when you enroll in the UMR Choice Plus or Direct Care plans.
 zero.health
 PrudentRx Specialty Medication Program
 – Reduce your out-of-pocket cost on many specialty medications.
@@ -11183,7 +11203,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/svve
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2026-06-30T11:17:15-06:00
+- Last modified: 2026-08-03T08:46:33-06:00
 
 Human Resources Leadership Team
 Amanda Thompson
@@ -11192,7 +11212,7 @@ Assistant Superintendent of Human Resources
 thompson_amanda@svvsd.org
 Russell Fox
 Executive Director of Human Resources
-303-702-7481
+303-682-7406
 fox_russell@svvsd.org
 Sarah James
 Executive Director of Human Resources
@@ -11762,7 +11782,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/forms/
-- Last modified: 2021-11-18T09:41:47-07:00
+- Last modified: 2026-08-05T09:38:33-06:00
 
 Forms
 Student Injury Report
@@ -11804,9 +11824,9 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/overni
 ### Worker’s Compensation
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/workers-compensation/
-- Last modified: 2025-07-09T07:37:34-06:00
+- Last modified: 2026-08-05T10:08:34-06:00
 
-Worker’s Compensation
+Employee Injuries
 Employee Injury Form
 Workers Comp Clinic List
 Workers’ Compensation Benefits and Procedures
@@ -12584,7 +12604,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/environmental-c
 ### Facility Use
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/facility-use/
-- Last modified: 2026-06-11T11:48:07-06:00
+- Last modified: 2026-08-03T07:53:35-06:00
 
 Facility Use Scheduling System Update: Transition to FMX
 St. Vrain has transitioned to FMX for facility reservations and event scheduling. Event Manager is no longer being used for new requests. The community reservation portal will open on
@@ -13424,7 +13444,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-
 ### School Menus
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/menu/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-08-06T12:36:40-06:00
 
 St. Vrain Valley School’s Nutrition Service staff believes that serving nutritious school meals is one of the main ingredients in students’ ability to learn in the classroom. It’s hard for students to focus when they are hungry. Our staff takes pride in providing meals that meet the USDA nutritional requirements and include as many local fresh ingredients as possible.
 View
@@ -13443,8 +13463,8 @@ Adult Meal: $3.00
 Seconds or Additional Meals: $3.00
 Lunch Meal Prices
 Student Meal (first): $0.00
-Adult Meal: $5.00
-Seconds or Additional Meals: $5.00
+Adult Meal: $5.25
+Seconds or Additional Meals: $5.25
 Meals include 1 entrée with associated sides and condiments, 1 milk, and fresh fruits and vegetables. Students who choose a school lunch may have unlimited access to fresh fruits and vegetables during the meal service.
 What makes a meal free?
 A student must take at least 3 components, 1 being a 1/2c fruit or vegetable. A good rule of thumb:
@@ -14729,17 +14749,9 @@ Amy Magyar
 Department Secretary
 303-702-8252
 magyar_amy@svvsd.org
-Jasmine McGarr
-Instructional Program Consultant – Special Education
-303-702-8259
-mcgarr_jasmine@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
 morenomartinz_monica@svvsd.org
-Erin Quakenbush
-Instructional Program Consultant – Special Education
-303-702-8220
-quakenbush_erin@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
@@ -16579,7 +16591,7 @@ Source: https://www.svvsd.org/departments/special-education/services-programming
 ### School to Work Alliance Program (SWAP)
 
 - Canonical URL: https://www.svvsd.org/departments/special-education/services-programming/school-to-work-alliance-program-swap/
-- Last modified: 2025-07-28T08:34:40-06:00
+- Last modified: 2026-08-03T18:12:47-06:00
 
 School to Work Alliance Program
 The
@@ -18144,7 +18156,7 @@ Source: https://www.svvsd.org/departments/student-services/multi-tiered-systems-
 ### Counseling Leadership & Steering Committee
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/school-counselor-and-interventionist-information-and-resources/counseling-leadership-steering-committee/
-- Last modified: 2025-12-15T11:19:05-07:00
+- Last modified: 2026-08-04T11:16:16-06:00
 
 Counselor and interventionist leadership is made up of a team of aforementioned individuals from each school level: elementary, middle and high schools. The Steering Committee works with district leadership to drive counseling initiatives and support counselors and our work.
 District Leadership
@@ -18243,7 +18255,7 @@ Source: https://www.svvsd.org/departments/student-services/school-counselor-and-
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/school-counselor-and-interventionist-information-and-resources/professional-development/
-- Last modified: 2025-12-15T09:59:26-07:00
+- Last modified: 2026-08-04T12:22:17-06:00
 
 Counselors and interventionists, like other educators, need to take professional development for continued licensure. Please see below for professional development options. Please reach out to Human Resources regarding questions about your license or license renewal, and movement on the salary scale, or years of service.
 ASCA U Professional Development Credit
@@ -18405,7 +18417,7 @@ Source: https://www.svvsd.org/departments/student-services/what-is-gifted/
 ### Technology
 
 - Canonical URL: https://www.svvsd.org/departments/technology/
-- Last modified: 2025-09-03T10:28:01-06:00
+- Last modified: 2026-08-05T11:11:44-06:00
 
 District Technology Services
 District Technology Services (DTS)
@@ -18448,7 +18460,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-07-30T09:50:42-06:00
+- Last modified: 2026-08-03T07:39:42-06:00
 
 Click on the Circular Chart below to open a traditional version.
 
