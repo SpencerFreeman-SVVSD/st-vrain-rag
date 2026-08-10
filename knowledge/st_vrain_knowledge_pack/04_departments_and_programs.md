@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-09T02:57:58.669997-06:00
+generated_at: 2026-08-10T03:44:17.580996-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -9902,6 +9902,10 @@ Kimberly Woolett
 Executive Administrative Assistant to Chief Financial Officer
 303-682-7203
 Woolett_Kimberly@svvsd.org
+Chara Worthington
+Procurement Assistant
+303-702-7921
+worthington_chara@svvsd.org
 Justin Petrone
 Executive Director Budget & Finance
 303-682-7287
@@ -14749,9 +14753,17 @@ Amy Magyar
 Department Secretary
 303-702-8252
 magyar_amy@svvsd.org
+Jasmine McGarr
+Instructional Program Consultant – Special Education
+303-702-8259
+mcgarr_jasmine@svvsd.org
 Monica Moreno-Martinez
 Success Coach/P-TEACH Instructor
 morenomartinz_monica@svvsd.org
+Erin Quakenbush
+Instructional Program Consultant – Special Education
+303-702-8220
+quakenbush_erin@svvsd.org
 Nicole Rudman
 P-TEACH Apprentice Coordinator, Instructor
 303-702-8237
