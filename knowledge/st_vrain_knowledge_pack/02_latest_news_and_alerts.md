@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-10T03:44:17.580996-06:00
+generated_at: 2026-08-12T03:21:49.370134-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,23 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Big Sky PK-8 Celebrates Grand Opening
+
+- Published: 2026-08-11T14:11:09-06:00
+- Source URL: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
+
+Big Sky PK-8 officially opened its doors to the community Monday evening, marking an exciting milestone for St. Vrain Valley Schools and the Mead community.
+Hundreds of students, families, staff, and community members filled the new school, exploring beautifully prepared classrooms and state-of-the-art learning spaces ahead of the first day of school. Throughout the evening, smiles and plenty of “oohs” and “ahhs” reflected the excitement surrounding St. Vrain’s newest school.
+The celebration began with remarks from Big Sky PK-8 Principal Joshua Barnett, Superintendent Dr. Jackie Kapushion, and Mead Mayor Colleen Whitlow, followed by a ceremonial ribbon cutting featuring some of Big Sky’s incoming students.
+Made possible through the community’s support of St. Vrain’s 2024 Bond, the approximately 145,000-square-foot school was designed to serve up to 1,100 students and provide innovative, future-focused learning spaces for the growing Mead community. Big Sky opens this year serving students in preschool through sixth grade, with seventh and eighth grades being added in subsequent years.
+More than the opening of a new building, the evening celebrated the beginning of a new school community — one that will serve generations of students and families in the years ahead.
+The Times-Call also captured the excitement surrounding Big Sky’s opening and the school’s first day.
+Read their coverage of Big Sky PK-8
+.
+See the photo album
+
+Source: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
 
 ### Superintendent Jackie Kapushion Receives CU Denver Alumni Leadership Award
 
@@ -141,21 +158,6 @@ asbointl.org
 .
 
 Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
-
-### St. Vrain Valley Schools Earns National Recognition for Budget Excellence
-
-- Published: 2026-06-16T13:54:12-06:00
-- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
-
-For the third consecutive year, St. Vrain Valley Schools has received the Meritorious Budget Award (MBA) from the Association of School Business Officials (ASBO) International for its fiscal year 2025-2026 budget. This award recognizes the district’s commitment to clear, transparent, and high-quality budget presentation.
-The Meritorious Budget Award acknowledges St. Vrain’s dedication to crafting budget documents that clearly communicate financial information to all stakeholders. A panel of school financial professionals reviewed the district’s submission to ensure compliance with ASBO International’s MBA Criteria Checklist and other requirements.
-“An effective school budget is more than just numbers—it’s a vital tool for building trust and engaging the community,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “The Meritorious Budget Award recognizes districts like St. Vrain Valley School District that prioritize financial clarity and accountability. We commend their dedication to upholding nationally recognized budget presentation standards.”
-This achievement recognizes the outstanding efforts of St. Vrain’s finance team, who worked diligently to align the budget document with ASBO International’s rigorous criteria. “Receiving the Meritorious Budget Award for the third consecutive year reflects the expertise and dedication of our budget team,” said Tony Whiteley, Chief Financial Officer of St. Vrain Valley Schools. “Their work helps ensure that district resources are thoughtfully aligned to support our schools, programs, and long-term priorities.”
-For more information about the Meritorious Budget Award program, please visit
-ASBO International’s official website
-.
-
-Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
 
 ### District alerts
 

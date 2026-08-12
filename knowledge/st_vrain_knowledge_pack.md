@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-10T03:44:17.580996-06:00
+generated_at: 2026-08-12T03:21:49.370134-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,23 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Big Sky PK-8 Celebrates Grand Opening
+
+- Published: 2026-08-11T14:11:09-06:00
+- Source URL: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
+
+Big Sky PK-8 officially opened its doors to the community Monday evening, marking an exciting milestone for St. Vrain Valley Schools and the Mead community.
+Hundreds of students, families, staff, and community members filled the new school, exploring beautifully prepared classrooms and state-of-the-art learning spaces ahead of the first day of school. Throughout the evening, smiles and plenty of “oohs” and “ahhs” reflected the excitement surrounding St. Vrain’s newest school.
+The celebration began with remarks from Big Sky PK-8 Principal Joshua Barnett, Superintendent Dr. Jackie Kapushion, and Mead Mayor Colleen Whitlow, followed by a ceremonial ribbon cutting featuring some of Big Sky’s incoming students.
+Made possible through the community’s support of St. Vrain’s 2024 Bond, the approximately 145,000-square-foot school was designed to serve up to 1,100 students and provide innovative, future-focused learning spaces for the growing Mead community. Big Sky opens this year serving students in preschool through sixth grade, with seventh and eighth grades being added in subsequent years.
+More than the opening of a new building, the evening celebrated the beginning of a new school community — one that will serve generations of students and families in the years ahead.
+The Times-Call also captured the excitement surrounding Big Sky’s opening and the school’s first day.
+Read their coverage of Big Sky PK-8
+.
+See the photo album
+
+Source: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
+
 ### Superintendent Jackie Kapushion Receives CU Denver Alumni Leadership Award
 
 - Published: 2026-08-07T08:02:02-06:00
@@ -624,21 +641,6 @@ asbointl.org
 .
 
 Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
-
-### St. Vrain Valley Schools Earns National Recognition for Budget Excellence
-
-- Published: 2026-06-16T13:54:12-06:00
-- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
-
-For the third consecutive year, St. Vrain Valley Schools has received the Meritorious Budget Award (MBA) from the Association of School Business Officials (ASBO) International for its fiscal year 2025-2026 budget. This award recognizes the district’s commitment to clear, transparent, and high-quality budget presentation.
-The Meritorious Budget Award acknowledges St. Vrain’s dedication to crafting budget documents that clearly communicate financial information to all stakeholders. A panel of school financial professionals reviewed the district’s submission to ensure compliance with ASBO International’s MBA Criteria Checklist and other requirements.
-“An effective school budget is more than just numbers—it’s a vital tool for building trust and engaging the community,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “The Meritorious Budget Award recognizes districts like St. Vrain Valley School District that prioritize financial clarity and accountability. We commend their dedication to upholding nationally recognized budget presentation standards.”
-This achievement recognizes the outstanding efforts of St. Vrain’s finance team, who worked diligently to align the budget document with ASBO International’s rigorous criteria. “Receiving the Meritorious Budget Award for the third consecutive year reflects the expertise and dedication of our budget team,” said Tony Whiteley, Chief Financial Officer of St. Vrain Valley Schools. “Their work helps ensure that district resources are thoughtfully aligned to support our schools, programs, and long-term priorities.”
-For more information about the Meritorious Budget Award program, please visit
-ASBO International’s official website
-.
-
-Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-earns-national-recognition-for-budget-excellence-2/
 
 ### District alerts
 
@@ -9534,7 +9536,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-05T10:09:44-06:00
+- Last modified: 2026-08-10T08:25:47-06:00
 
 District Accounts
 Assessment (X)
@@ -9729,6 +9731,7 @@ Lyons Middle Senior High School (X)
 Lyons Middle Senior High School (Instagram)
 Lyons Middle School High School Football (X)
 Lyons Middle Senior High School Library (Instagram)
+Lyons Middle Senior High School Performing Arts (Instagram)
 Lyons Middle Senior High School Student Council (Instagram)
 Mead High School
 Mead High School (Facebook)
@@ -9809,6 +9812,8 @@ Skyline High School Academies (X)
 Skyline High School Athletics (X)
 Skyline High School Baseball (X)
 Skyline High School Sources of Strength (Instagram)
+Skyline High School Thespian Troupe 3074
+(Instagram)
 Skyline High School Visual and Performing Arts Academy (Facebook)
 Skyline High School Visual and Performing Arts Academy (Instagram)
 Skyline High School Yearbook (Instagram)
@@ -9864,7 +9869,7 @@ Source: https://www.svvsd.org/departments/communityschools/
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/about-us/
-- Last modified: 2026-07-28T10:35:07-06:00
+- Last modified: 2026-08-10T13:54:02-06:00
 
 Meet the Team
 Esperanza Ruiz
@@ -9875,8 +9880,9 @@ Susanne Herren
 Regulatory Compliance Clerk
 303-702-7936
 herren_susanne@svvsd.org
-Wendi Stewart
+Wendi Stewart, RN, BSN
 Community Schools Nurse
+303-702-7909
 stewart_wendi@svvsd.org
 Martha Clemensen
 Community Schools Assistant Coordinator
@@ -10651,23 +10657,6 @@ log in
 with your staff credentials to access these resources
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-
-### Developmental & Health Screenings
-
-- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/developmental-health-screenings/
-- Last modified: 2026-08-07T13:55:25-06:00
-
-Developmental & Health Screenings
-Preschool students have the opportunity to participate in voluntary developmental and health screenings. These screenings help staff identify each student’s strengths and gather information to support individual learning, health and developmental needs.
-Parent/guardian consent must be obtained before a student participates in any screening. Screening results are confidential and should be shared only with the student’s family and appropriate staff. If concerns are identified, staff should provide the family with information about available resources, referrals and support services.
-Developmental Screenings
-New preschool students may participate in developmental screenings that assess areas such as social-emotional, cognitive and language development. School staff are responsible for coordinating screening opportunities and communicating relevant information to families.
-2026-2027 Screening Presentation
-Speed Dial Tutorial Video
-Annual Vision, Hearing and Dental Screenings
-Preschool students may participate in annual vision, hearing and dental screenings. Vision and hearing screenings are provided through the St. Vrain Valley Schools Health Services Department. Dental screenings are provided in partnership with the Sunshine Club. Staff should follow district procedures for obtaining consent, coordinating screenings and communicating results to families.
-
-Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/developmental-health-screenings/
 
 ### Preschool Handbook
 
@@ -12385,6 +12374,8 @@ The agreement between the St. Vrain Valley Education Association and the St. Vra
 SVVSD-SVVEA Agreement
 2026-2027 Calendar with 1.5 Dock Days Identified
 Guest Teacher Handbook
+Handbook – Administrative, Professional & Technical
+Handbook – Classified Employees
 2025-2026
 SVVSD-SVVEA Agreement
 Handbook – Administrative, Professional & Technical
@@ -13070,10 +13061,10 @@ Non-Sponsored Trip Form
 
 Source: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
 
-### Worker’s Compensation
+### Employee Injuries
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/workers-compensation/
-- Last modified: 2026-08-05T10:08:34-06:00
+- Last modified: 2026-08-10T13:03:56-06:00
 
 Employee Injuries
 Employee Injury Form
@@ -20150,6 +20141,9 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 - Last modified: 2026-05-20T12:40:18-06:00
 
 DTS Newsletter Archives
+2026-2027 School Year
+August 2026
+– From the CTO, New St. Vrain ServiceNow Employee Center, Verkada Guest, Darktrace Now in Place, Updated Guest Wi-Fi Filtering, Interactive Flat Panels Arriving, Updated Student Overnight Trip Requests, Level Up with Campus Passport
 2025-2026 School Year
 May 2026
 – Email Retention Policy Reminder, Critical Tech Dates for Spring and Summer 2026, Salesforce Project Update, Completing the Wireless Refresh, Strengthening Email Security with Darktrace
@@ -21021,7 +21015,7 @@ St. Vrain Valley Schools P-TECH serves approximately 450-500 students annually. 
 Meet Some of Our P-TECH Alumni
 P-TECH By the Numbers:
 303 P-TECH students have earned an associate’s degree at no cost to them.
-P-TECH students have earned over 260 industry certifications in Microsoft Office, Python, CompTIA A+, CompTIA Network+, CompTIA Security+, and CompTIA Cloud+.
+P-TECH students have earned over 291 industry certifications in Microsoft Office, Python, CompTIA A+, CompTIA Network+, CompTIA Security+, and CompTIA Cloud+.
 Since 2019, 440 P-TECH students have engaged in internship opportunities.
 P-TECH works with over 18 different industry partners.
 Over one third of P-TECH graduates have gone on to pursue a bachelor’s degree.
@@ -23497,6 +23491,7 @@ February
 March
 April
 May
+June (the Annual Comprehensive Financial Report, Year Ended June 30, 2026, will be posted in place of a monthly financial report and is expected to be presented to the Board on October 28th)
 2025
 January
 February
@@ -24427,7 +24422,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 372
+- Department and program pages: 371
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80

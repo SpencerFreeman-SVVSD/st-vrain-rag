@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-10T03:44:17.580996-06:00
+generated_at: 2026-08-12T03:21:49.370134-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -322,6 +322,7 @@ February
 March
 April
 May
+June (the Annual Comprehensive Financial Report, Year Ended June 30, 2026, will be posted in place of a monthly financial report and is expected to be presented to the Board on October 28th)
 2025
 January
 February
