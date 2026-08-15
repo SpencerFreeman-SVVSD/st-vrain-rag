@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-12T03:21:49.370134-06:00
+generated_at: 2026-08-15T02:42:19.318427-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -426,7 +426,7 @@ Source: https://www.svvsd.org/about/superintendent/
 ### Leadership St. Vrain
 
 - Canonical URL: https://www.svvsd.org/about/district-committees/leadership-st-vrain/
-- Last modified: 2026-05-29T08:44:32-06:00
+- Last modified: 2026-08-12T09:36:31-06:00
 
 Leadership St. Vrain
 Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active participants in St. Vrain Valley Schools.
@@ -453,7 +453,7 @@ Location: Niwot High School
 Friday, May 7: The St. Vrain Advantage: Career-Connected Learning
 Location: Career Elevation and Technology Center
 Leadership St. Vrain Application
-Applications for the 2026-2027 cohort will open in August.
+Applications for the 2026-2027 cohort are open through Friday, September 4.
 Loading…
 
 Source: https://www.svvsd.org/about/district-committees/leadership-st-vrain/
@@ -491,6 +491,30 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Update on Technology and Cell Phones in School
+
+- Published: 2026-08-12T19:40:10-06:00
+- Source URL: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
+
+Dear St. Vrain Valley School District Community,
+Thank you for the partnership and support you continue to offer our schools as we work together to advance high-quality learning and instructional environments for every student. Over the past year we have been closely following the national conversation around the role technology plays in schools, including reviewing emerging research and listening carefully to feedback from families and school staff, and I am writing to give you an update on our district’s cell phone policy, as well as an update from our Instructional Technology Advisory Committee.
+Update to District Cell Phone and Wearable Device Policy
+Earlier this evening, the Board of Education approved updates to Board Policy JS*-R, which sets our expectations for student use of personal devices during the school day. These changes come directly from the feedback we received from our community and from our school administrative teams, and these changes will take effect at the start of this school year.
+For students in preschool through eighth grade
+, personal devices are now required to be put away for the entire school day. Phones, smart watches, and smart glasses need to be powered off or set to silent and stored out of sight from the first bell of the day through the final dismissal bell. That includes passing periods, lunch, recess, and time in hallways. Each school will determine where devices are stored during the day, whether that is a backpack, a locker, a cubby, or another spot designated by the school. In the event of an emergency, students will be able to access their devices to contact families if the device is readily available and it is safe to do so. Additionally, accommodations will be made for students who require access to a cell phone or personal device for a
+documented
+medical or educational need identified in a student’s IEP, Section 504 plan, or health plan.
+For students in ninth through twelfth grade, the expectation continues to be that personal devices are to be put away during class. Devices should be powered off or set to silent and out of sight during instructional time, and that expectation remains in effect for students who step out of class to use the restroom or go to the office. High school students may use their devices outside of class in line with their school’s expectations, including between classes, at lunch, and during off blocks or open periods.
+One of the first questions we hear from families is how to reach a student during the day. Please call your school office, and office staff will connect you with your child. Students who need to reach home can do so from the office as well. Students will also have time to check messages at the end of the day.
+Schools will teach these expectations directly to students at the start of the school year and reinforce them during the first weeks of school. Please look for more information from your student’s school regarding specific cell phone and wearable device expectations.
+Update from our District Instructional Technology Advisory
+Committee
+At the end of last school year, we convened a committee of parents, teachers, principals, and community members to take a deep dive into our instructional technology practices in grades PK-8. The group’s charge is to evaluate our current practices and bring forward a recommendation to me and our Board of Education later this year regarding any changes (if any) we should consider for future technology use in classrooms.
+The committee met for the first time in June. That session grounded members in our district’s instructional framework and our current practices, along with the science and research behind how learning actually happens, including the role of retrieval practice in helping students hold onto what they learn.
+At their second meeting, members turned to examining both the benefits and challenges of technology’s role in teaching and learning. They examined evidence-based instructional practices...
+
+Source: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
+
 ### Big Sky PK-8 Celebrates Grand Opening
 
 - Published: 2026-08-11T14:11:09-06:00
@@ -499,6 +523,7 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 Big Sky PK-8 officially opened its doors to the community Monday evening, marking an exciting milestone for St. Vrain Valley Schools and the Mead community.
 Hundreds of students, families, staff, and community members filled the new school, exploring beautifully prepared classrooms and state-of-the-art learning spaces ahead of the first day of school. Throughout the evening, smiles and plenty of “oohs” and “ahhs” reflected the excitement surrounding St. Vrain’s newest school.
 The celebration began with remarks from Big Sky PK-8 Principal Joshua Barnett, Superintendent Dr. Jackie Kapushion, and Mead Mayor Colleen Whitlow, followed by a ceremonial ribbon cutting featuring some of Big Sky’s incoming students.
+Following the ceremony, families toured the new building and participated in a passport scavenger hunt, while incoming students met their teachers and explored the school’s new playgrounds. The celebration continued into the evening with a drone show led by student pilots from the Innovation Center Drone Performance Team, providing students and families with a memorable start to their first year at Big Sky PK-8.
 Made possible through the community’s support of St. Vrain’s 2024 Bond, the approximately 145,000-square-foot school was designed to serve up to 1,100 students and provide innovative, future-focused learning spaces for the growing Mead community. Big Sky opens this year serving students in preschool through sixth grade, with seventh and eighth grades being added in subsequent years.
 More than the opening of a new building, the evening celebrated the beginning of a new school community — one that will serve generations of students and families in the years ahead.
 The Times-Call also captured the excitement surrounding Big Sky’s opening and the school’s first day.
@@ -624,23 +649,6 @@ For New York, the investment is tiny in budgetary terms. But if the program succ
 Stanley Litow, a former deputy chancellor of the New York City schools, founded the P-TECH model while head of the IBM Foundation. Diallo Shabazz is the executive director of the nonprofit national P-TECH Alliance.
 
 Source: https://www.svvsd.org/2026/06/24/commentary-this-new-path-into-teaching-could-be-a-way-out-of-the-teacher-shortage/
-
-### St. Vrain Valley Schools receives ASBO Certificate of Excellence for 22nd consecutive year
-
-- Published: 2026-06-16T13:55:35-06:00
-- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
-
-St. Vrain Valley Schools has once again been honored with the Certificate of Excellence in Financial Reporting from the Association of School Business Officials International (ASBO), marking the 22nd consecutive year the district has received this prestigious award. The recognition is based on the district’s Annual Comprehensive Financial Report (ACFR) for the fiscal year ending June 30, 2025.
-This award recognizes school districts that meet the highest standards for financial reporting and transparency. To qualify, applicants submit their ACFR for review by a team of financial professionals who evaluate the report’s content, accuracy, and overall quality.
-“For over half a century, ASBO International’s Certificate of Excellence in Financial Reporting has been the gold standard for promoting and recognizing excellence in financial transparency,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “Clear and accurate financial reporting is crucial for engaging school communities and building their trust. Districts that earn the COE have demonstrated an extraordinary commitment to these principles.”
-“Earning this recognition year after year reflects a longstanding commitment to excellence in financial reporting,” said Tony Whiteley, Chief Financial Officer for St. Vrain Valley Schools. “Our team takes great pride in maintaining the high standards and fiscal stewardship that support the district’s operational and strategic priorities.”
-Participation in ASBO’s program also supports ongoing bond rating and disclosure processes, reinforcing the district’s commitment to fiscal responsibility.
-About ASBO International
-Founded in 1910, the Association of School Business Officials International (ASBO) represents approximately 30,000 school business professionals worldwide. ASBO supports student achievement through effective resource management in finance, operations, food services, and transportation. Learn more at
-asbointl.org
-.
-
-Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
 
 ### District alerts
 
@@ -2066,23 +2074,22 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-07-31T11:39:34-06:00
+- Last modified: 2026-08-14T11:27:03-06:00
 
 Counselor eCredit Support
 View Timeline
 Resources
 After eCredit – Fall and Spring (10 Week Session)
 Fall After School eCredit
-Seniors can register starting:
-August 11th
 All Students can register:
-August 18th
+August 24th
 Registration Closes:
-September 12th by 8pm
+September 14th by 8pm
 Session Begins:
-September 23rd
+September 24rd
 Session Ends:
-December 4th
+December
+3rd
 Most locations run Tuesdays/Thursdays from 3:00-5:00pm
 The course fees are as follows:
 $150 – 0.5 Credit
@@ -6964,11 +6971,11 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Spring 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/spring-2020-ecredit-recovery/
-- Last modified: 2026-04-22T11:20:24-06:00
+- Last modified: 2026-08-13T12:50:11-06:00
 
 Overview
 Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Spring 2026 Registration – CLOSED
+Spring 2027 Registration – (Seniors only) 12//14/26-1/10/27 & (All Grades) 1/11/27
 LOCATION FULL? – CLICK HERE TO BE PUT ON THE WAITLIST
 Registration:
 SENIORS ONLY (12th gr) –
@@ -8827,18 +8834,18 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### Visual Arts
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/visual-arts/
-- Last modified: 2026-03-03T10:39:39-07:00
+- Last modified: 2026-08-13T13:04:27-06:00
 
 The St. Vrain Valley School District is committed to developing excellence in education and each teacher will establish, develop and refine curriculum designed to cultivate potential within each student. Comprehensive and systematic visual arts education, kindergarten through senior high school, is imperative to achieving these goals of reaching the potential within each student. Its function is to continue to develop the students’ creative abilities, instill an enthusiasm and appreciation for visual arts and design, and to develop the skills necessary for self-expression and creative thinking across all disciplines. Through art experiences, a student continues to build skills such as critical thinking and creative problem-solving. Art is a confidence building process that can provide the student with a greater self-confidence – thus greater self-esteem. Additionally, our teachers hope to instill a love of visual art in our students, and encourage them to be life-long creators of visual art.
 St. Vrain Unframed Art Show
-St. Vrain Valley Schools will host its annual art show at the Boulder County Fairgrounds Exhibition Hall. Community members are invited to view student art from all grade levels and schools across the district from April 14-19, 2026.
+St. Vrain Valley Schools will host its annual art show at the Boulder County Fairgrounds Exhibition Hall. Community members are invited to view student art from all grade levels and schools across the district from April 13-18, 2027.
 Please join us in celebrating our students’ talent, hard work, and dedication. Different mediums will be featured including ceramics, digital art/photography, drawing, jewelry making, metalwork, mixed media, painting, and printmaking.
 The event is free and open to the public:
 Public Viewing:
-Tuesday, April 14 through Saturday, April 18 from 9:00 a.m. – 8:00 p.m. and Sunday, April 19 from 9:00 a.m. – 5:00 p.m.
+Tuesday, April 13 through Saturday, April 17 from 9:00 a.m. – 8:00 p.m. and Sunday, April 18 from 9:00 a.m. – 5:00 p.m.
 Artists’ Night Open House:
-Thursday, April 16 from 5:00 – 6:30 p.m.
-View the award winners from the 2024-25 show at
+Thursday, April 15 from 5:00 – 6:30 p.m.
+View the award winners from the 2025-26 show at
 svvsd.org/artshow
 .
 
@@ -9276,12 +9283,15 @@ Source: https://www.svvsd.org/departments/communications/messenger-notification-
 ### ParentSquare Communication Tool
 
 - Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
-- Last modified: 2026-08-06T15:29:18-06:00
+- Last modified: 2026-08-12T08:36:18-06:00
 
 ParentSquare: Our New District Communication Tool
 Clear, consistent communication is essential to keeping our community informed and connected. To support these efforts, we will be using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences.
 St. Vrain families and staff will receive an email invitation before the 2026-2027 school year directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
 While registration or downloading the app is not required, and communications will continue to be sent via email, text, and voice to the contact information listed in Infinite Campus, doing so allows users to confirm their information and school associations are accurate and to customize notification settings.
+If you would like to get a head start on registering your account before receiving your invite, you can go to
+parentsquare.com/signin
+to begin registering. Enter the email associated with your Infinite Campus account in the register box on the right side of the screen. After you set up your password, you will be prompted to verify your student’s information via a verification code sent to your email and/or phone number.
 ParentSquare Tools and Features
 :
 Receive messages via email, app, voice, or text
@@ -9536,7 +9546,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-10T08:25:47-06:00
+- Last modified: 2026-08-13T14:19:30-06:00
 
 District Accounts
 Assessment (X)
@@ -9795,6 +9805,10 @@ Red Hawk Elementary School (Facebook)
 Red Hawk Elementary School (X)
 Red Hawk Elementary School Music (Facebook)
 Red Hawk Elementary School Music (Instagram)
+Rocky Mountain Elementary
+Rocky Mountain Elementary (Facebook)
+Rocky Mountain Elementary (Instagram)
+Rocky Mountain Elementary (X)
 Sanborn Elementary School
 Sanborn Music and Theatre (Facebook)
 Silver Creek High School
@@ -9841,6 +9855,9 @@ TVK8 Performing Arts (Instagram)
 TVK8 STEM (X)
 Timberline PK-8
 Timberline PK-8 (X)
+Trail Ridge Middle School
+Trail Ridge Middle School (X)
+Trail Ridge Middle School Performing Arts (Instagram)
 Westview Middle School
 Westview Middle School (Instagram)
 Westview Middle School (Facebook)
@@ -10650,7 +10667,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/children-wit
 ### Staff Resources
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-- Last modified: 2026-06-23T09:16:06-06:00
+- Last modified: 2026-08-13T09:22:41-06:00
 
 This area contains forms, and information related to Early Childhood Staff. Please
 log in
@@ -10661,7 +10678,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childh
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-06-17T14:23:32-06:00
+- Last modified: 2026-08-13T10:28:41-06:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience.
@@ -10697,10 +10714,10 @@ The tuition agreement states that you understand the tuition policy and procedur
 For parents that claim preschool as a deduction on income tax forms,
 the District Tax I.D. number is 84-6014380
 . Tuition receipts are available upon request.
-Tuition Rates for the 2025-2026 school year:
-5 half-day classes (M-F a.m. or p.m.) – $592.00
-2nd half of full day (M-F) –$708.00
-Full Day (M-F) – $1,342.00
+Tuition Rates for the 2026-2027 school year:
+5 half-day classes (M-F a.m. or p.m.) – $640.00
+2nd half of full day (M-F) –$765.00
+Full Day (M-F) – $1,450.00
 Programs Offered
 The St. Vrain Valley School District has 25 preschool programs located in elementary schools and Spark! Discovery Preschool serving children three and four years of age. Children must be three and four years of age on or before October 1st of the current year to be registered. Children with disabilities must be served by age three, therefore they may be enrolled throughout the year at their 3rd birthday.
 Universal Preschool Program
@@ -12366,7 +12383,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/form
 ### Handbooks and Agreements
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/handbooks-and-agreements/
-- Last modified: 2026-07-21T13:34:25-06:00
+- Last modified: 2026-08-11T09:30:46-06:00
 
 Handbooks and Agreements
 The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
@@ -16319,7 +16336,7 @@ Source: https://www.svvsd.org/departments/professional-development/k-3-early-lit
 ### New Special Education Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/new-special-education-requirements/
-- Last modified: 2026-07-20T14:50:55-06:00
+- Last modified: 2026-08-11T12:05:08-06:00
 
 As a result of HB 20-1128 and HB 20-1312, educators, administrators, and certified educators must complete a minimum of 10 contact hours of training in special education and behavioral health, with at least one (1) hour in special education or behavioral health.
 This is a recurring requirement for licensure renewal
@@ -19665,7 +19682,7 @@ Source: https://www.svvsd.org/departments/student-services/what-is-gifted/
 ### Technology
 
 - Canonical URL: https://www.svvsd.org/departments/technology/
-- Last modified: 2026-08-05T11:11:44-06:00
+- Last modified: 2026-08-14T11:01:10-06:00
 
 District Technology Services
 District Technology Services (DTS)
@@ -19818,7 +19835,7 @@ Source: https://www.svvsd.org/departments/technology/it-standards/
 ### ITAC
 
 - Canonical URL: https://www.svvsd.org/departments/technology/itac/
-- Last modified: 2024-12-30T13:59:02-07:00
+- Last modified: 2026-08-14T10:47:55-06:00
 
 Instructional Technology Advisory Committee
 After the passage of the 2012 mill levy, our district had the opportunity to re-imagine teaching and learning with technology in St. Vrain Valley Schools. In order to ensure that this investment aligns with instructional priorities and school needs, the Instructional Technology Advisory Committee (ITAC) was convened and tasked with developing a set of recommendations for technology access. The committees – one for secondary and one for elementary – consisted of a small group of school administrators, department leaders, teacher leaders, and parents.
@@ -19826,6 +19843,51 @@ These committees provided input and guidance to the technology department and he
 Click
 here
 to access ITAC Meeting Documents.
+2026 ITAC Committee members:
+Facilitators
+Casey Luker, Instructional Coordinator
+Jason Kelsall, Senior Manager Enterprise Systems
+Classroom Teachers
+Arianne Tasker, Highlands Elementary School
+Courtney Adams, Longs Peak Middle School
+Darcey Pierce, Lyons Elementary School
+Francisco Borja, Timberline PK-8 School
+Jason Helmus, Westview Middle School
+Jenelle Wilson, Mead Middle School
+Jennifer Saless, Erie Middle School
+Joan Scheuerman, Blue Mountain Elementary School
+Leigh Schilz, Centennial Elementary School
+Mandy Warren, Longmont Estates Elementary School
+Rachel Seeger, Coal Ridge Middle School
+Sarah Barnett, Altona Middle School
+District Support and Leadership
+Alexandra Downing, Innovation Center
+Eliza Lucero, UniServe
+Greg George, Assessment, Curriculum, and Instruction
+Joelle McDonald, District Technology Services
+Kara Smallwood, SVVEA
+Karl Hutchinson, District Technology Services
+Mia McCloy, Student Services & Special Education
+Temple Hayles, Instructional Coordinator
+Community members
+Amber Ledgerwood
+Ania Camplin
+Braun Mincher
+Cam Brinkworth
+Chad Hamilton
+Jessica Newman
+Kelli Kanemoto
+Lynsey McLean
+Natalie Stiffler
+Steve Versoi
+Tara Menza
+School Administration
+Audrey Seybold, Timberline PK-8 School
+Catrina Estrada, Thunder Valley K-8 School
+Chris Frank, Lyons Middle Senior High School
+DJ Eipper, Westview Middle School
+Francesca Craver, Grand View Elementary School
+Julia Cooper, Columbine Elementary School
 2024-25 ITAC Committee members:
 Elementary Team
 Karla Allenbach, Area Assistant Superintendent
@@ -20138,7 +20200,7 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 ### Newsletter Archives
 
 - Canonical URL: https://www.svvsd.org/departments/technology/newsletter-archives/
-- Last modified: 2026-05-20T12:40:18-06:00
+- Last modified: 2026-08-11T11:47:04-06:00
 
 DTS Newsletter Archives
 2026-2027 School Year
@@ -21007,7 +21069,7 @@ Source: https://www.svvsd.org/programs/p-teach/
 ### P-TECH
 
 - Canonical URL: https://www.svvsd.org/programs/p-tech/
-- Last modified: 2026-07-21T16:14:57-06:00
+- Last modified: 2026-08-11T13:44:54-06:00
 
 Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Pharma Manufacturing (Aims Community College), Cybersecurity (Aims Community College) and Business Administration (Front Range Community College).
@@ -22167,7 +22229,7 @@ JS* – Student Responsible Use of the Internet and Electronic Communications
 JS*-E – Student Responsible Use of Technology, Access and Digital Communication Expectations
 70 KB
 JS*-R – Student Responsible Use of the Internet and Electronic Communications
-103 KB
+82 KB
 
 Source: https://www.svvsd.org/about/board-of-education/board-policies/section-j-students/
 
@@ -22297,7 +22359,7 @@ Board of Education Regular Meeting
 October 28, 2026
 Board of Education Study Session
 October 28, 2026
-Board of Education Study Session
+Board of Education Study Session – Canceled
 October 21, 2026
 Board of Education Regular Meeting
 October 14, 2026
@@ -22321,9 +22383,9 @@ Board of Education Member Events for August
 August 1, 2026
 Board of Education Member Events for July
 July 1, 2026
-Board of Education Study Session
-June 24, 2026
 Board of Education Regular Meeting
+June 24, 2026
+Board of Education Study Session
 June 24, 2026
 Board of Education Study Session
 June 17, 2026
@@ -22534,7 +22596,7 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
-### Board of Education Study Session
+### Board of Education Study Session – Canceled
 
 - Meeting date: October 21, 2026
 - Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
@@ -22642,15 +22704,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-july-7/
 
-### Board of Education Study Session
-
-- Meeting date: June 24, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: June 24, 2026
@@ -22659,6 +22712,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
+
+### Board of Education Study Session
+
+- Meeting date: June 24, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
 
 ### Board of Education Study Session
 
@@ -23479,7 +23541,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-06-25T10:15:11-06:00
+- Last modified: 2026-08-11T12:18:39-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.

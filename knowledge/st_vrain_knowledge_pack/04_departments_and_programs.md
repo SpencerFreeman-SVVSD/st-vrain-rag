@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-12T03:21:49.370134-06:00
+generated_at: 2026-08-15T02:42:19.318427-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -819,23 +819,22 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Counselor’s Corner
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
-- Last modified: 2026-07-31T11:39:34-06:00
+- Last modified: 2026-08-14T11:27:03-06:00
 
 Counselor eCredit Support
 View Timeline
 Resources
 After eCredit – Fall and Spring (10 Week Session)
 Fall After School eCredit
-Seniors can register starting:
-August 11th
 All Students can register:
-August 18th
+August 24th
 Registration Closes:
-September 12th by 8pm
+September 14th by 8pm
 Session Begins:
-September 23rd
+September 24rd
 Session Ends:
-December 4th
+December
+3rd
 Most locations run Tuesdays/Thursdays from 3:00-5:00pm
 The course fees are as follows:
 $150 – 0.5 Credit
@@ -5717,11 +5716,11 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 ### Spring 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/spring-2020-ecredit-recovery/
-- Last modified: 2026-04-22T11:20:24-06:00
+- Last modified: 2026-08-13T12:50:11-06:00
 
 Overview
 Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Spring 2026 Registration – CLOSED
+Spring 2027 Registration – (Seniors only) 12//14/26-1/10/27 & (All Grades) 1/11/27
 LOCATION FULL? – CLICK HERE TO BE PUT ON THE WAITLIST
 Registration:
 SENIORS ONLY (12th gr) –
@@ -7580,18 +7579,18 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### Visual Arts
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/visual-arts/
-- Last modified: 2026-03-03T10:39:39-07:00
+- Last modified: 2026-08-13T13:04:27-06:00
 
 The St. Vrain Valley School District is committed to developing excellence in education and each teacher will establish, develop and refine curriculum designed to cultivate potential within each student. Comprehensive and systematic visual arts education, kindergarten through senior high school, is imperative to achieving these goals of reaching the potential within each student. Its function is to continue to develop the students’ creative abilities, instill an enthusiasm and appreciation for visual arts and design, and to develop the skills necessary for self-expression and creative thinking across all disciplines. Through art experiences, a student continues to build skills such as critical thinking and creative problem-solving. Art is a confidence building process that can provide the student with a greater self-confidence – thus greater self-esteem. Additionally, our teachers hope to instill a love of visual art in our students, and encourage them to be life-long creators of visual art.
 St. Vrain Unframed Art Show
-St. Vrain Valley Schools will host its annual art show at the Boulder County Fairgrounds Exhibition Hall. Community members are invited to view student art from all grade levels and schools across the district from April 14-19, 2026.
+St. Vrain Valley Schools will host its annual art show at the Boulder County Fairgrounds Exhibition Hall. Community members are invited to view student art from all grade levels and schools across the district from April 13-18, 2027.
 Please join us in celebrating our students’ talent, hard work, and dedication. Different mediums will be featured including ceramics, digital art/photography, drawing, jewelry making, metalwork, mixed media, painting, and printmaking.
 The event is free and open to the public:
 Public Viewing:
-Tuesday, April 14 through Saturday, April 18 from 9:00 a.m. – 8:00 p.m. and Sunday, April 19 from 9:00 a.m. – 5:00 p.m.
+Tuesday, April 13 through Saturday, April 17 from 9:00 a.m. – 8:00 p.m. and Sunday, April 18 from 9:00 a.m. – 5:00 p.m.
 Artists’ Night Open House:
-Thursday, April 16 from 5:00 – 6:30 p.m.
-View the award winners from the 2024-25 show at
+Thursday, April 15 from 5:00 – 6:30 p.m.
+View the award winners from the 2025-26 show at
 svvsd.org/artshow
 .
 
@@ -8029,12 +8028,15 @@ Source: https://www.svvsd.org/departments/communications/messenger-notification-
 ### ParentSquare Communication Tool
 
 - Canonical URL: https://www.svvsd.org/departments/communications/parentsquare-communication-tool/
-- Last modified: 2026-08-06T15:29:18-06:00
+- Last modified: 2026-08-12T08:36:18-06:00
 
 ParentSquare: Our New District Communication Tool
 Clear, consistent communication is essential to keeping our community informed and connected. To support these efforts, we will be using ParentSquare, a new district communication tool that allows families and staff to receive messages and notifications based on their preferences.
 St. Vrain families and staff will receive an email invitation before the 2026-2027 school year directly from ParentSquare to activate their account, with the option to download the mobile app, set language preferences, and choose how and when to receive notifications.
 While registration or downloading the app is not required, and communications will continue to be sent via email, text, and voice to the contact information listed in Infinite Campus, doing so allows users to confirm their information and school associations are accurate and to customize notification settings.
+If you would like to get a head start on registering your account before receiving your invite, you can go to
+parentsquare.com/signin
+to begin registering. Enter the email associated with your Infinite Campus account in the register box on the right side of the screen. After you set up your password, you will be prompted to verify your student’s information via a verification code sent to your email and/or phone number.
 ParentSquare Tools and Features
 :
 Receive messages via email, app, voice, or text
@@ -8289,7 +8291,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-10T08:25:47-06:00
+- Last modified: 2026-08-13T14:19:30-06:00
 
 District Accounts
 Assessment (X)
@@ -8548,6 +8550,10 @@ Red Hawk Elementary School (Facebook)
 Red Hawk Elementary School (X)
 Red Hawk Elementary School Music (Facebook)
 Red Hawk Elementary School Music (Instagram)
+Rocky Mountain Elementary
+Rocky Mountain Elementary (Facebook)
+Rocky Mountain Elementary (Instagram)
+Rocky Mountain Elementary (X)
 Sanborn Elementary School
 Sanborn Music and Theatre (Facebook)
 Silver Creek High School
@@ -8594,6 +8600,9 @@ TVK8 Performing Arts (Instagram)
 TVK8 STEM (X)
 Timberline PK-8
 Timberline PK-8 (X)
+Trail Ridge Middle School
+Trail Ridge Middle School (X)
+Trail Ridge Middle School Performing Arts (Instagram)
 Westview Middle School
 Westview Middle School (Instagram)
 Westview Middle School (Facebook)
@@ -9403,7 +9412,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/children-wit
 ### Staff Resources
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/early-childhood-staff-resources/
-- Last modified: 2026-06-23T09:16:06-06:00
+- Last modified: 2026-08-13T09:22:41-06:00
 
 This area contains forms, and information related to Early Childhood Staff. Please
 log in
@@ -9414,7 +9423,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childh
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-06-17T14:23:32-06:00
+- Last modified: 2026-08-13T10:28:41-06:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience.
@@ -9450,10 +9459,10 @@ The tuition agreement states that you understand the tuition policy and procedur
 For parents that claim preschool as a deduction on income tax forms,
 the District Tax I.D. number is 84-6014380
 . Tuition receipts are available upon request.
-Tuition Rates for the 2025-2026 school year:
-5 half-day classes (M-F a.m. or p.m.) – $592.00
-2nd half of full day (M-F) –$708.00
-Full Day (M-F) – $1,342.00
+Tuition Rates for the 2026-2027 school year:
+5 half-day classes (M-F a.m. or p.m.) – $640.00
+2nd half of full day (M-F) –$765.00
+Full Day (M-F) – $1,450.00
 Programs Offered
 The St. Vrain Valley School District has 25 preschool programs located in elementary schools and Spark! Discovery Preschool serving children three and four years of age. Children must be three and four years of age on or before October 1st of the current year to be registered. Children with disabilities must be served by age three, therefore they may be enrolled throughout the year at their 3rd birthday.
 Universal Preschool Program
@@ -11119,7 +11128,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/form
 ### Handbooks and Agreements
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/handbooks-and-agreements/
-- Last modified: 2026-07-21T13:34:25-06:00
+- Last modified: 2026-08-11T09:30:46-06:00
 
 Handbooks and Agreements
 The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
@@ -15072,7 +15081,7 @@ Source: https://www.svvsd.org/departments/professional-development/k-3-early-lit
 ### New Special Education Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/new-special-education-requirements/
-- Last modified: 2026-07-20T14:50:55-06:00
+- Last modified: 2026-08-11T12:05:08-06:00
 
 As a result of HB 20-1128 and HB 20-1312, educators, administrators, and certified educators must complete a minimum of 10 contact hours of training in special education and behavioral health, with at least one (1) hour in special education or behavioral health.
 This is a recurring requirement for licensure renewal
@@ -18418,7 +18427,7 @@ Source: https://www.svvsd.org/departments/student-services/what-is-gifted/
 ### Technology
 
 - Canonical URL: https://www.svvsd.org/departments/technology/
-- Last modified: 2026-08-05T11:11:44-06:00
+- Last modified: 2026-08-14T11:01:10-06:00
 
 District Technology Services
 District Technology Services (DTS)
@@ -18571,7 +18580,7 @@ Source: https://www.svvsd.org/departments/technology/it-standards/
 ### ITAC
 
 - Canonical URL: https://www.svvsd.org/departments/technology/itac/
-- Last modified: 2024-12-30T13:59:02-07:00
+- Last modified: 2026-08-14T10:47:55-06:00
 
 Instructional Technology Advisory Committee
 After the passage of the 2012 mill levy, our district had the opportunity to re-imagine teaching and learning with technology in St. Vrain Valley Schools. In order to ensure that this investment aligns with instructional priorities and school needs, the Instructional Technology Advisory Committee (ITAC) was convened and tasked with developing a set of recommendations for technology access. The committees – one for secondary and one for elementary – consisted of a small group of school administrators, department leaders, teacher leaders, and parents.
@@ -18579,6 +18588,51 @@ These committees provided input and guidance to the technology department and he
 Click
 here
 to access ITAC Meeting Documents.
+2026 ITAC Committee members:
+Facilitators
+Casey Luker, Instructional Coordinator
+Jason Kelsall, Senior Manager Enterprise Systems
+Classroom Teachers
+Arianne Tasker, Highlands Elementary School
+Courtney Adams, Longs Peak Middle School
+Darcey Pierce, Lyons Elementary School
+Francisco Borja, Timberline PK-8 School
+Jason Helmus, Westview Middle School
+Jenelle Wilson, Mead Middle School
+Jennifer Saless, Erie Middle School
+Joan Scheuerman, Blue Mountain Elementary School
+Leigh Schilz, Centennial Elementary School
+Mandy Warren, Longmont Estates Elementary School
+Rachel Seeger, Coal Ridge Middle School
+Sarah Barnett, Altona Middle School
+District Support and Leadership
+Alexandra Downing, Innovation Center
+Eliza Lucero, UniServe
+Greg George, Assessment, Curriculum, and Instruction
+Joelle McDonald, District Technology Services
+Kara Smallwood, SVVEA
+Karl Hutchinson, District Technology Services
+Mia McCloy, Student Services & Special Education
+Temple Hayles, Instructional Coordinator
+Community members
+Amber Ledgerwood
+Ania Camplin
+Braun Mincher
+Cam Brinkworth
+Chad Hamilton
+Jessica Newman
+Kelli Kanemoto
+Lynsey McLean
+Natalie Stiffler
+Steve Versoi
+Tara Menza
+School Administration
+Audrey Seybold, Timberline PK-8 School
+Catrina Estrada, Thunder Valley K-8 School
+Chris Frank, Lyons Middle Senior High School
+DJ Eipper, Westview Middle School
+Francesca Craver, Grand View Elementary School
+Julia Cooper, Columbine Elementary School
 2024-25 ITAC Committee members:
 Elementary Team
 Karla Allenbach, Area Assistant Superintendent
@@ -18891,7 +18945,7 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 ### Newsletter Archives
 
 - Canonical URL: https://www.svvsd.org/departments/technology/newsletter-archives/
-- Last modified: 2026-05-20T12:40:18-06:00
+- Last modified: 2026-08-11T11:47:04-06:00
 
 DTS Newsletter Archives
 2026-2027 School Year
@@ -19760,7 +19814,7 @@ Source: https://www.svvsd.org/programs/p-teach/
 ### P-TECH
 
 - Canonical URL: https://www.svvsd.org/programs/p-tech/
-- Last modified: 2026-07-21T16:14:57-06:00
+- Last modified: 2026-08-11T13:44:54-06:00
 
 Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Pharma Manufacturing (Aims Community College), Cybersecurity (Aims Community College) and Business Administration (Front Range Community College).

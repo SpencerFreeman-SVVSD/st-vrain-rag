@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-12T03:21:49.370134-06:00
+generated_at: 2026-08-15T02:42:19.318427-06:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -310,7 +310,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-06-25T10:15:11-06:00
+- Last modified: 2026-08-11T12:18:39-06:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.

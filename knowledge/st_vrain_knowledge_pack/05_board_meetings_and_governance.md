@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-12T03:21:49.370134-06:00
+generated_at: 2026-08-15T02:42:19.318427-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -978,7 +978,7 @@ JS* – Student Responsible Use of the Internet and Electronic Communications
 JS*-E – Student Responsible Use of Technology, Access and Digital Communication Expectations
 70 KB
 JS*-R – Student Responsible Use of the Internet and Electronic Communications
-103 KB
+82 KB
 
 Source: https://www.svvsd.org/about/board-of-education/board-policies/section-j-students/
 
@@ -1108,7 +1108,7 @@ Board of Education Regular Meeting
 October 28, 2026
 Board of Education Study Session
 October 28, 2026
-Board of Education Study Session
+Board of Education Study Session – Canceled
 October 21, 2026
 Board of Education Regular Meeting
 October 14, 2026
@@ -1132,9 +1132,9 @@ Board of Education Member Events for August
 August 1, 2026
 Board of Education Member Events for July
 July 1, 2026
-Board of Education Study Session
-June 24, 2026
 Board of Education Regular Meeting
+June 24, 2026
+Board of Education Study Session
 June 24, 2026
 Board of Education Study Session
 June 17, 2026
@@ -1345,7 +1345,7 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
-### Board of Education Study Session
+### Board of Education Study Session – Canceled
 
 - Meeting date: October 21, 2026
 - Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
@@ -1453,15 +1453,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-july-7/
 
-### Board of Education Study Session
-
-- Meeting date: June 24, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: June 24, 2026
@@ -1470,6 +1461,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-173/
+
+### Board of Education Study Session
+
+- Meeting date: June 24, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-116/
 
 ### Board of Education Study Session
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-12T03:21:49.370134-06:00
+generated_at: 2026-08-15T02:42:19.318427-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,30 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Update on Technology and Cell Phones in School
+
+- Published: 2026-08-12T19:40:10-06:00
+- Source URL: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
+
+Dear St. Vrain Valley School District Community,
+Thank you for the partnership and support you continue to offer our schools as we work together to advance high-quality learning and instructional environments for every student. Over the past year we have been closely following the national conversation around the role technology plays in schools, including reviewing emerging research and listening carefully to feedback from families and school staff, and I am writing to give you an update on our district’s cell phone policy, as well as an update from our Instructional Technology Advisory Committee.
+Update to District Cell Phone and Wearable Device Policy
+Earlier this evening, the Board of Education approved updates to Board Policy JS*-R, which sets our expectations for student use of personal devices during the school day. These changes come directly from the feedback we received from our community and from our school administrative teams, and these changes will take effect at the start of this school year.
+For students in preschool through eighth grade
+, personal devices are now required to be put away for the entire school day. Phones, smart watches, and smart glasses need to be powered off or set to silent and stored out of sight from the first bell of the day through the final dismissal bell. That includes passing periods, lunch, recess, and time in hallways. Each school will determine where devices are stored during the day, whether that is a backpack, a locker, a cubby, or another spot designated by the school. In the event of an emergency, students will be able to access their devices to contact families if the device is readily available and it is safe to do so. Additionally, accommodations will be made for students who require access to a cell phone or personal device for a
+documented
+medical or educational need identified in a student’s IEP, Section 504 plan, or health plan.
+For students in ninth through twelfth grade, the expectation continues to be that personal devices are to be put away during class. Devices should be powered off or set to silent and out of sight during instructional time, and that expectation remains in effect for students who step out of class to use the restroom or go to the office. High school students may use their devices outside of class in line with their school’s expectations, including between classes, at lunch, and during off blocks or open periods.
+One of the first questions we hear from families is how to reach a student during the day. Please call your school office, and office staff will connect you with your child. Students who need to reach home can do so from the office as well. Students will also have time to check messages at the end of the day.
+Schools will teach these expectations directly to students at the start of the school year and reinforce them during the first weeks of school. Please look for more information from your student’s school regarding specific cell phone and wearable device expectations.
+Update from our District Instructional Technology Advisory
+Committee
+At the end of last school year, we convened a committee of parents, teachers, principals, and community members to take a deep dive into our instructional technology practices in grades PK-8. The group’s charge is to evaluate our current practices and bring forward a recommendation to me and our Board of Education later this year regarding any changes (if any) we should consider for future technology use in classrooms.
+The committee met for the first time in June. That session grounded members in our district’s instructional framework and our current practices, along with the science and research behind how learning actually happens, including the role of retrieval practice in helping students hold onto what they learn.
+At their second meeting, members turned to examining both the benefits and challenges of technology’s role in teaching and learning. They examined evidence-based instructional practices...
+
+Source: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
 
 ### Big Sky PK-8 Celebrates Grand Opening
 
@@ -16,6 +40,7 @@ section_title: Latest news and alerts
 Big Sky PK-8 officially opened its doors to the community Monday evening, marking an exciting milestone for St. Vrain Valley Schools and the Mead community.
 Hundreds of students, families, staff, and community members filled the new school, exploring beautifully prepared classrooms and state-of-the-art learning spaces ahead of the first day of school. Throughout the evening, smiles and plenty of “oohs” and “ahhs” reflected the excitement surrounding St. Vrain’s newest school.
 The celebration began with remarks from Big Sky PK-8 Principal Joshua Barnett, Superintendent Dr. Jackie Kapushion, and Mead Mayor Colleen Whitlow, followed by a ceremonial ribbon cutting featuring some of Big Sky’s incoming students.
+Following the ceremony, families toured the new building and participated in a passport scavenger hunt, while incoming students met their teachers and explored the school’s new playgrounds. The celebration continued into the evening with a drone show led by student pilots from the Innovation Center Drone Performance Team, providing students and families with a memorable start to their first year at Big Sky PK-8.
 Made possible through the community’s support of St. Vrain’s 2024 Bond, the approximately 145,000-square-foot school was designed to serve up to 1,100 students and provide innovative, future-focused learning spaces for the growing Mead community. Big Sky opens this year serving students in preschool through sixth grade, with seventh and eighth grades being added in subsequent years.
 More than the opening of a new building, the evening celebrated the beginning of a new school community — one that will serve generations of students and families in the years ahead.
 The Times-Call also captured the excitement surrounding Big Sky’s opening and the school’s first day.
@@ -141,23 +166,6 @@ For New York, the investment is tiny in budgetary terms. But if the program succ
 Stanley Litow, a former deputy chancellor of the New York City schools, founded the P-TECH model while head of the IBM Foundation. Diallo Shabazz is the executive director of the nonprofit national P-TECH Alliance.
 
 Source: https://www.svvsd.org/2026/06/24/commentary-this-new-path-into-teaching-could-be-a-way-out-of-the-teacher-shortage/
-
-### St. Vrain Valley Schools receives ASBO Certificate of Excellence for 22nd consecutive year
-
-- Published: 2026-06-16T13:55:35-06:00
-- Source URL: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
-
-St. Vrain Valley Schools has once again been honored with the Certificate of Excellence in Financial Reporting from the Association of School Business Officials International (ASBO), marking the 22nd consecutive year the district has received this prestigious award. The recognition is based on the district’s Annual Comprehensive Financial Report (ACFR) for the fiscal year ending June 30, 2025.
-This award recognizes school districts that meet the highest standards for financial reporting and transparency. To qualify, applicants submit their ACFR for review by a team of financial professionals who evaluate the report’s content, accuracy, and overall quality.
-“For over half a century, ASBO International’s Certificate of Excellence in Financial Reporting has been the gold standard for promoting and recognizing excellence in financial transparency,” said Jim Rowan, CAE, SFO, Executive Director of ASBO International. “Clear and accurate financial reporting is crucial for engaging school communities and building their trust. Districts that earn the COE have demonstrated an extraordinary commitment to these principles.”
-“Earning this recognition year after year reflects a longstanding commitment to excellence in financial reporting,” said Tony Whiteley, Chief Financial Officer for St. Vrain Valley Schools. “Our team takes great pride in maintaining the high standards and fiscal stewardship that support the district’s operational and strategic priorities.”
-Participation in ASBO’s program also supports ongoing bond rating and disclosure processes, reinforcing the district’s commitment to fiscal responsibility.
-About ASBO International
-Founded in 1910, the Association of School Business Officials International (ASBO) represents approximately 30,000 school business professionals worldwide. ASBO supports student achievement through effective resource management in finance, operations, food services, and transportation. Learn more at
-asbointl.org
-.
-
-Source: https://www.svvsd.org/2026/06/16/st-vrain-valley-schools-receives-asbo-certificate-of-excellence-for-22nd-consecutive-year/
 
 ### District alerts
 
