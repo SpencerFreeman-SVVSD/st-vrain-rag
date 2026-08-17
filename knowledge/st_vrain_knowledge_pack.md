@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-16T02:44:13.631463-06:00
+generated_at: 2026-08-17T02:57:12.006436-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -9546,7 +9546,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-13T14:19:30-06:00
+- Last modified: 2026-08-14T15:45:54-06:00
 
 District Accounts
 Assessment (X)
@@ -17934,7 +17934,7 @@ Source: https://www.svvsd.org/departments/special-education/services-programming
 ### Specific Disabilities
 
 - Canonical URL: https://www.svvsd.org/departments/special-education/specific-disabilities/
-- Last modified: 2022-09-22T09:25:53-06:00
+- Last modified: 2026-08-15T20:39:29-06:00
 
 Specific Disabilities
 Below is a list of the various disability categories or physical or health conditions that may have a significant impact on a student’s ability to learn and result in an educational disability. If you click on a disability category, you will be directed to the CDE website which will provide more information about a specific area.
