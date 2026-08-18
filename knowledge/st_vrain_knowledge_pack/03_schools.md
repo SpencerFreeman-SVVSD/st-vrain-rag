@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-17T02:57:12.006436-06:00
+generated_at: 2026-08-18T02:50:35.833401-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -593,14 +593,14 @@ Source: https://www.svvsd.org/schools/school-supplies/
 ### Student Conduct
 
 - Canonical URL: https://www.svvsd.org/schools/student-conduct/
-- Last modified: 2026-02-18T18:39:30-07:00
+- Last modified: 2026-08-17T16:20:08-06:00
 
 Student Conduct
 Each year the District publishes a manual for students and families entitled, “Behavioral code of conduct and Board of Education Policies, Rights and Responsibilities of Students and Parents”.
 St. Vrain Behavioral Code Book
-(2025-2026)
+(2026-2027)
 St. Vrain Behavioral Code Book Spanish
-(2025-2026)
+(2026-2027)
 In addition, the Athletic Handbook contains discipline information.
 Athletic Handbook
 Cell Phone Policy
