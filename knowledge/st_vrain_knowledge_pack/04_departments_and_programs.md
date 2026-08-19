@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-18T02:50:35.833401-06:00
+generated_at: 2026-08-19T02:51:28.433221-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -7561,10 +7561,10 @@ Preschool Supply List
 2 Cans (3 or 4oz) of Play-Doh
 Box of Tissue (optional classroom donation)
 Child Behavior Guidance
-Our aim is to promote a positive learning environment where all students can succeed academically, socially, and emotionally. Our preschool classrooms utilize positive behavior supports and developmentally appropriate behavior guidance as supported with our social emotional curriculum, Promoting Alternative Thinking Strategies (PATHS). If you have any questions regarding these guidelines, please ask your child’s teacher. In challenging situations, teachers will use positive guidance, redirection, and logical/natural consequences.
+Our aim is to promote a positive learning environment where all students can succeed academically, socially, and emotionally. Our preschool classrooms use positive behavior supports and developmentally appropriate guidance strategies aligned with Second Step® Early Learning, our social-emotional curriculum. If you have any questions regarding these guidelines, please ask your child’s teacher. In challenging situations, teachers will use positive guidance, redirection, and logical/natural consequences.
 Teaching staff will teach desired classroom expectations. Students will also be taught appropriate ways to express their needs and manage their emotions. Instructional and/or environmental changes along with individual student accommodations will be made in hopes to deescalate undesirable behaviors If a child displays a pattern of negative behavior or has a serious behavior, a meeting will take place with parents to colaborate and discuss next steps and as deemed appropriate, a Child Behavior Plan will be developed. The district has Early Childhood Coaches for supporting children and faculty in such situations. The district also employs behavior consultants or other specialists as needed, who may be asked to collaborate with the staff and parents.
 Student Supervision, Authorized Pick-Up
-Classroom teaching staff will ensure that each parent/guardian signs in their child upon arrival and departure from the classroom daily. Teachers will continuously monitor the presence of children throughout the preschool day in the classroom, on the playground, and on field trips. Children will have their name to face head count taken before and after each transition. Please assist them b...
+Classroom teaching staff will ensure that each parent/guardian signs in their child upon arrival and departure from the classroom daily. Teachers will continuously monitor the presence of children throughout the preschool day in the classroom, on the playground, and on field trips. Children will have their name to face head count taken before and after each transition. Please assist them by following the school’s proc...
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-18T02:50:35.833401-06:00
+generated_at: 2026-08-19T02:51:28.433221-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -13,7 +13,7 @@ section_title: Latest news and alerts
 - Published: 2026-08-17T16:38:03-06:00
 - Source URL: https://www.svvsd.org/2026/08/17/st-vrain-valley-schools-recognized-among-colorados-best-employers-for-second-consecutive-year/
 
-For the second consecutive year, St. Vrain Valley Schools has been recognized by Forbes as one of Colorado’s Best Employers, ranking as the top employer in Boulder County and among the state’s highest-ranked employers in education.
+For the second consecutive year, St. Vrain Valley Schools has been recognized by Forbes as one of Colorado’s Best Employers, ranking as a top employer in Boulder County and among the state’s highest-ranked employers in education.
 The continued recognition highlights St. Vrain’s commitment to investing in the exceptional people who serve students, families, and communities across the district. Approximately 5,500 educators, support staff, administrators, and professionals bring their expertise and dedication to St. Vrain every day, creating outstanding learning environments and opportunities for approximately 33,000 students.
 “Being recognized for a second consecutive year is a reflection of the extraordinary people who make St. Vrain such a special place,” said Superintendent Dr. Jackie Kapushion. “Our employees bring tremendous expertise, care, and dedication to their work every day, and we are incredibly proud of the impact they make for our students, families, and communities.”
 The Forbes recognition is based on independent surveys of employees working for organizations across the country, evaluating factors including employees’ willingness to recommend their employer, workplace conditions, compensation, professional development opportunities, and other aspects of the employee experience.
