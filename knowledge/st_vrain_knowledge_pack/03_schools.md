@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-19T02:51:28.433221-06:00
+generated_at: 2026-08-20T02:52:50.586652-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -248,7 +248,7 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 ### Inclement Weather
 
 - Canonical URL: https://www.svvsd.org/schools/inclement-weather/
-- Last modified: 2025-11-19T18:47:10-07:00
+- Last modified: 2026-08-18T15:56:47-06:00
 
 Inclement Weather
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.

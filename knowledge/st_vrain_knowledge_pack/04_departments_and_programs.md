@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-19T02:51:28.433221-06:00
+generated_at: 2026-08-20T02:52:50.586652-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -7476,7 +7476,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childh
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-08-13T10:28:41-06:00
+- Last modified: 2026-08-18T13:49:45-06:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience.
@@ -8011,7 +8011,7 @@ Source: https://www.svvsd.org/departments/financial-services/online-payments/
 ### Procurement
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/purchasing/
-- Last modified: 2025-11-12T08:19:55-07:00
+- Last modified: 2026-08-19T11:19:08-06:00
 
 Procurement
 The operation of the Procurement Department is governed by Board of Education policies and local, state, and federal laws. The Department’s responsibilities include providing the District with policies that foster an ethical, responsive, and efficient environment while honoring obligations to internal customers and suppliers.
@@ -9258,13 +9258,17 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/svve
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2026-08-03T08:46:33-06:00
+- Last modified: 2026-08-19T07:29:10-06:00
 
 Human Resources Leadership Team
 Amanda Thompson
 Assistant Superintendent of Human Resources
 303-682-7386
 thompson_amanda@svvsd.org
+Elisa Goellner
+Executive Administrative Assistant
+303-682-7386
+goellner_elisa@svvsd.org
 Russell Fox
 Executive Director of Human Resources
 303-682-7406
@@ -9290,10 +9294,6 @@ Cat Baker
 Human Resources Technician
 303-682-7408
 baker_cat@svvsd.org
-Jakie Chaparro
-Human Resources Technician
-303-682-7282
-chaparro_jakie@svvsd.org
 Heather Coventon
 Human Resources Technician
 303-682-2290
@@ -9302,10 +9302,6 @@ Rebecca Ewer
 Employee Leave Specialist
 303-682-7297
 ewer_rebecca@svvsd.org
-Elisa Goellner
-Executive Administrative Assistant
-303-682-7386
-goellner_elisa@svvsd.org
 Katarina Kocourek
 Human Resources Hiring Specialist
 303-682-7439
