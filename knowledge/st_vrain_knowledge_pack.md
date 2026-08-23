@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-20T02:52:50.586652-06:00
+generated_at: 2026-08-23T02:44:57.676297-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,13 +491,57 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Silver Creek High School to Present 48-Hour Production of Mamma Mia
+
+- Published: 2026-08-21T11:45:23-06:00
+- Source URL: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
+
+Silver Creek High School Drama students will take on an ambitious theatrical challenge Aug. 29 by casting, rehearsing and performing the full-length musical
+Mamma Mia
+in just 48 hours.
+The 48-Hour Musical will serve as the opening production of Silver Creek’s 2026-27 performing arts season. Students will have two days to prepare the production, providing a unique opportunity to develop their skills in collaboration, performance and production under a tight deadline.
+The performance will also launch a fundraising campaign for the Silver Creek theatre program. A local organization has contributed $5,000 to begin the campaign, and the Silver Creek community is being invited to match or exceed that contribution. Funds raised will help provide resources and support for the theatre program throughout the school year.
+Admission to the performance is free, with donations accepted before and during the event. If you would like to make a donation, you can do so by
+following this link
+.
+The performance will begin at 6:30 p.m. Aug. 29 at Silver Creek High School. Doors open at 6 p.m.
+
+Source: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
+
+### Join Us for the Elementary 29 Community Meeting, Sept. 1
+
+- Published: 2026-08-20T15:53:03-06:00
+- Source URL: https://www.svvsd.org/2026/08/20/join-us-for-the-elementary-29-community-meeting-sept-1/
+
+Event Details:
+Tuesday, Sept. 1 | 5:00-6:30 p.m.
+Erie High School Auditorium, 3180 County Road 5
+Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.
+This meeting is your opportunity to:
+Review proposed school boundary changes
+Learn about construction and enrollment timelines
+Learn more about the school naming and mascot selection process
+Ask questions and provide valuable community feedback
+Representatives will be available from multiple departments including:
+School and District Administration
+Preschool
+Special Education
+Community Schools Childcare
+Operations, Planning, and Construction
+Spanish interpretation will be available. Families who need interpretation in another language or ASL services can email communications@svvsd.org in advance to request assistance.
+Thank You for Your Continued Support
+The new K-5 school in Erie represents another significant step forward for our growing community and would not be possible without the community’s ongoing commitment to educational excellence. Through the support of the 2024 bond, St. Vrain Valley Schools will continue to provide outstanding learning environments where our students can thrive. The community’s investment today builds the foundation for tomorrow’s leaders, innovators, and citizens. We are deeply grateful for everyone’s partnership in creating exceptional educational opportunities that are giving all students a strong competitive advantage for the future.
+Learn more about Elementary 29
+
+Source: https://www.svvsd.org/2026/08/20/join-us-for-the-elementary-29-community-meeting-sept-1/
+
 ### Skyline and Silver Creek Prepare to Open New On-Campus Stadiums
 
 - Published: 2026-08-19T12:54:30-06:00
 - Source URL: https://www.svvsd.org/2026/08/19/skyline-and-silver-creek-prepare-to-open-new-on-campus-stadiums/
 
-A new chapter for athletics is beginning at Skyline and Silver Creek high schools this school year with the opening of new on-campus stadiums.
-The new facilities will allow both schools to host more home football games and other athletic events on their own campuses, creating new opportunities for students, families, alumni, and community members to come together and support their schools.
+A new chapter for athletics and activities is beginning at Skyline and Silver Creek high schools this school year with the opening of new on-campus stadiums.
+The new facilities will allow both schools to host more home football games and other athletic and activity events on their own campuses, creating new opportunities for students, families, alumni, and community members to come together and support their schools.
 The new stadiums include bleachers and press boxes, restrooms and support spaces, scoreboards, improved accessibility, new tracks, and additional site improvements to support athletics and school events.
 Skyline High School will celebrate the opening of its new stadium with a ribbon-cutting ceremony on Aug. 28, followed by the Falcons’ first home football game of the season. Silver Creek High School’s stadium is also nearing completion, with details about its opening celebration coming soon.
 
@@ -656,47 +700,6 @@ Friday, May 7: The St. Vrain Advantage: Career-Connected Learning
 Location: Career Elevation and Technology Center
 
 Source: https://www.svvsd.org/2026/08/14/leadership-st-vrain-now-accepting-applications-for-the-25-26-school-year/
-
-### Update on Technology and Cell Phones in School
-
-- Published: 2026-08-12T19:40:10-06:00
-- Source URL: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
-
-Dear St. Vrain Valley School District Community,
-Thank you for the partnership and support you continue to offer our schools as we work together to advance high-quality learning and instructional environments for every student. Over the past year we have been closely following the national conversation around the role technology plays in schools, including reviewing emerging research and listening carefully to feedback from families and school staff, and I am writing to give you an update on our district’s cell phone policy, as well as an update from our Instructional Technology Advisory Committee.
-Update to District Cell Phone and Wearable Device Policy
-Earlier this evening, the Board of Education approved updates to Board Policy JS*-R, which sets our expectations for student use of personal devices during the school day. These changes come directly from the feedback we received from our community and from our school administrative teams, and these changes will take effect at the start of this school year.
-For students in preschool through eighth grade
-, personal devices are now required to be put away for the entire school day. Phones, smart watches, and smart glasses need to be powered off or set to silent and stored out of sight from the first bell of the day through the final dismissal bell. That includes passing periods, lunch, recess, and time in hallways. Each school will determine where devices are stored during the day, whether that is a backpack, a locker, a cubby, or another spot designated by the school. In the event of an emergency, students will be able to access their devices to contact families if the device is readily available and it is safe to do so. Additionally, accommodations will be made for students who require access to a cell phone or personal device for a
-documented
-medical or educational need identified in a student’s IEP, Section 504 plan, or health plan.
-For students in ninth through twelfth grade, the expectation continues to be that personal devices are to be put away during class. Devices should be powered off or set to silent and out of sight during instructional time, and that expectation remains in effect for students who step out of class to use the restroom or go to the office. High school students may use their devices outside of class in line with their school’s expectations, including between classes, at lunch, and during off blocks or open periods.
-One of the first questions we hear from families is how to reach a student during the day. Please call your school office, and office staff will connect you with your child. Students who need to reach home can do so from the office as well. Students will also have time to check messages at the end of the day.
-Schools will teach these expectations directly to students at the start of the school year and reinforce them during the first weeks of school. Please look for more information from your student’s school regarding specific cell phone and wearable device expectations.
-Update from our District Instructional Technology Advisory Committee
-At the end of last school year, we convened a committee of parents, teachers, principals, and community members to take a deep dive into our instructional technology practices in grades PK-8. The group’s charge is to evaluate our current practices and bring forward a recommendation to me and our Board of Education later this year regarding any changes (if any) we should consider for future technology use in classrooms.
-The committee met for the first time in June. That session grounded members in our district’s instructional framework and our current practices, along with the science and research behind how learning actually happens, including the role of retrieval practice in helping students hold onto what they learn.
-At their second meeting, members turned to examining both the benefits and challenges of technology’s role in teaching and learning. They examined evidence-based instructional practices...
-
-Source: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
-
-### Big Sky PK-8 Celebrates Grand Opening
-
-- Published: 2026-08-11T14:11:09-06:00
-- Source URL: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
-
-Big Sky PK-8 officially opened its doors to the community Monday evening, marking an exciting milestone for St. Vrain Valley Schools and the Mead community.
-Hundreds of students, families, staff, and community members filled the new school, exploring beautifully prepared classrooms and state-of-the-art learning spaces ahead of the first day of school. Throughout the evening, smiles and plenty of “oohs” and “ahhs” reflected the excitement surrounding St. Vrain’s newest school.
-The celebration began with remarks from Big Sky PK-8 Principal Joshua Barnett, Superintendent Dr. Jackie Kapushion, and Mead Mayor Colleen Whitlow, followed by a ceremonial ribbon cutting featuring some of Big Sky’s incoming students.
-Following the ceremony, families toured the new building and participated in a passport scavenger hunt, while incoming students met their teachers and explored the school’s new playgrounds. The celebration continued into the evening with a drone show led by student pilots from the Innovation Center Drone Performance Team, providing students and families with a memorable start to their first year at Big Sky PK-8.
-Made possible through the community’s support of St. Vrain’s 2024 Bond, the approximately 145,000-square-foot school was designed to serve up to 1,100 students and provide innovative, future-focused learning spaces for the growing Mead community. Big Sky opens this year serving students in preschool through sixth grade, with seventh and eighth grades being added in subsequent years.
-More than the opening of a new building, the evening celebrated the beginning of a new school community — one that will serve generations of students and families in the years ahead.
-The Times-Call also captured the excitement surrounding Big Sky’s opening and the school’s first day.
-Read their coverage of Big Sky PK-8
-.
-See the photo album
-
-Source: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
 
 ### District alerts
 
@@ -1715,15 +1718,14 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### District Accountability / Accreditation Committee
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/district-accountability-accreditation-committee/
-- Last modified: 2025-09-23T11:28:43-06:00
+- Last modified: 2026-08-20T12:15:45-06:00
 
 The District Accountability/Accreditation Committee’s primary purpose is to monitor and support the academic achievement of District students. The committee offers patrons, students, and staff the opportunity to become involved with the improvement of the educational system.
 The committee serves as an advisory panel to the Board of Education and reports to the Board as directed in state law.
-2025-2026 School Year
+2026-2027 School Year
 Committee Members
 Jamie Ball – Executive Director of Assessment
 Jessica Cervantes – Principal, Firestone Charter Academy
-Sean Corey – Principal, Legacy Elementary (President)
 Chris Gardner – Community Member
 Joan Martin – Community Member
 Linda Monteil – (Secretary)
@@ -1732,17 +1734,17 @@ Ann Reed
 –
 Member at Large
 Mark Spencer – Principal, Westview Middle School
+Elizabeth Johnson – Assistant Principal, Erie High School
+Megan Schlagel – Dean of Students, Niwot High School
 Meeting Schedule
-09.09.2025
-09.22.2025
-12.02.2025
-01.28.2026
+09.09.2026
 Meeting Minutes and Agendas
+Historical Minutes and Agendas
+2025-2026
 09.09.2025 Agenda
 09.09.2025 Minutes
 09.22.2025 Agenda
 09.22.2025 Minutes
-Historical Minutes and Agendas
 2024-2025
 01.09.2025 Minutes
 01.09.2025 Agenda
@@ -8224,14 +8226,11 @@ Source: https://www.svvsd.org/departments/communityschools/enrichment/
 ### High-Quality Childcare Options
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/
-- Last modified: 2026-04-02T16:16:24-06:00
+- Last modified: 2026-08-22T07:06:51-06:00
 
 Your schedule, your needs, your childcare solution.
 Our programs engage students in early learning experiences, in partnership with families and the community, to develop a strong foundation, enrich the whole child, build friendships and socialization skills, and inspire lifelong learning. We provide a safe environment which welcomes each child and their unique personality and abilities. Parents can feel confident that their children are in a safe, nurturing, and engaging environment that will cultivate a lifelong love of learning.
 Care by Age Group and Educational Needs
-Full-Day Infant Care: 6 weeks to 18 months
-Our infant childcare program at Spark! Discovery Preschool provides a nurturing, safe environment designed to support the unique developmental needs of our youngest learners.
-Learn more about Infant Care
 Full-Day Toddler Care: 18 months to 3 years
 The toddler care program, available at both Spark! Discovery Preschool and Mountain View Elementary, creates an engaging and supportive environment where young children can explore, learn, and grow with high-quality staff.
 Learn more about Toddler Care
@@ -8309,25 +8308,6 @@ $55 if attending full-day childcare only
 For program details or registration questions, please contact the onsite program manager at the school or the Community Schools central office at 303-702-7924.
 
 Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-early-childcare/
-
-### Full-Day Infant Care
-
-- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-infant-care/
-- Last modified: 2026-04-02T15:45:57-06:00
-
-Our infant care program provides a warm, responsive environment where our youngest learners begin building a strong foundation for growth, development, and learning. Through close relationships with caregivers and meaningful interactions, infants are supported in developing early communication, motor, and social-emotional skills in ways that honor their individual needs and rhythms. Parents can feel confident knowing their child is cared for in a safe, engaging setting designed to promote comfort, connection, and a positive start to lifelong learning.
-Program Details:
-Location
-Spark! Discovery Preschool
-Hours:
-7:00 a.m. – 5:00 p.m.
-Cost:
-Infant Care: $1,870.91 per month
-Schedule:
-Follows the St. Vrain Valley school year calendar, August 18, 2026 – June 30, 2027
-Register Here
-
-Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-infant-care/
 
 ### Full-Day Toddler Care
 
@@ -9228,10 +9208,10 @@ Source: https://www.svvsd.org/departments/financial-services/bond-mill-levy-over
 ### Staff Financial Resources
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/financial-resources/
-- Last modified: 2025-12-18T14:23:49-07:00
+- Last modified: 2026-08-21T07:14:06-06:00
 
 Staff Financial Resources are now available in ServiceNow. All how-to articles, tutorials, forms, and related financial resources have been consolidated into our new
-ServiceNow landing page
+ServiceNow Employee Center
 , where content is regularly updated and fully searchable. Once in ServiceNow, you can also search the full database to quickly find the information you need.
 If you are not already logged in to ServiceNow, you may be prompted to sign in. Select the Log In button in the upper right-hand corner of the screen and use your SVVSD single sign-on credentials to access the landing page.
 
@@ -9556,7 +9536,7 @@ Source: https://www.svvsd.org/departments/financial-services/state-and-federal-c
 ### Human Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/
-- Last modified: 2023-07-11T09:56:23-06:00
+- Last modified: 2026-08-21T13:58:51-06:00
 
 Overview
 St. Vrain Valley Schools is one of the largest employers in the region with approximately 4,500 employees. The District provides competitive salaries and comprehensive benefits packages including health insurance and retirement benefits to full-time employees and many part-time employees.
@@ -13842,11 +13822,11 @@ Source: https://www.svvsd.org/departments/priority-programs/project-launch-summe
 ### Seal of Biliteracy
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/seal-of-biliteracy/
-- Last modified: 2026-04-14T14:40:44-06:00
+- Last modified: 2026-08-20T10:04:07-06:00
 
 OVERVIEW
 The St. Vrain Valley School District recognizes students who have studied and attained proficiency or higher in English and at least one other language with the SVVSD Seal of Biliteracy. This award, given at graduation, provides students with a competitive advantage in the employment market as well as increased opportunities for higher education.
-Seal of Biliteracy – Application
+Applications for the 2027 Seal of Biliteracy will be open soon!
 Requirements
 Application
 : Any student interested in qualifying for the Seal of Biliteracy
@@ -15309,7 +15289,7 @@ Source: https://www.svvsd.org/departments/safety/safety-security-parent-resource
 ### Safety & Security Staff Resources
 
 - Canonical URL: https://www.svvsd.org/departments/safety/safety-security-staff-resources/
-- Last modified: 2024-02-14T13:13:42-07:00
+- Last modified: 2026-08-20T15:06:46-06:00
 
 This area contains forms, and information related to Safety & Security for staff. Please
 log in
@@ -22565,7 +22545,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 357
+- Department and program pages: 356
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-20T02:52:50.586652-06:00
+generated_at: 2026-08-23T02:44:57.676297-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -412,15 +412,14 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### District Accountability / Accreditation Committee
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/district-accountability-accreditation-committee/
-- Last modified: 2025-09-23T11:28:43-06:00
+- Last modified: 2026-08-20T12:15:45-06:00
 
 The District Accountability/Accreditation Committee’s primary purpose is to monitor and support the academic achievement of District students. The committee offers patrons, students, and staff the opportunity to become involved with the improvement of the educational system.
 The committee serves as an advisory panel to the Board of Education and reports to the Board as directed in state law.
-2025-2026 School Year
+2026-2027 School Year
 Committee Members
 Jamie Ball – Executive Director of Assessment
 Jessica Cervantes – Principal, Firestone Charter Academy
-Sean Corey – Principal, Legacy Elementary (President)
 Chris Gardner – Community Member
 Joan Martin – Community Member
 Linda Monteil – (Secretary)
@@ -429,17 +428,17 @@ Ann Reed
 –
 Member at Large
 Mark Spencer – Principal, Westview Middle School
+Elizabeth Johnson – Assistant Principal, Erie High School
+Megan Schlagel – Dean of Students, Niwot High School
 Meeting Schedule
-09.09.2025
-09.22.2025
-12.02.2025
-01.28.2026
+09.09.2026
 Meeting Minutes and Agendas
+Historical Minutes and Agendas
+2025-2026
 09.09.2025 Agenda
 09.09.2025 Minutes
 09.22.2025 Agenda
 09.22.2025 Minutes
-Historical Minutes and Agendas
 2024-2025
 01.09.2025 Minutes
 01.09.2025 Agenda
@@ -6921,14 +6920,11 @@ Source: https://www.svvsd.org/departments/communityschools/enrichment/
 ### High-Quality Childcare Options
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/
-- Last modified: 2026-04-02T16:16:24-06:00
+- Last modified: 2026-08-22T07:06:51-06:00
 
 Your schedule, your needs, your childcare solution.
 Our programs engage students in early learning experiences, in partnership with families and the community, to develop a strong foundation, enrich the whole child, build friendships and socialization skills, and inspire lifelong learning. We provide a safe environment which welcomes each child and their unique personality and abilities. Parents can feel confident that their children are in a safe, nurturing, and engaging environment that will cultivate a lifelong love of learning.
 Care by Age Group and Educational Needs
-Full-Day Infant Care: 6 weeks to 18 months
-Our infant childcare program at Spark! Discovery Preschool provides a nurturing, safe environment designed to support the unique developmental needs of our youngest learners.
-Learn more about Infant Care
 Full-Day Toddler Care: 18 months to 3 years
 The toddler care program, available at both Spark! Discovery Preschool and Mountain View Elementary, creates an engaging and supportive environment where young children can explore, learn, and grow with high-quality staff.
 Learn more about Toddler Care
@@ -7006,25 +7002,6 @@ $55 if attending full-day childcare only
 For program details or registration questions, please contact the onsite program manager at the school or the Community Schools central office at 303-702-7924.
 
 Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-early-childcare/
-
-### Full-Day Infant Care
-
-- Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-infant-care/
-- Last modified: 2026-04-02T15:45:57-06:00
-
-Our infant care program provides a warm, responsive environment where our youngest learners begin building a strong foundation for growth, development, and learning. Through close relationships with caregivers and meaningful interactions, infants are supported in developing early communication, motor, and social-emotional skills in ways that honor their individual needs and rhythms. Parents can feel confident knowing their child is cared for in a safe, engaging setting designed to promote comfort, connection, and a positive start to lifelong learning.
-Program Details:
-Location
-Spark! Discovery Preschool
-Hours:
-7:00 a.m. – 5:00 p.m.
-Cost:
-Infant Care: $1,870.91 per month
-Schedule:
-Follows the St. Vrain Valley school year calendar, August 18, 2026 – June 30, 2027
-Register Here
-
-Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-infant-care/
 
 ### Full-Day Toddler Care
 
@@ -7925,10 +7902,10 @@ Source: https://www.svvsd.org/departments/financial-services/bond-mill-levy-over
 ### Staff Financial Resources
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/financial-resources/
-- Last modified: 2025-12-18T14:23:49-07:00
+- Last modified: 2026-08-21T07:14:06-06:00
 
 Staff Financial Resources are now available in ServiceNow. All how-to articles, tutorials, forms, and related financial resources have been consolidated into our new
-ServiceNow landing page
+ServiceNow Employee Center
 , where content is regularly updated and fully searchable. Once in ServiceNow, you can also search the full database to quickly find the information you need.
 If you are not already logged in to ServiceNow, you may be prompted to sign in. Select the Log In button in the upper right-hand corner of the screen and use your SVVSD single sign-on credentials to access the landing page.
 
@@ -8253,7 +8230,7 @@ Source: https://www.svvsd.org/departments/financial-services/state-and-federal-c
 ### Human Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/
-- Last modified: 2023-07-11T09:56:23-06:00
+- Last modified: 2026-08-21T13:58:51-06:00
 
 Overview
 St. Vrain Valley Schools is one of the largest employers in the region with approximately 4,500 employees. The District provides competitive salaries and comprehensive benefits packages including health insurance and retirement benefits to full-time employees and many part-time employees.
@@ -12539,11 +12516,11 @@ Source: https://www.svvsd.org/departments/priority-programs/project-launch-summe
 ### Seal of Biliteracy
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/seal-of-biliteracy/
-- Last modified: 2026-04-14T14:40:44-06:00
+- Last modified: 2026-08-20T10:04:07-06:00
 
 OVERVIEW
 The St. Vrain Valley School District recognizes students who have studied and attained proficiency or higher in English and at least one other language with the SVVSD Seal of Biliteracy. This award, given at graduation, provides students with a competitive advantage in the employment market as well as increased opportunities for higher education.
-Seal of Biliteracy – Application
+Applications for the 2027 Seal of Biliteracy will be open soon!
 Requirements
 Application
 : Any student interested in qualifying for the Seal of Biliteracy
@@ -14006,7 +13983,7 @@ Source: https://www.svvsd.org/departments/safety/safety-security-parent-resource
 ### Safety & Security Staff Resources
 
 - Canonical URL: https://www.svvsd.org/departments/safety/safety-security-staff-resources/
-- Last modified: 2024-02-14T13:13:42-07:00
+- Last modified: 2026-08-20T15:06:46-06:00
 
 This area contains forms, and information related to Safety & Security for staff. Please
 log in

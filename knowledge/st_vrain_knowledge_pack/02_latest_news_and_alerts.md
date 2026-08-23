@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-20T02:52:50.586652-06:00
+generated_at: 2026-08-23T02:44:57.676297-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -8,13 +8,57 @@ section_title: Latest news and alerts
 
 ### District news
 
+### Silver Creek High School to Present 48-Hour Production of Mamma Mia
+
+- Published: 2026-08-21T11:45:23-06:00
+- Source URL: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
+
+Silver Creek High School Drama students will take on an ambitious theatrical challenge Aug. 29 by casting, rehearsing and performing the full-length musical
+Mamma Mia
+in just 48 hours.
+The 48-Hour Musical will serve as the opening production of Silver Creek’s 2026-27 performing arts season. Students will have two days to prepare the production, providing a unique opportunity to develop their skills in collaboration, performance and production under a tight deadline.
+The performance will also launch a fundraising campaign for the Silver Creek theatre program. A local organization has contributed $5,000 to begin the campaign, and the Silver Creek community is being invited to match or exceed that contribution. Funds raised will help provide resources and support for the theatre program throughout the school year.
+Admission to the performance is free, with donations accepted before and during the event. If you would like to make a donation, you can do so by
+following this link
+.
+The performance will begin at 6:30 p.m. Aug. 29 at Silver Creek High School. Doors open at 6 p.m.
+
+Source: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
+
+### Join Us for the Elementary 29 Community Meeting, Sept. 1
+
+- Published: 2026-08-20T15:53:03-06:00
+- Source URL: https://www.svvsd.org/2026/08/20/join-us-for-the-elementary-29-community-meeting-sept-1/
+
+Event Details:
+Tuesday, Sept. 1 | 5:00-6:30 p.m.
+Erie High School Auditorium, 3180 County Road 5
+Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.
+This meeting is your opportunity to:
+Review proposed school boundary changes
+Learn about construction and enrollment timelines
+Learn more about the school naming and mascot selection process
+Ask questions and provide valuable community feedback
+Representatives will be available from multiple departments including:
+School and District Administration
+Preschool
+Special Education
+Community Schools Childcare
+Operations, Planning, and Construction
+Spanish interpretation will be available. Families who need interpretation in another language or ASL services can email communications@svvsd.org in advance to request assistance.
+Thank You for Your Continued Support
+The new K-5 school in Erie represents another significant step forward for our growing community and would not be possible without the community’s ongoing commitment to educational excellence. Through the support of the 2024 bond, St. Vrain Valley Schools will continue to provide outstanding learning environments where our students can thrive. The community’s investment today builds the foundation for tomorrow’s leaders, innovators, and citizens. We are deeply grateful for everyone’s partnership in creating exceptional educational opportunities that are giving all students a strong competitive advantage for the future.
+Learn more about Elementary 29
+
+Source: https://www.svvsd.org/2026/08/20/join-us-for-the-elementary-29-community-meeting-sept-1/
+
 ### Skyline and Silver Creek Prepare to Open New On-Campus Stadiums
 
 - Published: 2026-08-19T12:54:30-06:00
 - Source URL: https://www.svvsd.org/2026/08/19/skyline-and-silver-creek-prepare-to-open-new-on-campus-stadiums/
 
-A new chapter for athletics is beginning at Skyline and Silver Creek high schools this school year with the opening of new on-campus stadiums.
-The new facilities will allow both schools to host more home football games and other athletic events on their own campuses, creating new opportunities for students, families, alumni, and community members to come together and support their schools.
+A new chapter for athletics and activities is beginning at Skyline and Silver Creek high schools this school year with the opening of new on-campus stadiums.
+The new facilities will allow both schools to host more home football games and other athletic and activity events on their own campuses, creating new opportunities for students, families, alumni, and community members to come together and support their schools.
 The new stadiums include bleachers and press boxes, restrooms and support spaces, scoreboards, improved accessibility, new tracks, and additional site improvements to support athletics and school events.
 Skyline High School will celebrate the opening of its new stadium with a ribbon-cutting ceremony on Aug. 28, followed by the Falcons’ first home football game of the season. Silver Creek High School’s stadium is also nearing completion, with details about its opening celebration coming soon.
 
@@ -173,47 +217,6 @@ Friday, May 7: The St. Vrain Advantage: Career-Connected Learning
 Location: Career Elevation and Technology Center
 
 Source: https://www.svvsd.org/2026/08/14/leadership-st-vrain-now-accepting-applications-for-the-25-26-school-year/
-
-### Update on Technology and Cell Phones in School
-
-- Published: 2026-08-12T19:40:10-06:00
-- Source URL: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
-
-Dear St. Vrain Valley School District Community,
-Thank you for the partnership and support you continue to offer our schools as we work together to advance high-quality learning and instructional environments for every student. Over the past year we have been closely following the national conversation around the role technology plays in schools, including reviewing emerging research and listening carefully to feedback from families and school staff, and I am writing to give you an update on our district’s cell phone policy, as well as an update from our Instructional Technology Advisory Committee.
-Update to District Cell Phone and Wearable Device Policy
-Earlier this evening, the Board of Education approved updates to Board Policy JS*-R, which sets our expectations for student use of personal devices during the school day. These changes come directly from the feedback we received from our community and from our school administrative teams, and these changes will take effect at the start of this school year.
-For students in preschool through eighth grade
-, personal devices are now required to be put away for the entire school day. Phones, smart watches, and smart glasses need to be powered off or set to silent and stored out of sight from the first bell of the day through the final dismissal bell. That includes passing periods, lunch, recess, and time in hallways. Each school will determine where devices are stored during the day, whether that is a backpack, a locker, a cubby, or another spot designated by the school. In the event of an emergency, students will be able to access their devices to contact families if the device is readily available and it is safe to do so. Additionally, accommodations will be made for students who require access to a cell phone or personal device for a
-documented
-medical or educational need identified in a student’s IEP, Section 504 plan, or health plan.
-For students in ninth through twelfth grade, the expectation continues to be that personal devices are to be put away during class. Devices should be powered off or set to silent and out of sight during instructional time, and that expectation remains in effect for students who step out of class to use the restroom or go to the office. High school students may use their devices outside of class in line with their school’s expectations, including between classes, at lunch, and during off blocks or open periods.
-One of the first questions we hear from families is how to reach a student during the day. Please call your school office, and office staff will connect you with your child. Students who need to reach home can do so from the office as well. Students will also have time to check messages at the end of the day.
-Schools will teach these expectations directly to students at the start of the school year and reinforce them during the first weeks of school. Please look for more information from your student’s school regarding specific cell phone and wearable device expectations.
-Update from our District Instructional Technology Advisory Committee
-At the end of last school year, we convened a committee of parents, teachers, principals, and community members to take a deep dive into our instructional technology practices in grades PK-8. The group’s charge is to evaluate our current practices and bring forward a recommendation to me and our Board of Education later this year regarding any changes (if any) we should consider for future technology use in classrooms.
-The committee met for the first time in June. That session grounded members in our district’s instructional framework and our current practices, along with the science and research behind how learning actually happens, including the role of retrieval practice in helping students hold onto what they learn.
-At their second meeting, members turned to examining both the benefits and challenges of technology’s role in teaching and learning. They examined evidence-based instructional practices...
-
-Source: https://www.svvsd.org/2026/08/12/update-on-technology-and-cell-phones-in-school/
-
-### Big Sky PK-8 Celebrates Grand Opening
-
-- Published: 2026-08-11T14:11:09-06:00
-- Source URL: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
-
-Big Sky PK-8 officially opened its doors to the community Monday evening, marking an exciting milestone for St. Vrain Valley Schools and the Mead community.
-Hundreds of students, families, staff, and community members filled the new school, exploring beautifully prepared classrooms and state-of-the-art learning spaces ahead of the first day of school. Throughout the evening, smiles and plenty of “oohs” and “ahhs” reflected the excitement surrounding St. Vrain’s newest school.
-The celebration began with remarks from Big Sky PK-8 Principal Joshua Barnett, Superintendent Dr. Jackie Kapushion, and Mead Mayor Colleen Whitlow, followed by a ceremonial ribbon cutting featuring some of Big Sky’s incoming students.
-Following the ceremony, families toured the new building and participated in a passport scavenger hunt, while incoming students met their teachers and explored the school’s new playgrounds. The celebration continued into the evening with a drone show led by student pilots from the Innovation Center Drone Performance Team, providing students and families with a memorable start to their first year at Big Sky PK-8.
-Made possible through the community’s support of St. Vrain’s 2024 Bond, the approximately 145,000-square-foot school was designed to serve up to 1,100 students and provide innovative, future-focused learning spaces for the growing Mead community. Big Sky opens this year serving students in preschool through sixth grade, with seventh and eighth grades being added in subsequent years.
-More than the opening of a new building, the evening celebrated the beginning of a new school community — one that will serve generations of students and families in the years ahead.
-The Times-Call also captured the excitement surrounding Big Sky’s opening and the school’s first day.
-Read their coverage of Big Sky PK-8
-.
-See the photo album
-
-Source: https://www.svvsd.org/2026/08/11/big-sky-pk-8-celebrates-grand-opening/
 
 ### District alerts
 
