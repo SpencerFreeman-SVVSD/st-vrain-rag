@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-23T02:44:57.676297-06:00
+generated_at: 2026-08-24T03:00:46.667730-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -3697,8 +3697,8 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecre
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Fall 2026 Registration OPENS ON August 24th, 2026
-Did you Miss the Registration Window or Your Location is Full? (Click Here for Waitlist)
+Fall 2026 Registration OPENS ON August 24th, 2026 – CLICK HERE
+Missed the registration window? – CLICK HERE TO BE PUT ON THE WAITLIST
 Registration Dates:
 Fall 2026 eCredit Registration:
 OPENS TO ALL GRADES (10th-12th) – Monday, August 24th – Monday, September 14th, 2026 at NOON.
@@ -3765,7 +3765,7 @@ for more information.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/fall-2020-ecredit-recovery/
 
-### Spring 2026 eCredit Recovery
+### Spring 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/spring-2020-ecredit-recovery/
 - Last modified: 2026-08-13T12:50:11-06:00
@@ -6920,7 +6920,7 @@ Source: https://www.svvsd.org/departments/communityschools/enrichment/
 ### High-Quality Childcare Options
 
 - Canonical URL: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/
-- Last modified: 2026-08-22T07:06:51-06:00
+- Last modified: 2026-04-02T16:16:24-06:00
 
 Your schedule, your needs, your childcare solution.
 Our programs engage students in early learning experiences, in partnership with families and the community, to develop a strong foundation, enrich the whole child, build friendships and socialization skills, and inspire lifelong learning. We provide a safe environment which welcomes each child and their unique personality and abilities. Parents can feel confident that their children are in a safe, nurturing, and engaging environment that will cultivate a lifelong love of learning.
@@ -7002,6 +7002,176 @@ $55 if attending full-day childcare only
 For program details or registration questions, please contact the onsite program manager at the school or the Community Schools central office at 303-702-7924.
 
 Source: https://www.svvsd.org/departments/communityschools/high-quality-childcare-options/full-day-early-childcare/
+
+### St. Vrain Valley Schools
+
+- Canonical URL: https://www.svvsd.org/
+- Last modified: 2026-04-02T15:45:57-06:00
+
+We are the future of America.
+We are providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world.
+Learn More
+Join our Team
+Focus Programs
+Enroll in St. Vrain
+Online Payments
+Infinite Campus
+Safe2Tell
+Nutrition & Menus
+Job Openings
+Advancing Academic Excellence
+24.5
+credits required for graduation – among the most rigorous requirements in the state.
+679
+industry certifications earned by students in the 2024-2025 school year.
+$59
+million dollars received in competitive grant awards since January 2018.
+120+
+district-level partnerships and 435+ direct to school partnerships.
+More Achievements
+Families
+Students
+Staff
+Community
+Quick Links
+Enrollment
+Infinite Campus
+Payments
+Schoology
+Academics
+St. Vrain provides a rigorous academic foundation designed to prepare students for career and postsecondary readiness, including over 70 instructional focus programs.
+Find a Focus Program
+Safety & Well-Being
+Students safety and well-being is paramount, with over $45 million invested in safety upgrades over the past decade, as well as significant investments in mental health resources.
+Learn more
+Get Involved
+St. Vrain has many opportunities for parents and caregivers to be involved in their student’s education, including our nationally recognized program, Leadership St. Vrain.
+Learn more
+Community Schools
+St. Vrain supports working families by providing high-quality before- and after-school childcare programming that is available in all elementary school communities.
+Learn more
+Enrollment
+St. Vrain Valley Schools promotes open enrollment so that families can select the school and program that best meets their students interests and needs.
+Learn more
+Get Social
+St. Vrain promotes communication and safe interaction on social media to promote parent, student, and community engagement with our schools and programs.
+Follow us
+Quick Links
+Schoology
+Classlink
+Lunch Menus
+Concurrent Enrollment
+Students in St. Vrain have many opportunities to earn college credit while in high school through concurrent enrollment in courses with partner colleges and universities.
+Learn more
+Athletics & Activities
+St. Vrain offers a robust portfolio of athletics, arts, and other activities to engage students beyond the school day.
+Learn More
+Advanced Placement
+The AP® Program is continuously introducing new resources and processes designed to help students earn college credit and placement.
+Learn more
+Graduation
+St. Vrain has some of the most rigorous graduation requirements in Colorado, designed to best prepare students for postsecondary success.
+Learn More
+Innovation Center
+Student learning at the Innovation Center transcends the traditional classroom and provides experiential opportunities that are developing today’s students into tomorrow’s leaders, innovators, and changemakers.
+Visit the Innovation Center
+Career Elevation & Technology Center
+The CETC offers classes that provide real-world, hands-on experiences in pathways that are high-wage, high-growth, high-demand, and with a post-secondary trajectory.
+Visit the CETC
+Quick Links
+Staff Portal
+Infinite Visions
+Help Desk
+Curricular Resources
+Our content leadership teams designed a set of 21st century curricular resources to supply our students with a guaranteed and viable curriculum aligned with the new Colorado Academic Standards.
+Learn more
+Benefits
+St. Vrain values the health and well-being of its employees and seeks to establish and maintain a culture of health and wellness.
+Learn more
+Open Positions
+We hope you will consider a career with St. Vrain Valley Schools and join our highly effective and supportive team of professionals who are having a significant impact in the lives of many students and families.
+Search and Apply
+Professional Development
+There are many professional development opportunities available to build the capacity of all district employees through staff development that improves the learning of all the children we serve.
+Register for Courses
+Human Resources
+We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students.
+Learn more
+Wellness
+In an effort to improve the health of all SVVSD employees and promote a healthier and happier workforce, the district has established an active Worksite Wellness Program.
+Learn more
+Quick Links
+Financial Transparency
+Records Request
+Senior Volunteers
+There are many ways for the community to get involved with our students and schools, including earning credit toward their property taxes by volunteering with the district.
+Learn more
+Promotional Flyers
+Businesses and organizations seeking to distribute an electronic flyer to benefit the students and parents of the St. Vrain Valley Schools may do so by following the guidelines below.
+Learn more
+Facility Use
+Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. We support and encourage community use with priority given to youth activities.
+Learn more
+Educator Highlight
+Katie Cooper, Brian McGuirk, Marques Novak
+Specials Team, Burlington Elementary
+“Our Specials Team brings incredible value to our school community. Their innovation, teamwork, and dedication make a lasting impact on both students and staff.”
+Watch the Video
+Join our team today
+Join a team of over 5,000 employees dedicated to helping students succeed.
+Apply Today
+Featured Stories
+St. Vrain Valley Schools Recognized Among Colorado’s Best Employers for Second Consecutive Year
+For the second consecutive year, St. Vrain Valley Schools has been recognized by Forbes as one of Colorado’s Best Employers, ranking as a top employer in Boulder County and among the state’s highest-ranked employers in education. The continued recognition highlights St. Vrain’s commitment to investing in the exceptional people who…
+St. Vrain Valley Schools
+Teaching: A Career Worth Choosing
+By the end of her first year teaching, Mary Kusbel expected to feel exhausted. Instead, she felt energized. “It’s really easy when you’re on social media to see people focusing on the challenges facing public education or saying teacher burnout is at an all-time high,” Kusbel said. “That made me…
+St. Vrain Valley Schools
+What Does it Mean to be Future-Ready?
+What is the role of public education in a time of rapid change? The World Economic Forum predicts that 65% of children entering kindergarten today will work in job categories that do not yet exist.¹ How can public education prepare students so that by the time they have completed their…
+St. Vrain Valley Schools
+Upcoming Board Meetings
+Aug
+26
+Board of Education Regular Meeting
+August 26, 2026 – 6:00 p.m.
+Sep
+1
+Board of Education Member Events for September
+September 1, 2026 – –
+Sep
+9
+Board of Education Regular Meeting
+September 9, 2026 – 6:00 p.m.
+Previous Board Meetings
+Aug
+19
+Board of Education Study Session
+August 19, 2026 – 6:00 p.m.
+Aug
+12
+Board of Education Regular Meeting
+August 12, 2026 – 6:00 p.m.
+Aug
+1
+Board of Education Member Events for August
+August 1, 2026 – –
+All Board Meetings
+District News
+Join Us for the Elementary 29 Community Meeting, Sept. 1
+Event Details:Tuesday, Sept. 1 | 5:00-6:30 p.m.Erie High School Auditorium, 3180 County Road 5 Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.This meeting is your opportunity to: Review proposed school boundary changes Learn about construction…
+St. Vrain Valley Schools
+2026 Superintendent’s Town Hall Meetings
+St. Vrain Valley Schools invites parents, teachers, staff, and community members to join Superintendent Dr. Jackie Kapushion, for one of our upcoming Superintendent Town Hall meetings. These annual forums, in each of our geographic areas provide an opportunity for Dr. Kapushion and district leaders to listen to our community’s questions…
+St. Vrain Valley Schools
+Silver Creek High School to Present 48-Hour Production of Mamma Mia
+Silver Creek High School Drama students will take on an ambitious theatrical challenge Aug. 29 by casting, rehearsing and performing the full-length musical Mamma Mia in just 48 hours. The 48-Hour Musical will serve as the opening production of Silver Creek’s 2026-27 performing arts season. Students will have two days…
+St. Vrain Valley Schools
+All News
+This is the St. Vrain Advantage
+Discover upcoming events, celebrations, and stories from across St. Vrain.
+
+Source: https://www.svvsd.org/
 
 ### Full-Day Toddler Care
 
