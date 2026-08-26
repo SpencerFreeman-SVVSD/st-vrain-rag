@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-24T03:00:46.667730-06:00
+generated_at: 2026-08-26T02:58:16.314881-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,21 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Reminder: Free or reduced benefit applications available
+
+- Published: 2026-08-24T14:12:06-06:00
+- Source URL: https://www.svvsd.org/2026/08/24/reminder-free-reduced-price-meal-applications-available-2/
+
+Families who believe they may qualify for free or reduced eligibility benefits are encouraged to complete an application by Oct. 1 if they have not already done so. While all St. Vrain Valley students in preschool through grade twelve receive one free breakfast and lunch each day at participating schools through Colorado’s Healthy School Meals for All program, completing the application can provide additional benefits for families and schools.
+Families who qualify receive valuable savings such as waived or reduced school fees, discounts on college entrance exams and applications, reduced rates for internet and utilities, and access to the Summer-EBT program.
+When more households apply, St. Vrain schools receive increased federal funding that supports classrooms, after-school programs, preschool opportunities, technology, and additional snacks and meals outside regular school hours. While the Oct. 1 deadline offers additional benefits, free or reduced-price meal applications are continuously accepted and processed throughout the school year, and families are invited to apply or reapply at any time. They can be
+completed online
+, or paper copies are available at Nutrition Services, 2929 Clover Basin Dr., Longmont, CO 80503. The application is completely confidential and not shared with any other agency or organization. To learn more, visit the
+Nutrition Services webpage
+.
+
+Source: https://www.svvsd.org/2026/08/24/reminder-free-reduced-price-meal-applications-available-2/
 
 ### Silver Creek High School to Present 48-Hour Production of Mamma Mia
 
@@ -187,36 +202,6 @@ Blue Sky Bridge
 , which was established to provide a safe and supportive environment for abuse victims where a neutral, professionally-led forensic interview provides case information for all particip...
 
 Source: https://www.svvsd.org/2026/08/17/back-to-school-safety-and-student-well-being-update/
-
-### Leadership St. Vrain Now Accepting Applications for the 26-27 School Year
-
-- Published: 2026-08-14T15:18:56-06:00
-- Source URL: https://www.svvsd.org/2026/08/14/leadership-st-vrain-now-accepting-applications-for-the-25-26-school-year/
-
-Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active participants in St. Vrain Valley Schools.
-Click here to learn more and apply
-2026-2027 Leadership St. Vrain Cohort Schedule
-All Leadership St. Vrain meetings will be held in-person at a different location each month. Meetings will run from 9:30 a.m.-11:30 a.m. on the dates and locations listed below:
-Friday, September 11: District Vision and Governance
-Location: Innovation Center
-Friday, October 9: Investing in Public Education, District Finances, and Enrollment
-Location: Erie High School
-Friday, November 13: Elevating the Teaching Profession
-Location: Skyline High School
-Friday, December 11: Instructional Framework and Learning Technology
-Location: Longmont High School
-Friday, January 8: Legislative Priorities and Advocacy
-Location: Frederick High School
-Friday, February 5: The Success of All Students: Special Education & Student Services
-Location: Mead High School
-Friday, March 5: Student Safety and Engagement
-Location: Silver Creek High School
-Friday, April 9: Operational Excellence
-Location: Niwot High School
-Friday, May 7: The St. Vrain Advantage: Career-Connected Learning
-Location: Career Elevation and Technology Center
-
-Source: https://www.svvsd.org/2026/08/14/leadership-st-vrain-now-accepting-applications-for-the-25-26-school-year/
 
 ### District alerts
 
