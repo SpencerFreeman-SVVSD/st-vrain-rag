@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-26T02:58:16.314881-06:00
+generated_at: 2026-09-01T07:27:54.833233-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,32 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Superintendent’s Update: Welcome to the 2026-27 School Year
+
+- Published: 2026-08-28T13:12:59-06:00
+- Source URL: https://www.svvsd.org/2026/08/28/superintendents-update-welcome-to-the-2026-27-school-year/
+
+Across St. Vrain Valley Schools, educators and staff have been preparing for a successful year focused on learning, growth, and connection. As students settle into new routines, build relationships, and embrace new opportunities, we look forward to all that the 2026-27 school year will bring.
+Superintendent’s Update
+Dear St. Vrain Valley Community,
+Welcome to the 2026-2027 school year. There is real joy in these first weeks of August, when our buildings fill again with students in the hallways and teachers greeting familiar faces and new ones at classroom doors. I want to begin by thanking you for the trust you place in our schools and for the partnership that made my first year as your superintendent such a rewarding experience. I am looking forward to the year ahead with all of you.
+Everything we do in St. Vrain rests on a single commitment, that each and every student will be recognized for their unique talents and aspirations and receive an exceptional PreK-12 experience, so that they graduate with a strong competitive advantage. That is what we mean when we talk about the
+St. Vrain Advantage
+. It is the promise we make to every family who enrolls a child with us, and it shapes how we design innovative programs, hire the very best teachers, build and maintain beautiful facilities, and prioritize the safety and well-being of every child. Our teachers and staff are the heart of this work, and supporting them is one of my highest priorities. St. Vrain maintains among the highest base teacher pay in Colorado, and we have been recognized by Forbes as a Best-In-State Employer again for the second year, which helps us bring exceptional educators into our classrooms and keep them here.
+This summer, our buildings were full of activity as thousands of students continued learning through Project Launch, which provides four additional weeks of rigorous instruction in math and language arts, while hundreds more pursued advanced STEM and Career and Technical Education experiences through the Innovation Center and the Career Elevation and Technology Center. Our teachers and staff spent much of the past few months in professional learning of their own, including our
+Teach to Reach
+conference on the instructional strategies that unleash the potential of every child. And through your continued investment in the 2024 bond, construction advanced across the district on the new Big Sky PK-8 in Mead, our new high school in Frederick, the Innovation Center expansion, a new CTE Center, a new elementary school in Erie, secure entry and safety improvements, stadium projects at Skyline and Silver Creek, and infrastructure work at schools throughout our community. We are grateful for your support, which allows us to provide our students with world-class facilities.
+I have spent my entire career in public education because of what a public school system can be for the community around it. We open our doors to every child who lives here, whatever their circumstances or their ambitions, and we build around each of them the programs, relationships and support they need to thrive. That is the
+Public School Advantage
+, and I see it in our schools every day, from a preschooler sounding out letters to a senior presenting original research to a room full of engineers. It is a privilege to be part of it, and it is something we will continue to champion loudly and unapologetically.
+This fall, I will again host open community meetings in several of our geographic areas, and I hope you will join me. The conversations I had with families last year stayed with me, and I want to hear from you again about what is working in our schools and where we can better serve you.
+To our families, thank you for trusting us with your children. To our teachers and staff, thank you for the care and skill you bring to this work every day. Together, we will make this a joyful and successful year for every student in our St. Vrain schools.
+Sincerely,
+Jackie Kapushion, Ed.D.
+Superin...
+
+Source: https://www.svvsd.org/2026/08/28/superintendents-update-welcome-to-the-2026-27-school-year/
 
 ### Reminder: Free or reduced benefit applications available
 
@@ -153,55 +179,6 @@ The recognition adds to Westview’s strong record of excellence in middle level
 Westview is proud to continue implementing middle level practices that help students develop as strong, caring, kind and intelligent learners while preparing them for success in high school and beyond.
 
 Source: https://www.svvsd.org/2026/08/17/westview-middle-school-named-2026-amle-school-of-distinction/
-
-### Back-to-School Safety and Student Well-Being Update
-
-- Published: 2026-08-17T09:05:58-06:00
-- Source URL: https://www.svvsd.org/2026/08/17/back-to-school-safety-and-student-well-being-update/
-
-As we prepare to welcome students back for another school year, the safety and well-being of every student and staff member remain our highest priority.
-Student safety is a shared responsibility. St. Vrain Valley Schools works closely with families, first responders, and community partners to maintain secure schools and provide resources that support students throughout the school year.
-Below are several reminders and resources for the start of the school year.
-Visitor Check-In System Update
-This school year, St. Vrain Valley Schools will introduce a standardized digital visitor check-in system at all schools. The system will align visitor procedures across the district with practices common in other secure settings.
-The system replaces paper sign-in sheets with a secure electronic process that can support direct communication during an emergency. Visitors will enter their name, cellphone number, and purpose of their visit. The system will also take a one-time photo during registration. This information will help school staff identify visitors on campus and contact them directly if needed during an emergency.
-Standard Response Protocol
-St. Vrain uses the Standard Response Protocol to provide clear, consistent actions for emergencies that may occur in or near a school. The protocol includes five actions: Hold, Secure, Lockdown, Evacuate, and Shelter. Students and staff practice these actions throughout the school year.
-During an emergency, families should rely on official school or district updates and should not come to the school unless directed. This allows first responders and school staff to focus on the immediate response. Review the
-Standard Response Protocol Parent Guide
-to learn more about each action and what families can expect.
-Safe2Tell
-provides students and families with a safe, anonymous way to report concerns about student or school safety. Reports may be submitted at any time through Safe2Tell.org, the Safe2Tell mobile app, or by calling 877-542-7233. Parents are encouraged to contact their child’s school if they have additional questions about school safety.
-Safe Firearm Storage
-Safe firearm storage helps protect children and reduces the risk of unintentional injury, suicide, and firearm theft. Research shows that secure storage is more effective than simply hiding a firearm. Colorado law requires firearm owners to use a locking device, gun safe, or gun cabinet to prevent access by children or others who are not authorized to possess a firearm.
-Be Smart
-is a program that provides a framework that parents, caretakers, and community leaders can follow to help keep their communities safe. The program provides a structured approach using the acronym SMART:
-S
-ecure all guns in your home and vehicles
-M
-odel responsible behavior around guns
-A
-sk about unsecured guns in other homes
-R
-ecognize the role of guns in suicide
-T
-ell your peers to Be Smart
-As required by House Bill 25-1250, St. Vrain Valley Schools is sharing this
-gun violence prevention resource for parents and guardians
-from the Colorado Department of Public Health and Environment.
-Community Resources
-Families are encouraged to reach out to their school counselor or another trusted staff member if they need support or have concerns about themselves or someone else. Families can also contact their school for help connecting with school-based or community resources.
-St. Vrain Valley Schools maintains a
-community resources webpage
-to help families connect with local services and support. Resources include
-211 Colorado
-, which connects families with assistance in a wide range of categories available across the state,
-988 Colorado Mental Health Line
-, which provides free, confidential support 24/7 from trained specialists through calls, texts, or live chats, and
-Blue Sky Bridge
-, which was established to provide a safe and supportive environment for abuse victims where a neutral, professionally-led forensic interview provides case information for all particip...
-
-Source: https://www.svvsd.org/2026/08/17/back-to-school-safety-and-student-well-being-update/
 
 ### District alerts
 

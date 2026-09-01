@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-26T02:58:16.314881-06:00
+generated_at: 2026-09-01T07:27:54.833233-06:00
 coverage_window_days: 90
 section_title: District snapshot
 ---
@@ -362,7 +362,7 @@ Source: https://www.svvsd.org/about/partnerships/
 ### Superintendent
 
 - Canonical URL: https://www.svvsd.org/about/superintendent/
-- Last modified: 2026-01-06T15:44:05-07:00
+- Last modified: 2026-08-25T14:10:50-06:00
 
 Dr. Jackie Kapushion, Superintendent
 Dr. Jackie Kapushion has served nearly 40 years in public education. She was appointed the Superintendent of St. Vrain Valley Schools in 2025, after previously serving as Deputy Superintendent and Area Assistant Superintendent in St. Vrain, as well as in various roles including Assistant Superintendent of Learning Services and Director of Professional Development in other Colorado school districts. She also previously spent five years as an elementary principal and several years as an elementary teacher. Dr. Kapushion holds a Doctorate from the University of Colorado at Denver in Leadership and Administration. She also earned a BA degree in Elementary Education from the University of Wyoming, and an MA degree in Administration, Supervision and Curriculum Development from the University of Colorado Denver, where she serves as an adjunct faculty member in the School of Education. She has served as a board member for the

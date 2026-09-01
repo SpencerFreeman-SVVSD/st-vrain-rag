@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-08-26T02:58:16.314881-06:00
+generated_at: 2026-09-01T07:27:54.833233-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -105,22 +105,31 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 ### Assessment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
-- Last modified: 2026-07-07T12:28:38-06:00
+- Last modified: 2026-08-28T21:44:53-06:00
 
+Overview
+The Assessment Department’s core responsibility is overseeing all federal, state, and district assessments while delivering actionable data analytics that power informed decision-making across our schools. We believe that assessment-informed instruction is a critical engine behind our standard of excellence for teaching and learning. By leveraging timely, accurate data, educators can meet each student where they are on their unique academic journey, tailoring instruction so every child can achieve success.
+To capture the full picture of student progress, our district relies on a balanced approach using distinct types of assessments.
+Assessments fall into two main categories:
+Assessment FOR Learning
+, which guides daily classroom instruction, and
+Assessment OF Learning,
+which evaluates overall progress and program effectiveness.
 Assessment
-The Department of Assessment is part of the Assessment, Curriculum, and Instruction Department at the Learning Services Center. The assessment department oversees all Colorado state assessments, district assessments, and manages the district data warehouse.
-Mission
-The mission of the Department of Assessment is to promote continuous improvement by providing valid, reliable, and actionable assessment data that informs instructional decision-making and propels student success.
-Oversight
-The Assessment Department is responsible for the following to support our community, parents, administrators, teachers, and students in the St. Vrain Valley Schools:
-Support the existing assessment programs PreK-12.
-Support and facilitate the review, development, and implementation of a comprehensive PreK-12 assessment program.
-Manage the district data warehouse system.
-Collaborate with district curriculum coordinators to develop content area assessments.
-Alignment of PreK-12 assessments with standards, curriculum, instruction, and reporting.
-Analyze PreK-12 assessment data and share results with stakeholders to improve instructional practice.
-Design and facilitate professional development opportunities for teachers.
-Customize support for school-based improvement based on identified needs and goals.
+FOR
+Learning
+Diagnostic Assessments:
+Used to identify what a student does or does not yet know, diagnose learning gaps, and highlight individual academic strengths before or during instruction.
+Formative Assessments:
+Used to measure how and what a student is learning in real time, providing immediate feedback to both students and teachers. These are administered frequently within the classroom context to directly inform daily instructional decisions.
+Assessment
+OF
+Learning
+Interim Assessments:
+Administered periodically throughout the school year to track student growth and achievement across specific standards. Because these assessments are common across grade levels and groups, results can be compared to evaluate progress over time.
+Summative Assessments:
+Administered at the end of a unit, semester, or school year to certify student achievement across a broad collection of standards. Results are used to evaluate overall success and guide decisions regarding program and instructional effectiveness.
+Ultimately, these varied assessments work together to strengthen our practices at every level—from the classroom to district leadership.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
 
@@ -801,7 +810,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### eLearning
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
-- Last modified: 2026-04-21T09:50:24-06:00
+- Last modified: 2026-08-28T14:17:49-06:00
 
 Overview
 The eLearning department supports the creation and delivery of various blended learning models throughout the district. We research, purchase and develop, collaborate, pilot, manage, and assess online/blended programs that expand the learning opportunities for students and staff. The eLearning department supports blended models throughout the district including the eCredit Recovery program and the Blended Collaborative for K-12 teachers through out the district.
@@ -942,6 +951,385 @@ grade level is the same
 in their eLearning secondary enrollment as their primary one.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/counselors-corner/
+
+### eCredit Recovery 2026-27
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
+- Last modified: 2026-08-25T08:00:04-06:00
+
+eCredit Sessions Available –
+Spring 2027 Session
+Registration: December 15th (Seniors ONLY) All Others: January 12th – January 30th, 2025. (Unless seats fill before registration ends)
+Summer 2027 Session
+Registration: April 22nd – May 26th (Unless seats fill before registration ends)
+Fall 2026 Session
+Registration: (Seniors ONLY) August 11th (ALL Others) August 18th – September 12th, 2025 (Unless seats fill before registration ends)
+Overview
+Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
+We currently offer high school credit recovery courses in
+Math, Social Studies, English, Science and Health, and Personal Financial Literacy
+.
+As a hybrid option for recovering credit, the eCredit program offers students the
+opportunity to meet face-to-face with licensed teachers after-school
+, as well as the flexibility of completing their coursework online from anywhere and at any time.
+In order to receive final credit in the SVVSD eCredit recovery program, students in the program must successfully complete required coursework, quizzes and tests within the
+ten-week session
+.
+Students participating in the eCredit Recovery Program receive academic support from a licensed teacher.
+Teachers closely monitor student progress and communicate frequently with students, guardians and counselors.
+Students in the during-the-day program are mentored daily by a certified teacher.
+Students earn letter grades towards graduation for successful completion of each course.
+Typically, each school year we will run two ten-week sessions (fall session starts in September and spring session in February). In June we offer a summer session, which runs three-weeks (M-F).
+Please see the links in the left sidebar to see specifics for the sessions we are offering this year.
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
+
+### Frequently Asked Questions
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/ecredit-logistics/
+- Last modified: 2022-10-05T11:43:25-06:00
+
+Answers to common questions about eCredit:
+What courses are offered through eCredit?
+Math
+English
+Social Studies
+Science/Electives
+Intermediate Algebra A
+Intermediate Algebra B
+Algebra 1A
+Algebra 1B
+Geometry A
+Geometry B
+Algebra 2A
+Algebra 2B
+English 9A
+English 9B
+English 10A
+English 10B
+English 11A
+English 11B
+English 12A
+English 12B
+World Studies A
+World Studies B
+US Government A
+US Government B
+US History A
+US History B
+Personal Financial Literacy
+Biology A
+Biology B
+Chemistry A
+Chemistry B
+Health
+How does my parent/guardian receive information on supporting me in eCredit? (Mandatory Parent Orientation Video)
+There is a Mandatory Orientation video for parents or guardians that
+can be found here
+(y
+aqui es el video en espanol
+). We encourage students to view this video with their parents/guardians to in order to understand an overview of eCredit.
+How should I choose which class to take in eCredit?
+Make sure you talk with your counselor to determine which class you need to recover
+.
+You MUST have failed the course and have an F on your transcript to recover the credit
+. We do not offer courses as first time credit.
+What do I need to do to register?
+Click on the Session you are registering (in the left sidebar). At the bottom of the page, there is a link that says “click here to register.” You can pay online with a credit card or check.
+Incomplete payments will be voided and the student will not be registered.
+Registration must be completed before deadline.
+Will I make a good candidate?
+Good candidates can answer YES to these questions. Students who struggle in eCredit typically say No to at least 2 items. If you are that student, and insist of taking eCredit please know you may struggle more with eCredit.
+I have access to a computer/iPad and the Internet
+I can attend all in-person school meetings
+I have reliable transportation that can get me to eCredit every week
+My after-school extra curricular activities (sports, job, sibling duties, etc.) will not interfere with attending after-school eCredit or completing lesson activities
+I am ready to learn the content by doing focused extensive reading.
+I know how to follow directions from an online instructor, OR I am willing to ask questions and learn to do this.
+I know how to take effective notes and know HOW TO USE them in a test, OR I am ready to ask questions and learn how to do this.
+I can minimize online distractions (avoid visiting external sites such as facebook or you tube)
+I will do my own work and not have someone else complete my work for me
+If I am taking a Social Studies or English course, I am committed to write every other week
+How long do I have to complete my work?
+Course work must be completed within the
+10-week session during the school-year
+(after-school, two days a week for two hours each day). This 10-week window does not include holidays. No extensions will be given.
+Our Summer session meets the first 3 weeks of June, Monday-Friday for 3 hours a day. Students are finished at the completion of their course(s).
+Is this an online course or a face-to-face course?
+It’s a blend of both! You are required to attend face-to-face meetings to get that teacher support. However, you can work online from anywhere with Internet connection. You can work every day for as long as you choose and get done as soon as you have submitted the required course work. This means you can complete the course
+much sooner than the deadline depending on the amount of time
+you are willing to dedicate to completing the coursework.
+What if I decide to drop after registering?
+You may drop at any time, but the
+fee is non-refundable
+if you don’t contact us before the start date. Please email
+elearning-department-group@svvsd.org
+to notify our program that you or your student needs to be dropped.
+How much does it cost?
+$150 per 0.5 credit
+$225 per 1.0 credit
+Students on free and reduced lunch
+$75 per 0.5 credit
+$115 per 1.0 credit
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/ecredit-logistics/
+
+### Fall 2026 eCredit Recovery
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
+- Last modified: 2026-08-27T14:42:33-06:00
+
+Overview
+Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
+Fall 2026 Registration OPENS ON August 24th, 2026 – CLICK HERE
+Missed the registration window? – CLICK HERE TO BE PUT ON THE WAITLIST
+Registration Dates:
+Fall 2026 eCredit Registration:
+OPENS TO ALL GRADES (10th-12th) – Monday, August 24th – Monday, September 14th, 2026 (Closes at NOON).
+If you are not sure what course to register for, we recommend reaching out to your counselor ASAP about what options you have.
+Courses offered – Fall 2026 eCredit Recovery session:
+English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
+World Studies A/B, US History A/B, US Government A/B, Personal Financial Literacy
+Algebra 1A/B, Geometry A/B, Algebra 2A/B, Int Algebra A/B
+Biology A/B, Chemistry A/B, Physics A/B and Health
+PLEASE NOTE:
+Not all sites will offer every course listed above. Availability of teachers for that content area determine what courses will be offered.
+Locations and Schedules
+Fall eCredit begins on
+Tuesday, Sept. 22nd and ends on Thursday, Dec. 3rd
+.
+Fall eCredit runs Tuesday/Thursdays from 3:00 – 5:00 pm at the following locations (except Lyons):
+Erie HS
+– English, Social Studies, Health, & PFL
+Frederick HS
+– English, Social Studies, Math, Science, Health, & PFL
+Longmont HS
+– English, Social Studies, Health, & PFL
+Lyons HS
+– TBD
+Lyons HS will be held on Wednesdays & Thursdays from 2:50-4:50.
+Mead High
+– Math, Science, Health, & PFL
+Niwot High
+– English, Social Studies, Science, Health, & PFL
+Skyline High
+– English, Social Studies, Math, Health, & PFL
+Final note
+: Meeting days may be subject to change depending on teacher availability at certain locations. Communication from the eLearning office and/or the eCredit teacher will make students and families aware of any last-minute changes. Thanks in advance for your understanding!
+Required Parent/Guardian Orientation
+ONLINE Parent Orientation will be REQUIRED for ALL PARENTS/GUARDIANS that have a student enrolled in the Fall 2026 eCredit Session.
+This orientation is a 12-minute video
+that will need to be completed before the eCredit start date.
+ENGLISH
+– Parent/Guardian Orientation
+SPANISH
+– Orientación para padre o tutores
+Once Registration has ended on Thursday, September 14th, we will send out an email by September,18th with all the information regarding this eCredit Session and a reminder that guardians must view the Parent/Guardian Orientation.
+If you have any questions, please email
+elearning-department-group@svvsd.org
+or call our office at 303-702-7906.
+Fees and Registration
+$150/0.5 Credit
+Please only Register your student for ONE COURSE AT A TIME
+. If a student finishes the first course ON or BEFORE October 24th, 2025 they will given a link to register for a 2nd course and receive a discount ($75).
+STUDENTS APPROVED for Education Benefits
+$75/0.5 Credit
+Please only register your student for ONE course at a time
+.
+If a student finishes the first course ON or BEFORE October 25th, 2024 they will given a link to register for a 2nd course and receive a discount ($40).
+If your site is full (we will update the above list of locations and/or an error message will generate in RevTrak), please use this form to
+join our waitlist
+. If any spots are available elsewhere, eLearning staff will reach out to the waitlist
+by Sept. 18th
+. If you fill out the waitlist and do NOT hear from the eLearning Dept about a spot opening, please reach out to your counselor about other options.
+If your school location is filled, please
+CLICK HERE
+to be put on our waitlist.
+Our Next Session: Spring 2027 –
+CLICK HERE
+for more information.
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
+
+### Spring 2027 eCredit Recovery
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/spring-ecredit-recovery26/
+- Last modified: 2026-08-24T19:22:00-06:00
+
+Overview
+Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
+Spring 2027 Registration – (Seniors only) 12//14/26-1/10/27 & (All Grades) 1/11/27
+LOCATION FULL? – CLICK HERE TO BE PUT ON THE WAITLIST
+Registration:
+SENIORS ONLY (12th gr) –
+Monday , December 14th, 2026 – Sunday, January 10th, 2026
+(
+EARLY SENIOR REGISTRATION
+receives discounted pricing as follows: $75/$40 F/R)
+ALL GRADES (9th-12th) – Monday, January 11th at until Friday, January 29th at 8pm
+Courses offered – Spring 2027 eCredit Recovery session (Not all locations offer every course):
+English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
+World Studies A/B, US History A/B, US Government A/B, Personal Financial Literacy
+Algebra 1A/B, Geometry A/B, Algebra 2A/B, Int Algebra A/B
+Health
+Biology A/B, Chemistry A/B, Physics A/B
+Locations and Schedules
+All Locations listed below will be following the same schedule:
+Spring eCredit begins on
+Tuesday, Feb. 10th and ends on Thursday, April 23rd
+Spring eCredit runs every
+Tuesday/Thursdays from 3:00 – 5:00pm
+for
+10 Weeks
+at the following locations:
+Frederick High School
+-TBD
+Longmont High School
+– TBD
+Lyons HS
+– TBD
+Lyons HS will be held on Wednesdays & Thursdays from 2:50-4:50.
+Mead High School
+– TBD
+Niwot High School
+– TBD
+Silver Creek High School
+– TBD
+Skyline High School
+– TBD
+If the location you would like attend is
+FULL
+please CLICK HERE to fill out the waitlist.
+Final note
+: Meeting days/times
+may be subject
+to change
+depending on teacher availability at certain locations.
+Communication from the eLearning office and/or the eCredit teacher will make students and families aware of any of these differences
+, so
+please watch your email for notifications of these changes
+. Thanks in advance for your understanding!
+Required Parent/Guardian Orientation:
+ONLINE Parent Orientation will be REQUIRED for ALL PARENTS that have a student enrolled in the Spring 2026 eCredit Session. This orientation is a video and
+can be found here for English
+and
+aqui para espanol
+.
+Once registration has ended, we will send out an email with all the information regarding this eCredit Session and a reminder about our Parent Orientation video.
+If you have any questions, please call our office at 303-702-7906.
+Fees and Registration
+$150/course = 0.5 credits
+$75/course= 0.5 credits ONLY IF your student is approved for Education Benefits. Must be on file with your home high school.
+SENIORS ONLY Early bird registration
+– $75/course for seniors who register between
+Dec. 15 – Jan. 11
+for a course that student has received an F on their transcript.
+Please ONLY REGISTER your student for ONE COURSE at a attime.
+If a student finishes their 1st course ON or BEFORE Thursday, March 24th, 2026 they will be given a link to register for a 2nd course and receive a discounted rate. ($75/$40). If you do register for a
+2nd course
+, we will
+automatically refund
+the fees and you will need to register again once the 1st course within our timeline.
+Our Next Session: Summer 2026 –
+CLICK HERE
+for more information.
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/spring-ecredit-recovery26/
+
+### Summer 2026 eCredit Recovery
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/summer-ecredit-recovery/
+- Last modified: 2026-08-24T19:02:06-06:00
+
+What is eCredit?
+Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
+SUMMER 2026 eCredit Registration CLOSED
+LOCATION FULL? – CLICK HERE to be put on the Waitlist
+Registration:
+Wednesday, April 22nd – Tuesday, May 26th (at NOON or EARLIER IF AVAILABLE SEATS FILL)
+Session Dates/Times:
+June 1st – June 19th from 9am – 12pm
+Mandatory IN PERSON class Monday – Thursday with Fridays virtual
+Locations and Courses Offered:
+Erie High School
+– English, Social Studies, Math, Health, & PFL (
+All Seats
+FULL
+)
+Frederick High School
+– English, Social Studies, Science, Math , Health, & PFL (
+All Seats
+FULL
+)
+Longmont High School
+– English, Social Studies, Health, & PFL (
+All Seats
+FULL
+)
+Mead High School
+– English (
+FULL
+), Social Studies (
+FULL
+), Math(
+FULL
+), Science, Health, & PFL
+Niwot High School
+– English, Social Studies, Science, Health, & PFL (
+All Seats
+FULL
+)
+Silver Creek High School
+– English, Social Studies, Math, Health, & PFL (
+All Seats
+FULL
+)
+Skyline High School
+– Not offering courses at this location for the Summer Session
+SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2026 Student Waitlist.
+New Meridian/St. Vrain Virtual
+Summer eCredit runs their own Summer School with slightly different times and dates.
+Only
+students currently enrolled at New Meridian High School
+or
+St. Vrain Virtual High School,
+may attend this location
+. If you are a current NMHS/SVVHS student, please speak to your principal or counselor about how to get registered.
+Required Parent/Guardian Orientation:
+An Online Parent Orientation video will be REQUIRED for all student guardians who have a student enrolled in the Summer 2026 eCredit Session. Once registration has been completed, the eCredit office will send out an email with all of the information regarding the eCredit session, along with a reminder and a link for Guardians to view the orientation.
+Once registration has ended, we will send out an email with all the information regarding this eCredit Session and a reminder about our Parent/Guardian Orientation video.
+If you have any questions, please call our office at 303-702-7906.
+Fees and Registration
+.5 credits = $150 (or $75 if you qualify and are active in the Education Benefits Program).
+Paperwork must be updated in Infinite Campus
+in order to get the F/R rate. If you receive an error message when registering, and know you qualify for the reduced rate, please check with your school so see that your paperwork is up-to-date.
+Please register for ONLY ONE course
+.
+If your
+student finishes their first course with enough time to complete a 2nd course, they will be given a link to register for a 2nd course and receive a discounted course fee. The discount rate for the 2nd course is $75 (
+or $40 if you qualify and are active in the Free and Reduced Lunch Program).
+Paperwork must be updated in Infinite Campus
+in order to get this reduced rate. If you get an error message when registering, and know you qualify for this rate,
+please check with your school
+to see if your paperwork is up-to-date.
+Help! I got a Student ID error message like this…
+Student ID Error Message
+If you get this error message, please make sure:
+Your last name is spelled (with hyphens and spaces) just like it appears in Infinite Campus
+Your student ID number is just as it appears in Infinite Campus
+If you are marking
+“yes” for the Education Benefits pricing
+, your paperwork
+must be
+up-to-date in Infinite Campus. IF YOUR FRL STATUS IS NOT up-to-date,
+please go here to fill out that paperwork.
+Fall 2026 will be our next available eCredit session.
+Registration will begin on August 13th for SENIORS ONLY, and all other students can register between August 22nd – September 12th. Students should connect with their school counselor in their first week back to school in August to determine which course(s) to register for in eCredit.
+Our Next Sessions is Fall 2026 –
+CLICK HERE
+for more information.
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/summer-ecredit-recovery/
 
 ### Graduation Requirements
 
@@ -3568,638 +3956,6 @@ Talk with a family member about these jobs and what jobs your family members hav
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/summer-learning-liftoff/kindergarten-resources/
 
-### eCredit Recovery 2026-27
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
-- Last modified: 2026-01-07T09:44:53-07:00
-
-eCredit Sessions Available –
-Spring 2027 Session
-Registration: December 15th (Seniors ONLY) All Others: January 12th – January 30th, 2025. (Unless seats fill before registration ends)
-Summer 2027 Session
-Registration: April 22nd – May 26th (Unless seats fill before registration ends)
-Fall 2026 Session
-Registration: (Seniors ONLY) August 11th (ALL Others) August 18th – September 12th, 2025 (Unless seats fill before registration ends)
-Overview
-Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
-We currently offer high school credit recovery courses in
-Math, Social Studies, English, Science and Health, and Personal Financial Literacy
-.
-As a hybrid option for recovering credit, the eCredit program offers students the
-opportunity to meet face-to-face with licensed teachers after-school
-, as well as the flexibility of completing their coursework online from anywhere and at any time.
-In order to receive final credit in the SVVSD eCredit recovery program, students in the program must successfully complete required coursework, quizzes and tests within the
-ten-week session
-.
-Students participating in the eCredit Recovery Program receive academic support from a licensed teacher.
-Teachers closely monitor student progress and communicate frequently with students, guardians and counselors.
-Students in the during-the-day program are mentored daily by a certified teacher.
-Students earn letter grades towards graduation for successful completion of each course.
-Typically, each school year we will run two ten-week sessions (fall session starts in September and spring session in February). In June we offer a summer session, which runs three-weeks (M-F).
-Please see the links in the left sidebar to see specifics for the sessions we are offering this year.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
-
-### Frequently Asked Questions
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/ecredit-logistics/
-- Last modified: 2022-10-05T11:43:25-06:00
-
-Answers to common questions about eCredit:
-What courses are offered through eCredit?
-Math
-English
-Social Studies
-Science/Electives
-Intermediate Algebra A
-Intermediate Algebra B
-Algebra 1A
-Algebra 1B
-Geometry A
-Geometry B
-Algebra 2A
-Algebra 2B
-English 9A
-English 9B
-English 10A
-English 10B
-English 11A
-English 11B
-English 12A
-English 12B
-World Studies A
-World Studies B
-US Government A
-US Government B
-US History A
-US History B
-Personal Financial Literacy
-Biology A
-Biology B
-Chemistry A
-Chemistry B
-Health
-How does my parent/guardian receive information on supporting me in eCredit? (Mandatory Parent Orientation Video)
-There is a Mandatory Orientation video for parents or guardians that
-can be found here
-(y
-aqui es el video en espanol
-). We encourage students to view this video with their parents/guardians to in order to understand an overview of eCredit.
-How should I choose which class to take in eCredit?
-Make sure you talk with your counselor to determine which class you need to recover
-.
-You MUST have failed the course and have an F on your transcript to recover the credit
-. We do not offer courses as first time credit.
-What do I need to do to register?
-Click on the Session you are registering (in the left sidebar). At the bottom of the page, there is a link that says “click here to register.” You can pay online with a credit card or check.
-Incomplete payments will be voided and the student will not be registered.
-Registration must be completed before deadline.
-Will I make a good candidate?
-Good candidates can answer YES to these questions. Students who struggle in eCredit typically say No to at least 2 items. If you are that student, and insist of taking eCredit please know you may struggle more with eCredit.
-I have access to a computer/iPad and the Internet
-I can attend all in-person school meetings
-I have reliable transportation that can get me to eCredit every week
-My after-school extra curricular activities (sports, job, sibling duties, etc.) will not interfere with attending after-school eCredit or completing lesson activities
-I am ready to learn the content by doing focused extensive reading.
-I know how to follow directions from an online instructor, OR I am willing to ask questions and learn to do this.
-I know how to take effective notes and know HOW TO USE them in a test, OR I am ready to ask questions and learn how to do this.
-I can minimize online distractions (avoid visiting external sites such as facebook or you tube)
-I will do my own work and not have someone else complete my work for me
-If I am taking a Social Studies or English course, I am committed to write every other week
-How long do I have to complete my work?
-Course work must be completed within the
-10-week session during the school-year
-(after-school, two days a week for two hours each day). This 10-week window does not include holidays. No extensions will be given.
-Our Summer session meets the first 3 weeks of June, Monday-Friday for 3 hours a day. Students are finished at the completion of their course(s).
-Is this an online course or a face-to-face course?
-It’s a blend of both! You are required to attend face-to-face meetings to get that teacher support. However, you can work online from anywhere with Internet connection. You can work every day for as long as you choose and get done as soon as you have submitted the required course work. This means you can complete the course
-much sooner than the deadline depending on the amount of time
-you are willing to dedicate to completing the coursework.
-What if I decide to drop after registering?
-You may drop at any time, but the
-fee is non-refundable
-if you don’t contact us before the start date. Please email
-elearning-department-group@svvsd.org
-to notify our program that you or your student needs to be dropped.
-How much does it cost?
-$150 per 0.5 credit
-$225 per 1.0 credit
-Students on free and reduced lunch
-$75 per 0.5 credit
-$115 per 1.0 credit
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/ecredit-recovery/ecredit-logistics/
-
-### St. Vrain Valley Schools
-
-- Canonical URL: https://www.svvsd.org/
-- Last modified: 2026-08-23T20:11:26-06:00
-
-We are the future of America.
-We are providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world.
-Learn More
-Join our Team
-Focus Programs
-Enroll in St. Vrain
-Online Payments
-Infinite Campus
-Safe2Tell
-Nutrition & Menus
-Job Openings
-Advancing Academic Excellence
-24.5
-credits required for graduation – among the most rigorous requirements in the state.
-679
-industry certifications earned by students in the 2024-2025 school year.
-$59
-million dollars received in competitive grant awards since January 2018.
-120+
-district-level partnerships and 435+ direct to school partnerships.
-More Achievements
-Families
-Students
-Staff
-Community
-Quick Links
-Enrollment
-Infinite Campus
-Payments
-Schoology
-Academics
-St. Vrain provides a rigorous academic foundation designed to prepare students for career and postsecondary readiness, including over 70 instructional focus programs.
-Find a Focus Program
-Safety & Well-Being
-Students safety and well-being is paramount, with over $45 million invested in safety upgrades over the past decade, as well as significant investments in mental health resources.
-Learn more
-Get Involved
-St. Vrain has many opportunities for parents and caregivers to be involved in their student’s education, including our nationally recognized program, Leadership St. Vrain.
-Learn more
-Community Schools
-St. Vrain supports working families by providing high-quality before- and after-school childcare programming that is available in all elementary school communities.
-Learn more
-Enrollment
-St. Vrain Valley Schools promotes open enrollment so that families can select the school and program that best meets their students interests and needs.
-Learn more
-Get Social
-St. Vrain promotes communication and safe interaction on social media to promote parent, student, and community engagement with our schools and programs.
-Follow us
-Quick Links
-Schoology
-Classlink
-Lunch Menus
-Concurrent Enrollment
-Students in St. Vrain have many opportunities to earn college credit while in high school through concurrent enrollment in courses with partner colleges and universities.
-Learn more
-Athletics & Activities
-St. Vrain offers a robust portfolio of athletics, arts, and other activities to engage students beyond the school day.
-Learn More
-Advanced Placement
-The AP® Program is continuously introducing new resources and processes designed to help students earn college credit and placement.
-Learn more
-Graduation
-St. Vrain has some of the most rigorous graduation requirements in Colorado, designed to best prepare students for postsecondary success.
-Learn More
-Innovation Center
-Student learning at the Innovation Center transcends the traditional classroom and provides experiential opportunities that are developing today’s students into tomorrow’s leaders, innovators, and changemakers.
-Visit the Innovation Center
-Career Elevation & Technology Center
-The CETC offers classes that provide real-world, hands-on experiences in pathways that are high-wage, high-growth, high-demand, and with a post-secondary trajectory.
-Visit the CETC
-Quick Links
-Staff Portal
-Infinite Visions
-Help Desk
-Curricular Resources
-Our content leadership teams designed a set of 21st century curricular resources to supply our students with a guaranteed and viable curriculum aligned with the new Colorado Academic Standards.
-Learn more
-Benefits
-St. Vrain values the health and well-being of its employees and seeks to establish and maintain a culture of health and wellness.
-Learn more
-Open Positions
-We hope you will consider a career with St. Vrain Valley Schools and join our highly effective and supportive team of professionals who are having a significant impact in the lives of many students and families.
-Search and Apply
-Professional Development
-There are many professional development opportunities available to build the capacity of all district employees through staff development that improves the learning of all the children we serve.
-Register for Courses
-Human Resources
-We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students.
-Learn more
-Wellness
-In an effort to improve the health of all SVVSD employees and promote a healthier and happier workforce, the district has established an active Worksite Wellness Program.
-Learn more
-Quick Links
-Financial Transparency
-Records Request
-Senior Volunteers
-There are many ways for the community to get involved with our students and schools, including earning credit toward their property taxes by volunteering with the district.
-Learn more
-Promotional Flyers
-Businesses and organizations seeking to distribute an electronic flyer to benefit the students and parents of the St. Vrain Valley Schools may do so by following the guidelines below.
-Learn more
-Facility Use
-Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. We support and encourage community use with priority given to youth activities.
-Learn more
-Educator Highlight
-Katie Cooper, Brian McGuirk, Marques Novak
-Specials Team, Burlington Elementary
-“Our Specials Team brings incredible value to our school community. Their innovation, teamwork, and dedication make a lasting impact on both students and staff.”
-Watch the Video
-Join our team today
-Join a team of over 5,000 employees dedicated to helping students succeed.
-Apply Today
-Featured Stories
-St. Vrain Valley Schools Recognized Among Colorado’s Best Employers for Second Consecutive Year
-For the second consecutive year, St. Vrain Valley Schools has been recognized by Forbes as one of Colorado’s Best Employers, ranking as a top employer in Boulder County and among the state’s highest-ranked employers in education. The continued recognition highlights St. Vrain’s commitment to investing in the exceptional people who…
-St. Vrain Valley Schools
-Teaching: A Career Worth Choosing
-By the end of her first year teaching, Mary Kusbel expected to feel exhausted. Instead, she felt energized. “It’s really easy when you’re on social media to see people focusing on the challenges facing public education or saying teacher burnout is at an all-time high,” Kusbel said. “That made me…
-St. Vrain Valley Schools
-What Does it Mean to be Future-Ready?
-What is the role of public education in a time of rapid change? The World Economic Forum predicts that 65% of children entering kindergarten today will work in job categories that do not yet exist.¹ How can public education prepare students so that by the time they have completed their…
-St. Vrain Valley Schools
-Upcoming Board Meetings
-Aug
-26
-Board of Education Regular Meeting
-August 26, 2026 – 6:00 p.m.
-Sep
-1
-Board of Education Member Events for September
-September 1, 2026 – –
-Sep
-9
-Board of Education Regular Meeting
-September 9, 2026 – 6:00 p.m.
-Previous Board Meetings
-Aug
-19
-Board of Education Study Session
-August 19, 2026 – 6:00 p.m.
-Aug
-12
-Board of Education Regular Meeting
-August 12, 2026 – 6:00 p.m.
-Aug
-1
-Board of Education Member Events for August
-August 1, 2026 – –
-All Board Meetings
-District News
-Join Us for the Elementary 29 Community Meeting, Sept. 1
-Event Details:Tuesday, Sept. 1 | 5:00-6:30 p.m.Erie High School Auditorium, 3180 County Road 5 Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.This meeting is your opportunity to: Review proposed school boundary changes Learn about construction…
-St. Vrain Valley Schools
-2026 Superintendent’s Town Hall Meetings
-St. Vrain Valley Schools invites parents, teachers, staff, and community members to join Superintendent Dr. Jackie Kapushion, for one of our upcoming Superintendent Town Hall meetings. These annual forums, in each of our geographic areas provide an opportunity for Dr. Kapushion and district leaders to listen to our community’s questions…
-St. Vrain Valley Schools
-Leadership St. Vrain Now Accepting Applications for the 26-27 School Year
-Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active…
-St. Vrain Valley Schools
-All News
-This is the St. Vrain Advantage
-Discover upcoming events, celebrations, and stories from across St. Vrain.
-
-Source: https://www.svvsd.org/
-
-### St. Vrain Valley Schools
-
-- Canonical URL: https://www.svvsd.org/
-- Last modified: 2026-08-23T19:59:16-06:00
-
-We are the future of America.
-We are providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world.
-Learn More
-Join our Team
-Focus Programs
-Enroll in St. Vrain
-Online Payments
-Infinite Campus
-Safe2Tell
-Nutrition & Menus
-Job Openings
-Advancing Academic Excellence
-24.5
-credits required for graduation – among the most rigorous requirements in the state.
-679
-industry certifications earned by students in the 2024-2025 school year.
-$59
-million dollars received in competitive grant awards since January 2018.
-120+
-district-level partnerships and 435+ direct to school partnerships.
-More Achievements
-Families
-Students
-Staff
-Community
-Quick Links
-Enrollment
-Infinite Campus
-Payments
-Schoology
-Academics
-St. Vrain provides a rigorous academic foundation designed to prepare students for career and postsecondary readiness, including over 70 instructional focus programs.
-Find a Focus Program
-Safety & Well-Being
-Students safety and well-being is paramount, with over $45 million invested in safety upgrades over the past decade, as well as significant investments in mental health resources.
-Learn more
-Get Involved
-St. Vrain has many opportunities for parents and caregivers to be involved in their student’s education, including our nationally recognized program, Leadership St. Vrain.
-Learn more
-Community Schools
-St. Vrain supports working families by providing high-quality before- and after-school childcare programming that is available in all elementary school communities.
-Learn more
-Enrollment
-St. Vrain Valley Schools promotes open enrollment so that families can select the school and program that best meets their students interests and needs.
-Learn more
-Get Social
-St. Vrain promotes communication and safe interaction on social media to promote parent, student, and community engagement with our schools and programs.
-Follow us
-Quick Links
-Schoology
-Classlink
-Lunch Menus
-Concurrent Enrollment
-Students in St. Vrain have many opportunities to earn college credit while in high school through concurrent enrollment in courses with partner colleges and universities.
-Learn more
-Athletics & Activities
-St. Vrain offers a robust portfolio of athletics, arts, and other activities to engage students beyond the school day.
-Learn More
-Advanced Placement
-The AP® Program is continuously introducing new resources and processes designed to help students earn college credit and placement.
-Learn more
-Graduation
-St. Vrain has some of the most rigorous graduation requirements in Colorado, designed to best prepare students for postsecondary success.
-Learn More
-Innovation Center
-Student learning at the Innovation Center transcends the traditional classroom and provides experiential opportunities that are developing today’s students into tomorrow’s leaders, innovators, and changemakers.
-Visit the Innovation Center
-Career Elevation & Technology Center
-The CETC offers classes that provide real-world, hands-on experiences in pathways that are high-wage, high-growth, high-demand, and with a post-secondary trajectory.
-Visit the CETC
-Quick Links
-Staff Portal
-Infinite Visions
-Help Desk
-Curricular Resources
-Our content leadership teams designed a set of 21st century curricular resources to supply our students with a guaranteed and viable curriculum aligned with the new Colorado Academic Standards.
-Learn more
-Benefits
-St. Vrain values the health and well-being of its employees and seeks to establish and maintain a culture of health and wellness.
-Learn more
-Open Positions
-We hope you will consider a career with St. Vrain Valley Schools and join our highly effective and supportive team of professionals who are having a significant impact in the lives of many students and families.
-Search and Apply
-Professional Development
-There are many professional development opportunities available to build the capacity of all district employees through staff development that improves the learning of all the children we serve.
-Register for Courses
-Human Resources
-We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students.
-Learn more
-Wellness
-In an effort to improve the health of all SVVSD employees and promote a healthier and happier workforce, the district has established an active Worksite Wellness Program.
-Learn more
-Quick Links
-Financial Transparency
-Records Request
-Senior Volunteers
-There are many ways for the community to get involved with our students and schools, including earning credit toward their property taxes by volunteering with the district.
-Learn more
-Promotional Flyers
-Businesses and organizations seeking to distribute an electronic flyer to benefit the students and parents of the St. Vrain Valley Schools may do so by following the guidelines below.
-Learn more
-Facility Use
-Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. We support and encourage community use with priority given to youth activities.
-Learn more
-Educator Highlight
-Katie Cooper, Brian McGuirk, Marques Novak
-Specials Team, Burlington Elementary
-“Our Specials Team brings incredible value to our school community. Their innovation, teamwork, and dedication make a lasting impact on both students and staff.”
-Watch the Video
-Join our team today
-Join a team of over 5,000 employees dedicated to helping students succeed.
-Apply Today
-Featured Stories
-St. Vrain Valley Schools Recognized Among Colorado’s Best Employers for Second Consecutive Year
-For the second consecutive year, St. Vrain Valley Schools has been recognized by Forbes as one of Colorado’s Best Employers, ranking as a top employer in Boulder County and among the state’s highest-ranked employers in education. The continued recognition highlights St. Vrain’s commitment to investing in the exceptional people who…
-St. Vrain Valley Schools
-Teaching: A Career Worth Choosing
-By the end of her first year teaching, Mary Kusbel expected to feel exhausted. Instead, she felt energized. “It’s really easy when you’re on social media to see people focusing on the challenges facing public education or saying teacher burnout is at an all-time high,” Kusbel said. “That made me…
-St. Vrain Valley Schools
-What Does it Mean to be Future-Ready?
-What is the role of public education in a time of rapid change? The World Economic Forum predicts that 65% of children entering kindergarten today will work in job categories that do not yet exist.¹ How can public education prepare students so that by the time they have completed their…
-St. Vrain Valley Schools
-Upcoming Board Meetings
-Aug
-26
-Board of Education Regular Meeting
-August 26, 2026 – 6:00 p.m.
-Sep
-1
-Board of Education Member Events for September
-September 1, 2026 – –
-Sep
-9
-Board of Education Regular Meeting
-September 9, 2026 – 6:00 p.m.
-Previous Board Meetings
-Aug
-19
-Board of Education Study Session
-August 19, 2026 – 6:00 p.m.
-Aug
-12
-Board of Education Regular Meeting
-August 12, 2026 – 6:00 p.m.
-Aug
-1
-Board of Education Member Events for August
-August 1, 2026 – –
-All Board Meetings
-District News
-Join Us for the Elementary 29 Community Meeting, Sept. 1
-Event Details:Tuesday, Sept. 1 | 5:00-6:30 p.m.Erie High School Auditorium, 3180 County Road 5 Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.This meeting is your opportunity to: Review proposed school boundary changes Learn about construction…
-St. Vrain Valley Schools
-2026 Superintendent’s Town Hall Meetings
-St. Vrain Valley Schools invites parents, teachers, staff, and community members to join Superintendent Dr. Jackie Kapushion, for one of our upcoming Superintendent Town Hall meetings. These annual forums, in each of our geographic areas provide an opportunity for Dr. Kapushion and district leaders to listen to our community’s questions…
-St. Vrain Valley Schools
-Leadership St. Vrain Now Accepting Applications for the 26-27 School Year
-Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active…
-St. Vrain Valley Schools
-All News
-This is the St. Vrain Advantage
-Discover upcoming events, celebrations, and stories from across St. Vrain.
-
-Source: https://www.svvsd.org/
-
-### St. Vrain Valley Schools
-
-- Canonical URL: https://www.svvsd.org/
-- Last modified: 2026-06-09T15:52:32-06:00
-
-We are the future of America.
-We are providing current and future generations a strong competitive advantage so that all students can achieve success in a globalized world.
-Learn More
-Join our Team
-Focus Programs
-Enroll in St. Vrain
-Online Payments
-Infinite Campus
-Safe2Tell
-Nutrition & Menus
-Job Openings
-Advancing Academic Excellence
-24.5
-credits required for graduation – among the most rigorous requirements in the state.
-679
-industry certifications earned by students in the 2024-2025 school year.
-$59
-million dollars received in competitive grant awards since January 2018.
-120+
-district-level partnerships and 435+ direct to school partnerships.
-More Achievements
-Families
-Students
-Staff
-Community
-Quick Links
-Enrollment
-Infinite Campus
-Payments
-Schoology
-Academics
-St. Vrain provides a rigorous academic foundation designed to prepare students for career and postsecondary readiness, including over 70 instructional focus programs.
-Find a Focus Program
-Safety & Well-Being
-Students safety and well-being is paramount, with over $45 million invested in safety upgrades over the past decade, as well as significant investments in mental health resources.
-Learn more
-Get Involved
-St. Vrain has many opportunities for parents and caregivers to be involved in their student’s education, including our nationally recognized program, Leadership St. Vrain.
-Learn more
-Community Schools
-St. Vrain supports working families by providing high-quality before- and after-school childcare programming that is available in all elementary school communities.
-Learn more
-Enrollment
-St. Vrain Valley Schools promotes open enrollment so that families can select the school and program that best meets their students interests and needs.
-Learn more
-Get Social
-St. Vrain promotes communication and safe interaction on social media to promote parent, student, and community engagement with our schools and programs.
-Follow us
-Quick Links
-Schoology
-Classlink
-Lunch Menus
-Concurrent Enrollment
-Students in St. Vrain have many opportunities to earn college credit while in high school through concurrent enrollment in courses with partner colleges and universities.
-Learn more
-Athletics & Activities
-St. Vrain offers a robust portfolio of athletics, arts, and other activities to engage students beyond the school day.
-Learn More
-Advanced Placement
-The AP® Program is continuously introducing new resources and processes designed to help students earn college credit and placement.
-Learn more
-Graduation
-St. Vrain has some of the most rigorous graduation requirements in Colorado, designed to best prepare students for postsecondary success.
-Learn More
-Innovation Center
-Student learning at the Innovation Center transcends the traditional classroom and provides experiential opportunities that are developing today’s students into tomorrow’s leaders, innovators, and changemakers.
-Visit the Innovation Center
-Career Elevation & Technology Center
-The CETC offers classes that provide real-world, hands-on experiences in pathways that are high-wage, high-growth, high-demand, and with a post-secondary trajectory.
-Visit the CETC
-Quick Links
-Staff Portal
-Infinite Visions
-Help Desk
-Curricular Resources
-Our content leadership teams designed a set of 21st century curricular resources to supply our students with a guaranteed and viable curriculum aligned with the new Colorado Academic Standards.
-Learn more
-Benefits
-St. Vrain values the health and well-being of its employees and seeks to establish and maintain a culture of health and wellness.
-Learn more
-Open Positions
-We hope you will consider a career with St. Vrain Valley Schools and join our highly effective and supportive team of professionals who are having a significant impact in the lives of many students and families.
-Search and Apply
-Professional Development
-There are many professional development opportunities available to build the capacity of all district employees through staff development that improves the learning of all the children we serve.
-Register for Courses
-Human Resources
-We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students.
-Learn more
-Wellness
-In an effort to improve the health of all SVVSD employees and promote a healthier and happier workforce, the district has established an active Worksite Wellness Program.
-Learn more
-Quick Links
-Financial Transparency
-Records Request
-Senior Volunteers
-There are many ways for the community to get involved with our students and schools, including earning credit toward their property taxes by volunteering with the district.
-Learn more
-Promotional Flyers
-Businesses and organizations seeking to distribute an electronic flyer to benefit the students and parents of the St. Vrain Valley Schools may do so by following the guidelines below.
-Learn more
-Facility Use
-Most of the St. Vrain Valley School District’s schools and fields are available for use by community groups. We support and encourage community use with priority given to youth activities.
-Learn more
-Educator Highlight
-Katie Cooper, Brian McGuirk, Marques Novak
-Specials Team, Burlington Elementary
-“Our Specials Team brings incredible value to our school community. Their innovation, teamwork, and dedication make a lasting impact on both students and staff.”
-Watch the Video
-Join our team today
-Join a team of over 5,000 employees dedicated to helping students succeed.
-Apply Today
-Featured Stories
-St. Vrain Valley Schools Recognized Among Colorado’s Best Employers for Second Consecutive Year
-For the second consecutive year, St. Vrain Valley Schools has been recognized by Forbes as one of Colorado’s Best Employers, ranking as a top employer in Boulder County and among the state’s highest-ranked employers in education. The continued recognition highlights St. Vrain’s commitment to investing in the exceptional people who…
-St. Vrain Valley Schools
-Teaching: A Career Worth Choosing
-By the end of her first year teaching, Mary Kusbel expected to feel exhausted. Instead, she felt energized. “It’s really easy when you’re on social media to see people focusing on the challenges facing public education or saying teacher burnout is at an all-time high,” Kusbel said. “That made me…
-St. Vrain Valley Schools
-What Does it Mean to be Future-Ready?
-What is the role of public education in a time of rapid change? The World Economic Forum predicts that 65% of children entering kindergarten today will work in job categories that do not yet exist.¹ How can public education prepare students so that by the time they have completed their…
-St. Vrain Valley Schools
-Upcoming Board Meetings
-Aug
-26
-Board of Education Regular Meeting
-August 26, 2026 – 6:00 p.m.
-Sep
-1
-Board of Education Member Events for September
-September 1, 2026 – –
-Sep
-9
-Board of Education Regular Meeting
-September 9, 2026 – 6:00 p.m.
-Previous Board Meetings
-Aug
-19
-Board of Education Study Session
-August 19, 2026 – 6:00 p.m.
-Aug
-12
-Board of Education Regular Meeting
-August 12, 2026 – 6:00 p.m.
-Aug
-1
-Board of Education Member Events for August
-August 1, 2026 – –
-All Board Meetings
-District News
-Join Us for the Elementary 29 Community Meeting, Sept. 1
-Event Details:Tuesday, Sept. 1 | 5:00-6:30 p.m.Erie High School Auditorium, 3180 County Road 5 Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.This meeting is your opportunity to: Review proposed school boundary changes Learn about construction…
-St. Vrain Valley Schools
-2026 Superintendent’s Town Hall Meetings
-St. Vrain Valley Schools invites parents, teachers, staff, and community members to join Superintendent Dr. Jackie Kapushion, for one of our upcoming Superintendent Town Hall meetings. These annual forums, in each of our geographic areas provide an opportunity for Dr. Kapushion and district leaders to listen to our community’s questions…
-St. Vrain Valley Schools
-Leadership St. Vrain Now Accepting Applications for the 26-27 School Year
-Leadership St. Vrain is a program designed to provide parents and other community members the opportunity to deepen their knowledge of our district’s mission, operations and strategic priorities. The program is especially beneficial for those who want to obtain a foundation in district operations and governance and become more active…
-St. Vrain Valley Schools
-All News
-This is the St. Vrain Advantage
-Discover upcoming events, celebrations, and stories from across St. Vrain.
-
-Source: https://www.svvsd.org/
-
 ### Foreign Exchange
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/foreign-exchange/
@@ -4309,6 +4065,8 @@ Athletics are an important part of the St. Vrain Valley Schools’ educational p
 Since 2019, St. Vrain
 athletes have brought home more than 200 total state titles
 – including team and individual titles.
+St. Vrain Athletic Partners
+St. Vrain Valley Schools is proud to partner with UCHealth and Orthopaedic & Spine Center of the Rockies to provide athletic training services at each high school. Certified athletic trainers support student-athletes each day, including during practices and competitions.
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletics/
 
@@ -4853,21 +4611,24 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-01-23T09:04:27-07:00
+- Last modified: 2026-08-27T08:15:51-06:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
 We are proud to include a high school honor mariachi ensemble! Mariachi, a vibrant tradition of Mexican music, features violins, trumpets, guitars, vihuelas and guitarrónes. This ensemble will showcase our student musicians and the rich cultural heritage of our community.
-Plan your visit to the 2025 Concert
+Plan your visit to the 2026 Concert
 Date & Time
 : Wednesday, November 19, 2025 at 7:00 pm
 Location
-: Mead High School Auditorium: 12750 County Road 7, Longmont, CO 80504
+: Erie High School Auditorium: 3180 County Road 5, Erie, CO 80516
 Buy your Concert Tickets
 :
 HERE
 :
-https://gofan.co/event/4602412?schoolId=CO99685
+https://gofan.co/event/6861133?schoolId=CO99685
+We’re busy prepping an amazing program for the upcoming year.
+Auditions for the 26/27 school year are due Friday, September 18th at 5:00 pm.
+In the meantime, review the 2025 program below.
 2025 Event Program
 Mariachi Ensemble
 Order of pieces are subject to change:
@@ -5026,19 +4787,19 @@ Priscilla began her teaching career in Austin, Texas, before moving to Colorado,
 Marialuisa Meza-Burgos – Mariachi Clinician
 Marialuisa Meza-Burgos
 is a singer, musician, and Mariachi artist, specializing in traditional Mexican Mariachi music. She is the lead vocalist and vihuela player for the Colorado-based all-female Mariachi, Las Dahlias. Mari holds a Bachelor’s in Music from MSU Denver and a Master of Fine Arts in Theatre from Naropa University. Passionate about preserving the tradition, she offers private lessons in Mariachi vocal performance and vihuela playing.
-This event is a collaboration made possible by the following 2025-26 directors and principals:
+This event is a collaboration made possible by the following directors and principals:
 School
 Director and Principal
 Erie High School (EHS)
 Monica Smiley and Joshua Griffin
 Frederick High School (FHS)
-Kyle Liss and Dr. Russell Fox
+Becky Donoho and Ashlie Swanson
 Longmont High School (LHS)
 Jennifer Crim and Jeff McMurry
 Lyons High School (LyHS)
 Kristine Coniway and Chris Frank
 Mead High School (MHS)
-Holli Young and Dustin Cady
+Holli Young and Lindsay LaPorte
 Niwot High School (NHS)
 Keynes Chen and Eric Rauschkolb
 Silver Creek High School (SCHS)
@@ -5046,7 +4807,7 @@ Dr. Katarina Pliego and Erick Finnestead
 Skyline High School (SHS)
 Brian Crim and Anthony Barela
 Twin Peaks Classical Academy (TPCA)
-Chelsea Ong and Alycia Burns
+Chelsea Ong and Alycia Burns, Dr. Aaron Moe
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
 
@@ -5836,11 +5597,11 @@ St. Vrain Band Night provides an opportunity for students to showcase their marc
 Event details
 Plan your visit
 Date & Time
-: Wednesday, October 8, 2025 at 6:00 pm
+: Wednesday, October 7, 2026 at 6:00 pm
 Location
 :
 Everly Montgomery Field at Longmont High School, 1040 Sunset St. Longmont, CO 80501
-View a facility map HERE.
+Gates open at 5:15 pm for spectators
 Buy your tickets!
 Cost of Admission
 :
@@ -5850,24 +5611,23 @@ Children 6 & Under / Senior Citizens (65+) – FREE
 8th grade students get in FREE by showing their Student ID at the entrance!
 Buy your ticket online:
 HERE – GoFan Tickets
-Save time & buy your tickets ahead of time!
 Animal Policy
 : No animals will be allowed in the facility except for service animals.
 Performance Order
-The 2025 participating schools and performance times are below:
-6:05 PM – National Anthem – Lyons HS / Skyline HS
-6:10 PM – St. Vrain Valley School District Unified Percussion Ensemble
-6:15 PM – Skyline High School Marching Band
-6:25 PM – Northridge High School Marching Band
-6:37 PM – Roosevelt High School Marching Band
-6:49 PM – Niwot High School Marching Band
-7:01 PM – Silver Creek High School Marching Band
-7:13 PM – Frederick High School Marching Band
-7:25 PM – Mountain View High School Marching Band
-7: 37 PM – Mead High School Marching Band
-7:49 PM – Longmont High School Marching Band
-8:01 PM – Erie High School Marching Band
-8:13 PM – Encore Combined Band High School Marching Band
+The 2026 participating schools and performance times are coming soon:
+6:05 PM – National Anthem
+6:10 PM –
+6:15 PM –
+6:25 PM –
+6:37 PM –
+6:49 PM –
+7:01 PM –
+7:13 PM –
+7:25 PM –
+7: 37 PM –
+7:49 PM –
+8:01 PM –
+8:13 PM –
 8:30 PM – **SVVSD Drone Show**
 All spectators and performers must exit the stands and field before the drone show can begin
 ** Please join us following the culmination of the event to enjoy a drone show celebrating music in SVVSD!
@@ -5876,10 +5636,6 @@ Special Guests in the Booth
 Joe Bartko – Announcer
 Joe Bartko brings an extensive background of announcing and pageantry experience to the microphone tonight. He attended Niwot H.S. and was a member of the marching, concert and jazz bands, and during that time, began his tenure in drum corps as a percussionist with the Blue Knights Drum & Bugle Corps. He continued his involvement in the drum corps activity as the long-time announcer for “Corps Encore” in Ogden, UT, the “Mile High Showcase” and “Drums Along the Rockies.” As a highly sought-after performing arts and sports announcer, Mr. Bartko has also announced a variety of other events including rodeos, marching band competitions, corporate functions, and sporting events, including the Niwot H.S. Football games.
 In 1992, Mr. Bartko, along with other percussion educators, created and founded the Rocky Mountain Percussion Association, where he has announced every season. He has announced across the country for Winter Guard International (WGI) including the Percussion World Championships for nearly 30 years. Mr. Bartko has announced a variety of marching band events and Colorado Bandmasters Association (CBA) marching band competitions. He served as the on-air host for the CBA State Marching Championships broadcast and does continued voice-over work for radio and television. Mr. Bartko served as the “voice” of the “Colorado State University Marching Band,” announcing at all home football games of the CSU Rams, Denver Bronco halftime performances and bowl game appearances In addition to his work doing radio and TV voice-overs, Mr. Bartko was the on-camera spokesperson for FOHVAMP – the “Families of Homicide Victims and Missing Persons”.
-Sal Martorano – Judge
-Sal Martorano is retired after 35+ years of teaching experience in St. Vrain and Colorado Springs Schools. Bands under “Mr. M’s” direction won several first-place regional marching festivals as well as consistent superior ratings at numerous concert and jazz band festivals. His concert and jazz bands performed at CMEA conventions and the ASBDA National Convention. His bands have performed at Disneyland, Knottsberry Farm, Sea World, Magic Mountain, Disney World, the U.S. Embassy in the Bahamas, Nassau Bahamas High School, and placed first at the All-American Music Festival in Orlando, Florida. Mr. M was inducted into the Colorado Bandmasters’ Hall of Fame, Colorado state winner of the Stanbury Award for the American School Band Directors Association. He received the Governor’s Award for Excellence in Education, and was named Educator of the Year at Erie Jr./Sr. High School. Mr. M was the director of the A-AA All State Jazz Band, Chairman of the Colorado Bandmasters Convention, president of the Colorado Bandmasters Association, served as Chairman of the All State Jazz Bands, Secretary of Phi Beta Mu Honorary Band Fraternity, and president of the Colorado Italian Musicmasters’ Association. He has served as a guest clinician and adjudicator throughout the state. Mr. M has also performed with the Longmont Symphony Orchestra, Longmont Community Band, the Colorado Ambassadors of Music, the Modernaires Swing Band, and is presently leader and performing with Swing Shift Jazz Combo.
-Doug Carmichael – Judge
-Biography coming soon
 Modern Icon Media
 Modern Icon Media is a video production company founded by Trenton Hoshiko, former Silver Creek HS student, and based out of the Longmont/Boulder area. Modern Icon Media provides “outstanding video production and video advertising services to Northern Colorado organizations.”
 
@@ -6600,7 +6356,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-14T15:45:54-06:00
+- Last modified: 2026-08-28T11:54:33-06:00
 
 District Accounts
 Assessment (X)
@@ -6684,6 +6440,9 @@ Columbine Elementary (X)
 Eagle Crest Elementary School
 Eagle Crest Elementary (Facebook)
 Eagle Crest Elementary (X)
+New Elementary 29 in Erie
+Elementary 29 (Facebook)
+Elementary 29 (Instagram)
 Erie Elementary School
 Erie Elementary School (X)
 Erie Elementary Library (Facebook)
@@ -6887,6 +6646,9 @@ Skyline High School Visual and Performing Arts Academy (Facebook)
 Skyline High School Visual and Performing Arts Academy (Instagram)
 Skyline High School Yearbook (Instagram)
 Soaring Heights PK-8
+Soaring Heights PK-8 (Facebook)
+Soaring Heights PK-8 (Instagram)
+Soaring Heights PK-8 (X)
 Soaring Heights PK-8 Innovation (X)
 Soaring Heights Cross Country, Track & Field (X)
 Soaring Heights PK-8 Performing Arts (Instagram)
@@ -7544,7 +7306,7 @@ Source: https://www.svvsd.org/departments/early-childhood/about-us/
 ### Preschool
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/
-- Last modified: 2026-05-13T11:23:05-06:00
+- Last modified: 2026-08-26T14:18:45-06:00
 
 Begin Your 2026-2027 Preschool Application
 View the 2026-2027 Preschool Program Locations
@@ -9050,9 +8812,37 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-05-21T12:39:59-06:00
+- Last modified: 2026-08-28T12:01:28-06:00
 
-Summer 2026
+Fall 2026
+Staff Flu Shots and Biometrics Clinics
+Benefits-eligible employees are invited to attend an on-site flu shot and biometrics clinic presented by KerixHealth. Take a proactive step toward your preventive wellness and learn more about your health.
+Employees who participate in a biometrics screening will receive a $40 King Soopers gift card at the event!
+Tuesday, September 29
+7:00 – 11:00 AM
+Silver Creek High School Library
+4901 Nelson Rd, Longmont
+Tuesday, September 29
+3:30 – 6:00 PM
+Frederick High School Library
+5690 Tipple Pkwy, Longmont
+Wednesday, September 30
+7:00 – 11:00 AM
+ESC Board Room
+395 S. Pratt Pkwy, Longmont
+Thursday, October 1
+3:30 – 6:00 PM
+Erie Middle School Media Center
+650 Main St, Erie
+Saturday, October 3
+7:00 – 11:00 AM
+ESC Board Room
+395 S. Pratt Pkwy, Longmont
+Tuesday, October 6
+3:30 – 6:00 PM
+Coal Ridge Middle School Commons
+6201 Booth Dr, Longmont
+CLICK TO REGISTER FOR BIOMETRICS
 Mindful Mondays and Well-being Wednesdays
 Monthly, no-cost virtual classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
 Can’t attend live? No problem, register anyway to receive the recordings.
@@ -12889,7 +12679,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-08-17T11:40:36-06:00
+- Last modified: 2026-08-25T11:37:58-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -13291,7 +13081,7 @@ Source: https://www.svvsd.org/departments/professional-development/induction/ind
 ### Mentor Support
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/induction/mentor-support/
-- Last modified: 2025-09-09T07:38:55-06:00
+- Last modified: 2026-08-26T14:12:14-06:00
 
 Mentor Support
 Peer Mentors
@@ -13512,7 +13302,7 @@ Source: https://www.svvsd.org/departments/professional-development/professional-
 ### Blended Learning
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/professional-development-catalog/blended-learning/
-- Last modified: 2022-11-02T10:43:30-06:00
+- Last modified: 2026-08-24T19:09:29-06:00
 
 Blended Learning
 What is blended learning?
@@ -14424,7 +14214,7 @@ Source: https://www.svvsd.org/departments/special-education/parent-engagement/
 ### Community Partner Events
 
 - Canonical URL: https://www.svvsd.org/departments/special-education/parent-engagement/events-provided-by-outside-agencies-community-partners/
-- Last modified: 2025-01-13T11:53:02-07:00
+- Last modified: 2026-08-25T17:54:20-06:00
 
 The St. Vrain Valley Special Education Department values our strong partnerships with outside agencies and community partners. Below are some of the upcoming learning opportunities for families and parents of special education students.
 Please check this page often, as we are frequently adding new events.
@@ -14688,7 +14478,7 @@ Source: https://www.svvsd.org/departments/special-education/parent-engagement/re
 ### SVVSD Special Education Events
 
 - Canonical URL: https://www.svvsd.org/departments/special-education/parent-engagement/upcoming-events/
-- Last modified: 2025-09-25T08:44:21-06:00
+- Last modified: 2026-08-25T17:58:41-06:00
 
 St. Vrain Special Education Department also partners with outside agencies and community partners to share events.
 Click to learn more!
@@ -15745,10 +15535,12 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-05-12T11:03:26-06:00
+- Last modified: 2026-08-26T12:31:08-06:00
 
-The September referral window is now closed please contact the GT representative/site leader at your building if you have questions. Referrals are accepted on a case by case basis throughout the school year.
-El plazo para referir a su estudiante durante septiembre ya ha finalizado. Si tiene alguna pregunta, comuníquese con el representante de GT/líder de su escuela. Las referencias se aceptan caso por caso durante todo el año escolar.
+The referral period for Gifted and Talented Services is now open. Please complete the following form to refer your student. The referral period ends on September 30th, 2026.
+Gifted and Talented Referral Form
+El periodo para referir a su estudiante para servicios de Superdotados y Talentosos está abierta. Por favor, complete el formulario para referir a su estudiante. La ventana de referencia se cierra el 30 de Septiembre del 2026.
+Formulario de Referencia para servicios de Superdotados y Talentosos
 Gifted and Talented Services Vision and Mission/Mision de el Programa de Superdotados y Talentosos
 We envision
 schools where giftedness and high potential are recognized, valued, and nurtured in children from all backgrounds, and where these individuals develop their potential to become creative, well-adjusted, productive citizens.
@@ -15884,233 +15676,11 @@ If you have questions or concerns about your child’s programming, please conta
 Family/Parent Guide to Gifted Services
 Guia para Familias/Padres Sobre Servicios para Dotados
 Guia para Familias/Padres de Dotados y Talentosos
-School Contacts and Descriptions of Programming (Click on the school name to view programming descriptions)
-Elementary Schools
-Name
-Email Address
-Alpine
-Allison Fitzgerald
-fitzgerald_allison@svvsd.org
-Black Rock
-Megan Hawkins
-hawkins_megan@svvsd.org
-Blue Mountain
-Shannan Olson
-olson_shannan@svvsd.org
-Burlington
-Jesse Sapir
-sapir_jesse@svvsd.org
-Centennial
-Deb Evans
-evans_donnae@svvsd.org
-Central
-Hillary Simonson
-simonson_hillary@svvsd.org
-Columbine
-Sherie “DW” Dike-Wilhelm
-dikewilhelm_sherie@svvsd.org
-Eagle Crest
-Lindsey Cheney
-cheney_lindsey@svvsd.org
-Erie
-Maggie Sisk
-sisk_maggie@svvsd.org
-Fall River
-Melinda Schluckebier
-schluckebier_melinda@svvsd.org
-Grand View
-Kayla Hawkins
-hawkins_kayla@svvsd.org
-Highlands
-Jolene Lewis
-lewis_jolene@svvsd.org
-Hygiene
-Anna Carr
-carr_anna@svvsd.org
-Indian Peaks
-Laurel Urquidi
-urquidi_laurel@svvsd.org
-Legacy
-Kristin Pierce
-pierce_kristin@svvsd.org
-Longmont Estates
-Jessica Shaffer
-s
-haffer_jessica@svvsd.org
-Lyons
-Jamie Meyers
-meyers_jamie@svvsd.org
-Mead
-Ann Schenk
-Skylar Vaughn
-schenkenberger_ann@svvsd.org
-vaughn_skylar@svvsd.org
-Mountain View
-Lisa Selleck
-selleck_lisa@svvsd.org
-Niwot
-Audrey Lenger
-lenger_audrey@svvsd.org
-Northridge
-Emily Fiebig
-fiebig_emily@svvsd.org
-Prairie Ridge
-Heidi Cloud
-cloud_heidi@svvsd.org
-Red Hawk
-Wendy Durst
-Brittany Jenkins
-durst_wendy@svvsd.org
-jenkins_brittany@svvsd.org
-Rocky Mountain
-Carleen Hester
-hester_carleen@svvsd.org
-Sanborn
-Maisie Phillips
-phillips_maisie@svvsd.org
-Middle Schools
-Name
-Email Address
-Altona
-Kate Riddle
-Lindsay Gahn
-riddle_kate@svvsd.org
-gahn_lindsay@svvsd.org
-Coal Ridge
-Sarah Cavender
-Michael Stover
-Val Luutran
-cavender_sarah@svvsd.org
-stover_michael@svvsd.org
-luutran_val@svvsd.org
-Erie
-Jen Saless-6th
-Sam Fenster-7th/8th
-saless_jennifer@svvsd.org
-fenster_Samantha@svvsd.org
-guzman_jody@svvsd.org
-Longs Peak
-Addison Mayer-5th/6th
-Candyce Wondercheck-7th/8th
-wondercheck_candyce@svvsd.org
-mayer_addison@svvsd.org
-Lyons
-Kris Coniway
-coniway_kristine@svvsd.org
-Mead
-Eric Salva
-salva_eric@svvsd.org
-Sunset
-Jennifer Macios
-macios_jennifer@svvsd.org
-Trail Ridge
-Erin Elsen
-elsen_erin@svvsd.org
-Westview
-Evan Oldroyd/Jenna Oldroyd-6th
-Kate Courtney-7th
-Anna Swearingen-7th
-Christy Kocjancic-8th
-oldroyd_evan@svvsd.org
-kocjancic_christine@svvsd.org
-rude_jenna@svvsd.org
-K-12 Schools
-Name
-Email Address
-Soaring Heights
-K-8
-Kate Nelson PK-5
-Katie Kaminski 6-8
-nelson_kathryn@svvsd.org
-kaminski_katie@svvsd.org
-Thunder Valley K-8
-Kelli Frost
-frost_kelli@svvsd.org
-Timberline PK-8
-Tonia Beard
-beard_tonia@svvsd.org
-St. Vrain LaunchEd Virtual Academy
-K-12
-Lori Houghton
-houghton_lori@svvsd.org
-Charter Schools
-Name
-Email Address
-Carbon Valley Academy
-Stacey Chavez
-stacey.chavez@cvamail.com
-Twin Peaks Charter K-12
-Max Kleber K-5
-Quinn Kirner 6-12
-kleber_maxwell@svvsd.org
-kirner_quinn@svvsd.org
-St. Vrain Community Montessori
-Jessica Davidson Chervenak
-jdavidson@svcmontessori@org
-Flagstaff Academy
-Nina Lindeke
-nlindeke@flagstaffacademy.org
-Firestone Charter Academy
-David Weisbart
-Amber Plitz
-david.weisbart@firestonecharteracademy.org
-plitz_amber@firestonecharteracademy.org
-Aspen Ridge Prep School
-Ryanne Mascioli
-rmascioli@aspenridgeprepschool.org
-High School
-Name
-Email Address
-Erie
-Beth Lee
-Catherine Zwink
-lee_beth@svvsd.org
-zwink_catherine@svvsd.org
-Frederick
-Jake Marsing
-marsing_jake@svvsd.org
-Longmont
-Kaitlyn Schiffelbein
-David Wrisley
-schiffelbein_kaitlyn@svvsd.org
-wrisley_david@svvsd.org
-Lyons
-Kris Coniway
-coniway_kristine@svvsd.org
-Mead
-Brittany Tangora
-tangora_brittany@svvsd.org
-Niwot
-Taylor Renquist
-Megan Smith
-renquist_taylor@svvsd.org
-smith_megan@svvsd.org
-New Meridian
-Bailey Fowler
-fowler_bailey@svvsd.org
-Silver Creek
-Ashlee Gerner
-Christina Tillery
-gerner_ashlee@svvsd.org
-tillery_christina@svvsd.org
-Skyline
-Michael Aragon
-aragon_michael@svvsd.org
-St. Vrain Virtual High School
-Lisa Parnaby-Wells
-parnaby-wells_lisa@svvsd.org
-Contactos en las escuelas y descripción de la programación (Haga clic en el nombre de la escuela para ver la descripcion de la programacion).
-Elementary Schools
-Name
-Email Address
-Alpine
-Allison Fitzgerald
-fitzgerald_allison@svvsd.org
-Black Rock
-Megan Hawkins
-hawkins_megan@svvsd.org
-Blue Mountain
-S...
+To request Gifted and Talented records for an SVVSD student click
+here
+To submit Gifted and Talented records for an incoming student click
+here
+You can also contact Connie Moreno moreno_consuelo@svvsd.org regarding GT records.
 
 Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/
 
@@ -16140,7 +15710,7 @@ Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/r
 ### School Contacts
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
-- Last modified: 2026-06-01T10:25:42-06:00
+- Last modified: 2026-08-26T12:20:35-06:00
 
 School Contacts
 Programming is a site based decision. Click on the school name in order to view their programming options. Contact the school directly with any questions regarding programming or services.
@@ -16150,6 +15720,9 @@ Email Address
 Alpine
 Allison Fitzgerald
 fitzgerald_allison@svvsd.org
+Big Sky
+Maisie Sky
+sky_maisie@svvsd.org
 Black Rock
 Meghan Hawkins
 hawkins_meghan@svvsd.org
@@ -16172,14 +15745,14 @@ Eagle Crest
 Lindsey Cheney
 cheney_lindsey@svvsd.org
 Erie
-Maggie Sisk
-sisk_maggie@svvsd.org
+Becky Clinch Berdiales
+clinch_becky@svvsd.org
 Fall River
 Melinda Schluckebier
 schluckebier_melinda@svvsd.org
 Grand View
-Kayla Hawkins
-hawkins_kayla@svvsd.org
+Jennifer Ranweiler
+ranweiler_jennifer@svvsd.org
 Highlands
 Jolene Lewis
 lewis_jolene@svvsd.org
@@ -16193,19 +15766,17 @@ Legacy
 Kristin Pierce
 pierce_kristin@svvsd.org
 Longmont Estates
-Jessicca Shaffer
-s
-haffer_jessicca@svvsd.org
+Mariah Lopez
+lopez_mariah@svvsd.org
 Lyons
-Jamie Meyers
-meyers_jamie@svvsd.org
+Sarah Wegert
+wegert_sarah@svvsd.org
 Main Street
-TBD
+Elizabeth Laughery
+laughery_elizabeth@svvsd.org
 Mead
 Skylar Vaughn
-Ann Schenkenberger
 vaughn_skylar@svvsd.org
-schenkenberger_ann@svvsd.org
 Mountain View
 Lisa Selleck
 selleck_lisa@svvsd.org
@@ -16222,11 +15793,11 @@ Red Hawk
 Brittany Jenkins
 jenkins_brittany@svvsd.org
 Rocky Mountain
-Carleen Hester
-hester_carleen@svvsd.org
+Sarah Ferlin
+ferlin_sarah@svvsd.org
 Sanborn
-Maisie Phillips
-phillips_maisie@svvsd.org
+Amber Tank
+tank_amber@svvsd.org
 Middle Schools
 Name
 Email Address
@@ -16237,24 +15808,22 @@ riddle_kate@svvsd.org
 gahn_lindsay@svvsd.org
 Coal Ridge
 Sarah Cavender
-Michael Stover
-Val Luutran
+Victoria Ralston
+Mary Kusbel
 cavender_sarah@svvsd.org
-stover_michael@svvsd.org
-luutran_val@svvsd.org
+ralston_victoria@svvsd.org
+kusbel_mary@svvsd.org
 Erie
-Jennifer Saless, 6th grade
-Sam Fenster, 7th/8th grade
-saless_jennifer@svvsd.org
+Sam Fenster
+Eric Mueller
 fenster_samantha@svvsd.org
+mueller_eric@svvsd.org
 Longs Peak
-Addison Mayer
 Candyce Wondercheck
-mayer_addison@svvsd.org
 wondercheck_candyce@svvsd.org
 Lyons
-Kris Coniway
-coniway_kristine@svvsd.org
+Katy Schwirtz
+schwirtz_katherine@svvsd.org
 Mead
 Eric Salva
 salva_eric@svvsd.org
@@ -16265,16 +15834,12 @@ Trail Ridge
 Erin Elsen
 elsen_erin@svvsd.org
 Westview
-Jenna Rude 6th
-Evan Oldroyd 6th
-Christy Kocjancic 8th
-Kate Courtney 7th
-Anna Swearingen 7th
+Jenna Rude
+Christy Kocjancic
+Kate Courtney
 rude_jenna@svvsd.org
-oldroyd_evan@svvsd.org
 kocjancic_christine@svvsd.org
 courtney_kathryn@svvsd.org
-swearingen_anna@svvsd.org
 K-8/K-12 Schools
 Name
 Email Address
@@ -16297,9 +15862,9 @@ Name
 Email Address
 Twin Peaks Charter K-12
 Max Kleber K-5
-Quinn Kirner 6-12
+Travis Timperman 6-12
 kleber_maxwell@svvsd.org
-kirner_quinn@svvsd.org
+timperman_travis@svvsd.org
 St. Vrain Community Montessori
 Jessica Chervenak
 jchervenak@svcmontessori.org
@@ -16307,15 +15872,11 @@ Flagstaff Academy
 Nina Lindeke
 nlindeke@flagstaffacademy.org
 Firestone Charter Academy
-Amber Plitz
-David Weisbart
-amber.plitz@firestonecharteracademy.org
-david.weisbart@firestonecharteracademy.org
+Amber Piltz
+Amber.Piltz@firestonecharteracademy.org
 Aspen Ridge Prep School
 Ryan Mascioli K-8
-Sara Britt Grein
-rmascioli@arprep.org
-sbgrein@arprep.org
+rmascioli@aspenridgeprepschool.org
 High School
 Name
 Email Address
@@ -16333,11 +15894,11 @@ David Wrisley
 schiffelbein_kaitlyn@svvsd.org
 wrisley_david@svvsd.org
 Lyons
-Kris Coniway
-coniway_kristine@svvsd.org
+Katy Schwirtz
+schwirtz_katherine@svvsd.org
 Mead
-Brittany Tangora
-tangora_brittany@svvsd.org
+Kathryn Fletcher
+fletcher_kathryn@svvsd.org
 Niwot
 Taylor Renquist
 Megan Smith
@@ -18146,7 +17707,7 @@ Source: https://www.svvsd.org/programs/p-teach/
 ### P-TECH
 
 - Canonical URL: https://www.svvsd.org/programs/p-tech/
-- Last modified: 2026-08-11T13:44:54-06:00
+- Last modified: 2026-08-25T08:56:10-06:00
 
 Pathways in Technology Early College High School
 St. Vrain Valley Schools is home to Colorado’s first Pathways in Technology Early College High School (P-TECH) program, now offered at four district high schools. P-TECH is a new type of school that brings together the best elements of high school, college and the professional world, allowing students to earn a high school diploma as well an associate degree at no cost to the student. The program includes significant internship and mentorship opportunities alongside industry partners, giving students a head start in their career after completing the program. Students enroll in ninth grade and complete the program in four to six years. Areas of study include Computer Information Systems (Front Range Community College), Pharma Manufacturing (Aims Community College), Cybersecurity (Aims Community College) and Business Administration (Front Range Community College).
