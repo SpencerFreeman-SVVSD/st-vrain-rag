@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-01T07:27:54.833233-06:00
+generated_at: 2026-09-05T05:48:48.366322-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -133,7 +133,7 @@ Ultimately, these varied assessments work together to strengthen our practices a
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
 
-### State Testing Assessment Schedule
+### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
 - Last modified: 2026-07-21T12:16:38-06:00
@@ -143,9 +143,17 @@ St. Vrain Valley Schools utilizes assessment data and additional data resources 
 Detailed information about Colorado’s assessment program can be found on the
 Colorado Department of Education Assessment page
 .
-Additional Parent and Family Resources, including how to read your child’s CMAS Results can be found on the
-Colorado Department of Education Parent and Family Resources page.
+Assessment Schedules
+Elementary Assessment Schedules
+Middle School Assessment Schedules
+High School Assessment Schedules
 Definitions:
+Advanced Placement
+An
+AP
+(Advanced Placement) exam is a college-level test taken by high school students to measure their mastery of specific academic subjects.
+Learn more about Advanced Placement
+WIDA ACCESS
 WIDA
 ACCESS
 is a large-scale English language proficiency assessment given annually to kindergarten through 12th graders who have been identified as English Learners (EL) to monitor students’ progress in learning academic English. It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
@@ -157,6 +165,13 @@ Dynamic Learning Maps (DLM)
 alternate assessment program is designed to measure what students with significant cognitive disabilities know and can do in English language arts and math.
 SAT
 is a college entrance exam.
+All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
+College Board
+and the
+Colorado Department of Education
+.
+SAT, PSAT 10, and PSAT 9 test scores are now available through students’ College Board accounts.
+Please contact your student’s school for more information on these assessment events.
 PSAT
 is a college readiness test with sections in reading/writing and math.
 National Merit Scholarship Qualifying Test (NMSQT)
@@ -363,7 +378,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 
 ### Advanced Placement
 
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/apinsvvsd/
+- Canonical URL: https://www.svvsd.org/apinsvvsd/
 - Last modified: 2026-05-27T10:31:37-06:00
 
 AP Students
@@ -387,7 +402,7 @@ Understand AP and how to support your student in this College Board
 article
 .
 
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/apinsvvsd/
+Source: https://www.svvsd.org/apinsvvsd/
 
 ### Assessment Team
 
@@ -418,7 +433,7 @@ wright_dallin@svvsd.org
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/assessment-team/
 
-### District Accountability / Accreditation Committee
+### District Accountability
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/district-accountability-accreditation-committee/
 - Last modified: 2026-08-20T12:15:45-06:00
@@ -541,21 +556,40 @@ Data Views: Teachers
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/viewing-data/
 
-### SAT
+### SAT Prep Steps: How much should I practice for the SAT?
 
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/sat/
+- Canonical URL: https://www.svvsd.org/2018/01/18/sat-prep-steps-how-much-should-i-practice-for-the-sat/
 - Last modified: 2026-05-27T10:34:03-06:00
 
-SAT Suite of Assessments
-All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
-College Board
-and the
-Colorado Department of Education
-.
-SAT, PSAT 10, and PSAT 9 test scores are now available through students’ College Board accounts.
-Please contact your student’s school for more information on these assessment events.
+Practice Makes Progress
+Just this week, a student saw this graphic and said, “Are you serious? If I want to go up 100 points, I have to practice for 20 hours?!” And yes, at first that numbers seems jarring, considering how much students have going on these days. But when I pointed out that we have about four months to prep, and that really amounts to a little over 1 hour a week, his response was, “Legit. I can do that.” And when we considered that no sport would ever boast a one-hour practice schedule (they’re usually hours a night, not including games), it seemed even less imposing.
+This assessment coming up in April is unique to other things you’ve done in class. Your goals will be different, your strategies should be different, and the timing is different. You have to practice differently to play differently.
+Not all practice is created equal – just clicking mindlessly through Shmoop or Khan for an hour a week isn’t probably going to help much. BUT – if you work through Shmoop/Khan/SAT questions, write notes to follow up with teachers about, be intentional and deliberate about developing weaknesses and refining strengths, and pair that with independent, personalized reading, timing, and math strategies, you can make a significant improvement in your score. And now we’re talking beyond SAT prep- these are just great life habits!!
+This practice is in addition to homework and class time; you have to practice SAT-like problems. If your goals require a higher increase, practice more. Practice will expose you to the exact types of questions you’ll see (they never change); the exact amount of questions in the same time period (it never changes); and the exact level of complexity posed by the assessment (again – never changes). And – you’ll also be reading while you do it, so reading for the win!
+Students
+When: Identify a time and put it in your calendar. You don’t just “have” time laying around for this – you have to create the space to make it happen. When could you carve out an hour to devote? When are you most productive and awake? Set realistic goals based on your own habits and behaviors.
+Where will this practice take place? Sometimes your bedroom isn’t the best place – because it’s so comfortable, you can be too relaxed. Consider a library, coffee shop, or other location with a slight distraction/ maybe even uncomfortable chair factor.
+How: Are you set up with the right materials? Log into
+Shmoop
+(
+all SVVSD students have accounts
+) and
+Khan
+Academy. SAT has 8 official practice tests free online
+here
+and/or buy/ borrow
+this book
+. There’s also a
+daily practice app
+. When you’re practicing, time time yourself. That clock freaks everyone out – practice with a timer and get used to it. You’ll thank yourself on game day.
+Teachers
+If a student asks you how they could improve, looking at their in-class performance is a first start. Since the SAT suite of assessments are aligned to Colorado Academic Standards for English and Math, you’ve got a great start getting them ready. Are there any papers they could take a closer look at regarding organization or structure? Any relevant math work they struggled on? How do they do on word problems or reading graphs and charts? Those are great indicators.
+Keep a sign visible with directions for logging in to Khan or Shmoop. Remind them frequently to use these resources.
+Encourage students to read an article a night in any content. They’ll need literacy skills across the spectrum for this assessment. How could they share their learning with their peers? Science teachers can help a lot here too since many articles in the SAT include graphs and charts.
+Identify a location in your school where students could set up a practice club. Ideally a location where they will always have access to a device and SAT materials. The library is always a great place, and maybe even identify certain times when someone could be on hand to answer questions – a practice club might encourage students who are intimidated to practice on their own. And help doesn’t have to come from a teacher! Other students who are experts in their content could volunteer to be available.
+Does this raise any questions, comments, or suggestions for other students you may have about this? Post them on Twitter, Facebook, or email sat-group@svvsd.org!
 
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/sat/
+Source: https://www.svvsd.org/2018/01/18/sat-prep-steps-how-much-should-i-practice-for-the-sat/
 
 ### Unified Improvement Plan
 
@@ -4058,7 +4092,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletic
 ### Athletics
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletics/
-- Last modified: 2025-01-09T10:30:30-07:00
+- Last modified: 2026-08-31T16:14:07-06:00
 
 Athletics are an important part of the St. Vrain Valley Schools’ educational program. The district provides a variety of equitable sports programs that give all students the opportunity to participate and compete. Athletics present an excellent situation for experiences and development of democratic cooperation. It provides an avenue for the formation of lasting friendships and other personal interactions. These experiences gained through participation in athletics should aid the student in meeting the demands and challenges of living in a modern American society.
 200+ Athletic Championships
@@ -5590,7 +5624,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### St. Vrain Band Night
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/st-vrain-band-night/
-- Last modified: 2025-10-03T15:30:17-06:00
+- Last modified: 2026-08-31T12:47:41-06:00
 
 Event Summary
 St. Vrain Band Night provides an opportunity for students to showcase their marching band skills to a live audience, but also to learn from the other programs throughout the district and state. Additionally, judges will be present to give each band feedback outside of a competitive environment.
@@ -6356,7 +6390,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-28T11:54:33-06:00
+- Last modified: 2026-08-31T13:24:45-06:00
 
 District Accounts
 Assessment (X)
@@ -8879,9 +8913,9 @@ Learn more about the Active&Fit program here
 Pay $0 on enrollment fees now through August 31st!
 Access the SVVSD Active & Fit program in
 Infinite Visions under Resources
-Nurse Health Coaching
+Health Coaching
 Our certified coaches will meet you where you are on your health journey and empower you to be the best version of yourself. Free to all benefit eligible employees, coaching is available whenever you want to schedule it and at whatever location is best to meet. Learn more on our
-Nurse Health Coaching
+Health Coaching
 page.
 Employee Assistance Program
 Life events can affect the lives of team members both at home and at work. That is why St. Vrain Valley Schools offers a district-paid Employee Assistance Program (EAP) through ComPsych. All services are provided at no-cost to you and your eligible family members and all services are strictly confidential. Learn more on our
@@ -9177,7 +9211,6 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 APT Employee Forms
 Resignation Form
 Classified Employee Forms
-Classified Staff Request to Accrue and Use (COMP) Compensation Time Off
 Classified Improvement Plan Template
 Resignation Form
 Certified Employee Forms
@@ -9321,7 +9354,7 @@ Human Resources Technician
 baker_cat@svvsd.org
 Heather Coventon
 Human Resources Technician
-303-682-2290
+303-682-7290
 coventon_heather@svvsd.org
 Rebecca Ewer
 Employee Leave Specialist
@@ -12979,6 +13012,14 @@ Evaluaciones del desarrollo del lenguaje a nivel de salón
 This offering is designed for Spanish and English bilingual K-12 educators, administrators, and support staff who assess language development in a bilingual context.
 Exploring the WIDA PreK-3 Essential Actions
 ( 2 hours ): This eWorkshop will provide educators opportunities to explore the WIDA PreK-3 Essential Actions and a large variety of teacher-friendly tools and resources designed to provide the multilingual children they serve equitable opportunities to language, learn and thrive.
+Introduction to the Marco DALE
+(1 hour)
+:
+This video guides educators through the essential components of the Marco de los estándares del desarrollo auténtico del lenguaje español de WIDA (Marco DALE) and how it can strengthen instruction and planning for multilingual learners. Educators will have a clearer understanding of the Marco DALE and how the framework supports Spanish language development.
+Introduction to the WIDA English Language Development Standards Framework
+(1 hour)
+:
+Get a quick, clear introduction to the WIDA English Language Development Standards Framework. Discover how the framework supports educators with planning and instruction for multilingual learners.
 Let’s Play! Multilingual Children’s Joyful Learning in PreK-3
 (2 hours)
 :
@@ -12997,15 +13038,31 @@ Reframing Education for Long-Term English Learners (LTELs)
 (1 hour)
 :
 This offering is for educators of students classified as Long Term Els (LTELs) and will utilize stories of students to support reframing the education of these students.
+Supporting Multilingual Learners With Disabilities in Language and Communication
+(2 hours)
+:
+This self-paced workshop addresses asset-based approaches to developing students’ language and communication skills, and instructional practices designed to foster language development and communication of multilingual learners with disabilities in K-12 settings. Participants will gain access to strategies, resources and tools designed to elevate the strengths and meet the needs of multilingual learners who use diverse communication methods.
 Teaching Multilingual Learners Social Studies Through Multiple Perspectives
 (3 hours)
 :
 In an increasingly connected world, Social Studies teaching and learning provides a unique opportunity to foster connections between our multilingual students’ identities as global citizens and their social context.
+Understanding WIDA Alternate ACCESS Score Reports 2026
+(1 hour)
+:
+This video will identify components of 2026 WIDA Alternate ACCESS score reports and how to interpret information they contain.
+WIDA ACCESS Score Reports for Instruction 2026
+(1 hour)
+:
+This video provides a highlight of what’s new this year for 2026 WIDA ACCESS score reports for educators who have administered WIDA ACCESS assessments in grades K–12.
 WIDA ELD Standards Framework: A Collaborative Approach
 (4 hours)
 :
 This eWorkshop explores ways to use the WIDA ELD Standards Framework, 2020 Edition to support multilingual learners’ achievement and language development.
-The approved St. Vrain Pathway classes have been updated. Here are the RETIRED classes that will still apply toward your CLDE certificate but are no longer offered in the SVVS PD catalog.
+WIDA Standards Frameworks for Bilingual Educators
+(1 hour)
+:
+This video offers educators a side‑by‑side look at the WIDA English Language Development (ELD) Standards Framework and the Marco de los estándares del desarrollo auténtico del lenguaje español de WIDA (Marco DALE), highlighting how each supports multilingual learners’ language development and access to content. Viewers will explore key similarities and differences and gain practical insights to help them make connections between language using the WIDA Standards Frameworks.
+Here are the RETIRED classes that will still apply toward your CLDE certificate but are no longer offered in the SVVS PD catalog.
 SIOP Training
 (various hours): The Sheltered Instruction Observation Protocol (SIOP) Model is a research-based and validated instructional model that has proven effective in addressing the academic needs of English learners throughout the United States.
 The Standards of Effective Pedagogy: Standards 1 and 2, Standards 3 and 4, and/or Standards 5 and 6
@@ -13999,7 +14056,7 @@ Executive Director of Safety and Security
 303-682-7207
 sumrall_debbie@svvsd.org
 Bob Johnson
-Emergency Preparedness Specialist
+Manager, Safety Preparedness
 303-682-7352
 Johnson_robert_a@svvsd.org
 
@@ -14022,7 +14079,7 @@ Be Smart for Kids
 Fentanyl Resources for Parents
 We have compiled a list of resources to help parents learn about the risks of Fentanyl and how to prevent its use.
 Center of Disease and Control
-Click here to access the
+Click here to access the Overdose Prevention:
 Facts about Fentanyl
 National Institute of Health
 Fentanyl Drug Facts
@@ -15535,7 +15592,7 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-08-26T12:31:08-06:00
+- Last modified: 2026-08-31T12:10:44-06:00
 
 The referral period for Gifted and Talented Services is now open. Please complete the following form to refer your student. The referral period ends on September 30th, 2026.
 Gifted and Talented Referral Form
@@ -15578,55 +15635,6 @@ Gifted and Talented Secretary
 (303) 702-7808
 babonoyaba_mireya@svvsd.org
 Parent Resources/Recursos para Padres
-In the News & GT Articles
-National Association for Gifted Children
-“The Essential State Role in Educating Advanced Learners”
-(Thomas Fordham Institute)
-“I Grew Up Gifted and Autistic and Suffered the Burnout of Twice Exceptionality”
-(ADDitude)
-“What it Means to Be a Twice-Exceptional Kid and How to Support Them”
-(LifeHacker Blog)
-“More NAEP Losses for High Achievers and How to Reverse Them”
-(Thomas Fordham Institute)
-“Seeing Support for 2E Children and Adults: When is it Too Early or Too Late?”
-(With Understanding Comes Calm)
-“Giftedness is Relative”
-(Medium)
-“Managing Intensity in Gifted Children and Adults”
-(Psychology Today)
-“3 Strategies for Supporting Gifted and Talented Students in STEM”
-(National Inventors Hall of Fame)
-“How to Use Data You Already Have to More Equitably Identify Gifted Students”
-(District Administration)
-Recorded Media & Misc. Resources
-“Best Board Games for Gifted Students”
-(The Kid Story: Resources for Gifted Kids)
-“Episode 130: 2E Kids & Adults –When Easy is Hard and Hard is Easy”
-(Parenting with Impact Podcast)
-“How the Neurodiverse Can Better Cope with Decision Fatigue”
-(Psychology Today)
-“Creating Effective and Efficient Breaks for Students During the Day”
-(Edutopia)
-“Teaching Strategies for Gifted Students”
-(Your Therapy Source)
-“The Essential State Role in Educating Advanced Learners”
-(Thomas Fordham Institute)
-“I Grew Up Gifted and Autistic and Suffered the Burnout of Twice Exceptionality”
-(ADDitude)
-“What it Means to Be a Twice-Exceptional Kid and How to Support Them”
-(LifeHacker Blog)
-“More NAEP Losses for High Achievers and How to Reverse Them”
-(Thomas Fordham Institute)
-“Seeing Support for 2E Children and Adults: When is it Too Early or Too Late?”
-(With Understanding Comes Calm)
-“Giftedness is Relative”
-(Medium)
-“Managing Intensity in Gifted Children and Adults”
-(Psychology Today)
-“3 Strategies for Supporting Gifted and Talented Students in STEM”
-(National Inventors Hall of Fame)
-“How to Use Data You Already Have to More Equitably Identify Gifted Students”
-(District Administration)
 Board of Education Gifted Statement
 Declaración de la Junta de Educación sobre la Educación para Dotados
 Parent Guide to Gifted Services
