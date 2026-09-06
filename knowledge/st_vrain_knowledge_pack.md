@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-05T05:48:48.366322-06:00
+generated_at: 2026-09-06T06:06:43.266595-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -1373,7 +1373,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 ### Assessment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
-- Last modified: 2026-08-28T21:44:53-06:00
+- Last modified: 2026-09-02T09:59:05-06:00
 
 Overview
 The Assessment Department’s core responsibility is overseeing all federal, state, and district assessments while delivering actionable data analytics that power informed decision-making across our schools. We believe that assessment-informed instruction is a critical engine behind our standard of excellence for teaching and learning. By leveraging timely, accurate data, educators can meet each student where they are on their unique academic journey, tailoring instruction so every child can achieve success.
@@ -1404,7 +1404,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-07-21T12:16:38-06:00
+- Last modified: 2026-09-04T14:52:30-06:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -1644,34 +1644,6 @@ are asynchronous instructional days for only high school students – (only stud
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
 
-### Advanced Placement
-
-- Canonical URL: https://www.svvsd.org/apinsvvsd/
-- Last modified: 2026-05-27T10:31:37-06:00
-
-AP Students
-Get your AP course off to a great start by following this
-AP Action Plan
-and
-5 Tips for Success
-.
-The St. Vrain AP Exam Registration deadline is
-November 7, 2025
-. Registration for AP exams is a two-step process. Please review this information (
-English
-Spanish
-) to ensure your exams are ordered properly.
-AP exams will be administered May 4 – 15 according to this
-schedule
-set by College Board. Some students may be required to take their exam at a St. Vrain Valley Schools location other than their primary high school. Students will receive testing location information in late March. Contact your school’s AP Coordinator with any questions.
-AP exam scores will be released by College Board in early July through students’ College Board accounts.
-AP Parents
-Understand AP and how to support your student in this College Board
-article
-.
-
-Source: https://www.svvsd.org/apinsvvsd/
-
 ### Assessment Team
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/assessment-team/
@@ -1704,7 +1676,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### District Accountability
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/district-accountability-accreditation-committee/
-- Last modified: 2026-08-20T12:15:45-06:00
+- Last modified: 2026-09-04T12:19:39-06:00
 
 The District Accountability/Accreditation Committee’s primary purpose is to monitor and support the academic achievement of District students. The committee offers patrons, students, and staff the opportunity to become involved with the improvement of the educational system.
 The committee serves as an advisory panel to the Board of Education and reports to the Board as directed in state law.
@@ -1824,40 +1796,66 @@ Data Views: Teachers
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/viewing-data/
 
-### SAT Prep Steps: How much should I practice for the SAT?
+### Research in St. Vrain
 
-- Canonical URL: https://www.svvsd.org/2018/01/18/sat-prep-steps-how-much-should-i-practice-for-the-sat/
-- Last modified: 2026-05-27T10:34:03-06:00
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
+- Last modified: 2026-09-04T12:22:47-06:00
 
-Practice Makes Progress
-Just this week, a student saw this graphic and said, “Are you serious? If I want to go up 100 points, I have to practice for 20 hours?!” And yes, at first that numbers seems jarring, considering how much students have going on these days. But when I pointed out that we have about four months to prep, and that really amounts to a little over 1 hour a week, his response was, “Legit. I can do that.” And when we considered that no sport would ever boast a one-hour practice schedule (they’re usually hours a night, not including games), it seemed even less imposing.
-This assessment coming up in April is unique to other things you’ve done in class. Your goals will be different, your strategies should be different, and the timing is different. You have to practice differently to play differently.
-Not all practice is created equal – just clicking mindlessly through Shmoop or Khan for an hour a week isn’t probably going to help much. BUT – if you work through Shmoop/Khan/SAT questions, write notes to follow up with teachers about, be intentional and deliberate about developing weaknesses and refining strengths, and pair that with independent, personalized reading, timing, and math strategies, you can make a significant improvement in your score. And now we’re talking beyond SAT prep- these are just great life habits!!
-This practice is in addition to homework and class time; you have to practice SAT-like problems. If your goals require a higher increase, practice more. Practice will expose you to the exact types of questions you’ll see (they never change); the exact amount of questions in the same time period (it never changes); and the exact level of complexity posed by the assessment (again – never changes). And – you’ll also be reading while you do it, so reading for the win!
-Students
-When: Identify a time and put it in your calendar. You don’t just “have” time laying around for this – you have to create the space to make it happen. When could you carve out an hour to devote? When are you most productive and awake? Set realistic goals based on your own habits and behaviors.
-Where will this practice take place? Sometimes your bedroom isn’t the best place – because it’s so comfortable, you can be too relaxed. Consider a library, coffee shop, or other location with a slight distraction/ maybe even uncomfortable chair factor.
-How: Are you set up with the right materials? Log into
-Shmoop
-(
-all SVVSD students have accounts
-) and
-Khan
-Academy. SAT has 8 official practice tests free online
-here
-and/or buy/ borrow
-this book
-. There’s also a
-daily practice app
-. When you’re practicing, time time yourself. That clock freaks everyone out – practice with a timer and get used to it. You’ll thank yourself on game day.
-Teachers
-If a student asks you how they could improve, looking at their in-class performance is a first start. Since the SAT suite of assessments are aligned to Colorado Academic Standards for English and Math, you’ve got a great start getting them ready. Are there any papers they could take a closer look at regarding organization or structure? Any relevant math work they struggled on? How do they do on word problems or reading graphs and charts? Those are great indicators.
-Keep a sign visible with directions for logging in to Khan or Shmoop. Remind them frequently to use these resources.
-Encourage students to read an article a night in any content. They’ll need literacy skills across the spectrum for this assessment. How could they share their learning with their peers? Science teachers can help a lot here too since many articles in the SAT include graphs and charts.
-Identify a location in your school where students could set up a practice club. Ideally a location where they will always have access to a device and SAT materials. The library is always a great place, and maybe even identify certain times when someone could be on hand to answer questions – a practice club might encourage students who are intimidated to practice on their own. And help doesn’t have to come from a teacher! Other students who are experts in their content could volunteer to be available.
-Does this raise any questions, comments, or suggestions for other students you may have about this? Post them on Twitter, Facebook, or email sat-group@svvsd.org!
+Research in St. Vrain
+St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
+How do I apply?
+St. Vrain Valley Schools has a formal process for applying to do research within our district.
 
-Source: https://www.svvsd.org/2018/01/18/sat-prep-steps-how-much-should-i-practice-for-the-sat/
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
+
+### State Assessment Results
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/state-assessment-results/
+- Last modified: 2026-09-04T12:12:57-06:00
+
+State Assessment Results
+How to access your student’s CMAS scores in Pearson Family Portal
+Colorado Measures of Academic Success (CMAS) Student Score reports are available through the Pearson Family Portal –
+familyportal.pearson.com/CO
+Parents will need the 10-Digit Student State ID number, which can be found through the Infinite Campus Parent Portal.
+This is different from the student ID used at the school level.
+How do I find the 10-Digit Student State ID?
+CMAS SASID Parent Instructions
+or
+Contact your student’s school and request this information
+CDE CMAS Parent Guides
+Understanding the Score Report, ELA & Math (
+English
+,
+Spanish
+)
+Understanding the Score Report, Science & Social Studies (
+English
+,
+Spanish
+)
+How to access your student’s SAT or PSAT scores in College Board
+Colorado SAT and PSAT student score reports are available directly from the
+College Board Portal –
+collegeboard.org
+*
+Student login credentials required
+College Board Parent Guides:
+Understanding the Score Report
+College Board – Parent Help Center
+How to Find the 10 Digit State ID through the Parent Portal in Infinite Campus
+I would like the content from the link above to be seen here, if possible
+CMAS SASID Parent Instructions
+Parents need to access their Parent Portal in Infinite Campus.
+An Introduction to Infinite Campus for Parents
+is available if you need a reference about setting up a parent portal or if they forget their password.
+Infinite Campus Parent Portal
+The Parent Portal will display student(s) associated with this parent account.
+Select student to view Student Profile Page:
+The Student Profile page has the Student State ID (SASID) listed.
+It is the 10-digit number outlined in the red box below:
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/state-assessment-results/
 
 ### Unified Improvement Plan
 
@@ -1871,6 +1869,35 @@ E
 District and School Performance Frameworks Website
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/unified-improvement-plan/
+
+### Why We Assess
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/why-we-assess/
+- Last modified: 2026-09-02T10:01:49-06:00
+
+High-quality assessments play an important role in providing parents/guardians, students, educators, school leaders, and district leaders with valuable information about student growth and achievement. To capture the full picture of student progress, our district relies on a balanced approach using different types of assessments.
+Assessments fall into two main categories:
+Assessment FOR Learning
+, which guides daily classroom instruction, and
+Assessment OF Learning,
+which evaluates overall progress and program effectiveness.
+Assessment
+FOR
+Learning
+Diagnostic Assessments:
+Used to identify what a student does or does not yet know, diagnose learning gaps, and highlight individual academic strengths before or during instruction.
+Formative Assessments:
+Used to measure how and what a student is learning in real time, providing immediate feedback to both students and teachers. These are administered frequently within the classroom context to directly inform daily instructional decisions.
+Assessment
+OF
+Learning
+Interim Assessments:
+Administered periodically throughout the school year to track student growth and achievement across specific standards. Because these assessments are common across grade levels and groups, results can be compared to evaluate progress over time.
+Summative Assessments:
+Administered at the end of a unit, semester, or school year to certify student achievement across a broad collection of standards. Results are used to evaluate overall success and guide decisions regarding program and instructional effectiveness.
+Ultimately, these varied assessments work together to strengthen our practices at every level—from the classroom to district leadership.
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/why-we-assess/
 
 ### Curriculum
 
@@ -1932,7 +1959,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Concurrent Enrollment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/concurrent-enrollment/
-- Last modified: 2026-04-30T13:50:32-06:00
+- Last modified: 2026-09-03T11:06:44-06:00
 
 You have indicated that you are interested in enrolling in a college course while a high school student. The State of Colorado provides several options for students who meet high school standards to begin college early. The purpose of these options is to extend what may not be offered at your high school.
 The final grade received will appear on the district’s official high school and postsecondary transcripts
@@ -1985,7 +2012,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Curricular Resources
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/curricular-resources-3/
-- Last modified: 2026-07-20T20:11:12-06:00
+- Last modified: 2026-09-03T11:05:13-06:00
 
 Curricular Resources
 St. Vrain Valley Schools is committed to providing high-quality instruction that supports the success of every student. Our instructional resources have been carefully selected and adopted districtwide to align with the
@@ -2632,6 +2659,46 @@ CLICK HERE
 for more information.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/summer-ecredit-recovery/
+
+### Futures by Design
+
+- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
+- Last modified: 2026-09-03T11:06:33-06:00
+
+Futures by Design PK-12
+Creating explicit connections between today’s learning and tomorrow’s future is part of the St. Vrain Advantage.
+The World Economic Forum’s
+Future of Jobs Report 2025
+projects that 22% of today’s formal jobs will be structurally transformed by 2030, with 170 million jobs created and 92 million displaced. It also estimates that 39% of workers’ existing skill sets will be transformed or become outdated by 2030. To prepare students for a dynamic and rapidly accelerating era of information and innovation, we are committed to equipping educators and students with the tools, skills, and resources needed to provide current and future generations a strong competitive advantage so that all students can achieve success in a globalized world:
+Embed Future-Ready Skills:
+Integrate Al literacy, personal financial literacy, and durable skills directly into core content. The durable skills equip students with the tools they need to succeed in school, careers, and life, creating a systemic approach to lifelong learning.
+Self-Aware Leader
+Critical Thinker & Innovator
+Global Citizen
+Collaborative Team Player
+Effective Communicator
+Future-Ready Professional
+Increase Student Agency:
+Provide design challenge experiences that foster a bias toward action and perseverance through feedback.
+Strengthen Career Connections:
+Build a structured PK-8 continuum aligned with high school pathways and local community needs.
+St. Vrain has identified six
+Career Futures
+that provide a framework for exploration that helps students discover their passions and prepare for their futures through hands-on learning, industry connections, and opportunities to earn college credit:
+Healthcare and Bioscience
+Business, Leadership, and Information Systems
+Energy, Natural Resources, and Agriculture
+Engineering, Manufacturing, Air, and Space
+Communication, Arts, and Design
+Public Service and Education
+Explore these Career Futures, innovative focus programs, and career-connected coursework available to all high school students at
+futures.svvsd.org
+.
+CLICK HERE TO DOWNLOAD THE FUTURES BY DESIGN BROCHURE
+CLICK HERE TO DOWNLOAD THE CAREER FUTURES
+CLICK HERE TO DOWNLOAD THE DURABLE SKILLS
+
+Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
 
 ### Graduation Requirements
 
@@ -10170,7 +10237,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Wellness Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/wellness-resources/
-- Last modified: 2026-06-17T10:34:57-06:00
+- Last modified: 2026-09-01T12:24:21-06:00
 
 Ongoing Resources
 Active&Fit
@@ -10474,7 +10541,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/forms/
-- Last modified: 2026-07-14T07:39:46-06:00
+- Last modified: 2026-09-04T07:45:39-06:00
 
 APT Employee Forms
 Resignation Form
@@ -14230,7 +14297,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-07-21T10:15:44-06:00
+- Last modified: 2026-09-02T15:50:56-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -15244,7 +15311,7 @@ Source: https://www.svvsd.org/departments/records/enterprise-content-management/
 ### Safety & Security
 
 - Canonical URL: https://www.svvsd.org/departments/safety/
-- Last modified: 2023-07-11T09:56:23-06:00
+- Last modified: 2026-09-01T10:29:11-06:00
 
 Safety & Security
 The Office of Safety and Security is responsible for ensuring the safety of all students, staff, and visitors to any St. Vrain Valley School. Our mission is to enhance the educational environment, ensuring each and every student has the opportunity to thrive and reach their full potential for academic achievement and success. We accomplish this through a partnership with the whole community, which includes students, staff, parents, local businesses and government organizations, and a high functioning school board.
@@ -15333,7 +15400,7 @@ Source: https://www.svvsd.org/departments/safety/safety-and-security-team/
 ### Safety & Security Parent Resources
 
 - Canonical URL: https://www.svvsd.org/departments/safety/safety-security-parent-resources/
-- Last modified: 2026-04-01T11:04:40-06:00
+- Last modified: 2026-09-01T10:27:02-06:00
 
 Parent Resources
 Gun Violence Prevention
@@ -16860,7 +16927,7 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-08-31T12:10:44-06:00
+- Last modified: 2026-09-01T16:47:26-06:00
 
 The referral period for Gifted and Talented Services is now open. Please complete the following form to refer your student. The referral period ends on September 30th, 2026.
 Gifted and Talented Referral Form
@@ -20213,7 +20280,7 @@ KHC – Distribution/Posting of Non-curricular Materials
 KHC-R – Distribution/Posting of Non-curricular Materials
 67 KB
 KI – Visitors to Schools
-62 KB
+38 KB
 KLG – Relations with State Agencies
 8 KB
 
@@ -22398,7 +22465,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 356
+- Department and program pages: 358
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80

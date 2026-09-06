@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-05T05:48:48.366322-06:00
+generated_at: 2026-09-06T06:06:43.266595-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -1048,7 +1048,7 @@ KHC – Distribution/Posting of Non-curricular Materials
 KHC-R – Distribution/Posting of Non-curricular Materials
 67 KB
 KI – Visitors to Schools
-62 KB
+38 KB
 KLG – Relations with State Agencies
 8 KB
 
