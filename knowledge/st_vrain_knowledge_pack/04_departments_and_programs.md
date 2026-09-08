@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-07T08:12:49.656111-06:00
+generated_at: 2026-09-08T06:50:19.081899-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -14123,7 +14123,7 @@ Executive Director of Safety and Security
 303-682-7207
 sumrall_debbie@svvsd.org
 Bob Johnson
-Emergency Preparedness Specialist
+Manager, Safety Preparedness
 303-682-7352
 Johnson_robert_a@svvsd.org
 
