@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-08T06:50:19.081899-06:00
+generated_at: 2026-09-29T08:49:19.259799-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -153,11 +153,11 @@ Source: https://www.svvsd.org/schools/enrollment/new-student-registration/
 ### Open Enrollment
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/open-enrollment/
-- Last modified: 2026-06-02T14:08:19-06:00
+- Last modified: 2026-09-28T12:19:27-06:00
 
 Open Enrollment
 Open Enrollment is an opportunity to request that your student attend a school of choice, which is outside of their attendance area. Students who do not live within district boundaries, but want to attend a school in St. Vrain, need to complete the Open Enrollment form.
-December 1, 2025 through December 15, 2025 is the period in which applications for open enrollment should be submitted online.
+December 1, 2026 through December 15, 2026 is the period in which applications for open enrollment should be submitted online.
 Open Enrollment is Fully Online
 Apply for multiple students and schools from your computer, phone or tablet, without going to each school and receive an emailed confirmation of receipt.
 Charter schools use a different process. Please contact them directly.
@@ -175,11 +175,11 @@ Who?
 Open Enrollment is an opportunity for a student to attend a school of choice which is outside of their attendance area. In district students applying to a school outside their attendance area, as well as students who do not live within district boundaries but want to attend a school in St. Vrain, need to complete the form.
 *Students who are currently attending their school of choice on open enrollment do not need to reapply each year in order to remain at the same school.
 When?
-December 1 , 2025 to December 15, 2025: Submit your applications online
+December 1 , 2026 to December 15, 2026: Submit your applications online
 This is the open enrollment window in which families who are interested in open enrolling should submit their online applications.
-January 8, 2026: Deadline to receive a space-available* admission status from your school of choice
+January 8, 2027: Deadline to receive a space-available* admission status from your school of choice
 Families will receive notification via the family dashboard with approval or denial status by this date.
-January 21, 2026: Deadline for open enrollment confirmation
+January 21, 2027: Deadline for open enrollment confirmation
 Applicants who have been approved for open enrollment should visit the requested school no later than January 21 and confirm their desire to open enroll via the family dashboard.
 *Please note that this is a space-available admission decision. Due to recent changes to the policies governing Colorado’s Exceptional Children’s Educational Act, a review of student records is required after the open enrollment period has closed. To complete the open enrollment process, families will be prompted to register at their school of choice and submit their student records using the online registration platform in Infinite Campus. Families are encouraged to expedite final enrollment by submitting all student records as soon as they receive their space-available admission decision.
 After the open enrollment timeline, St. Vrain will continue to accept open enrollment applications on a rolling basis.
@@ -471,7 +471,7 @@ Source: https://www.svvsd.org/schools/school-calendar/
 ### School Feeders
 
 - Canonical URL: https://www.svvsd.org/schools/school-feeders/
-- Last modified: 2026-07-13T14:04:36-06:00
+- Last modified: 2026-09-18T15:25:15-06:00
 
 School Feeders
 Students in St. Vrain Valley Schools typically follow the neighborhood school feeder patterns below as they advance from elementary school to middle school to high school (schools marked with * feed in to more than one school). In addition to high-quality neighborhood schools, students can open enroll into any school in the district.
@@ -527,6 +527,8 @@ pequeen_adrienne@svvsd.org
 303-702-7548
 perfettideany_dina@svvsd.org
 Erie Feeder
+Elementary 29
+Our New PK-5 School in Erie’s Collier Hill Neighborhood, Opening Fall 2027
 Erie High School
 Erie Middle School
 Black Rock Elementary School

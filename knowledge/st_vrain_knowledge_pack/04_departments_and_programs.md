@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-08T06:50:19.081899-06:00
+generated_at: 2026-09-29T08:49:19.259799-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -136,14 +136,14 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-09-04T14:52:30-06:00
+- Last modified: 2026-09-24T09:49:08-06:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
 Detailed information about Colorado’s assessment program can be found on the
 Colorado Department of Education Assessment page
 .
-Assessment Schedules
+Assessment Schedules by Grade Level
 Elementary Assessment Schedules
 Middle School Assessment Schedules
 High School Assessment Schedules
@@ -165,12 +165,12 @@ Dynamic Learning Maps (DLM)
 alternate assessment program is designed to measure what students with significant cognitive disabilities know and can do in English language arts and math.
 SAT
 is a college entrance exam.
-All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
+All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th- and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
 College Board
 and the
 Colorado Department of Education
 .
-SAT, PSAT 10, and PSAT 9 test scores are now available through students’ College Board accounts.
+Spring 2026 SAT, PSAT 10 and PSAT 9 test scores are now available through students’ College Board accounts.
 Please contact your student’s school for more information on these assessment events.
 PSAT
 is a college readiness test with sections in reading/writing and math.
@@ -408,27 +408,33 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### District Accountability
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/district-accountability-accreditation-committee/
-- Last modified: 2026-09-04T12:19:39-06:00
+- Last modified: 2026-09-22T11:44:54-06:00
 
 The District Accountability/Accreditation Committee’s primary purpose is to monitor and support the academic achievement of District students. The committee offers patrons, students, and staff the opportunity to become involved with the improvement of the educational system.
 The committee serves as an advisory panel to the Board of Education and reports to the Board as directed in state law.
 2026-2027 School Year
 Committee Members
 Jamie Ball – Executive Director of Assessment
-Jessica Cervantes – Principal, Firestone Charter Academy
+Jessica Cervantes – Principal, Firestone Charter Academy (Vice-President)
 Chris Gardner – Community Member
 Joan Martin – Community Member
 Linda Monteil – (Secretary)
-Andrew Moore – Parent member (Vice-President)
+Andrew Moore – Principal, Lyons Elementary School (President)
 Ann Reed
 –
 Member at Large
 Mark Spencer – Principal, Westview Middle School
-Elizabeth Johnson – Assistant Principal, Erie High School
-Megan Schlagel – Dean of Students, Niwot High School
+Elizabeth Johnson – Parent member
+Megan Schlagel – Parent member
 Meeting Schedule
 09.09.2026
+09.21.2026
+01.25.2027
 Meeting Minutes and Agendas
+09.09.2026 Agenda
+09.09.2026 Minutes
+09.21.2026 Agenda
+09.21.2026 Minutes
 Historical Minutes and Agendas
 2025-2026
 09.09.2025 Agenda
@@ -531,12 +537,100 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-09-04T12:22:47-06:00
+- Last modified: 2026-09-21T09:24:01-06:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
-How do I apply?
+How to apply:
 St. Vrain Valley Schools has a formal process for applying to do research within our district.
+Please read the
+SVVS Research Request Guide
+for detailed information to help guide you through the application process. After reviewing the guide, complete
+SVVS Research Request Application Checklist
+.
+SVVS Application for Research
+, along with any other required documents outlined within the application and supplemental documents
+Submit all application materials electronically to:
+assessment@svvsd.org
+What is the application timeline for receiving approval?
+Research Requests will be accepted and reviewed between
+September 1 and May 1
+of each school year.
+*Requests received after May 1 will not be reviewed until the next review cycle in the following school year.
+Once a fully completed application is received, you can expect to receive a decision anywhere within 4 to 12 weeks, depending on the complexity of the research request.
+St. Vrain Valley Schools Research Application and Supplemental Materials
+SVVS Research Request Guide
+SVVS Research Request Application Checklist
+SVVS Application for Research
+SVVS Informed Consent Checklist
+Frequently Asked Questions
+How does St. Vrain Valley Schools define research?
+Any primary data collection (e.g., academic results, survey administration, focus groups, interviews, etc.) to be conducted using district or school data of any kind
+OR
+Any analyses of internal or external resources containing staff or students as subjects
+If the project falls under either condition, St. Vrain Valley Schools classifies it as research and therefore the research is required to go through the St. Vrain Valley Schools research request process and obtain IRB approval. If it is believed that IRB approval is not needed, a letter must be obtained from the university’s or institution’s IRB stating the research is exempt from IRB.
+How is External vs. Internal research defined?
+External research studies are those:
+Initiated by individuals, organizations, or agencies outside of St. Vrain Valley Schools who wish to conduct independent research.
+Individuals or groups that have established programs within St. Vrain Valley Schools (e.g., grantees, foundations, service providers) who wish to evaluate their programs.
+St. Vrain Valley Schools employees who wish to conduct research for personal purposes outside of their work duties and/or work hours (e.g., research for the completion of a master’s thesis or doctoral dissertation). Employee theses or dissertations will only be considered if the topic aligns with district priorities.
+Internal research studies are those:
+Initiated by a district or school staff member on behalf of a school or the district, as part of a school, district research, or program evaluation agenda (e.g., evaluation of action steps for improvement plans or classroom/PLC action research projects are internal research).
+Who needs to submit a St. Vrain Valley Schools Research Application?
+St. Vrain Valley Schools Board of Education Administration Policy GCS
+states that the Board recognizes the value of educational research conducted by staff members. However, all research studies carried out within the school system using district or school data of any kind or staff or students as subjects, must be approved in advance by the superintendent or designee. Only those studies which have value
+to the school district shall be approved.
+St. Vrain Valley Schools Board of Education Administration Policy LC
+states that the Board of Education recognizes that requests will be made on occasion by non-school personnel and/or agencies to conduct research projects in the school that have educational and social benefit. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to evaluate the merits of each project carefully before permission is granted.
+Since St. Vrain Valley Schools Board of Education Administration Policies require that all research studies carried out within the school system using district or school data of any kind, or staff or students as subjects, must be approved in advance, we require all staff members and external non-school personnel to submit proposals to the St. Vrain Valley Schools Research Committee for approval, including:
+Research organizations,
+University researchers, including students in master’s or doctoral programs,
+Grantees or foundations,
+Educational programs or service providers who wish to evaluate their programs,
+St. Vrain Valley Schools employees,
+St. Vrain Valley Schools students,
+St. Vrain Valley Schools Community Partners,
+St. Vrain Valley Schools contracted vendors, and
+Other individuals (e.g., consultants) interested in doing research with St. Vrain Valley Schools.
+Can I begin my research either before submitting the application or while it is under review?
+No. Under no circumstances may a researcher contact any district staff, students, or parents without an approval letter from the St. Vrain Valley Schools Research Committee.
+Can the research involve students?
+If research is to involve students, complete information about the project shall be provided to parents/guardians and students in advance. No student shall be the subject of any research project without the prior written consent of the student’s parents/guardians and the student if the student is old enough to understand the process and purpose of the project. Consent shall not be necessary when the researcher merely will observe students engaged in normal activities.
+What are the main reasons a research proposal would be rejected?
+The research topic doesn’t align with our
+St. Vrain Valley Schools Strategic Priorities and Goals
+.
+The methodology places an unnecessary burden upon district/school resources.
+The research proposal involved human subjects and the committee deemed there was not adequate protection of their rights and welfare.
+The research proposal requested was not consistent with district policy and applicable law.
+The research proposal submission was incomplete and didn’t include all required materials and therefore didn’t meet the minimum requirements for review.
+* A St. Vrain Valley Schools Research Committee member or designee will notify you if the application was identified as incomplete so you have an opportunity to resubmit at a later date.
+What is the criteria for approval?
+The committee agrees that the study results will benefit a particular school(s), the district, or education in general.
+The research is compatible with St. Vrain Valley Schools policy and sound educational practices.
+There is a benefit to the school system and to education at large.
+The research is aligned to the district’s strategic priorities.
+Impact on students, parents, and staff would be positive.
+The research does not interfere with district approved curriculum, classroom progress or instruction.
+The design and instrumentation of the research should be sound and acceptable to the Research Committee.
+Successful submission of all required documents as listed in the:
+Research Request Application Checklist
+Informed Consent Checklist
+How will the Applicant be Notified of Approval or Denial of Research Request?
+The Executive Director of Assessment along with the St. Vrain Valley Schools Research Committee will judge whether the application should be accepted, rejected, or accepted with stipulations/revisions.
+If the application is
+approved
+, you will receive notification by email with an attached approval letter from the St. Vrain Valley Schools Research Committee.
+If the application is
+rejected
+, you will be notified of the decision by email.
+If it appears that the study
+could be approved with minimal changes
+, the applicant may be advised to re-apply. This is often combined with a phone call to discuss the specifics regarding recommended changes.
+What is Expected of the Applicant after Approval?
+The Researcher agrees to provide the report and any findings to the St. Vrain Valley Schools Research Committee upon completion of the study.
+If the researcher desires to publish in a more complete form-book, dissertation, journal article, etc., the author(s) should provide the St. Vrain Valley Schools Research Committee with a copy. Final approval must be granted by St. Vrain Valley Schools Research Committee or designee before publication.
+After completion of the study, all St. Vrain Valley Schools data shall be destroyed.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
 
@@ -1138,15 +1232,15 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Fall 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
-- Last modified: 2026-08-27T14:42:33-06:00
+- Last modified: 2026-09-16T21:24:35-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Fall 2026 Registration OPENS ON August 24th, 2026 – CLICK HERE
+Fall 2026 Registration Extended Until Sept. 23rd – CLICK HERE
 Missed the registration window? – CLICK HERE TO BE PUT ON THE WAITLIST
 Registration Dates:
 Fall 2026 eCredit Registration:
-OPENS TO ALL GRADES (10th-12th) – Monday, August 24th – Monday, September 14th, 2026 (Closes at NOON).
+OPENS TO ALL GRADES (10th-12th) – Registration EXTENDED until Wednesday, September 23rd at 8pm.
 If you are not sure what course to register for, we recommend reaching out to your counselor ASAP about what options you have.
 Courses offered – Fall 2026 eCredit Recovery session:
 English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
@@ -1159,20 +1253,19 @@ Locations and Schedules
 Fall eCredit begins on
 Tuesday, Sept. 22nd and ends on Thursday, Dec. 3rd
 .
-Fall eCredit runs Tuesday/Thursdays from 3:00 – 5:00 pm at the following locations (except Lyons):
+Fall eCredit runs Tuesday/Thursdays from 3:00 – 5:00 pm at the following locations
 Erie HS
 – English, Social Studies, Health, & PFL
 Frederick HS
-– English, Social Studies, Math, Science, Health, & PFL
+– English, Social Studies, Math (FULL), Science, Health, & PFL
 Longmont HS
 – English, Social Studies, Health, & PFL
-Lyons HS
-– TBD
-Lyons HS will be held on Wednesdays & Thursdays from 2:50-4:50.
 Mead High
-– Math, Science, Health, & PFL
+– English, Social Studies, Math, Science, Health, & PFL
 Niwot High
 – English, Social Studies, Science, Health, & PFL
+Silver Creek High
+– Math, Health, & PFL
 Skyline High
 – English, Social Studies, Math, Health, & PFL
 Final note
@@ -4712,14 +4805,14 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-08-27T08:15:51-06:00
+- Last modified: 2026-09-28T11:11:12-06:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
 We are proud to include a high school honor mariachi ensemble! Mariachi, a vibrant tradition of Mexican music, features violins, trumpets, guitars, vihuelas and guitarrónes. This ensemble will showcase our student musicians and the rich cultural heritage of our community.
 Plan your visit to the 2026 Concert
 Date & Time
-: Wednesday, November 19, 2025 at 7:00 pm
+: Wednesday, November 19, 2026 at 7:00 pm
 Location
 : Erie High School Auditorium: 3180 County Road 5, Erie, CO 80516
 Buy your Concert Tickets
@@ -4728,7 +4821,7 @@ HERE
 :
 https://gofan.co/event/6861133?schoolId=CO99685
 We’re busy prepping an amazing program for the upcoming year.
-Auditions for the 26/27 school year are due Friday, September 18th at 5:00 pm.
+Audition results for the 26/27 school year will be shared with students by October 2.
 In the meantime, review the 2025 program below.
 2025 Event Program
 Mariachi Ensemble
@@ -5691,7 +5784,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### St. Vrain Band Night
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/st-vrain-band-night/
-- Last modified: 2026-08-31T12:47:41-06:00
+- Last modified: 2026-09-08T11:41:41-06:00
 
 Event Summary
 St. Vrain Band Night provides an opportunity for students to showcase their marching band skills to a live audience, but also to learn from the other programs throughout the district and state. Additionally, judges will be present to give each band feedback outside of a competitive environment.
@@ -5715,24 +5808,23 @@ HERE – GoFan Tickets
 Animal Policy
 : No animals will be allowed in the facility except for service animals.
 Performance Order
-The 2026 participating schools and performance times are coming soon:
-6:05 PM – National Anthem
-6:10 PM –
-6:15 PM –
-6:25 PM –
-6:37 PM –
-6:49 PM –
-7:01 PM –
-7:13 PM –
-7:25 PM –
-7: 37 PM –
-7:49 PM –
-8:01 PM –
-8:13 PM –
-8:30 PM – **SVVSD Drone Show**
+As of 9/8/2026
+6:05 PM – National Anthem by Lyons High School & Skyline High School
+6:10 PM – Unified Percussion Combined Performance
+6:15 PM – Skyline High School
+6:25 PM – Silver Creek High School
+6:37 PM – Niwot High School
+6:49 PM – Frederick High School
+7:01 PM – Longmont High School
+7:13 PM – Mead High School
+7:25 PM – Erie High School
+7: 37 PM – Combined Bands
+7:52 PM – **SVVSD Drone Show**
 All spectators and performers must exit the stands and field before the drone show can begin
 ** Please join us following the culmination of the event to enjoy a drone show celebrating music in SVVSD!
-After the final performance, make your way to the soccer field or south walkway for best viewing.
+After the final performance, all spectators will need to exit the stadium grounds in order to view the drone show.
+For best viewing
+, make your way to the soccer field or south walkway.
 Special Guests in the Booth
 Joe Bartko – Announcer
 Joe Bartko brings an extensive background of announcing and pageantry experience to the microphone tonight. He attended Niwot H.S. and was a member of the marching, concert and jazz bands, and during that time, began his tenure in drum corps as a percussionist with the Blue Knights Drum & Bugle Corps. He continued his involvement in the drum corps activity as the long-time announcer for “Corps Encore” in Ogden, UT, the “Mile High Showcase” and “Drums Along the Rockies.” As a highly sought-after performing arts and sports announcer, Mr. Bartko has also announced a variety of other events including rodeos, marching band competitions, corporate functions, and sporting events, including the Niwot H.S. Football games.
@@ -6457,7 +6549,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-08-31T13:24:45-06:00
+- Last modified: 2026-09-28T15:44:23-06:00
 
 District Accounts
 Assessment (X)
@@ -6579,12 +6671,14 @@ Fall River Elementary School (Instagram)
 Frederick High School
 Frederick High School (X)
 Frederick High School (Instagram)
+Frederick High School Athletics & Activities (Instagram)
 Frederick High School Band (X)
 Frederick High School Band (Facebook)
 Frederick High School Band (Instagram)
 Frederick High School Broadcasting Program (X)
 Frederick high School Business (DECA) (X)
 Frederick high School Business (DECA) (Instagram)
+Frederick High School Choreo Club (Instagram)
 Frederick High School Counseling (Instagram)
 Frederick High School Digital Art (Instagram)
 Frederick High School Gay Straight Alliance (Instagram)
@@ -6696,6 +6790,9 @@ Mead Middle School (Facebook)
 Mead Elementary School
 Mead Elementary School (X)
 Mead Elementary Music (X)
+Mountain View Elementary School
+Mountain View Elementary School (Facebook)
+Mountain View Elementary School (Instagram
 Niwot Elementary School
 Niwot Elementary School (Facebook)
 Niwot Elementary School (X)
@@ -6740,6 +6837,7 @@ Skyline High School (Instagram)
 Skyline High School Academies (X)
 Skyline High School Athletics (X)
 Skyline High School Baseball (X)
+Skyline High School DECA (Instagram)
 Skyline High School Sources of Strength (Instagram)
 Skyline High School Thespian Troupe 3074
 (Instagram)
@@ -8787,22 +8885,89 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-07-08T09:11:11-06:00
+- Last modified: 2026-09-21T11:51:16-06:00
 
+Staff Wellness Calendar: Fall 2026
+2026 Staff Flu Shots and Biometrics Clinics
+Benefits-eligible employees are invited to attend an on-site flu shot and biometrics clinic presented by KerixHealth. Take a proactive step toward your preventive wellness and learn more about your health.
+Employees who participate in a biometrics screening will receive a $40 King Soopers gift card at the event!
+Tuesday, September 29, 2026
+7:00 – 11:00 AM
+Silver Creek High School Library
+4901 Nelson Rd, Longmont
+Tuesday, September 29, 2026
+3:30 – 6:00 PM
+Frederick High School Library
+5690 Tipple Pkwy, Longmont
+Wednesday, September 30
+, 2026
+7:00 – 11:00 AM
+ESC Board Room
+395 S. Pratt Pkwy, Longmont
+Thursday, October 1
+, 2026
+3:30 – 6:00 PM
+Erie Middle School Media Center
+650 Main St, Erie
+Saturday, October 3
+, 2026
+7:00 – 11:00 AM
+ESC Board Room
+395 S. Pratt Pkwy, Longmont
+Tuesday, October 6
+, 2026
+3:30 – 6:00 PM
+Coal Ridge Middle School Commons
+6201 Booth Dr, Longmont
+click here to register for biometrics/flu shots
+Any benefits-eligible employee (Certified, Classified, Administrative, Professional, Technical positions working at least 17.5 hours per week), whether enrolled in benefits or not, is eligible to attend the biometrics and flu shots event.
+Kaiser members and their covered dependents can also get a walk-in flu shot at Kaiser locations the entire months of September & October. Visit
+Kp.org/flu
+.
+Mammogram Events
+In observance of Breast Cancer Awareness Month, SVVSD will sponsor our annual NO-COST mammogram events for women age 40+ who are enrolled in the district’s UMR or Kaiser health plans – spouses included!
+If you haven’t had your breast cancer screening in the last year, this event is the most fun way to check it off your list. Enjoy refreshments and a bag stuffed with goodies and gift cards.
+By Appointment Only.
+UMR Members:
+Saturday, October 10, 2026 8:00 am – noon
+UCHealth Longs Peak, 1760 E. Ken Pratt Blvd Ste 202
+Call
+844-723-2778 to schedule
+. Mention that you would like an appointment for the Mochas and Mammos event with St. Vrain Valley Schools.
+Kaiser Members:
+November 10, 11, & 12, 2026, Afternoons & Evenings
+Kaiser Permanente Longmont Campus, 2345 Bent Way
+Schedule Here for the Kaiser member event
+Walktober 2026
+Get ready to take advantage of autumn’s cool temperatures to step out to better health. The 2026 St. Vrain Valley Schools
+Walktober
+activity challenge will be open from October 1 – 31, 2026
+for all staff!
+September 14: Registration opens
+October 1: First day to log activity
+October 11: Registration deadline
+October 31: Challenge ends
+Don’t forget to download the Walktober app to connect your device, easily record steps and activities, form teams, and share adventures! Weekly prizes awarded for participation!
+Register for Walktober
+Year-Round Programs
+Health Coaching
+Active & Fit Direct Gym Membership FAQs
+Active & Fit Direct Website
+Employee Assistance Program
+Wellness Resources
 Our Mission
 St. Vrain Valley School District values the health and well being of their employees. In an effort to improve the health of all SVVSD employees, increase productivity, decrease absenteeism, and have a healthier and happier workforce, the district established a Worksite Wellness Program in 2010.
-Mission: To establish a culture of health and wellness that encourages lifelong healthy behaviors and attitudes, fosters a healthy learning environment, promotes student achievement and benefits our employees and community through improved quality of life.
+The program’s mission is to establish a culture of health and wellness that encourages lifelong healthy behaviors and attitudes, fosters a healthy learning environment, promotes student achievement and benefits our employees and community through improved quality of life.
 Primary Goals:
 Encourage a Supportive Social and Physical Environment that Promotes a Culture of Healthy Lifestyles for All District Employees.
 Provide a variety of wellness initiatives to educate employees about the importance of modifiable risk factors and to encourage healthy behavior change.
 Raise Awareness and Engagement of wellness initiatives for optimal health.
 Engage Leadership in Supporting, Role Modeling, and Communicating Wellness in the Workplace
-What Wellness has to Offer
-SVVSD Wellness takes an eight pillar approach to wellness, the eight pillars are physical, social, environmental, spiritual, occupational, intellectual, financial, and emotional. During the school year we offer classes that correlate to either one or multiple of the pillars, touching on everything at least once.
-Information for upcoming events is available on the
-Upcoming Wellness Events
-page, found in the HR newsletter, or passed onto your buildings’ Wellness Advocate to share.
-Click on the + button below for a full list of Wellness Champions.
+Wellness Program Contact
+Kristina De Ezpeleta
+Benefits Manager
+303-682-7341
+deezpeleta_kristina@svvsd.org
 Wellness Champions
 Below is a list of Wellness Advocates representing buildings and teams across our school district. These individuals play a vital role in supporting district-wide wellness efforts for staff by helping communicate important information, sharing resources, and promoting healthy initiatives within their schools. Their commitment ensures that wellness messages reach staff effectively, creating a stronger, healthier community for all. If you are interesting in joining the Wellness Champion team, please reach out to Kristina De Ezpeleta.
 Alpine Elementary – Jen Tatham
@@ -8865,35 +9030,13 @@ Timberline K-8 – Josh Lemon
 Trail Ridge Middle School – Rebeca Melara
 Transportation (ESC & E. Bus Terminal) – Maegan Dolloff
 Westview Middle School – Stacey Ferrara
-Program Offerings
-Biometric screenings
-Employee Assistance Program
-Educational wellness resources
-Financial education classes
-Flu shots
-Online yoga classes
-Pop in wellness events
-Spring wellness challenge
-SVVSD discount for area gyms
-Walktober
-Wellness classes from partners
-Wellness classes from SVVSD
-Visit the following pages for details:
-Complimentary Health Coaching
-Upcoming Wellness Events
-Wellness Resources
-Wellness Program Contact
-Kristina De Ezpeleta
-Benefits Manager
-303-682-7341
-deezpeleta_kristina@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
 
 ### Health Coaching
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/coaching-corner/
-- Last modified: 2026-07-16T11:48:31-06:00
+- Last modified: 2026-09-18T14:59:05-06:00
 
 Individual Lifestyle Coaching, Available to All St. Vrain Employees
 Take the next step in your well-being with personalized lifestyle coaching with St. Vrain Valley Schools’ dedicated lifestyle coach, available both in-person and virtually.
@@ -8901,7 +9044,7 @@ Take the next step in your well-being with personalized lifestyle coaching with 
 Short, flexible sessions that fit around your work schedule
 Gain practical tools for stress, energy, and healthy habits
 Lori Hartmann – MA, Health Coach
-Lori holds a Master’s degree in holistic health education and is a certified professional life coach. Her background includes 15+ years in the health and wellness field. Lori has helped hundreds of clients lose weight, get in-shape, eat healthier, improve relationships, enhance careers, sleep better, increase energy, change jobs, create balance and enjoy life more. Lori is deeply passionate about helping people live their best life through balancing what is important to them in mind, body and spirit. Her approach stems from curiosity, compassion and the belief that everyone has the right to and can feel their best. Balance is something Lori strives for in her own life. Lori believes that life is to be enjoyed, self-care is essential and that most things in moderation are just fine (yes, even chocolate). Lori feels privileged to be part of others’ journey and believes with a willingness and desire for change, anything is possible.
+Lori is a Certified Professional Life Coach with a Master’s degree in Holistic Health Education and more than 20 years of experience helping people improve their health, energy, balance, and overall wellbeing. Through a compassionate, whole-person approach, she empowers individuals to create meaningful, lasting change and live their best lives.
 Ready to get started?
 Step 1:
 Fill out this Interest Form
@@ -8913,56 +9056,88 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Upcoming Wellness Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
-- Last modified: 2026-08-28T12:01:28-06:00
+- Last modified: 2026-09-11T09:36:28-06:00
 
 Fall 2026
-Staff Flu Shots and Biometrics Clinics
+2026 Staff Flu Shots and Biometrics Clinics
 Benefits-eligible employees are invited to attend an on-site flu shot and biometrics clinic presented by KerixHealth. Take a proactive step toward your preventive wellness and learn more about your health.
 Employees who participate in a biometrics screening will receive a $40 King Soopers gift card at the event!
-Tuesday, September 29
+Tuesday, September 29, 2026
 7:00 – 11:00 AM
 Silver Creek High School Library
 4901 Nelson Rd, Longmont
-Tuesday, September 29
+Tuesday, September 29, 2026
 3:30 – 6:00 PM
 Frederick High School Library
 5690 Tipple Pkwy, Longmont
 Wednesday, September 30
+, 2026
 7:00 – 11:00 AM
 ESC Board Room
 395 S. Pratt Pkwy, Longmont
 Thursday, October 1
+, 2026
 3:30 – 6:00 PM
 Erie Middle School Media Center
 650 Main St, Erie
 Saturday, October 3
+, 2026
 7:00 – 11:00 AM
 ESC Board Room
 395 S. Pratt Pkwy, Longmont
 Tuesday, October 6
+, 2026
 3:30 – 6:00 PM
 Coal Ridge Middle School Commons
 6201 Booth Dr, Longmont
 CLICK TO REGISTER FOR BIOMETRICS
-Mindful Mondays and Well-being Wednesdays
+Mammogram Events
+In observance of Breast Cancer Awareness Month, SVVSD will sponsor our annual NO-COST mammogram events for women age 40+ who are enrolled in the district’s UMR or Kaiser health plans – spouses included!
+If you haven’t had your breast cancer screening in the last year, this event is the most fun way to check it off your list. Enjoy refreshments and a bag stuffed with goodies and gift cards.
+By Appointment Only.
+UMR Members:
+Saturday, October 10, 2026 8:00 am – noon
+UCHealth Longs Peak, 1760 E. Ken Pratt Blvd Ste 202
+Call
+844-723-2778 to schedule
+. Mention that you would like an appointment for the Mochas and Mammos event with St. Vrain Valley Schools.
+Kaiser Members:
+November 10, 11, & 12, 2026, Afternoons & Evenings
+Kaiser Permanente Longmont Campus, 2345 Bent Way
+Schedule Here
+for the Kaiser member event
+Walktober
+Get ready to take advantage of autumn’s cool temperatures to step out to better health. The 2026 St. Vrain Valley Schools
+Walktober
+activity challenge will be open from October 1 – 31, 2026
+for all staff!
+September 14: Registration opens
+October 1: First day to log activity
+October 11: Registration deadline
+October 31: Challenge ends
+Don’t forget to download the Walktober app to connect your device, easily record steps and activities, form teams, and share adventures! Weekly prizes awarded for participation!
+register for Walktober beginning 9/14/26
+Mindful Mondays and Wellbeing Wednesdays
 Monthly, no-cost virtual classes designed to help you combat stress and build resilience. All session times are 10:00 – 11:00 MT. Classes are hosted by Kaiser Permanente for ALL employees, regardless of Kaiser membership!
 Can’t attend live? No problem, register anyway to receive the recordings.
-Wednesday, May 20:
-Digital Detox
-Monday, June 1:
-Mindfulness for Brain Reset
-Wednesday, June 17:
-Boost Your Brain Power
-Monday, July 6:
-Guided Meditation for Summer Bliss
-Wednesday, July 22:
-Summer Safety
-Monday, August 3:
-Guided Meditation for Finding Peace
-Wednesday, August 19:
-Flu Awareness
+Monday, September 14:
+Guided Walking Meditation
+Wednesday, September 23:
+Osteoporosis Prevention
+Monday, October 5:
+Guided Meditation for Love & Kindness
+Wednesday, October 21:
+Women’s Health
+Monday, November 2:
+Guided Meditation for Cultivating Gratitude
+Wednesday, November 18:
+Truth About Sugars
+Monday, December 7:
+Mindfulness to Ease Holiday Stress
+Wednesday, December 16:
+Sustainable Celebrations
 Register Here for Mindful Monday Classes
-Register Here for Well-Being Wednesdays
+Register Here for Wellbeing Wednesdays
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/upcoming-wellness-events/
 
@@ -9004,10 +9179,22 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
-- Last modified: 2024-04-30T10:06:31-06:00
+- Last modified: 2026-09-21T14:11:54-06:00
 
 Current Employees
 In over 60 buildings and programs and across 411 square miles, the staff of St. Vrain Valley Schools make a significant impact. Together, we take public education by #StVrainStorm. The Department of Human Resources is committed to supporting every member of the storm: employees, retirees and applicants. We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students. We are proud of our winning team.
+Employee Calendars
+Calendars vary across St. Vrain Valley Schools depending on your position.
+View all employee calendars
+Handbooks and Agreements
+The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
+View employee handbooks and agreements
+Employee Leave
+It is important to St. Vrain that employees have a good work/life balance and to have the opportunity to “refresh” without worrying about income. Therefore, St. Vrain Valley Schools provides holidays, breaks and paid time off.
+Learn more about employee leave
+SVVEA-SVVSD Negotiations
+Click on the button below to view the 2026 Negotiations Schedule
+2026 Schedule
 
 Source: https://www.svvsd.org/departments/human-resources/current-employees/
 
@@ -9273,7 +9460,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/forms/
-- Last modified: 2026-09-04T07:45:39-06:00
+- Last modified: 2026-09-09T13:45:26-06:00
 
 APT Employee Forms
 Resignation Form
@@ -9379,6 +9566,76 @@ Click on the link to view the 2026 Negotiations Schedule.
 2026 Schedule
 
 Source: https://www.svvsd.org/departments/human-resources/current-employees/svvea-svvsd-negotiations/
+
+### Employee Self Service
+
+- Canonical URL: https://www.svvsd.org/departments/human-resources/employee-self-service/
+- Last modified: 2026-09-21T10:59:31-06:00
+
+Frequently Asked Questions
+How do I change my information?
+Name Change
+Come to HR with new social security card
+395 S Pratt Pkwy Longmont 80501
+Open M-F 7:30am-4:30pm
+Change of Address
+iv.svvsd.org
+– My Information > Profile > Click on pencil by current address
+Where can I submit a lateral move?
+Guidelines
+Request Form
+FAQs
+Request a Sub
+Where can I find CDE Licensure information?
+Overview
+CDE Licensure
+How can I update my CDE License?
+To update your CDE License including issuance, renewal, new endorsement, etc., please send a copy of new certificate to
+humanresources@svvsd.org
+.
+Where can I view my paycheck and change my witholdings?
+To view your paycheck, go to
+Infinite Visions
+and navigate to
+My Pay > Pay & Tax Information > View Paycheck
+To change your withholdings go to
+Infinite Visions
+and navigate to
+My Pay > Pay & Tax Information > W4
+Where can I find my leave balances?
+Your leave balances can be found by visiting
+Infinite Visions
+and going to
+My Time > Time Off History > Show Accruals Breakdown
+Where can I find my benefits elections?
+Your benefits elections can be found by visiting
+Infinite Visions
+and going to
+My Benefits > Current Benefits
+Where can I find my contract?
+Your contract can be found by visiting
+Infinite Visions
+and going to
+My Tasks > Documents
+Where can I find my tax information?
+Tax information can be found by visiting
+Infinite Visions
+and going to
+My Pay > Pay & Tax Information > Tax Documents
+Where can I find verification of employment?
+Visit
+Verifent
+to find your verification of employment.
+Where do I send the Public Loan Forgiveness Form?
+Please send forms to
+Laney Miller
+.
+Laney Miller
+Department Secretary/District Receptionist
+303-776-6200
+miller_laney@svvsd.org
+
+Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
 
 ### Human Resources Team
 
@@ -9494,7 +9751,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Administrators
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/administrators/
-- Last modified: 2026-06-17T13:12:17-06:00
+- Last modified: 2026-09-15T15:02:37-06:00
 
 New Employee Information
 Congratulations on your new administrative position with St. Vrain Valley Schools
@@ -9543,8 +9800,6 @@ Professional Development
 St. Vrain Valley Schools provides ongoing educational support for all personnel, offering over 40 low cost continuing education classes each semester. For more information regarding Professional Development visit
 opd.svvsd.org
 .
-Pay Schedule
-Employees get paid once a month on the last working day of the month. Most Administrative employees are paid July through June in twelve equal payments.
 Fingerprints
 In addition to fingerprints required for Colorado Department of Education (CDE) licensing, St. Vrain Valley Schools requires a set of fingerprints on file. Employees are charged $40 for the background check, $20 deducted from the first two paychecks.
 Welcome to PERA
@@ -9849,31 +10104,16 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Recruiting Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
-- Last modified: 2026-02-03T14:31:34-07:00
+- Last modified: 2026-09-11T12:10:16-06:00
 
 St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email: humanresources@svvsd.org
-CO-ALAS
-: January 17, 2026, at Regis University, Denver, CO
-Prep with Reps
-: February 2, 2026, at Colorado School of Mines, Golden, CO
-Futures and Frontiers
-: February 4, 2026, at Colorado School of Mines, Golden, CO
-Teach @ Mines Mixer
-: February 12, 2026, at Colorado School of Mines, Golden, CO
-2026 Jobs in Education Fair
-: February 19, 2026, at The University of Arizona, Tucson, AZ
-Colorado Education Recruitment Fair (CERF)
-: March 7, 2026, at Frederick High School, Frederick, CO
-ACES Teacher Fair
-: March 12-13, 2026, at the University of Wyoming, Laramie, WY
-Oregon Professional Educator Fair (OPEF)
-: March 19, 2026, at Salem Convention Center, Salem, OR
-Spring 2026 K-12 Educator Employment Fair Day
-: March 26-27, 2026 at the University of Northern Colorado, Greeley, CO
-Spring 2026 TAMU Education Career Fair
-: March 30, 2026, at Texas A&M University, College Station, TX
-Spring 2026 Teacher Job Fair
-: April 1, 2026, at Texas State University, San Marcos, TX
+Workforce Boulder County 55+ Job Fair
+: September 15, 2026, at the Longmont Senior Center, Longmont, CO
+AAEE National Education Career Fair
+: October 19, 2026, at Kansas City Marriott Country Club Plaza, Kansas City, MO
+K-12 Educator Employment Fair Days
+: November 12, 2026, at the University of Northern Colorado, Golden, CO
+Colorado Education Recruitment Fair (CERF): March 6, 2027, at Westminster Public Schools, CO
 
 Source: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
 
@@ -9939,6 +10179,174 @@ to initiate the process.
 
 Source: https://www.svvsd.org/departments/human-resources/request-employee-accommodations/
 
+### Retirement
+
+- Canonical URL: https://www.svvsd.org/departments/human-resources/retirement/
+- Last modified: 2026-09-21T10:28:23-06:00
+
+Retiring from St. Vrain
+The hardest part is deciding to retire. From the District’s perspective, the rest is simple. Here’s what you need to know and do:
+Notify Your Principal or Hiring Manager
+Provide a letter or email to your principal or hiring manager stating:
+That you are retiring
+Your last day of work
+In your letter, please also indicate if you plan to remain active in any capacity, such as a licensed substitute.
+Pay
+Upon completion of your last work day, your final check will be issued on the last day of your contracted pay cycle.
+Certified and Classified < 248
+Annualized
+Employees: Last Pay Cycle is July.
+APT, Classified 248 and Classified < 248
+Time Card
+Employees: Last Pay Cycle is June.
+If you do not work until the last day of your employee work calendar for the fiscal year, your final check will be issued on the last day of the current or following month’s pay cycle.
+Benefits
+Upon retirement, and
+provided you have worked until the last day of your employee work calendar,
+your benefits will end on the following:
+Last Day Paid June 30
+th
+, Benefits End June 30
+th
+Last Day Paid July 31
+st
+, Benefits End July 31
+st
+Benefits are not extended for any extra duty assignments, i.e. summer school or seasonal work.
+If you did not work until the last day of your employee work calendar
+, benefits will end on the last day of the month in which your final day of employment falls.
+PERA Final Salary Report
+The SVVSD Payroll Department will complete your PERA Final Six-Month Salary Report after your final paycheck.
+Once PERA receives this report:
+Your first PERA retirement payment should arrive at the end of the month.
+PERA Care Insurance
+If you choose to enroll in PERA Care coverage please know that PERA is waiting for receipt of the Final Six Month Salary Report to activate PERA Care.
+Your PERA Care insurance may be temporarily suspended while waiting for the report.
+This does not change your PERA Care coverage effective date.
+During this period, you may need to pay for medical or dental expenses out of pocket.
+After your PERA Final Six-Month Salary Report is processed, you may submit claims for possible reimbursement, according to PERA Care plan provisions.
+Contact PERA
+If you have not already done so, contact PERA to discuss your retirement benefits:
+Phone: (800) 759-7372
+Schedule an appointment to review what your retirement benefits will look like.
+For questions or additional information, contact Amy Keen, Human Resources Director at 303-702-7555 or
+keen_amy@svvsd.org
+.
+PERA Retiree Reemployment
+What is a 110?
+In the context of the Public Employees’ Retirement Association (PERA), a “110” typically refers to the
+110-day work limit
+for retirees. It is the maximum number of days a PERA retiree can work for a PERA-covered employer in a
+calendar year
+without their pension benefits being reduced.
+Key details of the PERA 110-day rule include:
+Day Definition:
+A day is generally defined as
+more than four hours
+of work in a single day. If you work four hours or less, the limit converts to
+720 hours
+per calendar year.
+Penalties:
+If you exceed the 110-day (or 720-hour) limit without proper designation, your monthly pension benefit will be reduced according to a set formula.
+Retirement and Reemployment Request Process
+Employees interested in returning to work after PERA retirement must submit a
+retirement letter
+to Human Resources.
+The letter must include:
+The employee’s specific retirement date.
+A request to return to employment with the District following retirement.
+A copy of the letter must also be provided to the employee’s immediate supervisor.
+The requested submission timeline is
+on or about April 15
+of the retirement year.
+The PERA Final Six Month Salary Report will be submitted to PERA electronically by the Payroll Department
+after the employee’s last paycheck
+so that all salary and any leave payout is included.
+Approval Process
+Requests for reemployment are reviewed on a
+case-by-case basis
+by the Assistant Superintendent of Human Resources.
+Reemployment is
+not guaranteed
+and is solely at the District’s discretion.
+Approved reemployment is intended for
+up to one year
+, with the expectation that the employee will fully retire from the District at the conclusion of the reemployment period.
+Reemployment Requirements and Conditions
+Employment Eligibility
+Employee must possess the required certification or licensure for the position.
+Most recent performance evaluation must reflect satisfactory performance.
+Compensation – Certified and Classified
+For Certified and Classified employees, hourly pay is calculated using the employee’s salary prior to retirement, reduced by a percentage equal to the District’s required employer PERA contribution.
+Employees are paid only for actual hours worked.
+If a Certified employee works extended hours for conferences, they are paid at their hourly rate.
+If a Certified employee attends staff meetings outside their normal workday, they are paid at the $30/hr Certified Extra Duty Rate.
+Classified employees retain previously earned longevity and professional development pay in the hourly rate calculation.
+Compensation – Administrative and Professional/Technical
+For Administrative and Professional/Technical employees, annualized pay is calculated using the employee’s salary prior to retirement, reduced by a percentage equal to the District’s required employer PERA contribution.
+For Administrative employees, PERA requires a one-month break in service which includes a one-month break in pay. The first paycheck for the 110 assignment will be in August. The salary will be spread over 11 months, August – June, instead of 12 months, July – June.
+Benefits
+Employees may elect District insurance for
+employee-only coverage
+at the
+full unsubsidized premium
+for up to one year.
+Sick leave accrual follows the Healthy Families and Workplaces Act:
+One hour of paid sick leave for every 30 hours worked.
+Maximum accrual of 48 hours during the reemployment period.
+Employment Status
+Reemployment is on an
+as-needed (at-will)
+basis.
+Either the District or the employee may end the employment relationship at any time without cause.
+The District establishes the beginning and ending dates of the reemployment agreement.
+Compliance
+Reemployment is subject to:
+Colorado state law.
+PERA rules and regulations.
+St. Vrain Valley Schools Board of Education policies.
+Applicable administrative procedures.
+Retirement Benefit Responsibility
+Employment Eligibility
+Employee must possess the required certification or licensure for the position.
+Most recent performance evaluation must reflect satisfactory performance.
+Compensation – Certified and Classified
+For Certified and Classified employees, hourly pay is calculated using the employee’s salary prior to retirement, reduced by a percentage equal to the District’s required employer PERA contribution.
+Employees are paid only for actual hours worked.
+If a Certified employee works extended hours for conferences, they are paid at their hourly rate.
+If a Certified employee attends staff meetings outside their normal workday, they are paid at the $30/hr Certified Extra Duty Rate.
+Classified employees retain previously earned longevity and professional development pay in the hourly rate calculation.
+Compensation – Administrative and Professional/Technical
+For Administrative and Professional/Technical employees, annualized pay is calculated using the employee’s salary prior to retirement, reduced by a percentage equal to the District’s required employer PERA contribution.
+For Administrative employees, PERA requires a one-month break in service which includes a one-month break in pay. The first paycheck for the 110 assignment will be in August. The salary will be spread over 11 months, August – June, instead of 12 months, July – June.
+Benefits
+Employees may elect District insurance for
+employee-only coverage
+at the
+full unsubsidized premium
+for up to one year.
+Sick leave accrual follows the Healthy Families and Workplaces Act:
+One hour of paid sick leave for every 30 hours worked.
+Maximum accrual of 48 hours during the reemployment period.
+Employment Status
+Reemployment is on an
+as-needed (at-will)
+basis.
+Either the District or the employee may end the employment relationship at any time without cause.
+The District establishes the beginning and ending dates of the reemployment agreement.
+Compliance
+Reemployment is subject to:
+Colorado state law.
+PERA rules and regulations.
+St. Vrain Valley Schools Board of Education policies.
+Applicable administrative procedures.
+Retirement Benefit Responsibility
+The District is not responsible for any effect reemployment may have on the retiree’s PERA or Social Security benefits.
+Other Resources
+PERA Website
+
+Source: https://www.svvsd.org/departments/human-resources/retirement/
+
 ### Risk Management
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/
@@ -9997,12 +10405,12 @@ Non-Sponsored Trip Form
 
 Source: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
 
-### Employee Injuries
+### Report an Injury or Accident
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/workers-compensation/
-- Last modified: 2026-08-10T13:03:56-06:00
+- Last modified: 2026-09-16T11:32:40-06:00
 
-Employee Injuries
+Report an Injury or Accident
 Employee Injury Form
 Workers Comp Clinic List
 Workers’ Compensation Benefits and Procedures
@@ -11338,6 +11746,68 @@ Nutrition Services actively involves team members in advisory committees, provid
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/employment-opportunities/
 
+### Farm to School
+
+- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/farm-to-school/
+- Last modified: 2026-09-09T12:42:29-06:00
+
+Creating curiosity and supporting local farms
+Featured in NxtGen Network YouTube for Farm to School
+Education about Food and Agriculture
+Ag. Science/Future Farmers of America (FFA) Mentorship Program
+Our department has partnered with our own
+Ag. Science and FFA students
+to create an innovative and inspiring mentorship program. Student mentors conduct educational sessions with Pk – 8th grade students on topics such as soil health and the role of pollinators in agriculture. Mentors and lead teachers, who are all food safety certified, also plant seeds, harvest and prepare produce alongside students. The student-grown produce is then highlighted on their salad bar at their school.
+Featured in Farm to School Campaign by Nourish Colorado
+Featured in Wellness Warriors Edition of Served Digizine by Nxtgen Network
+School Gardens
+Procurement of Local Food
+We are committed to supporting Colorado Farms and serving fresh, local foods to our students. See below for a list of our farming partnerships!
+Barber’s Farms
+Boulder County Farmers Market
+Hoffman Farms
+Hungenberg Produce
+Raquelitas Tortillas
+Rocky Mountain Fresh
+Rogers Mesa Fruit Co.
+Royal Crest Dairy
+Sprout City Farms
+St Vrain Valley FFA
+/
+Agriscience
+Tico’s Mexican Foods
+Recognition for Farm to School Efforts
+USDA’s The Dirt Newsletter
+2025 National Action for Healthy Kids Awards Trailblazer Award
+Colorado Department of Education’s The Dish Spotlight
+Features SVVSD’s hyper-local heirloom tomato salsa with green chiles (right)
+NxtGen Innovation Award
+NxtGen featured
+podcast
+!
+Better School Lunch: Farm-to-School Foodservice and Sustainability
+podcast
+COMING SOON
+Interdepartmental collaboration between CETC Agriscience, Innovation Center, and Farm to School Nutrition Services. Brand New 400 sq.ft. hydroponic garden (left image) will be used to grow leafy greens which will be featured in district wide salad bars.
+
+Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/farm-to-school/
+
+### Food Rescue Program
+
+- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/food-rescue-program/
+- Last modified: 2026-09-09T12:41:42-06:00
+
+Food Rescue Program
+Food Rescue Programs aim is to reduce food waste within schools by repurposing eligible unused foods. In school cafeterias kids can place items they do not want on a food rescue table and those who would like can grab items from the table. This aims to reduce food waste and provides additional foods to those who struggle with food insecurity.
+Mrs. Potter’s
+5th grade class
+at Eagle Crest Elementary developed the vision to begin Food Rescue Programs in the St. Vrain to reduce food waste during lunches.
+St. Vrain Valley School District is partnered with EcoCycle to implement recycling and composting practices to reduce the amount of food waste in schools through Green Star School Programs. Through the Green Star Program, schools receive trainings on recycling and composting to reach towards the goal of zero waste and spread environmental awareness amongst students.
+Example of food rescue table in one of our elementary schools.
+Featured in Sustainable Programs Edition of Served Digizine by NxtGen Network
+
+Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/food-rescue-program/
+
 ### Free & Reduced: The Education Benefit Form
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-reduced-the-education-benefit-form/
@@ -11434,7 +11904,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-07-20T10:14:51-06:00
+- Last modified: 2026-09-11T12:37:10-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -11449,10 +11919,60 @@ The district shall establish and maintain a District-wide School Wellness Adviso
 District Health Advisory Council (DHAC)
 District Wellness Meetings:
 St.Vrain Valley Schools meets a minimum of 3 times a school year.
+2026-2027 DHAC Meeting Schedule
+Date
+Time
+Location
+Resources
+October 6th, 2026
+2:45pm – 3:30pm
+Timberline PK-8 – Community Room
+January 26th, 2027
+2:45pm – 3:30pm
+Via Zoom
+April 6th, 2027
+2:45pm – 3:30pm
+Via Zoom
+2025-2026 DHAC Meeting Schedule
+Date
+Time
+Location
+Resources
+February 26th, 2026
+12:00 pm – 1:00 pm
+Via Zoom
+View Recording
+April 23rd, 2026
+12:00 pm – 1:00 pm
+Via Zoom
+View PDF Presentation
+June 25th, 2026
+12:00 pm – 2:30 pm
+In-Person SVVSD LSC Building,
+Juniper Room
+In-Person
+Vision Statement Workshop
+Student Success Driven by Health & Wellness
+2024-2025 DHAC Meeting Schedule
+Date
+Time
+Location
+Resources
+December 12th, 2024
+1:30pm-2:30pm
+Via Zoom
+Agenda
+March 11th, 2025
+1:30pm-2:30pm
+Via Zoom
+June 19th, 2025
+11:00am-2:00pm
+In-Person SVVSD LSC Building
 2023-2024 DHAC Meeting Schedule
 Date
 Time
 Location
+Resources
 January 18th, 2023
 1:30pm-2:30 pm
 Via Zoom
@@ -11469,46 +11989,13 @@ In-Person SVVSD LSC Building,
 Juniper Room
 Agenda/Slide Deck
 In-Person
-2024-2025 DHAC Meeting Schedule
-Date
-Time
-Location
-December 12th, 2024
-1:30pm-2:30pm
-Via Zoom
-Agenda
-March 11th, 2025
-1:30pm-2:30pm
-Via Zoom
-June 19th, 2025
-11:00am-2:00pm
-In-Person SVVSD LSC Building
-2025-2026 DHAC Meeting Schedule
-Date
-Time
-Location
-February 26th, 2026
-12:00 pm – 1:00 pm
-Via Zoom
-View Recording
-April 23rd, 2026
-12:00 pm – 1:00 pm
-Via Zoom
-View PDF Presentation
-June 25th, 2026
-12:00 pm – 2:30 pm
-In-Person SVVSD LSC Building,
-Juniper Room
-In-Person
-Vision Statement Workshop
-Student Success Driven by Health & Wellness
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
 
 ### Meet Our Leadership Team
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/meet-our-leadership-team/
-- Last modified: 2026-07-20T10:14:05-06:00
+- Last modified: 2026-09-10T12:48:12-06:00
 
 Department Correspondence
 For questions or comments, please contact us via the department email, and we will connect you with the appropriate subject matter expert.
@@ -11747,7 +12234,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/paren
 ### Parent Resources & Parent Advisory Committee (PAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/parent-resources/
-- Last modified: 2026-03-16T09:53:42-06:00
+- Last modified: 2026-09-16T12:31:36-06:00
 
 Department Forms
 Refund or Transfer Request of Lunch Balance
@@ -11767,8 +12254,36 @@ Weld County WIC
 WIC Works Resource System
 Child & Adult Food Program (CACFP)
 The Child and Adult Care Food Program (CACFP) is a federal program that provides reimbursements for nutritious meals and snacks to eligible children and adults who are enrolled for care at participating child care centers, day care homes, and adult day care centers. CACFP contributes to the wellness, healthy growth, and development of young children and adults in the United States. SVVSD utilizes CACFP to fund snacks for students participating in half day preschool programs across the district.
-To learn more:
-USDA.gov
+Meals served here must meet the USDA’s nutritional standards below.
+Breakfast
+Lunch and Supper
+Snack
+(serve 2 from the 5 groups below)
+Milk
+Fruit and/or Vegetable
+Grain
+Milk
+Meat or meat alternate
+Fruit
+Vegetable
+Grain
+Milk
+Meat or meat alternate
+Fruit
+Vegetable
+Grain
+Children less than one year old: Foods in the infant meal pattern vary according to the
+infant’s age. If your child is less than one year old, please request the infant meal pattern requirements from our center.
+Questions? Concerns? Contact Us!
+Child and Adult Care Food Program
+4300 Cherry Creek Drive South
+PSD-CAC-7411
+Denver, CO 80246-1530
+(303) 692-2330
+nutrition_services@svvsd.org
+(303) 702-8409
+Learn more about CACFP on the USDA’s website:
+https://www.fns.usda.gov/
 Local Food and Wellness Resources
 Community Food Share
 : A food bank that strives to fight against hunger in Boulder and Broomfield Communities.
@@ -11798,6 +12313,21 @@ Collaborating with Nutrition Services, the committee engages in community outrea
 Join us in making a positive impact on the nutritional experiences of our students!
 PAC Meeting Schedule
 The committee convenes regularly throughout the school year, virtually, to ensure ongoing communication. Meetings include updates from Nutrition Services, interactive discussions, and opportunities for parents to voice their opinions. Spanish translation is also made available.
+2026-2027 PAC Meeting Schedule
+Date
+Time
+Place
+Resources
+October 6th, 2026
+1:30pm-2:30 pm
+Timberline PK-8 – Community Room
+Sign Up
+January 26th, 2027
+1:30pm-2:30 pm
+Via Zoom
+April 6th, 2027
+1:30pm-2:30 pm
+Via Zoom
 2024-2025 PAC Meeting Schedule
 Date
 Time
@@ -11873,175 +12403,6 @@ Q: Can we expect more local foods offered as a direct result of Proposition FF p
 A: Districts will have the ability to “Opt In” to receive additional funds for an anticipated future school year. SVVSD intends on “opting in” when/if state funds become available.
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/proposition-ff/
-
-### School Wellness
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/
-- Last modified: 2026-03-16T09:53:43-06:00
-
-St. Vrain’s School Wellness program is designed to encourage healthy eating and physical activity at school. Our goal is to make the healthy choice the easy choice every day.
-St. Vrain believes that student health is integrally connected to student achievement and that healthy students feel better, learn better, and grow into healthy adults.
-At the core of our programs are healthy food guidelines and physical activity best practices, which follow and advance our Wellness Policy.
-Our continued success is dependent on the support and inspiration of parents, teachers, students and community partners.
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/
-
-### Creating Mindfulness in Schools
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/creating-mindfulness-in-schools/
-- Last modified: 2025-10-13T09:50:39-06:00
-
-Mindful rooms and outdoor classrooms
-The concept of mindfulness can teach students the importance of self-regulation, curiosity and patience. Becoming more aware with feelings and surroundings can help improve focus and provide students with healthy coping mechanisms. Some mindful room activities consist of meditation or journaling. Allowing children a space to focus on calming themselves in difficult social settings and creates a space of compassionate learning.
-Outdoor classrooms create an additional mindful space while providing the children a breath of fresh air and a chance to interact with nature. A change in scenery during the learning process can help enhance mental and physical health, along with the assertion of self-control. Some examples of outdoor classroom activities:
-Coal Ridge Middle School outdoor classroom and school garden.
-Gardening
-Bringing math outdoors with the measurement of plant growth, counting things by twos
-Scavenger hunts
-Introduction of outdoor art
-Bring literacy outdoors with practice chalk writing
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/creating-mindfulness-in-schools/
-
-### Farm to School
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/farm-to-school/
-- Last modified: 2025-10-13T10:36:16-06:00
-
-Creating curiosity and supporting local farms
-Featured in NxtGen Network YouTube for Farm to School
-Education about Food and Agriculture
-Ag. Science/Future Farmers of America (FFA) Mentorship Program
-Our department has partnered with our own
-Ag. Science and FFA students
-to create an innovative and inspiring mentorship program. Student mentors conduct educational sessions with Pk – 8th grade students on topics such as soil health and the role of pollinators in agriculture. Mentors and lead teachers, who are all food safety certified, also plant seeds, harvest and prepare produce alongside students. The student-grown produce is then highlighted on their salad bar at their school.
-Featured in Farm to School Campaign by Nourish Colorado
-Featured in Wellness Warriors Edition of Served Digizine by Nxtgen Network
-School Gardens
-Procurement of Local Food
-We are committed to supporting Colorado Farms and serving fresh, local foods to our students. See below for a list of our farming partnerships!
-Barber’s Farms
-Boulder County Farmers Market
-Hoffman Farms
-Hungenberg Produce
-Raquelitas Tortillas
-Rocky Mountain Fresh
-Rogers Mesa Fruit Co.
-Royal Crest Dairy
-Sprout City Farms
-St Vrain Valley FFA
-/
-Agriscience
-Tico’s Mexican Foods
-Recognition for Farm to School Efforts
-USDA’s The Dirt Newsletter
-2025 National Action for Healthy Kids Awards Trailblazer Award
-Colorado Department of Education’s The Dish Spotlight
-Features SVVSD’s hyper-local heirloom tomato salsa with green chiles (right)
-NxtGen Innovation Award
-NxtGen featured
-podcast
-!
-Better School Lunch: Farm-to-School Foodservice and Sustainability
-podcast
-COMING SOON
-Interdepartmental collaboration between CETC Agriscience, Innovation Center, and Farm to School Nutrition Services. Brand New 400 sq.ft. hydroponic garden (left image) will be used to grow leafy greens which will be featured in district wide salad bars.
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/farm-to-school/
-
-### Food Rescue Program
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/food-rescue-program/
-- Last modified: 2025-10-13T09:46:56-06:00
-
-Food Rescue Program
-Food Rescue Programs aim is to reduce food waste within schools by repurposing eligible unused foods. In school cafeterias kids can place items they do not want on a food rescue table and those who would like can grab items from the table. This aims to reduce food waste and provides additional foods to those who struggle with food insecurity.
-Mrs. Potter’s
-5th grade class
-at Eagle Crest Elementary developed the vision to begin Food Rescue Programs in the St. Vrain to reduce food waste during lunches.
-St. Vrain Valley School District is partnered with EcoCycle to implement recycling and composting practices to reduce the amount of food waste in schools through Green Star School Programs. Through the Green Star Program, schools receive trainings on recycling and composting to reach towards the goal of zero waste and spread environmental awareness amongst students.
-Example of food rescue table in one of our elementary schools.
-Featured in Sustainable Programs Edition of Served Digizine by NxtGen Network
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/food-rescue-program/
-
-### Movement
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/movement/
-- Last modified: 2024-06-03T12:44:32-06:00
-
-Encouraging physical activity in our schools
-NFL Fuel Up to Play 60
-Five elementary schools in our district took part in the
-NFL’s Fuel Up to Play 60
-movement which encourages movement and helps build healthier communities.
-Nutrition Lesson & Physical Activity Kits
-This year, we will be piloting our Nutrition Lesson & Physical Activity Kits in our elementary schools as an engaging, educational resource for teachers. Stay tuned!
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/movement/
-
-### Trip Tracker
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/trip-tracker/
-- Last modified: 2025-10-21T07:46:08-06:00
-
-Rewarding students & staff for walking, biking, bus riding, and carpooling to and from school and using active methods!
-Get rewarded for using GREEN transportation to & from school!
-Quick Easy Calendar for 2025-2026 School year
-.
-The SVVSD Trip Tracker Program has the following schools participating for the 25/26 School Year:
-Blue Mountain Elementary, Eagle Crest Elementary, Longmont Estates Elementary, Mountain View Elementary, Central Elementary, Altona Middle School , Longs Peak Middle School, Westview Middle School and Sunset Middle School!
-Who:
-Students
-AND
-staff members, from participating SVVSD schools above, who get to or from school by any mode other than a single-family car. Modes include:
-Biking, walking, scootering, skateboarding
-School bus or public bus (RTD)
-RTD has an excellent
-trip planning tool
-Carpooling
-– SVVSD – check out
-SchoolPool
-networks
-Park and walk
-– park a few blocks away and walk the rest of the way to school, a short walk before school gets the brain ready for learning!
-What:
-For each eligible trip, earn Trip Tracker dollars that can be used like cash at dozens of local businesses
-When:
-September, October, November, January, February, March, & April. Trips are reported at the end of the month via a Google Form and are distributed at schools in the middle of the following month.
-Where:
-All school day trips made to and from school at the qualifying schools.
-Why:
-To significantly reduce car traffic and associated air pollution in front of schools thereby enhancing student safety and health.
-How:
-Staff, students and their family can input the their Trip Tracker data beginning on the last day of the month for an additional week via this
-Trip Tracker link
-. Participants can track their trips daily via the optional printable calendar and refer to it to complete the monthly reporting form. For every five trips, the students/staff can earn $1 Trip Tracker.
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/trip-tracker/
-
-### Whole School, Whole Community, Whole Child (WSCC) Model
-
-- Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/whole-school-whole-community-whole-child-wscc-model/
-- Last modified: 2024-06-03T12:47:37-06:00
-
-The WSCC model is student-centered framework that emphasizes the community’s role in supporting the school, the connections between health and academic achievement and the importance of evidence-based school policies and practice. The collaboration and integration of the education, health and community sectors creates a vital partnership that functions to improve the cognitive, physical, social, and emotional well-being of every child in our district.
-Components of the WSCC Model
-:
-Physical education and physical activity.
-Nutrition environment and services.
-Health education.
-Social and emotional climate.
-Physical environment.
-Health services.
-Counseling, psychological and social services.
-Employee wellness.
-Community involvement.
-Family engagement.
-Learn more about the
-WSCC Model
-
-Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/school-wellness/whole-school-whole-community-whole-child-wscc-model/
 
 ### Special Dietary Needs
 
@@ -12276,7 +12637,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/planning/planni
 ### Transportation
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/transportation/
-- Last modified: 2025-12-11T08:57:36-07:00
+- Last modified: 2026-09-11T12:50:15-06:00
 
 District Transportation: Driving the Future
 Transportation Services’ mission is to provide safe, efficient transportation that supports the educational environment, while complying with governmental regulations and Board policy. More than 100 bus drivers travel over 1,400,000 miles annually while transporting over 6,900 students daily. Transportation services are available 24 hours a day, 365 days a year. Additionally, the department:
@@ -12288,6 +12649,7 @@ Maintains buses and support fleet vehicles
 Monitors and trains coaches and teachers who wish to use Suburbans or minibusses
 Trains staff who hold Commercial Drivers Licenses to ensure compliance with federal regulation
 Please review this brief video outlining our transportation services procedures including rider eligibility, the bus rider application process, bus passes, and assigned seating.
+Contact Us
 
 Source: https://www.svvsd.org/departments/operations-maintenance/transportation/
 
@@ -12473,22 +12835,22 @@ Source: https://www.svvsd.org/departments/priority-programs/elementary-literacy-
 ### Elementary Literacy Resources
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/elementary-literacy-office/elementary-literacy-resources/
-- Last modified: 2025-06-13T10:20:39-06:00
+- Last modified: 2026-09-21T12:50:50-06:00
 
 Overview
 The Elementary Literacy Resource Site is created to further support K-5 literacy interventionists, classroom teachers, and families with the implementation of the Colorado READ Act, including assessments, progress monitoring, targeted skill-based interventions, and other guidance to help all SVVS students maximize their success in becoming a proficient reader.
 Family Resources
 Other helpful links and tools to support literacy:
-Click here to go to Read With Me Today
-Click here to go to READ Act Information for Parents
-Click here to go to CDE Dyslexia Site
+Click here to go to the Colorado Read.Learn.Lead site
+Click here to go to Colorado READ Act site for Parents
+Click here to go to the CDE Dyslexia Site
 
 Source: https://www.svvsd.org/departments/priority-programs/elementary-literacy-office/elementary-literacy-resources/
 
 ### Office of English Language Development
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/english-language-acquisition/
-- Last modified: 2025-08-19T09:19:43-06:00
+- Last modified: 2026-09-23T06:45:47-06:00
 
 OVERVIEW
 St. Vrain Valley Schools (SVVS) recognizes the value of cultural and linguistic diversity and is committed to meeting the linguistic and educational needs of all students. SVVS is also committed to its responsibility to provide meaningful educational environments that include appropriate language and content learning in both English and Spanish. The English Language Development (ELD) Program is designed to offer educational experiences that allow students to develop academic skills and concepts. Emerging bilingual students have the right to a strong educational program with high academic standards provided by a knowledgeable and trained staff. The department works collaboratively with the Colorado Department of Education and the St. Vrain Valley School District Assessment Office to monitor student progress in acquiring English with the annual ACCESS (Assessing Comprehension and Communication in English State-to-State) assessment. Data analysis of ACCESS and other assessment tools, program evaluation, parent involvement, and professional development are all focuses of the department.
@@ -12664,82 +13026,81 @@ Source: https://www.svvsd.org/departments/priority-programs/project-launch-summe
 ### Seal of Biliteracy
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/seal-of-biliteracy/
-- Last modified: 2026-08-20T10:04:07-06:00
+- Last modified: 2026-09-21T14:57:51-06:00
 
 OVERVIEW
-The St. Vrain Valley School District recognizes students who have studied and attained proficiency or higher in English and at least one other language with the SVVSD Seal of Biliteracy. This award, given at graduation, provides students with a competitive advantage in the employment market as well as increased opportunities for higher education.
-Applications for the 2027 Seal of Biliteracy will be open soon!
+The St. Vrain Valley School District recognizes students who have studied and attained proficiency or higher in English and at least one other language with the SVVSD Seal of Biliteracy. This award, given at graduation, provides students with a competitive advantage in the employment market as well as increased opportunities for higher education. Use the link below to apply
+2027 Seal of Biliteracy Application
 Requirements
 Application
 : Any student interested in qualifying for the Seal of Biliteracy
 MUST
-submit an application by March 1 of their senior year. Once you have applied, you can expect a response within 2 weeks detailing next steps.
+submit an application by February 1 of their senior year. Once you have applied, you can expect a response within 3 weeks detailing next steps.
 English Criteria
-: Demonstrate proficiency or higher in English by completing all of the English Language Arts coursework required for graduation with an overall
-cumulative GPA of 3.0 or higher
+Students must fulfill all SVVSD graduation requirements in order to earn the Seal
 AND
 one of the requirements listed below
 :
-ACT (English and Reading)
-25 or higher
+English Language Arts Coursework
+Cumulative weighted 3.0 or higher GPA
+SAT (English-Based Reading and Writing)
+470 or higher
+WIDA ACCESS
+Meet Colorado Multilingual Learner Redesignation criteria
 AP English Language & Composition
 3 or higher
 AP English Literature & Composition
 3 or higher
 IB English Language & Literature
 4 or higher
-SAT (English-Based Reading and Writing)
-470 or higher
+ACT (English and Reading)
+25 or higher
+Next Generation ACCUPLACER
+Writing: 236 / Reading: 241
 World Language Criteria
 Option 1
 For students who have completed coursework in a single language (through level 4)
-Successful completion through level 4 of World Language (French, Spanish, Mandarin) with GPA ≥ 3.0
-AND
-LTI AAPPL with a score ≥ I4
-Successful completion through AP (French, Spanish, Mandarin) with GPA ≥ 3.0
-Successful completion through IB2 (French, Spanish) with GPA ≥ 3.0
-LTI AAPPL
-≥ I4 + completion of Spanish 4, French 4, or Mandarin 4
+Successful completion through level 4 of an approved World Language course AND a score of intermediate mid (5) on the Avant STAMP 4S test
 Option 2
-For students who do not have 4 years of WL and/or did not achieve ≥ 3.0 in WL
+Successful completion through AP (French, Spanish, Mandarin) with GPA ≥ 3.0
+Successful completion through IB SL2 (French, Spanish) with GPA ≥ 3.0
+Option 3
+For students who do not have 4 years of WL and/or did not achieve ≥ 3.0 GPA in an AP or IB level course
 OR
 For students whose language is not offered through coursework
-A qualifying test score that includes speaking, listening, reading, and writing
-*
-AP Exam
-≥ 3 – Spanish, French, German, Italian, Japanese, Latin, and Chinese
-**
-LTI AAPPL
-≥ I4 in Spanish, French, ASL, Arabic, Chinese (Mandarin), German, Hindi, Italian, Japanese, Korean, Portuguese, Russian
-Avant STAMP 4S/WS
+A qualifying test score (intermediate mid) that includes speaking, listening, reading, and writing:
+*AP
+≥ 3 in Spanish, French, German, Italian, Japanese, Latin, and Chinese
+*IB
+≥ 4 in French, Spanish
+Avant STAMP 4S/WS/ including
+ASL
 or
-Superlanguage
+SuperLanguage
 Test ≥ 5 in
 Multiple Languages
-(that are not available via AAPPL test)
-AVANT STAMP ASL
-(American Sign Language) – Intermediate High
-Option 3
-For languages without coursework
-OR
-a national exam as an option to meet criteria, a combination of testing and
-Language Portfolio
-depending on availability of assessments. Portfolio submissions will be reviewed by a native speaker of your target language.
-A qualifying exam/portfolio score that includes speaking, listening, reading, and writing.
+Option 4
+For languages that are not offered through SVVSD courses
+A qualifying exam score that includes speaking, listening, reading, and writing:
 OPI
 &
 WPT
-≥ IM (Intermediate Mid)
-Croatian, Bulgarian, and other languages not available via AAPPL or STAMP
-*Students enrolled in AP courses will take the AP exam and will qualify for the Seal if they score a 3 or higher. This may also lead to college credits, depending on the college. However, since AP results are not delivered until mid-July, seniors who attempt to qualify using AP are granted the Seal on a provisional basis until results are received. The Seal will not appear on student transcripts until exam results are received.
-**Students who receive I4 or above on the AAPPL test will qualify for the Seal. AAPPL scores may not result in college credits; however, students do receive a certificate verifying language proficiency that can be presented to employers or post secondary institutions.
-The AAPPL web site has demo tests you can take
-. These are portions of actual tests from three years ago. Please note that we will be using Form B.
-The Seal of Biliteracy provides students with a competitive advantage in the employment market as well as increased opportunities for higher
+≥ IM (Intermediate Mid) for languages not available via STAMP 4S/WS/SuperLanguage or AAPPL
+OR
+A combination of testing and
+Language Portfolio
+depending on availability of assessments. Portfolio submissions will be reviewed by a native speaker of your target language. *Portfolio option is only available if a nationally recognized exam is not available.
+*Since AP and IB results are not delivered until mid-July, seniors who attempt to qualify using these exams are granted the Seal on a
+provisional
+basis until results are received. The Seal will not appear on student transcripts until exam results are received.
+Check the
+Avant website
+for more information and demo tests.
+The Seal of Biliteracy provides students with a strong competitive advantage!
 Application Process –
 Any student interested in qualifying for the Seal of Biliteracy
 MUST
-submit an application by March 1 of their senior year
+submit an application by February 1 of their senior year
 .
 Students in grades K-8 are encouraged to access world language experience in and out of school and maintain proficiency in native languages
 8th grade students should consider enrolling in World Language courses as they transition into high school
@@ -12779,7 +13140,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-08-25T11:37:58-06:00
+- Last modified: 2026-09-22T14:42:52-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -12794,16 +13155,31 @@ CLICK HERE
 . Payment must be made prior to the start of the class.
 Learn more
 Upcoming Events & Opportunities
-Exploration AI Professional Development courses start September 14!
-Exploration AI: Conversations Beyond the Algorithm
-Exploration AI: Elevating Instruction: A Book Study on Elevating Educational Design with AI
-Exploration AI: ETHOS Case Study
-Exploration AI: Google AI Tools in St. Vrain
-Exploration AI: Introduction to AI
-Exploration AI: School AI
-Exploration AI: Switching on the AI Switch
-Register in WisdomWhere
-Please check out our online Professional Development online catalog for current sessions.
+Program Logistics & Timeline:
+The Structure: A 30-credit program (24 CU Denver credits + 6 St. Vrain in-district credits) delivered across 5 scaffolded phases.
+The Timeline: Cohort begins Spring 2027 and graduates in Fall 2028
+Application Deadline: November 1, 2026.
+St. Vrain Instructors: Suzy Evans, Matt Moulton, Casey Luker, Greg George, Jodi Garner and Carolyn Clifford
+Join Us for a Virtual Information Night!Bring your questions and join program leaders and SVVSD colleagues for a virtual information session to learn more about the cohort, curriculum, and registration.
+When: Tuesday, September 29 | 4:30 PM – 5:30 PM
+Where: Join us on Zoom at
+https://ucdenver.zoom.us/my/bradhinson
+Learn More: Visit our cohort page at
+http://svvsd-ldt.cu.studio
+(Curriculum / Cost / How to Apply)
+Explore Quantum Education at Q-Fest, October 3
+Quantum technology is changing the world – and educators have an opportunity to help shape what comes next. At Q-Fest, explore hands-on technology, connect with others in the field, and discover ways to bring quantum concepts into the classroom.
+Learn more about Q-Fest and Register Today
+As artificial intelligence continues to shape teaching, learning, and the world our students are preparing to enter, educators across Colorado are exploring what thoughtful, responsible, and meaningful AI use can look like in schools.
+This Colorado Education Initiative event is an opportunity for Colorado educators to connect with colleagues, explore emerging practices, and deepen their understanding of how AI can support teaching and learning while keeping educators, students, and strong instructional practice at the center. Whether you are already experimenting with AI in your classroom or are just beginning to explore what it might mean for your practice, the summit is designed to provide ideas, conversations, and resources you can bring back to your classroom and school.
+Check out the details about this
+FREE event with SVVS PD credit* AND Adams State Graduate Credit ($30)
+and consider joining educators from across Colorado for the conversation. The event is hosted at the St. Vrain Innovation Center
+Learn more and register*:
+https://www.eventbrite.com/e/colorado-ai-summit-educator-summit-tickets-1998494512886?aff=oddtdtcreator
+Please feel free to share this opportunity with colleagues who may be interested. We hope to see a strong group of educators there!
+*SVVS PD credit will be provided after the event. You only need to register once on the eventbrite site. CEI will coordinate transfering your attendance so you receive SVVS credit.
+Please check out our online catalog for Professional Development sessions open for registration.
 Check out our PD Catalog Here
 Join the Conversation
 Follow us on Twitter
@@ -13029,7 +13405,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-09-02T15:50:56-06:00
+- Last modified: 2026-09-21T11:17:06-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -13079,14 +13455,6 @@ Evaluaciones del desarrollo del lenguaje a nivel de salón
 This offering is designed for Spanish and English bilingual K-12 educators, administrators, and support staff who assess language development in a bilingual context.
 Exploring the WIDA PreK-3 Essential Actions
 ( 2 hours ): This eWorkshop will provide educators opportunities to explore the WIDA PreK-3 Essential Actions and a large variety of teacher-friendly tools and resources designed to provide the multilingual children they serve equitable opportunities to language, learn and thrive.
-Introduction to the Marco DALE
-(1 hour)
-:
-This video guides educators through the essential components of the Marco de los estándares del desarrollo auténtico del lenguaje español de WIDA (Marco DALE) and how it can strengthen instruction and planning for multilingual learners. Educators will have a clearer understanding of the Marco DALE and how the framework supports Spanish language development.
-Introduction to the WIDA English Language Development Standards Framework
-(1 hour)
-:
-Get a quick, clear introduction to the WIDA English Language Development Standards Framework. Discover how the framework supports educators with planning and instruction for multilingual learners.
 Let’s Play! Multilingual Children’s Joyful Learning in PreK-3
 (2 hours)
 :
@@ -13113,22 +13481,10 @@ Teaching Multilingual Learners Social Studies Through Multiple Perspectives
 (3 hours)
 :
 In an increasingly connected world, Social Studies teaching and learning provides a unique opportunity to foster connections between our multilingual students’ identities as global citizens and their social context.
-Understanding WIDA Alternate ACCESS Score Reports 2026
-(1 hour)
-:
-This video will identify components of 2026 WIDA Alternate ACCESS score reports and how to interpret information they contain.
-WIDA ACCESS Score Reports for Instruction 2026
-(1 hour)
-:
-This video provides a highlight of what’s new this year for 2026 WIDA ACCESS score reports for educators who have administered WIDA ACCESS assessments in grades K–12.
 WIDA ELD Standards Framework: A Collaborative Approach
 (4 hours)
 :
 This eWorkshop explores ways to use the WIDA ELD Standards Framework, 2020 Edition to support multilingual learners’ achievement and language development.
-WIDA Standards Frameworks for Bilingual Educators
-(1 hour)
-:
-This video offers educators a side‑by‑side look at the WIDA English Language Development (ELD) Standards Framework and the Marco de los estándares del desarrollo auténtico del lenguaje español de WIDA (Marco DALE), highlighting how each supports multilingual learners’ language development and access to content. Viewers will explore key similarities and differences and gain practical insights to help them make connections between language using the WIDA Standards Frameworks.
 Here are the RETIRED classes that will still apply toward your CLDE certificate but are no longer offered in the SVVS PD catalog.
 SIOP Training
 (various hours): The Sheltered Instruction Observation Protocol (SIOP) Model is a research-based and validated instructional model that has proven effective in addressing the academic needs of English learners throughout the United States.
@@ -14192,7 +14548,7 @@ Source: https://www.svvsd.org/departments/safety/student-data-transparency-and-s
 ### Wellness, Culture, and Safety Inventory
 
 - Canonical URL: https://www.svvsd.org/departments/safety/wellness-culture-and-safety-inventory/
-- Last modified: 2024-11-11T14:11:16-07:00
+- Last modified: 2026-09-14T15:44:42-06:00
 
 Wellness, Culture, and Safety Inventory
 Ongoing feedback is important as we strive to maintain a positive school culture where students thrive and succeed.
@@ -14268,7 +14624,7 @@ Big Sky PK-8, Erie Elementary, Northridge, Soaring Heights, Apex
 scott_emily@svvsd.org
 Amanda Ferguson
 Director of Special Education – Secondary
-Erie HS, Frederick HS, Life Skills ACE (18-21), Longmont HS, Lyons MS/HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, Skyline HS, St. Vrain Virtual HS
+Erie HS, Frederick HS, Longmont HS, Lyons MS/HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, Skyline HS, St. Vrain Virtual HS
 303-702-7640
 ferguson_amanda@svvsd.org
 Meredith Pogonyi
@@ -14279,7 +14635,7 @@ Child Find, Spark! Discovery Preschool
 pogonyi_meredith@svvsd.org
 Alyse Fieldgrove
 Assistant Director of Special Education
-LEAD program
+LEAD program, LSACE (18-21) Services
 303-702-7647
 fieldgrove_alyse@svvsd.org
 Eric Neessen
@@ -15659,13 +16015,11 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-09-01T16:47:26-06:00
+- Last modified: 2026-09-24T10:42:57-06:00
 
 The referral period for Gifted and Talented Services is now open. Please complete the following form to refer your student. The referral period ends on September 30th, 2026.
 Gifted and Talented Referral Form
-El periodo para referir a su estudiante para servicios de Superdotados y Talentosos está abierta. Por favor, complete el formulario para referir a su estudiante. La ventana de referencia se cierra el 30 de Septiembre del 2026.
-Formulario de Referencia para servicios de Superdotados y Talentosos
-Gifted and Talented Services Vision and Mission/Mision de el Programa de Superdotados y Talentosos
+Gifted and Talented Services Vision and Mission
 We envision
 schools where giftedness and high potential are recognized, valued, and nurtured in children from all backgrounds, and where these individuals develop their potential to become creative, well-adjusted, productive citizens.
 Our Mission:
@@ -15674,7 +16028,7 @@ High quality programming with appropriate rigor and engagement, resulting in gro
 Social emotional support that empowers students to self-advocate for their unique strengths and needs
 Rigorous and targeted professional development that builds individual educator learning as well as district capacity to provide for the academic and social emotional needs of gifted and talented students
 Family engagement and collaboration around gifted characteristics, supporting social and emotional needs, and appropriate academic challenge
-Program Overview/Resumen del Programa
+Program Overview
 The Gifted Education Department is responsible for the following:
 Develop and support implementation of the District’s Program Plan for Gifted Education in the SVVSD
 Provide training and support to staff that instruct gifted students
@@ -15684,7 +16038,7 @@ Train and support staff to assure compliance with state law in regards to gifted
 Support buildings in identification, programming, and Advanced Learning Plan development through training and coaching
 Manage and account for the Gifted Education grant funds received annually to fund gifted programming and services
 Communicate with and report to the Colorado Department of Education on programming, services, and professional development related to gifted education.
-Meet the Gifted and Talented Services Team/Conozca al Equipo del Programa de Superdotados y Talentosos
+Meet the Gifted and Talented Services Team
 Jennifer Mayer
 Gifted Coordinator-Elementary (including K through 8 schools)
 (303) 702-7808
@@ -15701,22 +16055,16 @@ Mireya Babonoyaba
 Gifted and Talented Secretary
 (303) 702-7808
 babonoyaba_mireya@svvsd.org
-Parent Resources/Recursos para Padres
+Parent Resources
 Board of Education Gifted Statement
-Declaración de la Junta de Educación sobre la Educación para Dotados
-Parent Guide to Gifted Services
-Guia para Padres Sobre la Educación de Dotados
 Colorado Department of Education
-Departamento de Educación del Estado de Colorado
 Colorado Association for Gifted and Talented (CAGT
 )
 Supporting Emotional Needs of the Gifted (SENG)
-Asociación de Estudiantes Dotados del Estado de Colorado
 Hoagies Gifted
 National Association for Gifted Children
 (NAGC)
-Apoyando las Necesidades Emocionales de los Dotados (SENG)
-Programming for Academic Challenge/Programación para Retos Académicos
+Programming for Academic Challenge
 Definition of Gifted Children
 The Exceptional Children’s Educational Act (ECEA) defines gifted children as:
 Those persons between the ages of four and twenty-one whose aptitude or competence in abilities, talents, and potential for accomplishment in one or more domains are so exceptional or developmentally advanced that they require special provisions to meet their educational programming needs. Gifted children are hereafter referred to as gifted students. Children under five who are gifted may also be provided with early childhood special educational services. Gifted students include gifted students with disabilities (i.e. twice exceptional) and students with exceptional abilities or potential from all socio-economic, ethnic, and cultural populations. Gifted students are capable of high performance, exceptional production, or exceptional learning behavior by virtue of any or a combination of these areas of giftedness:
@@ -15749,8 +16097,6 @@ Acquire autonomous learning skills in order to become independent, lifelong lear
 Develop creative problem solving, questioning and presentation skills which can be applied to solving authentic problems in any field.
 If you have questions or concerns about your child’s programming, please contact your child’s teacher or school GT representative. District coordinators are available if you need additional assistance or support.
 Family/Parent Guide to Gifted Services
-Guia para Familias/Padres Sobre Servicios para Dotados
-Guia para Familias/Padres de Dotados y Talentosos
 To request Gifted and Talented records for an SVVSD student click
 here
 To submit Gifted and Talented records for an incoming student click
@@ -15785,7 +16131,7 @@ Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/r
 ### School Contacts
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
-- Last modified: 2026-08-26T12:20:35-06:00
+- Last modified: 2026-09-14T15:15:15-06:00
 
 School Contacts
 Programming is a site based decision. Click on the school name in order to view their programming options. Contact the school directly with any questions regarding programming or services.
@@ -15805,8 +16151,8 @@ Blue Mountain
 Shannan Olson
 olson_shannan@svvsd.org
 Burlington
-Jesse Sapir
-sapir_jesse@svvsd.org
+Josi Turner
+turner_josi@svvsd.org
 Centennial
 Deb Evans
 evans_donnae@svvsd.org
@@ -16134,13 +16480,13 @@ Source: https://www.svvsd.org/departments/student-services/multi-tiered-systems-
 ### Counseling Leadership & Steering Committee
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/school-counselor-and-interventionist-information-and-resources/counseling-leadership-steering-committee/
-- Last modified: 2026-08-04T11:16:16-06:00
+- Last modified: 2026-09-17T10:19:02-06:00
 
 Counselor and interventionist leadership is made up of a team of aforementioned individuals from each school level: elementary, middle and high schools. The Steering Committee works with district leadership to drive counseling initiatives and support counselors and our work.
 District Leadership
 Johnny Terrell, Assistant Superintendent of Student Services
 Olga Cordero, Executive Director of Student Services
-Maura Brady McMullen, District Lead Counselor, Crisis Response Lead, and Local District Scholarship Coordinator
+Maura Brady McMullen, District Lead Counselor, Crisis Response Lead, and Local District Scholarship Lead
 High School Leadership
 Carey Beneke, Frederick High School Interventionist
 Connie Dewlen, CTE Work-Based Learning & Internship Coordinator
@@ -16151,9 +16497,7 @@ Ashlea Patterson, Frederick High School Counselor
 Middle School Leadership
 Sara Nazari, Trail Ridge Middle School Counselor
 Zenia Quintana, Sunset Middle School Counselor
-Ben (Benjamin) Knighten,
-Interim
-, Frederick High School Counselor
+Kim Styles, Mead Middle School Interventionist
 Elementary School Leadership
 Sarah Knighten, Big Sky PK – 8 Counselor
 Shaun Manzanares, Fall River Elementary Counselor
