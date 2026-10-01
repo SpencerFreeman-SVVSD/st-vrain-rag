@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-29T08:49:19.259799-06:00
+generated_at: 2026-10-01T09:24:41.262083-06:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -11,7 +11,7 @@ section_title: Latest news and alerts
 ### Open House Dates 2026: Explore Programming Across St. Vrain Valley Schools
 
 - Published: 2026-09-22T14:17:22-06:00
-- Source URL: https://www.svvsd.org/2026/09/22/open-house-dates-2025/
+- Source URL: https://www.svvsd.org/2026/09/22/openhouses2026/
 
 Across St. Vrain Valley Schools, the upcoming open houses offer families a chance to step inside classrooms, meet dedicated teachers, and discover the unique opportunities available in each school. From advanced academic pathways and innovative STEM programs to arts, athletics, and career-focused courses, these events provide parents and students an inside look at the possibilities that can shape their educational journey.
 Below are upcoming open house dates across the district. Families can also visit the Guide to School Options websites linked below for detailed highlights, program offerings, and additional resources for each school. For questions regarding open houses, programming, or to schedule a school tour, please contact the schools directly.
@@ -27,13 +27,18 @@ Blue Mountain Elementary
 Burlington Elementary
 | November 9, 4:00 p.m.
 Centennial Elementary
-| November 10
+| November 10, 4:00 p.m.
 Central Elementary
 | November 19, 4:00 p.m.
 Columbine Elementary
 | November 18, 4:00 p.m.
 Eagle Crest Elementary
 | November 5, 4:00 p.m.
+Elementary 29
+| November 30, 6:00 p.m. at Erie High School
+(
+Opening Fall 2027 in Erie’s Colliers Hill Neighborhood
+)
 Erie Elementary
 | October 1, 4:00 p.m.
 Fall River Elementary
@@ -141,7 +146,7 @@ Career Elevation and Technology Center
 Innovation Center
 | December 2, 3:30 p.m.
 
-Source: https://www.svvsd.org/2026/09/22/open-house-dates-2025/
+Source: https://www.svvsd.org/2026/09/22/openhouses2026/
 
 ### Four St. Vrain Schools Recognized as Apple Distinguished Schools
 

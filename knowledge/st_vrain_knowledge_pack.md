@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-29T08:49:19.259799-06:00
+generated_at: 2026-10-01T09:24:41.262083-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -494,7 +494,7 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 ### Open House Dates 2026: Explore Programming Across St. Vrain Valley Schools
 
 - Published: 2026-09-22T14:17:22-06:00
-- Source URL: https://www.svvsd.org/2026/09/22/open-house-dates-2025/
+- Source URL: https://www.svvsd.org/2026/09/22/openhouses2026/
 
 Across St. Vrain Valley Schools, the upcoming open houses offer families a chance to step inside classrooms, meet dedicated teachers, and discover the unique opportunities available in each school. From advanced academic pathways and innovative STEM programs to arts, athletics, and career-focused courses, these events provide parents and students an inside look at the possibilities that can shape their educational journey.
 Below are upcoming open house dates across the district. Families can also visit the Guide to School Options websites linked below for detailed highlights, program offerings, and additional resources for each school. For questions regarding open houses, programming, or to schedule a school tour, please contact the schools directly.
@@ -510,13 +510,18 @@ Blue Mountain Elementary
 Burlington Elementary
 | November 9, 4:00 p.m.
 Centennial Elementary
-| November 10
+| November 10, 4:00 p.m.
 Central Elementary
 | November 19, 4:00 p.m.
 Columbine Elementary
 | November 18, 4:00 p.m.
 Eagle Crest Elementary
 | November 5, 4:00 p.m.
+Elementary 29
+| November 30, 6:00 p.m. at Erie High School
+(
+Opening Fall 2027 in Erie’s Colliers Hill Neighborhood
+)
 Erie Elementary
 | October 1, 4:00 p.m.
 Fall River Elementary
@@ -624,7 +629,7 @@ Career Elevation and Technology Center
 Innovation Center
 | December 2, 3:30 p.m.
 
-Source: https://www.svvsd.org/2026/09/22/open-house-dates-2025/
+Source: https://www.svvsd.org/2026/09/22/openhouses2026/
 
 ### Four St. Vrain Schools Recognized as Apple Distinguished Schools
 
@@ -835,11 +840,20 @@ No recent alert items were found within the configured coverage window.
 ### Enrollment & Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/
-- Last modified: 2025-07-23T16:02:32-06:00
+- Last modified: 2026-09-29T11:20:33-06:00
 
 Enrollment & Registration
 Your School. Your Choice.
 Choosing a school for your student is an important personal step in charting their future path. Toward this end, St. Vrain offers a diverse and extensive selection of rigorous academic and co-curricular programs that provide you and your student choice in selecting a school that best aligns with their interests and educational goals. Among our many high-quality programs, we are especially proud of the outstanding portfolio of options available across our schools.
+School options for 2027–28
+Find your school.
+Explore St. Vrain’s elementary, middle and high school options, from kindergarten through graduation.
+Grades K–5
+Elementary
+Grades 6–8
+Middle
+Grades 9–12
+High
 New Student Registration
 New student registration is required if you are new to St. Vrain and:
 You are registering at your neighborhood school OR
@@ -1247,7 +1261,7 @@ Source: https://www.svvsd.org/schools/inclement-weather/
 ### Maps & Boundaries
 
 - Canonical URL: https://www.svvsd.org/schools/maps-boundaries/
-- Last modified: 2023-10-23T14:01:47-06:00
+- Last modified: 2026-09-29T11:19:07-06:00
 
 Families can use the link below to determine if their household’s residence is within St. Vrain Valley Schools’ boundary and identify the neighborhood schools associated with their address. Results within St. Vrain’s boundary will return the neighborhood schools, locations, and website links associated with the address entered. Results outside St. Vrain’s boundary will return the school district and website link associated with the address entered.
 For transportation questions such as bus pick up/drop off and times, please check your
@@ -1258,6 +1272,15 @@ at (303) 702-7530.
 View Boundary Map
 Information provided on this page is done so for the benefit of users and is not legally binding; the maps are not legal documents.
 Any questions or concerns should be directed to the Planning Department: (303) 682-7229.
+School options for 2027–28
+Find your school.
+Explore St. Vrain’s elementary, middle and high school options, from kindergarten through graduation.
+Grades K–5
+Elementary
+Grades 6–8
+Middle
+Grades 9–12
+High
 
 Source: https://www.svvsd.org/schools/maps-boundaries/
 
@@ -1297,12 +1320,21 @@ Source: https://www.svvsd.org/schools/school-calendar/
 ### School Feeders
 
 - Canonical URL: https://www.svvsd.org/schools/school-feeders/
-- Last modified: 2026-09-18T15:25:15-06:00
+- Last modified: 2026-09-29T11:21:41-06:00
 
 School Feeders
 Students in St. Vrain Valley Schools typically follow the neighborhood school feeder patterns below as they advance from elementary school to middle school to high school (schools marked with * feed in to more than one school). In addition to high-quality neighborhood schools, students can open enroll into any school in the district.
 Learn more about open enrollment
 Find your neighborhood school
+School options for 2027–28
+Find your school.
+Explore St. Vrain’s elementary, middle and high school options, from kindergarten through graduation.
+Grades K–5
+Elementary
+Grades 6–8
+Middle
+Grades 9–12
+High
 Area 1 Schools
 Douglas Bissonette
 Area Assistant Superintendent – Area 1
@@ -2407,8 +2439,6 @@ Students who have failed specific core courses have another opportunity for succ
 OUR NEXT SESSION:
 FALL 2026 eCredit Session
 Registration will open August 10th for SENIORS ONLY and for ALL OTHERS on Monday, August 18th.
-Blended Collaborative
-The Blended Collaborative is a professional learning opportunity for K-12 teachers interested and committed to blending and/or flipping their classroom instruction. Teachers redesign current practices and implement blended learning experiences to create a more student-centered classroom. This year long experience gives teachers the opportunity to share, build, and reflect together on their blended implementation.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
 
@@ -2545,13 +2575,6 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
 - Last modified: 2026-08-25T08:00:04-06:00
 
-eCredit Sessions Available –
-Spring 2027 Session
-Registration: December 15th (Seniors ONLY) All Others: January 12th – January 30th, 2025. (Unless seats fill before registration ends)
-Summer 2027 Session
-Registration: April 22nd – May 26th (Unless seats fill before registration ends)
-Fall 2026 Session
-Registration: (Seniors ONLY) August 11th (ALL Others) August 18th – September 12th, 2025 (Unless seats fill before registration ends)
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
 We currently offer high school credit recovery courses in
@@ -2568,7 +2591,24 @@ Teachers closely monitor student progress and communicate frequently with studen
 Students in the during-the-day program are mentored daily by a certified teacher.
 Students earn letter grades towards graduation for successful completion of each course.
 Typically, each school year we will run two ten-week sessions (fall session starts in September and spring session in February). In June we offer a summer session, which runs three-weeks (M-F).
-Please see the links in the left sidebar to see specifics for the sessions we are offering this year.
+eCredit Sessions Available –
+Fall
+(10 Week Session)
+Spring
+(10 Week Session)
+Summer
+(3 Week Session)
+Register:
+Aug. 24 – Sept. 14
+Seniors ONLY
+Dec. 15, 2026 – Jan. 11, 2027
+All Grades
+Jan. 12 – Feb. 1, 2027
+April. 22 – May 26
+Session Runs:
+Sept. 22 – Dec. 3
+Feb. 9 – April 22, 2027
+June 7 – June 25, 2027
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
 
@@ -2669,8 +2709,8 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Fall 2026 Registration Extended Until Sept. 23rd – CLICK HERE
-Missed the registration window? – CLICK HERE TO BE PUT ON THE WAITLIST
+Fall 2026 Registration – CLOSED
+Missed the registration window? – WAITLIST CLOSED
 Registration Dates:
 Fall 2026 eCredit Registration:
 OPENS TO ALL GRADES (10th-12th) – Registration EXTENDED until Wednesday, September 23rd at 8pm.
@@ -2744,17 +2784,14 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 - Last modified: 2026-08-24T19:22:00-06:00
 
 Overview
-Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Spring 2027 Registration – (Seniors only) 12//14/26-1/10/27 & (All Grades) 1/11/27
-LOCATION FULL? – CLICK HERE TO BE PUT ON THE WAITLIST
+Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model
 Registration:
-SENIORS ONLY (12th gr) –
-Monday , December 14th, 2026 – Sunday, January 10th, 2026
-(
-EARLY SENIOR REGISTRATION
-receives discounted pricing as follows: $75/$40 F/R)
-ALL GRADES (9th-12th) – Monday, January 11th at until Friday, January 29th at 8pm
-Courses offered – Spring 2027 eCredit Recovery session (Not all locations offer every course):
+SENIORS REGISTRATION
+Window receives discounted pricing as follows: $75/$40 F/R)
+Monday , December 14, 2026 – Sunday, January 11, 2027
+ALL GRADES
+January 12 – February 1, 2027
+Courses offered – Spring 2027 eCredit Recovery session
 English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
 World Studies A/B, US History A/B, US Government A/B, Personal Financial Literacy
 Algebra 1A/B, Geometry A/B, Algebra 2A/B, Int Algebra A/B
@@ -2817,63 +2854,43 @@ If a student finishes their 1st course ON or BEFORE Thursday, March 24th, 2026 t
 , we will
 automatically refund
 the fees and you will need to register again once the 1st course within our timeline.
+Spring 2027 Registration
 Our Next Session: Summer 2026 –
 CLICK HERE
 for more information.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/spring-ecredit-recovery26/
 
-### Summer 2026 eCredit Recovery
+### Summer 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/summer-ecredit-recovery/
 - Last modified: 2026-08-24T19:02:06-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
-SUMMER 2026 eCredit Registration CLOSED
+SUMMER 2027 eCredit Registration – Opens on April 21st, 2027
 LOCATION FULL? – CLICK HERE to be put on the Waitlist
 Registration:
-Wednesday, April 22nd – Tuesday, May 26th (at NOON or EARLIER IF AVAILABLE SEATS FILL)
+Wednesday, April 21 – Wednesday, June 2 (at NOON or EARLIER IF AVAILABLE SEATS FILL)
 Session Dates/Times:
-June 1st – June 19th from 9am – 12pm
+June 7 – June 25 from 9am – 12pm
 Mandatory IN PERSON class Monday – Thursday with Fridays virtual
 Locations and Courses Offered:
 Erie High School
-– English, Social Studies, Math, Health, & PFL (
-All Seats
-FULL
-)
+– TBD
 Frederick High School
-– English, Social Studies, Science, Math , Health, & PFL (
-All Seats
-FULL
-)
+– TBD
 Longmont High School
-– English, Social Studies, Health, & PFL (
-All Seats
-FULL
-)
+– TBD
 Mead High School
-– English (
-FULL
-), Social Studies (
-FULL
-), Math(
-FULL
-), Science, Health, & PFL
+– TBD
 Niwot High School
-– English, Social Studies, Science, Health, & PFL (
-All Seats
-FULL
-)
+– TBD
 Silver Creek High School
-– English, Social Studies, Math, Health, & PFL (
-All Seats
-FULL
-)
+– TBD
 Skyline High School
-– Not offering courses at this location for the Summer Session
-SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2026 Student Waitlist.
+– TBD
+SEATS FILL QUICKLY, so register early. If the location you wish to attend is full, please click the following link to fill out the waitlist. CLICK HERE for the Summer 2027 Student Waitlist.
 New Meridian/St. Vrain Virtual
 Summer eCredit runs their own Summer School with slightly different times and dates.
 Only
@@ -2883,7 +2900,7 @@ St. Vrain Virtual High School,
 may attend this location
 . If you are a current NMHS/SVVHS student, please speak to your principal or counselor about how to get registered.
 Required Parent/Guardian Orientation:
-An Online Parent Orientation video will be REQUIRED for all student guardians who have a student enrolled in the Summer 2026 eCredit Session. Once registration has been completed, the eCredit office will send out an email with all of the information regarding the eCredit session, along with a reminder and a link for Guardians to view the orientation.
+An Online Parent Orientation video will be REQUIRED for all student guardians who have a student enrolled in the Summer 2027 eCredit Session. Once registration has been completed, the eCredit office will send out an email with all of the information regarding the eCredit session, along with a reminder and a link for Guardians to view the orientation.
 Once registration has ended, we will send out an email with all the information regarding this eCredit Session and a reminder about our Parent/Guardian Orientation video.
 If you have any questions, please call our office at 303-702-7906.
 Fees and Registration
@@ -2912,7 +2929,7 @@ up-to-date in Infinite Campus. IF YOUR FRL STATUS IS NOT up-to-date,
 please go here to fill out that paperwork.
 Fall 2026 will be our next available eCredit session.
 Registration will begin on August 13th for SENIORS ONLY, and all other students can register between August 22nd – September 12th. Students should connect with their school counselor in their first week back to school in August to determine which course(s) to register for in eCredit.
-Our Next Sessions is Fall 2026 –
+Our Next Sessions is our Fall 2026 –
 CLICK HERE
 for more information.
 
@@ -2929,7 +2946,9 @@ The World Economic Forum’s
 Future of Jobs Report 2025
 projects that 22% of today’s formal jobs will be structurally transformed by 2030, with 170 million jobs created and 92 million displaced. It also estimates that 39% of workers’ existing skill sets will be transformed or become outdated by 2030. To prepare students for a dynamic and rapidly accelerating era of information and innovation, we are committed to equipping educators and students with the tools, skills, and resources needed to provide current and future generations a strong competitive advantage so that all students can achieve success in a globalized world:
 Embed Future-Ready Skills:
-Integrate Al literacy, personal financial literacy, and durable skills directly into core content. The durable skills equip students with the tools they need to succeed in school, careers, and life, creating a systemic approach to lifelong learning.
+Integrate Al literacy, personal financial literacy, and durable skills directly into core content. The
+Durable Skills
+equip students with the tools they need to succeed in school, careers, and life, creating a systemic approach to lifelong learning. Valued by employers, colleges, and communities, these skills can be taught, practiced, and strengthened over time.
 Self-Aware Leader
 Critical Thinker & Innovator
 Global Citizen
@@ -11064,8 +11083,8 @@ Please send forms to
 Laney Miller
 .
 Laney Miller
-Department Secretary/District Receptionist
-303-776-6200
+Human Resources Technician
+303-682-7282
 miller_laney@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
@@ -11117,13 +11136,17 @@ Rebecca Ewer
 Employee Leave Specialist
 303-682-7297
 ewer_rebecca@svvsd.org
+Amber Kincheloe
+Department Secretary/District Receptionist
+303-776-6200
+kincheloe_amber@svvsd.org
 Katarina Kocourek
 Human Resources Hiring Specialist
 303-682-7439
 kocourek_katarina@svvsd.org
 Laney Miller
-Department Secretary/District Receptionist
-303-776-6200
+Human Resources Technician
+303-682-7282
 miller_laney@svvsd.org
 Bruna Omati
 Human Resources Specialist
@@ -13337,7 +13360,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-09-11T12:37:10-06:00
+- Last modified: 2026-09-29T09:17:35-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -13360,6 +13383,7 @@ Resources
 October 6th, 2026
 2:45pm – 3:30pm
 Timberline PK-8 – Community Room
+Agenda
 January 26th, 2027
 2:45pm – 3:30pm
 Via Zoom
@@ -13667,7 +13691,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/paren
 ### Parent Resources & Parent Advisory Committee (PAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/parent-resources/
-- Last modified: 2026-09-16T12:31:36-06:00
+- Last modified: 2026-09-29T09:16:02-06:00
 
 Department Forms
 Refund or Transfer Request of Lunch Balance
@@ -13755,6 +13779,7 @@ October 6th, 2026
 1:30pm-2:30 pm
 Timberline PK-8 – Community Room
 Sign Up
+Agenda
 January 26th, 2027
 1:30pm-2:30 pm
 Via Zoom
@@ -19068,14 +19093,6 @@ Scheduled Service Disruptions
 The following schedule has been established to provide for the smallest disruption to student learning and district operations while allowing District Technology Services to maintain, update, and secure the technology systems and services used everyday in the district’s classrooms and offices.
 Please plan around the district’s technology systems being unavailable.
 2026-27
-Sat, July 11, 2026
-12:00 AM-11:00 PM
-Full day outage for extended
-equipment replacement and updates
-Sun, August 9, 2026
-6:00 AM – 12:00 PM
-September
-No outage scheduled
 Sun, October 4, 2026
 6:00 AM – 12:00 PM
 Sun, November 1, 2026
@@ -19112,7 +19129,7 @@ Source: https://www.svvsd.org/departments/technology/ssd/
 ### Resubscribe
 
 - Canonical URL: https://www.svvsd.org/departments/technology/staff-newsletter-resubscribe/
-- Last modified: 2024-10-08T09:03:13-06:00
+- Last modified: 2026-09-29T15:09:47-06:00
 
 Staff Newsletter Resubscribe
 If you accidentally unsubscribed to the DTS Newsletter and other DTS communications, please use the below form to resubscribe.

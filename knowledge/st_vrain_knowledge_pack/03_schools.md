@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-09-29T08:49:19.259799-06:00
+generated_at: 2026-10-01T09:24:41.262083-06:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -9,11 +9,20 @@ section_title: Schools
 ### Enrollment & Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/
-- Last modified: 2025-07-23T16:02:32-06:00
+- Last modified: 2026-09-29T11:20:33-06:00
 
 Enrollment & Registration
 Your School. Your Choice.
 Choosing a school for your student is an important personal step in charting their future path. Toward this end, St. Vrain offers a diverse and extensive selection of rigorous academic and co-curricular programs that provide you and your student choice in selecting a school that best aligns with their interests and educational goals. Among our many high-quality programs, we are especially proud of the outstanding portfolio of options available across our schools.
+School options for 2027–28
+Find your school.
+Explore St. Vrain’s elementary, middle and high school options, from kindergarten through graduation.
+Grades K–5
+Elementary
+Grades 6–8
+Middle
+Grades 9–12
+High
 New Student Registration
 New student registration is required if you are new to St. Vrain and:
 You are registering at your neighborhood school OR
@@ -421,7 +430,7 @@ Source: https://www.svvsd.org/schools/inclement-weather/
 ### Maps & Boundaries
 
 - Canonical URL: https://www.svvsd.org/schools/maps-boundaries/
-- Last modified: 2023-10-23T14:01:47-06:00
+- Last modified: 2026-09-29T11:19:07-06:00
 
 Families can use the link below to determine if their household’s residence is within St. Vrain Valley Schools’ boundary and identify the neighborhood schools associated with their address. Results within St. Vrain’s boundary will return the neighborhood schools, locations, and website links associated with the address entered. Results outside St. Vrain’s boundary will return the school district and website link associated with the address entered.
 For transportation questions such as bus pick up/drop off and times, please check your
@@ -432,6 +441,15 @@ at (303) 702-7530.
 View Boundary Map
 Information provided on this page is done so for the benefit of users and is not legally binding; the maps are not legal documents.
 Any questions or concerns should be directed to the Planning Department: (303) 682-7229.
+School options for 2027–28
+Find your school.
+Explore St. Vrain’s elementary, middle and high school options, from kindergarten through graduation.
+Grades K–5
+Elementary
+Grades 6–8
+Middle
+Grades 9–12
+High
 
 Source: https://www.svvsd.org/schools/maps-boundaries/
 
@@ -471,12 +489,21 @@ Source: https://www.svvsd.org/schools/school-calendar/
 ### School Feeders
 
 - Canonical URL: https://www.svvsd.org/schools/school-feeders/
-- Last modified: 2026-09-18T15:25:15-06:00
+- Last modified: 2026-09-29T11:21:41-06:00
 
 School Feeders
 Students in St. Vrain Valley Schools typically follow the neighborhood school feeder patterns below as they advance from elementary school to middle school to high school (schools marked with * feed in to more than one school). In addition to high-quality neighborhood schools, students can open enroll into any school in the district.
 Learn more about open enrollment
 Find your neighborhood school
+School options for 2027–28
+Find your school.
+Explore St. Vrain’s elementary, middle and high school options, from kindergarten through graduation.
+Grades K–5
+Elementary
+Grades 6–8
+Middle
+Grades 9–12
+High
 Area 1 Schools
 Douglas Bissonette
 Area Assistant Superintendent – Area 1
