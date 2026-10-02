@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-01T09:24:41.262083-06:00
+generated_at: 2026-10-02T08:42:06.280438-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -2430,7 +2430,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### eLearning
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
-- Last modified: 2026-08-28T14:17:49-06:00
+- Last modified: 2026-10-01T15:06:24-06:00
 
 Overview
 The eLearning department supports the creation and delivery of various blended learning models throughout the district. We research, purchase and develop, collaborate, pilot, manage, and assess online/blended programs that expand the learning opportunities for students and staff. The eLearning department supports blended models throughout the district including the eCredit Recovery program and the Blended Collaborative for K-12 teachers through out the district.
@@ -2573,7 +2573,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### eCredit Recovery 2026-27
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/
-- Last modified: 2026-08-25T08:00:04-06:00
+- Last modified: 2026-09-30T14:46:26-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -2615,7 +2615,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Frequently Asked Questions
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/ecredit-logistics/
-- Last modified: 2022-10-05T11:43:25-06:00
+- Last modified: 2026-09-30T09:29:07-06:00
 
 Answers to common questions about eCredit:
 What courses are offered through eCredit?
@@ -2705,7 +2705,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Fall 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
-- Last modified: 2026-09-16T21:24:35-06:00
+- Last modified: 2026-09-30T09:29:07-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
@@ -2781,7 +2781,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Spring 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/spring-ecredit-recovery26/
-- Last modified: 2026-08-24T19:22:00-06:00
+- Last modified: 2026-09-30T14:13:44-06:00
 
 Overview
 Students who have failed specific core course have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model
@@ -2864,7 +2864,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Summer 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/summer-ecredit-recovery/
-- Last modified: 2026-08-24T19:02:06-06:00
+- Last modified: 2026-09-30T09:29:07-06:00
 
 What is eCredit?
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through an in person blended learning model. The eCredit program uses the award-winning K-12 software-based curriculum from Edmentum which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
@@ -2938,7 +2938,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Futures by Design
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
-- Last modified: 2026-09-03T11:06:33-06:00
+- Last modified: 2026-09-30T15:28:57-06:00
 
 Futures by Design PK-12
 Creating explicit connections between today’s learning and tomorrow’s future is part of the St. Vrain Advantage.
@@ -11092,7 +11092,7 @@ Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2026-08-19T07:29:10-06:00
+- Last modified: 2026-09-30T14:44:40-06:00
 
 Human Resources Leadership Team
 Amanda Thompson
@@ -19087,7 +19087,7 @@ Source: https://www.svvsd.org/departments/technology/sdp/school-department-resou
 ### Scheduled Service Disruptions
 
 - Canonical URL: https://www.svvsd.org/departments/technology/ssd/
-- Last modified: 2026-06-08T09:19:35-06:00
+- Last modified: 2026-10-01T09:16:57-06:00
 
 Scheduled Service Disruptions
 The following schedule has been established to provide for the smallest disruption to student learning and district operations while allowing District Technology Services to maintain, update, and secure the technology systems and services used everyday in the district’s classrooms and offices.
@@ -20078,7 +20078,7 @@ CBI – Evaluation of Superintendent
 CC – Administrative Organization
 7 KB
 CC-E – Administrative Organization
-102 KB
+103 KB
 CCB – Line and Staff Relations
 7 KB
 CH – Policy Implementation

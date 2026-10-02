@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-01T09:24:41.262083-06:00
+generated_at: 2026-10-02T08:42:06.280438-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -320,7 +320,7 @@ CBI – Evaluation of Superintendent
 CC – Administrative Organization
 7 KB
 CC-E – Administrative Organization
-102 KB
+103 KB
 CCB – Line and Staff Relations
 7 KB
 CH – Policy Implementation
