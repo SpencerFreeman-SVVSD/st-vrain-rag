@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-02T08:42:06.280438-06:00
+generated_at: 2026-10-03T07:19:54.740857-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -2438,7 +2438,7 @@ eCredit Recovery
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model. The eCredit program uses the award winning K-12 software-based curriculum from Edmentum, which is aligned with both the state content standards and the St. Vrain Valley School District Scope and Sequence.
 OUR NEXT SESSION:
 FALL 2026 eCredit Session
-Registration will open August 10th for SENIORS ONLY and for ALL OTHERS on Monday, August 18th.
+Registration runs from August 24 – September 14, 2026
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
 
@@ -3301,17 +3301,19 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/report-cards/
 - Last modified: 2026-04-22T13:59:10-06:00
 
-Elementary Report Cards
-Welcome to the St. Vrain Valley School District’s elementary report card website. Our elementary schools have been using a standards-based report card since 2003. The standards-based report card is designed to inform parents about their student’s progress towards mastering the Colorado Academic Standards.
-During the 2020-2021 school year, we adopted newly worded report cards aligned to the
-Colorado Academic Standards
-for English Language Arts, Math, Science, and Social Studies.
 Overview
-In 2003, the St. Vrain Valley School District implemented a new Standards-Based Report Card. A standards-based report card lists the most important skills students should learn in each subject at a particular grade level. Specifically, the purposes of a Standards-Based Report Card are:
-To provide more detailed feedback to parents regarding the progress their children are making toward specific learning expectations at their grade level.
-To allow parents and students to understand more clearly what is expected of students and how to help them be successful in a rigorous academic program.
-To provide traditional grades along with scores for each learning expectation addressed in a grading period.
-Standards-based report cards provide more consistency because all students are evaluated on the same grade-appropriate skills. Parents can see exactly which skills and knowledge their children have learned.
+Elementary report cards reflect a standards-based approach to evaluating student performance. They identify grade level Learner Expectations for student learning in each subject area. More detailed information about the specific concepts and skills students are expected to know, understand, and be able to demonstrate at each grade level can be found in the
+Colorado Academic Standards
+.
+The purposes of a standards-based report card are:
+Report overall performance:
+Communicate students’ overall Academic Performance Levels for Learner Expectations, Independent Level, and Achievement during the trimester in each subject area.
+Report progress toward grade level expectations:
+Communicate students’ mastery of specific Learner Expectations in each subject area, describing the concepts and skills associated with grade level standards, during the trimester.
+Provide multiple measures of achievement:
+Provide both standards-based performance levels and traditional letter grades to give families a comprehensive view of student achievement and progress.
+Note:
+Not all Learner Expectations are addressed or assessed during every trimester. Expectations that are not assessed will be marked “NA” (Not Assessed).
 Resources For Parents
 Report Card Samples
 Kindergarten
@@ -3342,10 +3344,13 @@ English
 Spanish
 FAQs
 What are standards?
-Colorado has adopted its own list of the skills that students should learn at each grade level from pre-kindergarten through high school. These standards set clear, high expectations for student achievement. Standards tell what students need to do in order to progress through school on grade level. Here are some examples:
-Fifth graders are expected to formulate, represent, and use algorithms to add and subtract fractions with flexibility, accuracy, and efficiency.
-Third graders should be able to implement the writing process successfully to plan, revise, and edit written work.
-Kindergarteners are expected to observe, explain, and predict natural phenomena governed by Newton’s laws of motion, acknowledging the limitations of their application to very small or very fast objects.
+Colorado has established a set of academic standards that outline the concepts and skills students are expected to learn at each grade level, from pre-kindergarten through high school. Known as the
+Colorado Academic Standards
+, these standards establish clear, high expectations for student learning and achievement. They describe what students need to know, understand, and be able to demonstrate to progress through school at grade level.
+Here are some examples:
+Fifth Grade: Add and subtract fractions with unlike denominators (including mixed numbers).
+Third Grade: Develop and strengthen writing as needed by planning, revising, and editing.
+Kindergarten: Use and share observations of local weather conditions to describe patterns over time.
 Are districts required to adopt the state standards?
 According to Colorado Revised Statute S 22-7-1013(b) “in revising its preschool through elementary and secondary education standards, each local education provider shall ensure that it adopts standards, at a minimum, in those subject matter areas that are included in the state preschool through elementary and secondary education standards, including but not limited to English language competency and visual arts and performing arts education.”
 Thus each district is required to adopt standards that meet or exceed the state standards and develop a plan for revising curriculum and programs of instruction to ensure that each student will have the educational experiences needed to achieve the adopted academic standards.
@@ -8009,6 +8014,8 @@ Athletics, Activities, Fine Arts (X)
 Achievement Acceleration Academy (AAA) (X)
 Building Services (X)
 Career Elevation and Technology Center (Instagram)
+Career Elevation and Technology Center (X)
+Career Elevation and Technology Center ProStart (Instagram)
 Community Schools (X)
 Community Schools (Facebook)
 District Technology Services (X)
@@ -10633,17 +10640,47 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
 - Last modified: 2026-09-21T14:11:54-06:00
 
-Current Employees
-In over 60 buildings and programs and across 411 square miles, the staff of St. Vrain Valley Schools make a significant impact. Together, we take public education by #StVrainStorm. The Department of Human Resources is committed to supporting every member of the storm: employees, retirees and applicants. We select, recruit and retain exceptional employees who exemplify the vision and goals of St. Vrain Valley Schools by meeting the educational, emotional, and social needs of our students. We are proud of our winning team.
-Employee Calendars
-Calendars vary across St. Vrain Valley Schools depending on your position.
-View all employee calendars
-Handbooks and Agreements
+Current Staff Resources
+Current St. Vrain Valley Schools employees can access a variety of resources and information to support them throughout the school year. Find important calendars, salary schedules, benefits information, professional development resources, employee forms and more below.
+Learn More:
+Employee Self Service
+To view FAQs and common login information, please visit our
+employee self service page
+.
+Agreement/Employee Handbooks
 The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
-View employee handbooks and agreements
-Employee Leave
-It is important to St. Vrain that employees have a good work/life balance and to have the opportunity to “refresh” without worrying about income. Therefore, St. Vrain Valley Schools provides holidays, breaks and paid time off.
-Learn more about employee leave
+View employee agreements and handbooks
+Salary Schedules
+St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
+Learn more and view salary schedules
+Work Calendars
+Employee calendars are determined by your position and contract, outlining your scheduled workdays, holidays, and any designated non-work days throughout the year. Please refer to your assigned calendar for important dates and plan accordingly.
+View all employee calendars
+Certified Resources
+Lateral Moves
+Guidelines
+Request Form
+FAQs
+Request a Sub
+Licensure Information
+Overview
+CDE Licensure
+Support & Well-Being
+The staff wellness program seeks to establish a culture of health and wellness that encourages lifelong healthy behaviors and attitudes, fosters a healthy learning environment, promotes student achievement and benefits our employees and community through improved quality of life.
+Learn more about staff wellness offerings
+Resignation
+If you are planning to resign from St. Vrain Valley Schools, there are several steps to complete to help ensure a smooth transition.
+Resignation Form
+PERA Website
+Final Check and Benefits Information
+Retirement
+The retirement process includes several important steps to help ensure a smooth transition. Employees should review retirement eligibility and requirements.
+Learn more about retirement
+Verifications/Loan Forgiveness
+To learn more about verifications, please visit
+Verifent
+.
+For loan forgiveness, please inquire with humanresources@svvsd.org.
 SVVEA-SVVSD Negotiations
 Click on the button below to view the 2026 Negotiations Schedule
 2026 Schedule
@@ -10801,7 +10838,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/empl
 
 ### Employee Leave
 
-- Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/employee-leave/
+- Canonical URL: https://www.svvsd.org/departments/human-resources/employee-leave/
 - Last modified: 2025-02-24T07:46:53-07:00
 
 Employee Leave
@@ -10838,7 +10875,7 @@ All Sick Leave Bank requests will be reviewed by a board, and any decision made 
 Employee Insurance Payments
 Click here to pay your premiums.
 
-Source: https://www.svvsd.org/departments/human-resources/current-employees/employee-leave/
+Source: https://www.svvsd.org/departments/human-resources/employee-leave/
 
 ### Evaluation Information
 
@@ -11214,12 +11251,14 @@ Congratulations on your new administrative position with St. Vrain Valley School
 . As the 7th largest district in the State of Colorado, boasting over 5,000 employees, we are committed to providing our students with the highest quality education. Your addition to the team of talented and energetic professionals is a testament to our ongoing mission of academic excellence by design. We’re excited to have you on board! To align you with some of our practices and procedures, we’ve highlighted some key areas of focus for you to explore.
 Pay Schedule
 St Vrain Valley Schools employees are paid once a month, on the last working day of the month.
+View Salary Schedules
 Benefits
 Benefits will begin on the first of the month following 31 days after your first date of employment. For example, if you begin working August 9th, your benefits will begin October 1st.
 You are eligible for the District provided Basic Life Insurance if you have a regular FTE position and are scheduled to work 10 or more hours per week. If you work 17.5 hours or more per week in a regular FTE position, you are eligible for all District benefits. Please refer to the
 New Hire Benefits Guide
 for detailed information.
 The month prior to your benefits effective date, you will receive a welcome email to your svvsd.org address. This will include benefits enrollment information and instructions for accessing the Infinite Visions Employee Portal.
+Learn more about our benefits
 Infinite Visions Employee Portal
 Every employee has access to the
 Infinite Visions Employee Portal
@@ -11249,9 +11288,8 @@ To view your specific work calendar, please click
 here
 .
 Evaluations
-The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Administrative employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found at
-hr.svvsd.org
-> Evaluations.
+The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Administrative employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found by following the button below.
+Evaluations
 Professional Development
 St. Vrain Valley Schools provides ongoing educational support for all personnel, offering over 40 low cost continuing education classes each semester. For more information regarding Professional Development visit
 opd.svvsd.org
@@ -11281,6 +11319,7 @@ You are eligible for the District provided Basic Life Insurance if you have a re
 New Hire Benefits Guide
 for detailed information. Supplemental positions are not eligible for benefits, such as guest teachers, coaches or seasonal workers.
 The month prior to your benefits effective date, you will receive a welcome email to your svvsd.org address. This will include benefits enrollment information and instructions for accessing the Infinite Visions Employee Portal.
+View Benefit Information
 Infinite Visions Employee Portal
 Every employee has access to the
 Infinite Visions Employee Portal
@@ -11288,23 +11327,27 @@ where you can accept your employment contract, view your leave balance, view and
 Certified Annual Leave
 For new Certified Employees, forty‐nine hours of annual leave will be granted during each year of the first three years of employment. At the beginning of the fourth year of continuous employment with the District, employees will receive a one‐time allocation of forty‐two hours of accrued leave and will be granted seventy‐seven hours of annual leave during each continuing year of employment. Hours will be pro‐rated for part‐time employees. All hours can be used at the professional discretion of the employee. At the end of the academic year, all remaining Annual Leave hours will be added to the employee’s Accrued Sick Leave hours. Additional information about Annual Leave can be found in Article 21 of the SVVEA—SVVSD Agreement.
 Evaluations
-The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Certified Employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found at
-hr.svvsd.org
-> Evaluations.
+The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Certified Employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found by following the button below.
+Evaluations
 Certified Lateral Salary Moves
-Certified employees that meet the requirements can qualify for lateral salary movement on the Certified Salary Schedule. Employees can use St. Vrain Valley Schools Professional Development credits or graduate level university credits that are relevant to their teaching area for lateral salary moves. These moves are available to Certified Employees twice a year. Deadlines are October 15th, with courses being completed by September 1st, and February 15th, with courses being completed by January 1st. The pay difference will be made retroactive to the beginning of the contract year and to the beginning of the new calendar year respectively. Information and forms can be found by going to
-hr.svvsd.org
-> Forms.
+Certified employees that meet the requirements can qualify for lateral salary movement on the Certified Salary Schedule. Employees can use St. Vrain Valley Schools Professional Development credits or graduate level university credits that are relevant to their teaching area for lateral salary moves. These moves are available to Certified Employees twice a year. Deadlines are October 15th, with courses being completed by September 1st, and February 15th, with courses being completed by January 1st. The pay difference will be made retroactive to the beginning of the contract year and to the beginning of the new calendar year respectively.
+Lateral Moves
+Guidelines
+Request Form
+FAQs
 Professional Development
 St. Vrain Valley Schools provides ongoing educational support for certified, administrative and classified personnel, offering over 40 low cost continuing education classes each semester. For more information regarding Professional Development visit
 opd.svvsd.org
 .
 Pay Schedule
 Employees get paid once a month on the last working day of the month. Most Certified Employees are paid August through July in twelve equal payments. Employees who are hired and begin working after the 15th of the month will be paid the following month.
+View Salary Schedules
 Fingerprints
 In addition to fingerprints required for Colorado Department of Education (CDE) licensing, St. Vrain Valley Schools requires an additional set of fingerprints on file. Employees do not receive reimbursement for this.
 Requesting Time Off and Obtaining a Guest Teacher
-The licensed employees in SVVS are required to register their own time off into the Absence Management system – Red Rover. An employee is only charged the time used (minimum amount 1 hour) but guest teachers are paid for a ½ day or full day work. A ½ day = any 3.5 hours or less in the day. The times listed in Red Rover are school bell times and guest teachers will arrive 30 minutes before the time listed in the system to prepare for your student’s day. If you have bus duty, please arrange for another employee to perform this duty so the guest teacher can properly prepare. Do not change the bell times in Red Rover unless the guest teacher is to report later. Please create clear plans for your Guest Teacher – it would be helpful if you could phonetically spell names for attendance purposes. Also create your classroom information page in Red Rover.
+The licensed employees in SVVS are required to register their own time off into the Absence Management system – Red Rover. An employee is only charged the time used (minimum amount 1 hour) but guest teachers are paid for a ½ day or full day work. A ½ day = any 3.5 hours or less in the day. The times listed in Red Rover are school bell times and guest teachers will arrive 30 minutes before the time listed in the system to prepare for your student’s day. If you have bus duty, please arrange for another employee to perform this duty so the guest teacher can properly prepare. Do not change the bell times in Red Rover unless the guest teacher is to report later. Please create clear plans for your Guest Teacher – it would be helpful if you could phonetically spell names for attendance purposes. Also create your classroom information page in
+Red Rover
+.
 Teacher Extra Pay – Fill-In and Class Coverage
 Licensed employees can be paid extra duty pay for coving classrooms when a guest teacher can not be obtained. Fill-In pay and class coverage is the district’s preferred method to use for when an employee is off for just a short period, such as a doctor’s appointment. Remember, guest teachers are paid for a half day even if they only work one hour. Fill in pay is when a licensed employee uses their plan time and/or lunch period to cover an unfilled classroom. Class coverage is when students are added to other classroom(s) for either a ½ day or full day and this pay is divided among all classroom teachers used. The office starts the process and the extra time will be added to the Red Rover system for payment.
 Why do I use a “Requesting a Guest Teacher Form”?
@@ -11312,7 +11355,9 @@ Use the “Requesting a Guest Teacher Form” when requesting a guest teacher fo
 here
 .
 Leave of Absence and Obtaining a Long-Term Guest Teacher
-The school administration and the licensed employee requesting the leave are responsible for choosing a guest teacher. Employees can contact the substitute office for a list of guest teachers in their subject area. Guest teachers working in a long-term assignment must hold an active Colorado Teaching License or a 3-yr or 5-yr. substitute authorization. Employees inform the substitute office of the selected guest teacher. The leave office will notify the sub office of an approved leave and the sub office will enter the leave into Red Rover.
+The school administration and the licensed employee requesting the leave are responsible for choosing a guest teacher. Employees can contact the substitute office for a list of guest teachers in their subject area. Guest teachers working in a long-term assignment must hold an active Colorado Teaching License or a 3-yr or 5-yr. substitute authorization. Employees inform the substitute office of the selected guest teacher. The leave office will notify the sub office of an approved leave and the sub office will enter the leave into
+Red Rover
+.
 Common Queries:
 Anytime the licensed employee is out of the building the time should be recorded in Red Rover.
 When creating the absence, un-click the substitute box in Red Rover to not order a sub.
@@ -11340,15 +11385,16 @@ You are eligible for the District provided Basic Life Insurance if you have a re
 New Hire Benefits Guide
 for detailed information. Supplemental positions are not eligible for benefits, such as guest teachers, coaches or seasonal workers.
 The month prior to your benefits effective date, you will receive a welcome email to your svvsd.org address. This will include benefits enrollment information and instructions for accessing the Infinite Visions Employee Portal.
+View Benefit Information
 Infinite Visions Employee Portal
 Every employee has access to the
 Infinite Visions Employee Portal
 where you can accept your employment contract, view your leave balance, view and print your pay stubs and W2s, and sign up for your Employee Benefits.
 Paid Time Off (PTO)
 PTO is a benefit to all employees in a Classified Position on a 9, 10, 11, or 12-month calendar. For every month that an employee is assigned to work, the employee will accumulate leave equal to the number of hours that the employee is assigned to work each day.
-Annually, as of June 30th, up to 40 hours of PTO will remain in the employee’s PTO account. Any remaining hours of PTO above 40 hours will be converted to Accrued Sick Leave. See Section 4.1 in the Classified Handbook for additional information,
-hr.svvsd.org
-> Handbooks.
+Annually, as of June 30th, up to 40 hours of PTO will remain in the employee’s PTO account. Any remaining hours of PTO above 40 hours will be converted to Accrued Sick Leave. See Section 4.1 in the
+Classified Handbook
+.
 If you have been hired for a bus driver position please check with your hiring manager regarding PTO.
 Vacation for 248 Day Employees Only
 Vacation is granted to all 248-Day employees. Vacation leave is based on the number of months of service and will be accrued on a monthly basis. Please refer to the Classified Handbook for the accrued vacation leave schedule. Earned vacation will be accrued up to 240 hours. Additional accruals will resume when the employee’s balance falls below 240 hours. See Section 3.9 in the Classified Handbook for further information.
@@ -11366,15 +11412,15 @@ To view your specific work calendar, please click
 here
 .
 Evaluations
-The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Classified Employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found at
-hr.svvsd.org
-> Evaluations.
+The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Classified Employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found by following the button below.
+Evaluations
 Professional Development
 St. Vrain Valley Schools provides ongoing educational support for certified, administrative and classified personnel, offering over 40 low cost continuing education classes each semester. For more information regarding Professional Development visit
 opd.svvsd.org
 .
 Pay Schedule
 Employees get paid once a month on the last working day of the month. Employees who are hired and begin working after the 15th of the month will be paid the following month. Time card employees, such as paraeducators, most bus drivers, nutrition service workers and accompanists, are paid for the days worked from the 16th of the month through the 15th of the following month. All other classified employees are paid their annual salary equally distributed over twelve months.
+Salary Schedules
 Fingerprints
 St. Vrain Valley Schools requires each employee to be fingerprinted. Employees are charged $40 for the background check, $20 deducted from the first two paychecks.
 Welcome to PERA
@@ -11400,14 +11446,15 @@ You are eligible for the District provided Basic Life Insurance if you have a re
 New Hire Benefits Guide
 for detailed information. Supplemental positions are not eligible for benefits, such as guest teachers, coaches or seasonal workers.
 The month prior to your benefits effective date, you will receive a welcome email to your svvsd.org address. This will include benefits enrollment information and instructions for accessing the Infinite Visions Employee Portal.
+View Benefit Information
 Infinite Visions Employee Portal
 Every employee has access to the
 Infinite Visions Employee Portal
 where you can accept your employment contract, view your leave balance, view and print your pay stubs and W2s, and sign up for your Employee Benefits.
 Paid Time Off (PTO)
-PTO is a benefit to all Professional Technical employees. For every month that an employee is assigned to work, the employee will accumulate leave equal to the number of hours that the employee is assigned to work each day. Annually, as of June 30th, up to 40 hours of PTO will remain in the employee’s PTO account. Any remaining hours of PTO above 40 hours will be converted to Accrued Sick Leave. See Section 4.1 in the APT Handbook for additional information,
-hr.svvsd.org
-> Handbooks.
+PTO is a benefit to all Professional Technical employees. For every month that an employee is assigned to work, the employee will accumulate leave equal to the number of hours that the employee is assigned to work each day. Annually, as of June 30th, up to 40 hours of PTO will remain in the employee’s PTO account. Any remaining hours of PTO above 40 hours will be converted to Accrued Sick Leave. See Section 4.1 in the
+APT Handbook
+.
 Vacation Leave for 248 Day Employees Only
 Only Professional Technical employees who are on a 248 day calendar receive vacation leave. Professional Technical personnel who are assigned 248 days, based on FTE, will earn twenty paid vacation days during the contract year beginning July 1. For new employees, vacation time will be front-loaded for your use and prorated based on start date. In each subsequent year, vacation will be accrued monthly, and prorated based on FTE. Earned vacation will be accrued up to 240 hours. When an employee’s balance falls below 240 hours the employee will resume accruing vacation hours. See Section 3.9 of the APT Handbook for further information,
 hr.svvsd.org
@@ -11426,15 +11473,15 @@ To view your specific work calendar, please click
 here
 .
 Evaluations
-The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Professional Technical employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found at
-hr.svvsd.org
-> Evaluations.
+The purpose of Evaluations is to promote the growth and development of employees. This process serves as a basis for continued improvement. Professional Technical employees will receive a yearly evaluation. Employees and supervisors should engage in discussions regarding goals and professional practices during a mid‐year review and a final end‐of‐year review. Evaluation information can be found by following the button below.
+Evaluations
 Professional Development
 St. Vrain Valley Schools provides ongoing educational support for Professional Technical personnel, offering over 40 low cost continuing education classes each semester. For more information regarding Professional Development visit
 opd.svvsd.org
 .
 Pay Schedule
 Employees get paid once a month on the last working day of the month. Most Professional Technical employees are paid July through June in twelve equal payments. Employees who are hired and begin working after the 15th of the month will be paid the following month.
+Salary Schedules
 Fingerprints
 St. Vrain Valley Schools requires each employee to be fingerprinted. Employees are charged $40 for the background check, $20 deducted from the first two paychecks.
 Welcome to PERA
@@ -11671,6 +11718,7 @@ st
 Benefits are not extended for any extra duty assignments, i.e. summer school or seasonal work.
 If you did not work until the last day of your employee work calendar
 , benefits will end on the last day of the month in which your final day of employment falls.
+Final Check and Benefits Information
 PERA Final Salary Report
 The SVVSD Payroll Department will complete your PERA Final Six-Month Salary Report after your final paycheck.
 Once PERA receives this report:
@@ -11812,6 +11860,18 @@ Risk Management
 Risk Management is the process of identifying and evaluating the risks associated with the activities and operations of the District; developing measures to control, reduce or eliminate those risks, and financing losses.
 The District is exposed to various risks such as claims related to torts; theft of, damage to, and destruction of assets; and injuries to employees. Safety programs, security, emergency plans, training, and a wide range of policies and procedures all help to prevent and mitigate losses.
 The Risk Management Fund is used to account for the payment of loss of or damage to property of the District, liability claims, workers’ compensation claims, and related administrative expenses.
+Forms
+View all
+forms and reports
+.
+Overnight Trip Requests
+To learn more and request an overnight trip, please
+follow this link
+.
+Report an Injury
+Please use these
+forms to report an injury
+.
 Heather Keith
 Risk Management Manager
 303-682-7428
