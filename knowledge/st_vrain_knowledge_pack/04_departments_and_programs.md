@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-03T07:19:54.740857-06:00
+generated_at: 2026-10-10T08:26:14.594111-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -965,7 +965,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### eLearning
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/
-- Last modified: 2026-10-01T15:06:24-06:00
+- Last modified: 2026-10-02T10:35:10-06:00
 
 Overview
 The eLearning department supports the creation and delivery of various blended learning models throughout the district. We research, purchase and develop, collaborate, pilot, manage, and assess online/blended programs that expand the learning opportunities for students and staff. The eLearning department supports blended models throughout the district including the eCredit Recovery program and the Blended Collaborative for K-12 teachers through out the district.
@@ -1248,7 +1248,7 @@ Fall 2026 Registration – CLOSED
 Missed the registration window? – WAITLIST CLOSED
 Registration Dates:
 Fall 2026 eCredit Registration:
-OPENS TO ALL GRADES (10th-12th) – Registration EXTENDED until Wednesday, September 23rd at 8pm.
+OPENS TO ALL GRADES (10th-12th) – Registration has closed
 If you are not sure what course to register for, we recommend reaching out to your counselor ASAP about what options you have.
 Courses offered – Fall 2026 eCredit Recovery session:
 English 9A/B, English 10A/B, English 11 A/B, English 12 A/B
@@ -1567,257 +1567,6 @@ St. Vrain Virtual High School
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/graduation-requirements/
 
-### Laboratory Safety
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/
-- Last modified: 2025-09-02T08:33:57-06:00
-
-Overview
-The St. Vrain Valley School District Board of Education believes that safety education and accident prevention are important to everyone concerned with the schools not only as a protective measure during school hours but also as an instructional means of developing an appropriate mode of behavior to minimize accidents at all times.
-The prevention of accidents and injuries to employees, students and visitors shall be integrated in all aspects of work activity.
-All levels of management shall be held accountable for maintaining a safe and healthy workplace for all employees, students and visitors and for insuring that all safety precautions and practices are followed.
-Laboratory Safety
-SVVSD Student Safety Contract
-Download
-SVVSD Student Safety Contract Spanish
-Download
-Student Safety Rules
-Laboratory Safety Rules
-Chemical Hygiene Plan
-Poison / First Aid Procedures
-Bodily Fluid Clean Up Procedures
-Download
-Chemical Spill Clean Up Procedures
-Download
-Chemical Inventory & Disposal
-Chemical Inventory Procedures
-Chemical Disposal Procedures
-Chemical Disposal Form
-Download
-Restricted & Prohibited Chemical List
-Download
-MSDS ­ Safety Resources ­ FOSS ­ Flinn
-Regulations & Laws
-SVVSD Hazardous Materials Policy
-Colorado Department of Public Health and Environment
-CDPHE Rules & Regulations Governing Schools in Colorado
-CDPHE Restricted & Prohibited Chemical List
-CDPHE Managing Chemicals in Schools
-Laboratory Safety Courses
-School Chemical & Laboratory Safety Courses
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/
-
-### Chemical Disposal Procedures
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/chemical-disposal-procedures/
-- Last modified: 2020-10-14T09:46:52-06:00
-
-Write your Facility Name, Department, and Point of Contact in appropriate areas.
-Product Name:
-List the name of the product as stated on MSDS.
-Manufacturer Name:
-Provide the name of the product manufacturer. Many products will have similar names, but are manufactured by different companies and may have different MSDS information.
-Quantity
-: Provide the total quantity in the blank provided. List the container size and please mark the correct unit of measure.
-State:
-Provide the physical state of the product [example – solid (S), liquid (L), gas (G), aerosol (AE), or Compressed Gas (*G)]. A powder is considered a solid. If you have a paste, please call it a liquid.
-Hazard Category:
-Please indicate if the chemical is Flammable (F), Toxic (T), Corrosive (C), Reactive (R), or Unstable (U).
-Storage Location:
-Provide the room number(s) where the products are stored. Provide the general storage method and conditions (example – CR 349 on metal shelving, room has ventilation).
-Contact Environmental Compliance Manager:
-Please submit the completed form to the Environmental Compliance Manager to arrange for proper disposal by a licensed company.
-Do not throw the product away.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/chemical-disposal-procedures/
-
-### Chemical Inventory Procedures
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/chemical-inventory-procedures/
-- Last modified: 2020-10-14T21:03:51-06:00
-
-Open the
-SVVSD Chemical Inventory Form
-Write the date the inventory is conducted along with the name and telephone number of the person conducting the Inventory.
-Storage Location:
-Provide room number(s) where products are stored. Provide general storage method and conditions (example – CR 349 on metal shelving, room has ventilation).
-Number of Containers:
-Provide the total quantity in the blank provided.
-Container Size:
-Provide the size of the container with the correct until of measure.
-State:
-Provide the physical state of the product [example – solid (S), liquid (L), gas (G), aerosol (AE), or Compressed Gas (*G)]. A powder is considered a solid. If you have a paste, please call it a liquid.
-MSDS:
-Ensure that there is a MSDS cataloged for the product. If yes, please be sure that it is recent (no more than 3-5 years old). If no, please be sure to download one from the internet, or request one from the manufacturer.
-Pick Up and Dispose of Hazardous Waste Products:
-If you need to dispose of a product, please fill out the Chemical Disposal Form that can be found on the
-Laboratory Safety webpage
-and submit it to the Environmental Compliance Manager.
-Do not throw the product away.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/chemical-inventory-procedures/
-
-### Laboratory Safety Rules
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/laboratory-safety-rules/
-- Last modified: 2020-10-14T09:47:30-06:00
-
-Wear proper eye protection at all times during laboratory activities. Consult with your instructor about your use of contact lenses. Know the location of eye wash equipment.
-Securely tie hair that reaches to the shoulders. Remember that hair is very flammable.
-No eating, drinking, or gum chewing in the laboratory. Dangerous chemicals may get in your mouth. Never taste anything in the laboratory unless specifically instructed to do so by your teacher.
-No chemicals are ever to be taken from the laboratory.
-Do only the experiments assigned and in the manner prescribed. Unauthorized experiments are prohibited.
-Never engage in horseplay or practical jokes. This is when injuries occur.
-Footwear that completely covers the foot is highly recommended.
-Avoid inhaling chemical fumes and filling pipettes by mouth. Consider ALL chemicals dangerous unless they are known to be otherwise.
-The teacher is to be notified immediately in case of an accident, no matter how trivial it may appear.
-Know the locations of the fire extinguisher, fire blanket, eyewash, safety shower, first aid kit, lab aprons, goggle cabinet, fire exits, and fire alarm pulls.
-Notify your instructor immediately of any spills on your clothing.
-Do not use the sink to discard matches, filter paper, or insoluble solids. Use the appropriate waste containers that are provided.
-Do not return chemicals to their original containers unless you are specifically instructed to do so.
-Never point the open end of a test tube that is being heated at yourself or others.
-Always dilute acid by adding the acid to water.
-Many chemicals are poisonous and you are expected to wash your hands after you work in the lab and before you leave the lab to prevent accidental ingestion of the chemicals.
-Ask questions if you do not understand something. We learn by inquiry.
-Be aware that some of the materials that you will be working with can damage your clothes and body tissues. Work in a responsible way.
-Treat any living organisms humanely and any preserved specimens with respect.
-You are responsible for any damage you cause to the text, computers, lab equipment, or property owned by your classmates.
-Always follow all safety rules and instructions given by your instructor.
-Let your instructor know if you are color blind.
-Let your instructor know if you have any allergies. Give your instructor a list of specific allergies.
-Use common sense and your powers of observation and reasoning.
-THINK SAFE – ACT SAFE
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/laboratory-safety-rules/
-
-### Poison / First Aid Procedures
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/poison-first-aid-procedures/
-- Last modified: 2020-10-14T09:49:01-06:00
-
-More than 2 million poisonings are reported each year across the country. The Red Cross urges people to follow these steps to help prevent, treat and respond to poisoning:
-If you suspect a poisoning emergency, call the National Poison Control Center toll-free at (800) 222-1222. Post this and other emergency phone numbers by all of your telephones.
-The District Environmental Compliance Manager should be contacted for advice and assistance at 720-340-6579.
-Keep all chemicals and medicines locked up and out of sight.
-Be careful when handling substances, chemicals and cleaners that could be harmful. Only use them in well-ventilated areas and wear protective clothing, such as gloves and a face mask.
-Keep medications in the containers they came in. Make sure they are kept out of children’s reach.
-Read the product information carefully. Use only as directed.
-Be aware of the possible side effects and any possible interactions with other medications you are taking. Ask your health care provider or pharmacist if you have any questions.
-Never use another person’s prescribed medications or medications that have expired.
-Poisons can be swallowed, inhaled, absorbed or injected
-If you suspect a poisoning:
-Check the scene and the person. Try to find out what poison was taken. Look for any containers and take them with you to the phone.
-Call the National Poison Control Center at (800) 222-­‐1222 and follow their instructions.
-The District Environmental Compliance Manager should be contacted for advice and assistance at 720-­‐340-­‐6579.
-Care for any life threatening conditions found. DO NOT give the person anything to eat or drink unless directed to do so by the National Poison Control Center or Emergency Medical Services (EMS) personnel.
-Carbon Monoxide Poisoning
-Install a carbon monoxide alarm in the hallways near sleeping areas, avoiding corners where air does not circulate, and follow the manufacturer’s instructions to test the alarm every month.
-Know the symptoms of carbon monoxide poisoning: headache, dizziness, weakness, nausea, vomiting, sleepiness, and confusion. If you suspect carbon monoxide poisoning, get outside to fresh air immediately, and then call 911.
-The District Environmental Compliance Manager should be contacted for advice and assistance at 720-340–6579.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/poison-first-aid-procedures/
-
-### St. Vrain Recommended Safety Training Courses
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/st-vrain-recommended-safety-training-courses/
-- Last modified: 2020-10-14T09:49:21-06:00
-
-The following courses are recommended Laboratory Safety Training Courses for St. Vrain staff members. All are free courses and fulfill the OSHA (Occupational Safety and Health Administration) requirements for school lab safety certification.
-Chemical Safety Course – This is a Public School Works Course with a goal of providing required awareness training in the occupational hazards common to the handling and use of chemicals, methods and techniques used for evaluating and minimizing chemical exposure, measures employees can take to protect themselves from chemical hazards, safe practices for chemical storage and waste disposal, and the correct response to emergency situations involving chemical spills.
-(See Public School Works Log-in Information below)
-Laboratory Safety Course – This is a Public School Works Course with a goal of providing required awareness training in the occupational hazards common to most laboratory operations, safe work practices to help reduce or eliminate exposure to these hazards, special equipment and precautions to ensure personal safety, and the correct response to emergency situations in laboratories.
-(See Public School Works Log-in Information below)
-School Laboratory Safety Course – This is a FLINN Scientific Training designed to fulfill the Occupational Safety and Health Administration (OSHA) requirements for the United Nations Globally Harmonized System (GHS) for the classification and identification of chemical hazards. By watching the free 20 minute video below, and taking a short assessment, you will fulfill the GHS training requirement under the new OSHA Hazard Communication Standard. Once your training is completed you will be able to print a Certificate of Completion for your records.
-(See FLINN Log-in Information below)
-Public School Works Log-In Information
-The login is located in the top left corner
-User Name: last name _ fist name (same as your SVVSD email)
-Password: Last 4 of social security number and birthday mmddyyyy (Example: 724810041974)
-FLINN Log-In Information
-Click on GHS Training
-Create a new user account and continue to Course Information
-Again, click on GHS Training
-Watch the 20 minute Video
-Take the Assessment Quiz
-Print out your Certificate
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/st-vrain-recommended-safety-training-courses/
-
-### Student Safety Rules
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/student-safety-rules/
-- Last modified: 2020-10-14T09:49:35-06:00
-
-Science is a hands-on laboratory class. You will be doing many laboratory activities that require the use of hazardous chemicals. Safety in the science classroom is the #1 priority for students, teachers, and parents.
-To ensure a safe science classroom, a list of rules has been developed and provided to you in this student safety contract. These rules must be followed at all times. The safety contract must be signed by both you and a parent or guardian before you can participate in the laboratory. Keep this copy of safety rules in your science notebook as a constant reminder of the safety rules.
-General Guidelines
-Conduct yourself in a responsible manner at all times in the laboratory.
-Follow all written and verbal instructions carefully. If you do not understand a direction or part of a procedure, ask the instructor before proceeding.
-Never work alone. No student may work in the laboratory without an instructor present.
-When first entering a science room, do not touch any equipment, chemicals, or other materials in the laboratory until you are instructed to do so.
-Do not eat food, drink beverages, or chew gum in the laboratory. Do not use laboratory glassware as containers for food or beverages.
-Perform only those experiments authorized by the instructor. Never do anything in the laboratory that is not called for in the laboratory procedures or by your instructor. Carefully follow all instructions, both written and oral. Unauthorized experiments are prohibited.
-Be prepared for your work in the laboratory. Read all procedures thoroughly before entering the laboratory. Never fool around in the laboratory. Horseplay, practical jokes, and pranks are dangerous and prohibited.
-Observe good housekeeping practices. Work areas should be kept clean and tidy at all times. Bring only your laboratory instructions, worksheets, and/or reports to the work area. Other materials (books, purses, backpacks, etc.) should be stored in the classroom area.
-Keep aisles clear. Push your chair under the desk when not in use.
-Know the locations and operating procedures of all safety equipment including the first aid kit, eyewash stations, safety shower, fire extinguisher, and fire blanket. Know where the fire alarm and the exits are located.
-Always work in a well-ventilated area. Use the fume hood when working with volatile substances or poisonous vapors. Never place your head into the fume hood.
-Be alert and proceed with caution at all times in the laboratory. Notify the instructor immediately of any unsafe conditions you observe.
-Dispose of all chemical waste properly. Never mix chemicals in sink drains. Sinks are to be used only for water and those solutions designated by the instructor. Solid chemicals, metals, matches, filter paper, and all other insoluble materials are to be disposed of in the proper waste containers, not in the sink. Check the label of all waste containers twice before adding your chemical waste to the container.
-Labels and equipment instructions must be read carefully before use. Set up and use the prescribed apparatus as directed in the laboratory instructions or by your instructor.
-Keep hands away from face, eyes, mouth, and body while using chemicals or preserved specimens. Wash your hands with soap and water after performing all experiments. Clean (with detergent), rinse, and wipe dry all work surfaces, (including the sink) and apparatus at the end of the experiment. Return all equipment clean and in working order to the proper storage area.
-Experiments must be personally monitored at all times. You will be assigned a laboratory station at which to work. Do not wander around the room, distract other students, or interfere with the laboratory experiments of others.
-Students are never permitted in the science storage rooms or preparation areas unless given specific permission by their instructor.
-Know what to do if there is a fire drill during a laboratory period; containers must be closed, gas valves turned off, fume hoods turned off, and any electrical equipment turned off.
-Handle all living organisms used in a laboratory activity in a humane manner. Preserved biological materials are to be treated with respect and disposed of properly.
-When using knives and other sharp instruments, always carry with tips and points pointing down and away. Always cut away from your body. Never try to catch falling sharp instruments. Grasp sharp instruments only by the handles.
-Clothing
-Any time chemicals, heat, or glassware are used, students will wear laboratory goggles. There will be no exceptions to this rule!
-Contact lenses should not be worn in the laboratory unless you have permission from your instructor.
-Dress properly during a laboratory activity. Long hair, dangling jewelry, and loose or baggy clothing are a hazard in the laboratory. Long hair must be tied back and dangling jewelry and loose or baggy clothing must be secured. Shoes must completely cover the foot. No sandals allowed.
-Lab aprons have been provided for your use and should be worn in the laboratory activities.
-Accidents and Injuries
-Report any accident (spill, breakage, etc.) or injury (cut, burn, etc.) to the instructor immediately, no matter how trivial it may appear.
-If you or your lab partner is hurt, immediately yell out “Code One, Code One” to get your instructor’s attention.
-If a chemical should splash in your eye(s) or on your skin, immediately flush with running water from the eyewash station or safety shower for at least 20 minutes. Notify the instructor immediately.
-When mercury thermometers are broken, mercury must not be touched. Notify the instructor immediately.
-Handling Chemicals
-All chemicals in the laboratory are to be considered dangerous. Do not touch, taste, or smell any chemical unless specifically instructed to do so. The proper technique for smelling chemical fumes will be demonstrated to you.
-Check the label on chemical bottles twice before removing any of the contents. Take only as much chemical as you need.
-Never return unused chemicals to their original containers.
-Never use mouth suction to fill a pipet. Use a rubber bulb or pipet pump.
-When transferring reagents from one container to another, hold the containers away from your body.
-Acids must be handled with extreme care. You will be shown the proper method for diluting strong acids. Always add acid to water, swirl or stir the solution and be careful of the heat produced, particularly with sulfuric acid.
-Handle flammable hazardous liquids over a pan to contain spills. Never dispense flammable liquids anywhere near an open flame or source of heat.
-Never remove chemicals or other materials from the laboratory area.
-Take great care when transferring acids and other chemicals from one part of the laboratory to another. Hold them securely and walk carefully.
-Handling Glassware and Equipment
-Carry glass tubing, especially long pieces, in a vertical position to minimize the likelihood of breakage and injury.
-Never handle broken glass with your bare hands. Use a brush and dustpan to clean up broken glass. Place broken or waste glassware in the designated glass disposal container.
-Inserting and removing glass tubing from rubber stoppers can be dangerous. Always lubricate glassware (tubing, thistle tubes, thermometers, etc.) before attempting to insert it in a stopper. Always protect your hands with towels or cotton gloves when inserting glass tubing into, or removing it from, a rubber stopper. If a piece of glassware becomes “frozen” in a stopper, take it to your instructor for removal.
-Fill wash bottles only with distilled water and use only as intended, e.g., rising glassware and equipment, or adding water to a container.
-When removing an electrical plug from its socket, grasp the plug, not the electrical cord. Hands must be completely dry before touching an electrical switch, plug, or outlet.
-Examine glassware before each use. Never use chipped or cracked glassware. Never use dirty glassware.
-Report damaged electrical equipment immediately. Look for things such as frayed cords, exposed wires, and loose connections. Do not use damaged electrical equipment.
-If you do not understand how to use a piece of equipment, ask the instructor for help.
-Do not immerse hot glassware in cold water; it may shatter.
-Heating Substances
-Exercise extreme caution when using a gas burner. Take care that hair, clothing, and hands are a safe distance from the flame at all times. Do not put any substance into the flame unless specifically instructed to do so. Never reach over an exposed flame. Light gas (or alcohol) burners only as instructed by the teacher.
-Never leave a lit burner unattended. Never leave anything that is being heated or is visibly reacting unattended. Always turn the burner or hot plate off when not in use.
-You will be instructed in the proper method of heating and boiling liquids in test tubes. Do not point the open end of a test tube being heated at yourself or anyone else.
-Heated metals and glass remain very hot for a long time. They should be set aside to cool and picked up with caution. Use tongs or heat–protective gloves if necessary.
-Never look into a container that is being heated.
-Do not place hot apparatus directly on the laboratory desk. Always use an insulating pad. Allow plenty of time for hot apparatus to cool before touching it.
-When bending glass, allow time for the glass to cool before further handling. Hot and cold glass have the same visual appearance. Determine if an object is hot by bringing the back of your hand close to it prior to grasping it.
-Information to give to your instructor
-Tell your instructor if you wear contact lenses.
-Tell your instructor if you are color blind.
-Tell your instructor if you have allergies. Give your instructor a list of specific allergies
-© 1998 Flinn Scientific, Inc. All Rights Reserved. Reproduction permission is granted to science teachers who are current customers of Flinn Scientific, Inc.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/laboratory-safety/student-safety-rules/
-
 ### Math, Engineering, and Science Achievement (MESA)
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/math-engineering-and-science-achievement-mesa/
@@ -1834,7 +1583,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Elementary Report Cards
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/report-cards/
-- Last modified: 2026-04-22T13:59:10-06:00
+- Last modified: 2026-10-02T18:28:40-06:00
 
 Overview
 Elementary report cards reflect a standards-based approach to evaluating student performance. They identify grade level Learner Expectations for student learning in each subject area. More detailed information about the specific concepts and skills students are expected to know, understand, and be able to demonstrate at each grade level can be found in the
@@ -4244,7 +3993,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletic
 ### Athletics
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/athletics/
-- Last modified: 2026-08-31T16:14:07-06:00
+- Last modified: 2026-10-05T11:48:42-06:00
 
 Athletics are an important part of the St. Vrain Valley Schools’ educational program. The district provides a variety of equitable sports programs that give all students the opportunity to participate and compete. Athletics present an excellent situation for experiences and development of democratic cooperation. It provides an avenue for the formation of lasting friendships and other personal interactions. These experiences gained through participation in athletics should aid the student in meeting the demands and challenges of living in a modern American society.
 200+ Athletic Championships
@@ -4399,13 +4148,13 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### District-Wide Fine Arts Events
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/
-- Last modified: 2026-01-06T07:11:49-07:00
+- Last modified: 2026-10-05T14:24:13-06:00
 
 Mark your calendars!
 We’ve got some special events on the horizon you won’t want to miss. Events listed below are listed by the date of the event and are open to the public.
 St. Vrain Band Night
 Date
-: October 8, 2025
+: October 7, 2026
 Location
 : Everly Montgomery Stadium at Longmont High School
 Time
@@ -4415,31 +4164,31 @@ Additional event information
 St. Vrain Band Night Website
 High School Fall Choral Festival
 Date
-: October 16, 2025
+: October 21, 2026
 Location
 : Skyline High School Auditorium
 Time
 : 7:00 pm
 Elementary Choral Festival
 Date
-: November 5, 2025
+: November 5, 2026
 Location
-: Vance Brand Civic Auditorium at Skyline High School
+: Erie High School Auditorium
 Time
 : 6:00 pm
 High School Honor Orchestra
 Date
-: November 19, 2025
+: November 19, 2026
 Location
-: Mead High School Auditorium
+: Erie High School Auditorium
 Time
 : 7:00 pm
 Additional Event information
 :
-HS Honor Orchestra, Harp & Mariachi Website
+HS Honor Orchestra & Mariachi Website
 Middle School Honor Choir
 Date
-: January 20, 2026
+: January 19, 2027
 Location
 : Niwot High School
 Time
@@ -4449,9 +4198,9 @@ Additional Event information
 MS Honor Choir Website
 High School Honor Choir
 Date
-: January 26, 2026
+: January 25, 2027
 Location
-: Frederick High School Auditorium
+: Vance Brand Civic Auditorium, Skyline High School
 Time
 : 7:00 pm
 Additional Event information
@@ -4459,7 +4208,7 @@ Additional Event information
 HS Honor Choir Website
 Middle and High School Honor Band
 Date
-: February 4, 2026
+: February 3, 2027
 Location
 : Longmont High School Auditorium
 Time
@@ -4469,9 +4218,9 @@ Additional Event information
 MS and HS Honor Band Website
 Middle School Honor and Philharmonic Orchestra Festival
 Date
-: March 10, 2026
+: March 11, 2027
 Location
-: Frederick High School Auditorium
+: Erie High School Auditorium
 Time
 : 7:00 pm
 Additional Event information
@@ -5776,7 +5525,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### St. Vrain Band Night
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/st-vrain-band-night/
-- Last modified: 2026-09-08T11:41:41-06:00
+- Last modified: 2026-10-07T08:47:35-06:00
 
 Event Summary
 St. Vrain Band Night provides an opportunity for students to showcase their marching band skills to a live audience, but also to learn from the other programs throughout the district and state. Additionally, judges will be present to give each band feedback outside of a competitive environment.
@@ -5787,6 +5536,7 @@ Date & Time
 Location
 :
 Everly Montgomery Field at Longmont High School, 1040 Sunset St. Longmont, CO 80501
+View the facility map HERE
 Gates open at 5:15 pm for spectators
 Buy your tickets!
 Cost of Admission
@@ -5799,30 +5549,58 @@ Buy your ticket online:
 HERE – GoFan Tickets
 Animal Policy
 : No animals will be allowed in the facility except for service animals.
-Performance Order
-As of 9/8/2026
+Schedule
+5:15 PM – Box Office and gates open for spectators
 6:05 PM – National Anthem by Lyons High School & Skyline High School
+Directors: Elise Ehlert and Tucker Ewer
 6:10 PM – Unified Percussion Combined Performance
+Directors: Abby Judy, Zac Fruits, Tucker Ewer, Bill Legg, Christopher Thomas
+Musical Selections include: “Poe’s Bird”; “You Belong with Me”
 6:15 PM – Skyline High School
+Director: Tucker Ewer
+Drum Major: Genesis Salgado
+Repertoire: “Holiday” by Green Day
+Musical Selections include: “Holiday” by Green Day
 6:25 PM – Silver Creek High School
+Director: Bill Legg and Carrie Borja
+Drum Majors: Story McMurtry and Gavin Kim
+Repertoire: “Water Lilies”
+Musical Selections include: original music by S.J. Shaver, Thomas Landewee, and Scott Elias
 6:37 PM – Niwot High School
+Director: Wade Hendricks
+Drum Majors: Aidan Coble and Owen Simon
+Repertoire: “The Amazing Race!” Embark on a worldwide adventure based on the hit reality competition show
+Musical Selections include: “Children of Sanchez” by Chuck Mangione; “Homage to Bharat”; “Land Down Under” by Men at Work; “Waka Waka” by Shakira
 6:49 PM – Frederick High School
+Directors: Christopher Thomas and Nathan Park
+Drum Majors: Colin Toepfer and Cooper Siders
+Repertoire: “Wild Things.” This performance tells of the land that is nurtured by the life giving force of water
 7:01 PM – Longmont High School
+Directors: Jack Merrill & Darryl Abrahamson
+Drum Majors: Kayla Uemura, Gabe Thorson and Travis Plaster
+Repertoire: “Things That Are Strange” featuring the iconic music of Kate Bush, Mick Jones, Joe Strummer, and David Merrill
+Musical Selections include: “Running Up That Hill”; “Should I Stay Or Should I Go?”; “Master of Puppets”
 7:13 PM – Mead High School
+Directors: Abby Judy and Gideon Matchey
+Drum Majors: Brianna Fehrn, Dillon Ingram, and Charissa Vicente
+Repertoire: “Shut Up and March” featuring music from the popular video game, Just Dance
+Musical Selections include: “Sway”; “Call Me”; “Shut Up and Dance”
 7:25 PM – Erie High School
-7: 37 PM – Combined Bands
+Director: Zachary Fruits
+Drum Majors: Aubrey Noble, Andrew Staples, and Lillie Meyer
+Repertoire: “Louder Than Life!” featuring a modern take on the Stadium Rock Anthems of the 1980s.
+Musical Selections include: “Jump” by Van Halen; “You Give Love a Bad Name” by Bon Jovi; “Livin’ on a Prayer” by Bon Jovi
+7:37 PM – Combined Band Performance
+Musical Selection: “Sweet Caroline” by Neil Diamond
 7:52 PM – **SVVSD Drone Show**
-All spectators and performers must exit the stands and field before the drone show can begin
-** Please join us following the culmination of the event to enjoy a drone show celebrating music in SVVSD!
+Please join us following the culmination of the event to enjoy a drone show celebrating music in SVVSD!
 After the final performance, all spectators will need to exit the stadium grounds in order to view the drone show.
 For best viewing
 , make your way to the soccer field or south walkway.
-Special Guests in the Booth
+Special Guest in the Booth
 Joe Bartko – Announcer
 Joe Bartko brings an extensive background of announcing and pageantry experience to the microphone tonight. He attended Niwot H.S. and was a member of the marching, concert and jazz bands, and during that time, began his tenure in drum corps as a percussionist with the Blue Knights Drum & Bugle Corps. He continued his involvement in the drum corps activity as the long-time announcer for “Corps Encore” in Ogden, UT, the “Mile High Showcase” and “Drums Along the Rockies.” As a highly sought-after performing arts and sports announcer, Mr. Bartko has also announced a variety of other events including rodeos, marching band competitions, corporate functions, and sporting events, including the Niwot H.S. Football games.
-In 1992, Mr. Bartko, along with other percussion educators, created and founded the Rocky Mountain Percussion Association, where he has announced every season. He has announced across the country for Winter Guard International (WGI) including the Percussion World Championships for nearly 30 years. Mr. Bartko has announced a variety of marching band events and Colorado Bandmasters Association (CBA) marching band competitions. He served as the on-air host for the CBA State Marching Championships broadcast and does continued voice-over work for radio and television. Mr. Bartko served as the “voice” of the “Colorado State University Marching Band,” announcing at all home football games of the CSU Rams, Denver Bronco halftime performances and bowl game appearances In addition to his work doing radio and TV voice-overs, Mr. Bartko was the on-camera spokesperson for FOHVAMP – the “Families of Homicide Victims and Missing Persons”.
-Modern Icon Media
-Modern Icon Media is a video production company founded by Trenton Hoshiko, former Silver Creek HS student, and based out of the Longmont/Boulder area. Modern Icon Media provides “outstanding video production and video advertising services to Northern Colorado organizations.”
+In 1992, Mr. Bartko, along with other percussion educators, created and founded the Rocky Mountain Percussion Association, where he has announced every season. He has announced across the country for Winter Guard International (WGI) including the Percussion World Championships for nearly 30 years. Mr. Bartko has announced a variety of marching band events and Colorado Bandmasters Association (CBA) marching band competitions. He served as the on-air host for the CBA State Marching Championships broadcast and does continued voice-over work for radio and television. Mr. Bartko served as the “voice” of the “Colorado State University Marching Band,” announcing at all home football games of the CSU Rams, Denver Bronco halftime performances and bowl game appearances. In addition to his work doing radio and TV voice-overs, Mr. Bartko was the on-camera spokesperson for FOHVAMP – the “Families of Homicide Victims and Missing Persons.”
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/st-vrain-band-night/
 
@@ -6541,7 +6319,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-09-28T15:44:23-06:00
+- Last modified: 2026-10-02T14:49:00-06:00
 
 District Accounts
 Assessment (X)
@@ -8513,7 +8291,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-08-07T13:36:08-06:00
+- Last modified: 2026-10-05T12:50:45-06:00
 
 Welcome to Your Employee Benefits
 St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
@@ -8522,7 +8300,7 @@ Benefits App:
 A quick reference for benefits phone numbers, websites, links to find your ID cards, and links to find a provider.
 open benefits app
 View more information about:
-Medical
+Medical, Pharmacy, and HRA
 Dental
 Vision
 Flexible Spending Accounts (FSAs)
@@ -8567,7 +8345,7 @@ The Hartford Short Term Disability Policy Document
 The Hartford Basic Life Policy Document – Certified/Classified
 The Hartford Basic Life Policy Document – Administrative/Professional/Technical
 The Hartford Voluntary Life Policy Document
-Contact Benefits
+Benefits Assistance
 A member of the benefits team can provide expert assistance with enrollment and questions.
 Lori Holt
 Benefits Technician
@@ -9173,7 +8951,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
-- Last modified: 2026-09-21T14:11:54-06:00
+- Last modified: 2026-10-02T14:31:22-06:00
 
 Current Staff Resources
 Current St. Vrain Valley Schools employees can access a variety of resources and information to support them throughout the school year. Find important calendars, salary schedules, benefits information, professional development resources, employee forms and more below.
@@ -9225,7 +9003,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/
 ### Employee Calendars
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/employee-calendars/
-- Last modified: 2026-03-23T16:28:45-06:00
+- Last modified: 2026-10-02T14:19:24-06:00
 
 Employee Calendars
 2026-2027
@@ -9371,51 +9149,10 @@ Work Calendar Guide 25-26
 
 Source: https://www.svvsd.org/departments/human-resources/current-employees/employee-calendars/
 
-### Employee Leave
-
-- Canonical URL: https://www.svvsd.org/departments/human-resources/employee-leave/
-- Last modified: 2025-02-24T07:46:53-07:00
-
-Employee Leave
-It is important to St. Vrain that employees have a good work/life balance and to have the opportunity to “refresh” without worrying about income. Therefore, St. Vrain Valley Schools provides holidays, breaks and paid time off.
-Leaves of Absence –
-Click here for LOA Q & A
-Forms
-Health Care Provider Certification – Employee
-Health Care Provider Certification – Family Member
-Request for Leave of Absence Form
-Classified, Professional/Technical, and Certified employees shall be eligible to participate in one of two voluntary Sick Leave Banks that allows employees to donate a requisite portion of their paid time off into a Sick Leave Bank that is available to assist employees who are eligible under the program. This program provides salary and benefits continuation for eligible employees in the event of a personal extended illness or injury which renders the member incapable of working.
-Eligible employees may join as a newly hired employee or during Benefits Open Enrollment with contribution(s) from their paid leave hours in the amount equal to the number of hours worked per day. Time off for a recovery period may be requested if:
-Certified (Licensed) Employees
-Classified, Professional/Technical Employees
-Eligible Members:
-All teachers as defined in Article 1.1 in the Agreement, exclusive of foreign exchange teachers
-Eligible Members:
-All benefits-eligible Classified and Professional/Technical employees who work at least 17.5 hours per week
-You are a member of the Sick Leave Bank
-You have been enrolled in the Sick Leave Bank for at least 1 full year (12 months) immediately prior to the start of your Leave of Absence
-You have provided HR with a doctor’s note identifying the illness/injury and expected recovery time through the Leave of Absence process
-You are on a Leave of Absence approved by Human Resources
-You have exhausted all paid leave
-You have completed 15 days of Diff Dock (the difference between your daily rate and the daily rate paid to a substitute, whether or not you actually need a substitute)
-You have completed 10 days of unpaid leave
-Your request is made no later than 30 calendar days after the member returns to work
-Benefit:
-Members may be granted up to 60 days of leave from the Sick Leave Bank in a single academic year
-Benefit:
-Members may be granted up to 50 days of leave from the Sick Leave Bank in a single academic year
-All Sick Leave Bank requests will be reviewed by a board, and any decision made by the board shall be final and not subject to grievance procedures. You are not eligible to apply for Sick Leave Bank hours while on worker’s compensation or PERA Short Term Disability.The complete by-laws and procedures surrounding the Licensed Sick Leave Bank are published in the SVVSD- SVVEA Master Agreement document, Article 22-Sick Leave Bank. The Classified, Professional/Technical Sick Leave Bank by-laws are published in the applicable Employee Handbooks (Section 4.9 in the Classified Handbook, and 4.10 in the APT Handbook).
-handbooks and agreements
-All Sick Leave Bank requests will be reviewed by a board, and any decision made by the board shall be final and not subject to grievance procedures. You are not eligible to apply for Sick Leave Bank hours while on worker’s compensation or PERA Short Term Disability.
-Employee Insurance Payments
-Click here to pay your premiums.
-
-Source: https://www.svvsd.org/departments/human-resources/employee-leave/
-
 ### Evaluation Information
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/evaluation-information/
-- Last modified: 2023-10-23T11:29:03-06:00
+- Last modified: 2026-10-02T14:19:30-06:00
 
 Evaluation Information
 Login page
@@ -9484,7 +9221,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/forms/
-- Last modified: 2026-09-09T13:45:26-06:00
+- Last modified: 2026-10-02T14:19:41-06:00
 
 APT Employee Forms
 Resignation Form
@@ -9517,7 +9254,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/form
 ### Handbooks and Agreements
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/handbooks-and-agreements/
-- Last modified: 2026-08-11T09:30:46-06:00
+- Last modified: 2026-10-02T14:19:33-06:00
 
 Handbooks and Agreements
 The agreement between the St. Vrain Valley Education Association and the St. Vrain Valley School District No RE-1J is available by clicking below. The agreement also includes the current salary schedule. Employee handbooks for employees not covered by the agreement are also included.
@@ -9556,7 +9293,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/hand
 ### Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/resources/
-- Last modified: 2025-12-19T09:41:43-07:00
+- Last modified: 2026-10-02T14:19:48-06:00
 
 Employee Resources
 Human Resources Staffing Support Areas
@@ -9569,7 +9306,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/reso
 ### Retirement
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/retirement/
-- Last modified: 2023-09-27T10:22:12-06:00
+- Last modified: 2026-10-02T14:19:56-06:00
 
 Retirement
 PENSION FUND (PERA)
@@ -9584,17 +9321,58 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/reti
 ### SVVEA-SVVSD Negotiations
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/svvea-svvsd-negotiations/
-- Last modified: 2026-01-15T10:11:13-07:00
+- Last modified: 2026-10-02T14:20:02-06:00
 
 Click on the link to view the 2026 Negotiations Schedule.
 2026 Schedule
 
 Source: https://www.svvsd.org/departments/human-resources/current-employees/svvea-svvsd-negotiations/
 
+### Employee Leave
+
+- Canonical URL: https://www.svvsd.org/departments/human-resources/employee-leave/
+- Last modified: 2026-10-02T14:46:12-06:00
+
+Employee Leave
+It is important to St. Vrain that employees have a good work/life balance and to have the opportunity to “refresh” without worrying about income. Therefore, St. Vrain Valley Schools provides holidays, breaks and paid time off.
+Leaves of Absence –
+Click here for LOA Q & A
+Forms
+Health Care Provider Certification – Employee
+Health Care Provider Certification – Family Member
+Request for Leave of Absence Form
+Classified, Professional/Technical, and Certified employees shall be eligible to participate in one of two voluntary Sick Leave Banks that allows employees to donate a requisite portion of their paid time off into a Sick Leave Bank that is available to assist employees who are eligible under the program. This program provides salary and benefits continuation for eligible employees in the event of a personal extended illness or injury which renders the member incapable of working.
+Eligible employees may join as a newly hired employee or during Benefits Open Enrollment with contribution(s) from their paid leave hours in the amount equal to the number of hours worked per day. Time off for a recovery period may be requested if:
+Certified (Licensed) Employees
+Classified, Professional/Technical Employees
+Eligible Members:
+All teachers as defined in Article 1.1 in the Agreement, exclusive of foreign exchange teachers
+Eligible Members:
+All benefits-eligible Classified and Professional/Technical employees who work at least 17.5 hours per week
+You are a member of the Sick Leave Bank
+You have been enrolled in the Sick Leave Bank for at least 1 full year (12 months) immediately prior to the start of your Leave of Absence
+You have provided HR with a doctor’s note identifying the illness/injury and expected recovery time through the Leave of Absence process
+You are on a Leave of Absence approved by Human Resources
+You have exhausted all paid leave
+You have completed 15 days of Diff Dock (the difference between your daily rate and the daily rate paid to a substitute, whether or not you actually need a substitute)
+You have completed 10 days of unpaid leave
+Your request is made no later than 30 calendar days after the member returns to work
+Benefit:
+Members may be granted up to 60 days of leave from the Sick Leave Bank in a single academic year
+Benefit:
+Members may be granted up to 50 days of leave from the Sick Leave Bank in a single academic year
+All Sick Leave Bank requests will be reviewed by a board, and any decision made by the board shall be final and not subject to grievance procedures. You are not eligible to apply for Sick Leave Bank hours while on worker’s compensation or PERA Short Term Disability.The complete by-laws and procedures surrounding the Licensed Sick Leave Bank are published in the SVVSD- SVVEA Master Agreement document, Article 22-Sick Leave Bank. The Classified, Professional/Technical Sick Leave Bank by-laws are published in the applicable Employee Handbooks (Section 4.9 in the Classified Handbook, and 4.10 in the APT Handbook).
+handbooks and agreements
+All Sick Leave Bank requests will be reviewed by a board, and any decision made by the board shall be final and not subject to grievance procedures. You are not eligible to apply for Sick Leave Bank hours while on worker’s compensation or PERA Short Term Disability.
+Employee Insurance Payments
+Click here to pay your premiums.
+
+Source: https://www.svvsd.org/departments/human-resources/employee-leave/
+
 ### Employee Self Service
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/employee-self-service/
-- Last modified: 2026-09-21T10:59:31-06:00
+- Last modified: 2026-10-02T14:22:46-06:00
 
 Frequently Asked Questions
 How do I change my information?
@@ -9664,7 +9442,7 @@ Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2026-09-30T14:44:40-06:00
+- Last modified: 2026-10-02T14:40:56-06:00
 
 Human Resources Leadership Team
 Amanda Thompson
@@ -9779,7 +9557,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Administrators
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/administrators/
-- Last modified: 2026-09-15T15:02:37-06:00
+- Last modified: 2026-10-02T14:15:25-06:00
 
 New Employee Information
 Congratulations on your new administrative position with St. Vrain Valley Schools
@@ -9843,7 +9621,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2026-06-17T13:24:31-06:00
+- Last modified: 2026-10-02T14:15:57-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -9909,7 +9687,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Classified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/classified-professional-technical-employees/
-- Last modified: 2026-06-17T13:30:15-06:00
+- Last modified: 2026-10-02T14:16:03-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -9970,7 +9748,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Professional Technical Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/professional-technical-employees/
-- Last modified: 2026-06-17T13:35:51-06:00
+- Last modified: 2026-10-02T14:16:09-06:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -10031,7 +9809,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Prospective Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/
-- Last modified: 2023-06-06T15:10:48-06:00
+- Last modified: 2026-10-02T14:21:44-06:00
 
 Prospective Employees
 We are grateful for your interest in St.Vrain Valley Schools, a world-class PreK-12 public education system located in the north Denver-metro area. Our district is the educational home of more than 32,000 of Colorado’s students and is the seventh largest school district in the state, operating 57 schools and programs that are spread over 411 square miles.
@@ -10158,7 +9936,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-07-20T12:38:00-06:00
+- Last modified: 2026-10-08T07:51:16-06:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -10220,7 +9998,7 @@ Source: https://www.svvsd.org/departments/human-resources/request-employee-accom
 ### Retirement
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/retirement/
-- Last modified: 2026-09-21T10:28:23-06:00
+- Last modified: 2026-10-02T14:31:26-06:00
 
 Retiring from St. Vrain
 The hardest part is deciding to retire. From the District’s perspective, the rest is simple. Here’s what you need to know and do:
@@ -10389,7 +10167,7 @@ Source: https://www.svvsd.org/departments/human-resources/retirement/
 ### Risk Management
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/
-- Last modified: 2020-12-17T14:36:28-07:00
+- Last modified: 2026-10-02T14:32:09-06:00
 
 Risk Management
 Risk Management is the process of identifying and evaluating the risks associated with the activities and operations of the District; developing measures to control, reduce or eliminate those risks, and financing losses.
@@ -10417,7 +10195,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/forms/
-- Last modified: 2026-08-05T09:38:33-06:00
+- Last modified: 2026-10-02T14:32:16-06:00
 
 Forms
 Student Injury Report
@@ -10434,7 +10212,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/forms/
 ### Overnight Trip Request
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/overnight-trip-request/
-- Last modified: 2026-05-08T11:13:08-06:00
+- Last modified: 2026-10-02T14:32:18-06:00
 
 To access the Overnight/Out of State Trip request, please go to
 studenttrips.svvsd.org
@@ -10459,7 +10237,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/overni
 ### Report an Injury or Accident
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/risk-management/workers-compensation/
-- Last modified: 2026-09-16T11:32:40-06:00
+- Last modified: 2026-10-02T14:32:21-06:00
 
 Report an Injury or Accident
 Employee Injury Form
@@ -10475,7 +10253,7 @@ Source: https://www.svvsd.org/departments/human-resources/risk-management/worker
 ### Guest Teachers (Substitutes)
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/substitutes/
-- Last modified: 2026-07-21T13:35:11-06:00
+- Last modified: 2026-10-02T14:24:40-06:00
 
 Guest Teachers (Substitutes)
 Current Guest Teachers have access to Red Rover Absence Management, which allows Guest Teachers to review current assignments, review available jobs, cancel a job, and select your system notifications.
@@ -10570,6 +10348,41 @@ Electronic Fill In Time Card FAQ
 Request for Guest Teacher Coverage
 
 Source: https://www.svvsd.org/departments/human-resources/substitutes/substitute-forms/
+
+### Work in St. Vrain
+
+- Canonical URL: https://www.svvsd.org/departments/human-resources/work-in-st-vrain/
+- Last modified: 2026-10-02T14:14:20-06:00
+
+Prospective Employees
+We are grateful for your interest in St. Vrain Valley Schools, a world-class PreK-12 public education system located in the north Denver-metro area. Our district is the educational home of more than 32,000 of Colorado’s students and is the seventh largest school district in the state, operating 57 schools and programs that are spread over 411 square miles.
+Learn More About Working in St. Vrain:
+Careers Search & Apply
+The District’s staffing needs vary throughout the year. They include administrative, teaching, paraprofessional, transportation, food service, maintenance, support services and clerical positions. Additional details and specific openings are listed on Frontline Education, St. Vrain Valley Schools’ application management system.
+View Careers & Apply
+Salary Schedules
+St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
+Learn more and view salary schedules
+Work Calendars
+St. Vrain Valley Schools’ work calendars are dependent on the type of work you’re doing and the length of your employment contract.
+View all calendars here
+Guest Teachers
+Guest teachers (substitute teachers) are a vital part of the St. Vrain Valley Schools community.
+Learn more about Guest Teaching
+CDE Licensure Resources
+Obtaining a teaching license in Colorado is a structured process designed to ensure that educators meet the state’s rigorous professional standards. Whether you are entering the profession for the first time, seeking to transfer an existing credential to Colorado, or making a career change, a clear understanding of the state’s licensure pathways, eligibility requirements, and procedural steps is essential.
+Learn more about licensure
+Live in St. Vrain
+Across St. Vrain Valley Schools, we believe where you live matters just as much as where you teach. The Denver Metro area offers educators an exceptional quality of life combining outdoor adventure, a strong sense of community, innovative education, and everyday convenience.
+Learn more about living in St. Vrain
+New Employees
+We are excited that you have decided to join our community of outstanding administrators, educators, and staff. Please click on your position category for New Employee Information.
+Administrators
+Certified Employees
+Classified Employees
+Professional Technical Employees
+
+Source: https://www.svvsd.org/departments/human-resources/work-in-st-vrain/
 
 ### District Library and Media Services
 
@@ -11955,7 +11768,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-09-29T09:17:35-06:00
+- Last modified: 2026-10-08T13:19:41-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -11979,6 +11792,7 @@ October 6th, 2026
 2:45pm – 3:30pm
 Timberline PK-8 – Community Room
 Agenda
+Minutes
 January 26th, 2027
 2:45pm – 3:30pm
 Via Zoom
@@ -12286,7 +12100,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/paren
 ### Parent Resources & Parent Advisory Committee (PAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/parent-resources/
-- Last modified: 2026-09-29T09:16:02-06:00
+- Last modified: 2026-10-08T13:17:36-06:00
 
 Department Forms
 Refund or Transfer Request of Lunch Balance
@@ -12373,8 +12187,8 @@ Resources
 October 6th, 2026
 1:30pm-2:30 pm
 Timberline PK-8 – Community Room
-Sign Up
 Agenda
+Minutes
 January 26th, 2027
 1:30pm-2:30 pm
 Via Zoom
@@ -13213,16 +13027,14 @@ The Structure: A 30-credit program (24 CU Denver credits + 6 St. Vrain in-distri
 The Timeline: Cohort begins Spring 2027 and graduates in Fall 2028
 Application Deadline: November 1, 2026.
 St. Vrain Instructors: Suzy Evans, Matt Moulton, Casey Luker, Greg George, Jodi Garner and Carolyn Clifford
-Join Us for a Virtual Information Night!Bring your questions and join program leaders and SVVSD colleagues for a virtual information session to learn more about the cohort, curriculum, and registration.
-When: Tuesday, September 29 | 4:30 PM – 5:30 PM
+Join Us for a Virtual Information Night! Bring your questions and join program leaders and SVVSD colleagues for a virtual information session to learn more about the cohort, curriculum, and registration.
+When: Tuesday, October 13 | 4:30 PM – 5:30 PM
 Where: Join us on Zoom at
-https://ucdenver.zoom.us/my/bradhinson
+10/13 CU LDT Zoom Session
 Learn More: Visit our cohort page at
 http://svvsd-ldt.cu.studio
 (Curriculum / Cost / How to Apply)
-Explore Quantum Education at Q-Fest, October 3
-Quantum technology is changing the world – and educators have an opportunity to help shape what comes next. At Q-Fest, explore hands-on technology, connect with others in the field, and discover ways to bring quantum concepts into the classroom.
-Learn more about Q-Fest and Register Today
+Estimated Cost $11,600
 As artificial intelligence continues to shape teaching, learning, and the world our students are preparing to enter, educators across Colorado are exploring what thoughtful, responsible, and meaningful AI use can look like in schools.
 This Colorado Education Initiative event is an opportunity for Colorado educators to connect with colleagues, explore emerging practices, and deepen their understanding of how AI can support teaching and learning while keeping educators, students, and strong instructional practice at the center. Whether you are already experimenting with AI in your classroom or are just beginning to explore what it might mean for your practice, the summit is designed to provide ideas, conversations, and resources you can bring back to your classroom and school.
 Check out the details about this
