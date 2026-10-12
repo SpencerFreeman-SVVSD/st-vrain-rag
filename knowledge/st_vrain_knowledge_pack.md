@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-10T08:26:14.594111-06:00
+generated_at: 2026-10-12T11:49:24.715684-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -1931,74 +1931,6 @@ CDE District and School Performance Frameworks Website
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/district-accountability-accreditation-committee/
 
-### Creating APAS Forms
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/creating-apas-forms/
-- Last modified: 2020-10-15T15:19:48-06:00
-
-smartFORMS are the new APAS!
-This guide
-will walk all users through the features and requirements of creating an APAS plan for 20-21.
-All plans (MTSS, READ, and ALP) will be maintained within the same form; this form will stay open and editable all year, and can be viewed by anyone with access to the student.
-Webinars for creating plans
-will be held at least three times a week for the next month, and all are welcome. If you would like to schedule a webinar or meeting for a specific group or school, let us know at http://stvra.in/ecmhelp and we will help personalize options based on your needs.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/creating-apas-forms/
-
-### Documenting Interventions
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/documenting-interventions/
-- Last modified: 2020-10-15T15:22:08-06:00
-
-Coming Soon!
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/documenting-interventions/
-
-### Entering Assessment Data
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/entering-assessment-data/
-- Last modified: 2020-12-17T12:20:50-07:00
-
-Entering Assessment Data
-Entering Benchmark Data
-Entering Progress Monitoring Data and Interventions
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/entering-assessment-data/
-
-### Live Webinars for eCM
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/live-webinars-for-ecm/
-- Last modified: 2020-10-15T15:17:30-06:00
-
-REGISTER HERE FOR ALL WEBINARS
-Everyone is welcome!
-Getting to Know eCM: Student Profiles and Data Views
-This 30-minute, synchronous webinar is short, focused, and designed to just get those eCM muscles warmed up. We will log in, look around the home screen, explore a student profile, and look through data views.
-Mostly, we want to be with you as you explore so we can identify needs, troubleshoot, and answer questions during your first impression with this powerful tool!
-Everyone is welcome. We will keep adding sessions as they keep filling – we could do this all year! So sign up today!
-Creating APAS plans
-MTSS, ALP, READ and EL plans!
-Register, identify a student you need to make a plan for, grab a cup of coffee or whatever you grab when you’re making plans, and join us to make a few plans! This one is an hour, but you’ll get work done – and we promise making plans in a group is more fun than doing it alone!
-Interventions and Progress Monitoring
-This feature is amazing. We’ll explore how to create interventions groups and add and chart progress monitors for your students as well as create fidelity reports and ROI.
-We’ll spend one hour within this amazing area.
-Meet Much?
-Tired of looking around for student data during a meeting? Do different people have different views and not all see the same thing?
-It happens to us all – well, it happened to us all – but no more! Join this 30-minute look at setting up more efficient, streamlined data sharing and communication so you can spend your time where it’s needed most – problem solving and elevating!
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/live-webinars-for-ecm/
-
-### Viewing Data
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/viewing-data/
-- Last modified: 2020-10-15T15:19:22-06:00
-
-Data Views: Administrators
-: Slides
-Data Views: Teachers
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/educlimber/viewing-data/
-
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
@@ -2705,7 +2637,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Fall 2026 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
-- Last modified: 2026-09-30T09:29:07-06:00
+- Last modified: 2026-10-09T12:19:52-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
@@ -3032,23 +2964,10 @@ St. Vrain Virtual High School
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/graduation-requirements/
 
-### Math, Engineering, and Science Achievement (MESA)
-
-- Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/math-engineering-and-science-achievement-mesa/
-- Last modified: 2020-12-17T12:27:36-07:00
-
-Overview
-The Math, Engineering, and Science Achievement (MESA) program has been the premier science, technology, engineering, and mathematics (STEM) education program in the St. Vrain Valley School District since 2000.
-MESA’s unique mission is to encourage, motivate, support and prepare students for success in the pursuit of undergraduate degrees and careers in STEM.
-MESA serves all District students but has a particular interest and focus on students from groups that are historically underrepresented in science, engineering, and other math based careers. MESA students in elementary, middle and high schools prepare for and explore these professions through collaborative projects focused on building math, science, technology, and communication skills.
-The vision of MESA is to support the national science and mathematics educational agenda by ensuring that MESA students develop a high level of literacy in mathematics, science, and technology so they can play a leading role within an increasingly technology-based world.
-
-Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/k-12-science/math-engineering-and-science-achievement-mesa/
-
 ### Elementary Report Cards
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/report-cards/
-- Last modified: 2026-10-02T18:28:40-06:00
+- Last modified: 2026-10-10T09:24:45-06:00
 
 Overview
 Elementary report cards reflect a standards-based approach to evaluating student performance. They identify grade level Learner Expectations for student learning in each subject area. More detailed information about the specific concepts and skills students are expected to know, understand, and be able to demonstrate at each grade level can be found in the
@@ -3063,32 +2982,35 @@ Provide multiple measures of achievement:
 Provide both standards-based performance levels and traditional letter grades to give families a comprehensive view of student achievement and progress.
 Note:
 Not all Learner Expectations are addressed or assessed during every trimester. Expectations that are not assessed will be marked “NA” (Not Assessed).
-Resources For Parents
+Resources For Families
+Report Card Guide for Families
+Elementary Report Card Guide
+(English & Spanish)
 Report Card Samples
-Kindergarten
+Kindergarten:
 English
 Spanish
-First Grade
+First Grade:
 English
 Spanish
-Second Grade
+Second Grade:
 English
 Spanish
-Third Grade
+Third Grade:
 English
 Spanish
-Fourth Grade
+Fourth Grade:
 English
 Spanish
-Fifth Grade
+Fifth Grade:
 English
 Spanish
 Grading Windows
 2026-2027 Grading Windows
 View Elementary Report Cards Online
-Parents and guardians of SVVSD students can access elementary report cards through the Infinite Campus Portal.
+Families of SVVSD students can access elementary report cards through the Infinite Campus Portal.
 Click here to access the Infinite Campus Portal
-Steps to Create Infinite Campus Account
+Steps to Create Infinite Campus Account:
 English
 Spanish
 FAQs
@@ -5393,13 +5315,13 @@ Foreign Exchange F-1 Student Application Documents
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/foreign-exchange/
 
-### Local Report Card
+### ESSA Local Report
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/local-report-card/
-- Last modified: 2020-10-15T15:57:22-06:00
+- Last modified: 2026-10-10T08:58:42-06:00
 
-The District’s Local Report Card is available on the Colorado Department of Education (CDE) website.
-Click here to access the Every Student Succeeds Act (ESSA) Local Report Cards
+Under the Every Student Succeeds Act (ESSA), school districts are required to prepare and disseminate an annual report for the district and each school that meets the minimum requirements described in federal law.The District’s ESSA local report is available on the Colorado Department of Education (CDE) website.
+Click here to access the Every Student Succeeds Act (ESSA) Local Report
 The available data includes:
 Achievement Data
 Participation Data
@@ -9686,7 +9608,7 @@ Source: https://www.svvsd.org/departments/financial-services/state-and-federal-c
 ### Human Resources
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/
-- Last modified: 2026-08-21T13:58:51-06:00
+- Last modified: 2026-10-12T09:31:26-06:00
 
 Overview
 St. Vrain Valley Schools is one of the largest employers in the region with approximately 4,500 employees. The District provides competitive salaries and comprehensive benefits packages including health insurance and retirement benefits to full-time employees and many part-time employees.
@@ -10416,7 +10338,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
-- Last modified: 2026-10-02T14:31:22-06:00
+- Last modified: 2026-10-12T08:38:37-06:00
 
 Current Staff Resources
 Current St. Vrain Valley Schools employees can access a variety of resources and information to support them throughout the school year. Find important calendars, salary schedules, benefits information, professional development resources, employee forms and more below.
@@ -11817,7 +11739,7 @@ Source: https://www.svvsd.org/departments/human-resources/substitutes/substitute
 ### Work in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/work-in-st-vrain/
-- Last modified: 2026-10-02T14:14:20-06:00
+- Last modified: 2026-10-12T08:44:29-06:00
 
 Prospective Employees
 We are grateful for your interest in St. Vrain Valley Schools, a world-class PreK-12 public education system located in the north Denver-metro area. Our district is the educational home of more than 32,000 of Colorado’s students and is the seventh largest school district in the state, operating 57 schools and programs that are spread over 411 square miles.
@@ -11846,6 +11768,9 @@ Administrators
 Certified Employees
 Classified Employees
 Professional Technical Employees
+Upcoming Recruiting Events
+St. Vrain Valley Schools regularly attends recruiting events throughout the year.
+View Upcoming Events
 
 Source: https://www.svvsd.org/departments/human-resources/work-in-st-vrain/
 
@@ -14472,7 +14397,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-09-22T14:42:52-06:00
+- Last modified: 2026-10-09T12:40:03-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -18587,10 +18512,12 @@ Source: https://www.svvsd.org/departments/technology/ltp/faq/
 ### Newsletter Archives
 
 - Canonical URL: https://www.svvsd.org/departments/technology/newsletter-archives/
-- Last modified: 2026-08-11T11:47:04-06:00
+- Last modified: 2026-10-12T07:01:12-06:00
 
 DTS Newsletter Archives
 2026-2027 School Year
+October 2026
+– Client Services Team Highlights, Upcoming Update to SVVSD Sign-In Screen, Strengthening Protection for Student District Accounts, Google Workspace Wonders Video Series, How to Submit a Request
 August 2026
 – From the CTO, New St. Vrain ServiceNow Employee Center, Verkada Guest, Darktrace Now in Place, Updated Guest Wi-Fi Filtering, Interactive Flat Panels Arriving, Updated Student Overnight Trip Requests, Level Up with Campus Passport
 2025-2026 School Year
@@ -22865,7 +22792,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 349
+- Department and program pages: 343
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 80
