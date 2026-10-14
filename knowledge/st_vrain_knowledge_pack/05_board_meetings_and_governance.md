@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-12T11:49:24.715684-06:00
+generated_at: 2026-10-14T07:39:09.067206-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -1110,6 +1110,8 @@ Board of Education Study Session
 October 28, 2026
 Board of Education Study Session – Canceled
 October 21, 2026
+Joint Meeting with Longmont City Council
+October 21, 2026
 Board of Education Regular Meeting
 October 14, 2026
 Board of Education Member Events for October
@@ -1353,6 +1355,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+
+### Joint Meeting with Longmont City Council
+
+- Meeting date: October 21, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/longmont-city-council-meeting-the-board-of-education/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/longmont-city-council-meeting-the-board-of-education/
 
 ### Board of Education Regular Meeting
 

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-12T11:49:24.715684-06:00
+generated_at: 2026-10-14T07:39:09.067206-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -2967,7 +2967,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Elementary Report Cards
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/report-cards/
-- Last modified: 2026-10-10T09:24:45-06:00
+- Last modified: 2026-10-13T07:45:18-06:00
 
 Overview
 Elementary report cards reflect a standards-based approach to evaluating student performance. They identify grade level Learner Expectations for student learning in each subject area. More detailed information about the specific concepts and skills students are expected to know, understand, and be able to demonstrate at each grade level can be found in the
@@ -11739,7 +11739,7 @@ Source: https://www.svvsd.org/departments/human-resources/substitutes/substitute
 ### Work in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/work-in-st-vrain/
-- Last modified: 2026-10-12T08:44:29-06:00
+- Last modified: 2026-10-12T09:39:22-06:00
 
 Prospective Employees
 We are grateful for your interest in St. Vrain Valley Schools, a world-class PreK-12 public education system located in the north Denver-metro area. Our district is the educational home of more than 32,000 of Colorado’s students and is the seventh largest school district in the state, operating 57 schools and programs that are spread over 411 square miles.
@@ -14397,7 +14397,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-10-09T12:40:03-06:00
+- Last modified: 2026-10-12T13:55:10-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -14425,15 +14425,6 @@ Learn More: Visit our cohort page at
 http://svvsd-ldt.cu.studio
 (Curriculum / Cost / How to Apply)
 Estimated Cost $11,600
-As artificial intelligence continues to shape teaching, learning, and the world our students are preparing to enter, educators across Colorado are exploring what thoughtful, responsible, and meaningful AI use can look like in schools.
-This Colorado Education Initiative event is an opportunity for Colorado educators to connect with colleagues, explore emerging practices, and deepen their understanding of how AI can support teaching and learning while keeping educators, students, and strong instructional practice at the center. Whether you are already experimenting with AI in your classroom or are just beginning to explore what it might mean for your practice, the summit is designed to provide ideas, conversations, and resources you can bring back to your classroom and school.
-Check out the details about this
-FREE event with SVVS PD credit* AND Adams State Graduate Credit ($30)
-and consider joining educators from across Colorado for the conversation. The event is hosted at the St. Vrain Innovation Center
-Learn more and register*:
-https://www.eventbrite.com/e/colorado-ai-summit-educator-summit-tickets-1998494512886?aff=oddtdtcreator
-Please feel free to share this opportunity with colleagues who may be interested. We hope to see a strong group of educators there!
-*SVVS PD credit will be provided after the event. You only need to register once on the eventbrite site. CEI will coordinate transfering your attendance so you receive SVVS credit.
 Please check out our online catalog for Professional Development sessions open for registration.
 Check out our PD Catalog Here
 Join the Conversation
@@ -20667,6 +20658,8 @@ Board of Education Study Session
 October 28, 2026
 Board of Education Study Session – Canceled
 October 21, 2026
+Joint Meeting with Longmont City Council
+October 21, 2026
 Board of Education Regular Meeting
 October 14, 2026
 Board of Education Member Events for October
@@ -20910,6 +20903,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+
+### Joint Meeting with Longmont City Council
+
+- Meeting date: October 21, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/longmont-city-council-meeting-the-board-of-education/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/longmont-city-council-meeting-the-board-of-education/
 
 ### Board of Education Regular Meeting
 
@@ -22795,7 +22797,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 - Department and program pages: 343
 - Governance pages: 18
 - Board year index pages: 2
-- Board meeting entries: 80
+- Board meeting entries: 81
 - Financial transparency pages: 8
 - CDE pages: 3
 - Referenced documents: 25

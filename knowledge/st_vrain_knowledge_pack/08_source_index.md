@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-12T11:49:24.715684-06:00
+generated_at: 2026-10-14T07:39:09.067206-06:00
 coverage_window_days: 90
 section_title: Source Index
 ---
@@ -24,7 +24,7 @@ section_title: Source Index
 - Department and program pages: 343
 - Governance pages: 18
 - Board year index pages: 2
-- Board meeting entries: 80
+- Board meeting entries: 81
 - Financial transparency pages: 8
 - CDE pages: 3
 - Referenced documents: 25
