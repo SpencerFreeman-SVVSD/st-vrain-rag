@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-14T07:39:09.067206-06:00
+generated_at: 2026-10-15T07:21:41.290258-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -123,6 +123,8 @@ Source: https://www.svvsd.org/about/board-of-education/board-member-district-bou
 
 Elections
 Eligible St. Vrain Valley School District residents can vote in their county’s annual election to help determine how the District operates. The issues and/or positions appearing on the ballot that can affect the District will vary from year to year. They include: Board of Education positions, Mill Levy Overrides, School Bonds, and general representation in state and federal governments. In order to vote in any election, residents must be registered to vote.
+Notice of Board Vacancy – Director District C
+Notice & Application Information
 2025 Election Results
 Boulder County
 Broomfield County

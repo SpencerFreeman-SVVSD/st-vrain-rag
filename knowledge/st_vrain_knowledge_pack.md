@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-14T07:39:09.067206-06:00
+generated_at: 2026-10-15T07:21:41.290258-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,21 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Notice of Board Vacancy – Director District C
+
+- Published: 2026-10-14T22:17:30-06:00
+- Source URL: https://www.svvsd.org/2026/10/14/notice-of-board-vacancy-director-district-c/
+
+As declared by the St. Vrain Valley School District RE-1J Board of Education on October 14, 2026, Director District C is vacant, effective September 29, 2026. Applications for this District Board seat are being accepted until 4:00 pm from Friday, October 16, 2026 to Friday, October 23, 2026, and should be returned to the office of Kristie Jonason, Executive Assistant to the Board of Education, 303-682-7205, Educational Services Center, 395 South Pratt Parkway, Longmont, Colorado, 80501.
+QUALIFICATION OF CANDIDATE FOR SCHOOL DISTRICT DIRECTOR:
+To be eligible for appointment, a candidate must be a registered elector of the school district for at least twelve consecutive months prior to the date of appointment, a resident of Director District C, 18 years of age, and a United States citizen. Any person convicted of a sexual offense against a child is ineligible.
+This appointment will serve on the Board of Education until the next Coordinated Election in November of 2027.
+DIRECTOR DISTRICTS:
+The St. Vrain Valley School District RE-1J has seven director districts. Director District C is a compact district generally located in North Longmont, with boundaries that include Airport Road on the west, Pace Street to the east (including all of Ute Creek Golf Course), south of SH66 to 9th Avenue. Excluding areas of northwest Longmont around Lake McIntosh, and Sanborn Elementary, north of 21st Avenue.
+Legal descriptions of the director districts are available from the District Planning Services Office at 303-682-7229.
+
+Source: https://www.svvsd.org/2026/10/14/notice-of-board-vacancy-director-district-c/
+
 ### Open House Dates 2026: Explore Programming Across St. Vrain Valley Schools
 
 - Published: 2026-09-22T14:17:22-06:00
@@ -803,33 +818,6 @@ following this link
 The performance will begin at 6:30 p.m. Aug. 29 at Silver Creek High School. Doors open at 6 p.m.
 
 Source: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
-
-### Join Us for the Elementary 29 Community Meeting, Sept. 1
-
-- Published: 2026-08-20T15:53:03-06:00
-- Source URL: https://www.svvsd.org/2026/08/20/join-us-for-the-elementary-29-community-meeting-sept-1/
-
-Event Details:
-Tuesday, Sept. 1 | 5:00-6:30 p.m.
-Erie High School Auditorium, 3180 County Road 5
-Be part of shaping our community’s educational future. Join us for an informative evening about the exciting new PK-5 school coming to Erie.
-This meeting is your opportunity to:
-Review proposed school boundary changes
-Learn about construction and enrollment timelines
-Learn more about the school naming and mascot selection process
-Ask questions and provide valuable community feedback
-Representatives will be available from multiple departments including:
-School and District Administration
-Preschool
-Special Education
-Community Schools Childcare
-Operations, Planning, and Construction
-Spanish interpretation will be available. Families who need interpretation in another language or ASL services can email communications@svvsd.org in advance to request assistance.
-Thank You for Your Continued Support
-The new K-5 school in Erie represents another significant step forward for our growing community and would not be possible without the community’s ongoing commitment to educational excellence. Through the support of the 2024 bond, St. Vrain Valley Schools will continue to provide outstanding learning environments where our students can thrive. The community’s investment today builds the foundation for tomorrow’s leaders, innovators, and citizens. We are deeply grateful for everyone’s partnership in creating exceptional educational opportunities that are giving all students a strong competitive advantage for the future.
-Learn more about Elementary 29
-
-Source: https://www.svvsd.org/2026/08/20/join-us-for-the-elementary-29-community-meeting-sept-1/
 
 ### District alerts
 
@@ -12769,7 +12757,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/
 ### Ala Carte & Smart Snacks
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
-- Last modified: 2026-06-04T10:46:00-06:00
+- Last modified: 2026-10-14T09:48:16-06:00
 
 A La Carte Offerings in SVVSD
 Did you know that the Nutrition Service department is self-funded? This means that the money the department earns from selling food items to students, families and staff, as well as federal and state government funding, must cover the cost of food, salary & benefits for approximately 220 employees, equipment and other operational expenses. Nutrition Services does not receive money outside of its meal service operations and grants related to the service of food to students.
@@ -12779,7 +12767,7 @@ LINQ Connect
 .
 Smart Snacks in Schools
 SVVSD ala carte items are compliant with the United States Department of Agriculture (USDA) Smart Snack regulations and follow the district’s wellness guidelines. Snacks will be provided in small portions, whole grain, and are formulated to be reduced in fat, sugar and sodium. Examples of options include granola bars, whole grain cookies, baked chips, 100% sparkling juice, popcorn, reduced-sugar fruit snacks, and ice cream. Click on the links below for nutrition and allergen information surrounding Smart Snack guidelines.
-Smart Snack Fact Sheet
+Smart Snacks
 Smart Snack Calculator
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
@@ -13158,7 +13146,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-10-08T13:19:41-06:00
+- Last modified: 2026-10-14T09:54:11-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -14417,14 +14405,6 @@ The Structure: A 30-credit program (24 CU Denver credits + 6 St. Vrain in-distri
 The Timeline: Cohort begins Spring 2027 and graduates in Fall 2028
 Application Deadline: November 1, 2026.
 St. Vrain Instructors: Suzy Evans, Matt Moulton, Casey Luker, Greg George, Jodi Garner and Carolyn Clifford
-Join Us for a Virtual Information Night! Bring your questions and join program leaders and SVVSD colleagues for a virtual information session to learn more about the cohort, curriculum, and registration.
-When: Tuesday, October 13 | 4:30 PM – 5:30 PM
-Where: Join us on Zoom at
-10/13 CU LDT Zoom Session
-Learn More: Visit our cohort page at
-http://svvsd-ldt.cu.studio
-(Curriculum / Cost / How to Apply)
-Estimated Cost $11,600
 Please check out our online catalog for Professional Development sessions open for registration.
 Check out our PD Catalog Here
 Join the Conversation
@@ -19671,6 +19651,8 @@ Source: https://www.svvsd.org/about/board-of-education/board-member-district-bou
 
 Elections
 Eligible St. Vrain Valley School District residents can vote in their county’s annual election to help determine how the District operates. The issues and/or positions appearing on the ballot that can affect the District will vary from year to year. They include: Board of Education positions, Mill Levy Overrides, School Bonds, and general representation in state and federal governments. In order to vote in any election, residents must be registered to vote.
+Notice of Board Vacancy – Director District C
+Notice & Application Information
 2025 Election Results
 Boulder County
 Broomfield County

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-14T07:39:09.067206-06:00
+generated_at: 2026-10-15T07:21:41.290258-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -11304,7 +11304,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/
 ### Ala Carte & Smart Snacks
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
-- Last modified: 2026-06-04T10:46:00-06:00
+- Last modified: 2026-10-14T09:48:16-06:00
 
 A La Carte Offerings in SVVSD
 Did you know that the Nutrition Service department is self-funded? This means that the money the department earns from selling food items to students, families and staff, as well as federal and state government funding, must cover the cost of food, salary & benefits for approximately 220 employees, equipment and other operational expenses. Nutrition Services does not receive money outside of its meal service operations and grants related to the service of food to students.
@@ -11314,7 +11314,7 @@ LINQ Connect
 .
 Smart Snacks in Schools
 SVVSD ala carte items are compliant with the United States Department of Agriculture (USDA) Smart Snack regulations and follow the district’s wellness guidelines. Snacks will be provided in small portions, whole grain, and are formulated to be reduced in fat, sugar and sodium. Examples of options include granola bars, whole grain cookies, baked chips, 100% sparkling juice, popcorn, reduced-sugar fruit snacks, and ice cream. Click on the links below for nutrition and allergen information surrounding Smart Snack guidelines.
-Smart Snack Fact Sheet
+Smart Snacks
 Smart Snack Calculator
 
 Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/ala-carte-smart-snacks/
@@ -11693,7 +11693,7 @@ Source: https://www.svvsd.org/departments/operations-maintenance/nutrition/free-
 ### Local Wellness Policy & District Health Advisory Council (DHAC)
 
 - Canonical URL: https://www.svvsd.org/departments/operations-maintenance/nutrition/local-wellness-policy/
-- Last modified: 2026-10-08T13:19:41-06:00
+- Last modified: 2026-10-14T09:54:11-06:00
 
 Local Wellness Policy (LWP)
 The Board of Education promotes healthy schools by supporting student wellness, good nutrition and regular physical activity as part of the total learning environment. Schools contribute to the basic health status of students by facilitating learning through the support and promotion of good nutrition and physical activity. Improved health optimizes student performance potential, as students who eat well-balanced meals are healthy are more likely to learn in the classroom.
@@ -12952,14 +12952,6 @@ The Structure: A 30-credit program (24 CU Denver credits + 6 St. Vrain in-distri
 The Timeline: Cohort begins Spring 2027 and graduates in Fall 2028
 Application Deadline: November 1, 2026.
 St. Vrain Instructors: Suzy Evans, Matt Moulton, Casey Luker, Greg George, Jodi Garner and Carolyn Clifford
-Join Us for a Virtual Information Night! Bring your questions and join program leaders and SVVSD colleagues for a virtual information session to learn more about the cohort, curriculum, and registration.
-When: Tuesday, October 13 | 4:30 PM – 5:30 PM
-Where: Join us on Zoom at
-10/13 CU LDT Zoom Session
-Learn More: Visit our cohort page at
-http://svvsd-ldt.cu.studio
-(Curriculum / Cost / How to Apply)
-Estimated Cost $11,600
 Please check out our online catalog for Professional Development sessions open for registration.
 Check out our PD Catalog Here
 Join the Conversation
