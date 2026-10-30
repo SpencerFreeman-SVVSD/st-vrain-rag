@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-15T07:21:41.290258-06:00
+generated_at: 2026-10-30T09:00:01.055573-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -58,7 +58,7 @@ Source: https://www.svvsd.org/about/district-overview/
 ### The St. Vrain Advantage
 
 - Canonical URL: https://www.svvsd.org/about/district-overview/by-the-numbers-a-strong-competitive-advantage/
-- Last modified: 2026-02-17T11:01:22-07:00
+- Last modified: 2026-10-26T11:22:48-06:00
 
 By the Numbers: The St. Vrain Advantage
 St. Vrain Valley Schools is a nationally recognized leader in academic achievement, innovation, and student opportunity. Located just 30 miles north of Denver in one of Colorado’s fastest-growing regions, our district serves more than 33,000 students and is the largest employer across 411 square miles.
@@ -117,7 +117,7 @@ All middle schools in St. Vrain offer competitive athletic opportunities, engagi
 10,000 Pieces of Art
 All schools in St. Vrain offer high quality visual arts courses, with over 10,000 pieces of art displayed each spring at the Districtwide Art Show.
 181 All-State Musicians
-St. Vrain’s commitment to music education has earned national distinction, with the NAMM Foundation honoring the district with the Best Communities for Music Education award for four consecutive years since 2021. This year, 181 students were selected for the prestigious and competitive Colorado All-State Choir, Band, and Orchestra ensembles.
+St. Vrain’s commitment to music education has earned national distinction, with the NAMM Foundation honoring the district with the Best Communities for Music Education award for six consecutive years since 2021. This year, 181 students were selected for the prestigious and competitive Colorado All-State Choir, Band, and Orchestra ensembles.
 70 Focus Programs
 St. Vrain Valley Schools has over 70 instructional focus programs and open enrollment policies that let students and families select the school that will best meet their needs and interests.
 Outstanding Community and Staff
@@ -149,7 +149,7 @@ St. Vrain has a robust transportation department, driving close to 2 million mil
 Last year, St. Vrain’s nutrition services department served over 2.6 million meals to students, and is on track to double that number for the 23-24 school year.
 State and National Awards
 St. Vrain was recognized as one of four school districts in Colorado — and 373 in North America — to make the College Board’s Annual AP District Honor Roll, along with 8 high schools recognized as AP Honor Roll schools in 2023.
-NAMM Best Communities for Music Education Districts in 2023, 2022, and 2021
+NAMM Best Communities for Music Education Districts in 2026, 2025, 2024, 2023, 2022, and 2021
 Colorado Succeeds Prize, 2019 Excellence Award for Technology Enabled Learning
 The Learning Counsel, awarded a Top 10 Digital District in 2019
 2019 Colorado Technology Association’s Project of the Year
@@ -491,333 +491,182 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
-### Notice of Board Vacancy – Director District C
+### Superintendent’s Update: Discover Your Path
 
-- Published: 2026-10-14T22:17:30-06:00
-- Source URL: https://www.svvsd.org/2026/10/14/notice-of-board-vacancy-director-district-c/
+- Published: 2026-10-30T08:52:15-06:00
+- Source URL: https://www.svvsd.org/2026/10/30/superintendents-update-discover-your-path-2/
 
-As declared by the St. Vrain Valley School District RE-1J Board of Education on October 14, 2026, Director District C is vacant, effective September 29, 2026. Applications for this District Board seat are being accepted until 4:00 pm from Friday, October 16, 2026 to Friday, October 23, 2026, and should be returned to the office of Kristie Jonason, Executive Assistant to the Board of Education, 303-682-7205, Educational Services Center, 395 South Pratt Parkway, Longmont, Colorado, 80501.
-QUALIFICATION OF CANDIDATE FOR SCHOOL DISTRICT DIRECTOR:
-To be eligible for appointment, a candidate must be a registered elector of the school district for at least twelve consecutive months prior to the date of appointment, a resident of Director District C, 18 years of age, and a United States citizen. Any person convicted of a sexual offense against a child is ineligible.
-This appointment will serve on the Board of Education until the next Coordinated Election in November of 2027.
-DIRECTOR DISTRICTS:
-The St. Vrain Valley School District RE-1J has seven director districts. Director District C is a compact district generally located in North Longmont, with boundaries that include Airport Road on the west, Pace Street to the east (including all of Ute Creek Golf Course), south of SH66 to 9th Avenue. Excluding areas of northwest Longmont around Lake McIntosh, and Sanborn Elementary, north of 21st Avenue.
-Legal descriptions of the director districts are available from the District Planning Services Office at 303-682-7229.
-
-Source: https://www.svvsd.org/2026/10/14/notice-of-board-vacancy-director-district-c/
-
-### Open House Dates 2026: Explore Programming Across St. Vrain Valley Schools
-
-- Published: 2026-09-22T14:17:22-06:00
-- Source URL: https://www.svvsd.org/2026/09/22/openhouses2026/
-
-Across St. Vrain Valley Schools, the upcoming open houses offer families a chance to step inside classrooms, meet dedicated teachers, and discover the unique opportunities available in each school. From advanced academic pathways and innovative STEM programs to arts, athletics, and career-focused courses, these events provide parents and students an inside look at the possibilities that can shape their educational journey.
-Below are upcoming open house dates across the district. Families can also visit the Guide to School Options websites linked below for detailed highlights, program offerings, and additional resources for each school. For questions regarding open houses, programming, or to schedule a school tour, please contact the schools directly.
-Elementary School Open House Dates
-Alpine Elementary
-| November 17, 4:00 p.m.
-Big Sky PK-8
-| November 16, 5:00 p.m.
-Black Rock Elementary
-| October 13, 5:00 p.m.
-Blue Mountain Elementary
-| November 16, 4:30 p.m.
-Burlington Elementary
-| November 9, 4:00 p.m.
-Centennial Elementary
-| November 10, 4:00 p.m.
-Central Elementary
-| November 19, 4:00 p.m.
-Columbine Elementary
-| November 18, 4:00 p.m.
-Eagle Crest Elementary
-| November 5, 4:00 p.m.
-Elementary 29
-| November 30, 6:00 p.m. at Erie High School
-(
-Opening Fall 2027 in Erie’s Colliers Hill Neighborhood
-)
-Erie Elementary
-| October 1, 4:00 p.m.
-Fall River Elementary
-| October 12, 4:00 p.m.
-Grand View Elementary
-| October 27, 5:00 p.m.
-Highlands Elementary
-| November 2, 4:00 p.m.
-Hygiene Elementary
-| October 20, 4:00 p.m.
-Indian Peaks Elementary
-| October 28, 4:30 p.m.
-LaunchED Virtual Academy
-(
-Live WebEX Event
-) | October 29, 5:00
-Legacy Elementary
-| October 7, 4:30 p.m.
-Longmont Estates Elementary
-| November 12, 5:00 p.m.
-Lyons Elementary
-| November 4, 4:00 p.m.
-Mead Elementary
-| October 13, 4:00 p.m.
-Mountain View Elementary
-| October 22, 4:30 p.m.
-Niwot Elementary
-| October 29, 4:30 p.m.
-Northridge Elementary
-| October 21, 4:30 p.m.
-Prairie Ridge Elementary
-| November 9, 5:00 p.m.
-Red Hawk Elementary
-| October 14, 4:00 p.m.
-Rocky Mountain Elementary
-| November 11, 4:00 p.m.
-Soaring Heights PK-8
-| October 21, 5:00 p.m.
-Thunder Valley K-8
-| October 27, 6:00 p.m.
-Timberline PK-8
-| October 20, 5:00 p.m.
-Guide to Elementary Options
-Middle School Open House Dates
-Altona Middle School
-| November 2, 6:00 p.m.
-Big Sky PK-8
-| November 16, 5:00 p.m.
-Coal Ridge Middle School
-| October 14, 5:00 p.m.
-Erie Middle School
-| November 9, 6:00 p.m.
-LaunchED Virtual Academy
-| (
-Live WebEX Event
-) October 29, 5:00 p.m.
-Longs Peak Middle School
-| October 22, 6:00 p.m.
-Lyons Middle Senior High School
-| November 11, 6:00 p.m.
-Mead Middle School
-| October 26, 5:00 p.m.
-Soaring Heights PK-8
-| October 27, 5:00 p.m.
-Sunset Middle School
-| October 28, 5:30 p.m.
-Thunder Valley K-8
-| October 27, 6:00 p.m.
-Timberline PK-8
-| October 20, 5:00 p.m.
-Trail Ridge Middle School
-| October 13, 5:00 p.m.
-Westview Middle School
-| November 30, 6:00 p.m.
-Guide to Middle School Options
-High School Open House Dates
-Erie High School
-| November 18, 6:00 p.m.
-Frederick High School
-| November 5, 6:00 p.m.
-LaunchED Virtual Academy
-| (
-Live WebEX Event
-) October 29, 5:00 p.m.
-Longmont High School
-| November 4, 6:00 p.m.
-Lyons Middle Senior High School
-| November 11, 6:00 p.m.
-Mead High School
-| November 19, 6:00 p.m.
-Niwot High School
-| November 10, 6:00 p.m.
-New Meridian High School
-| December 2, 3:30 p.m.
-Silver Creek High School
-| November 17, 6:00 p.m.
-Skyline High School
-| November 12, 6:00 p.m.
-St. Vrain Virtual High School
-| December 2, 5:30 p.m.
-Guide to High School Options
-District-Wide Centers Open House Dates
-Career Elevation and Technology Center
-| December 2, 3:30 p.m.
-Innovation Center
-| December 2, 3:30 p.m.
-
-Source: https://www.svvsd.org/2026/09/22/openhouses2026/
-
-### Four St. Vrain Schools Recognized as Apple Distinguished Schools
-
-- Published: 2026-09-17T09:51:36-06:00
-- Source URL: https://www.svvsd.org/2026/09/17/four-st-vrain-schools-recognized-as-apple-distinguished-schools/
-
-Four St. Vrain Valley Schools have been recognized as Apple Distinguished Schools, celebrating their continued commitment to innovation, creativity, and meaningful use of technology to enhance teaching and learning.
-Longmont Estates Elementary and the Innovation Center have been redesignated as Apple Distinguished Schools, while Columbine Elementary and Soaring Heights PK–8 have earned the designation for the first time.
-Together, the four St. Vrain schools were the only schools in Colorado recognized as Apple Distinguished Schools in this designation cycle.
-The three-year recognition, which runs from September 2026 through December 2029, is awarded to schools demonstrating continuous innovation and a strong vision for how technology can inspire learning, expand opportunities, and support student success.
-Apple Distinguished Schools are recognized for using Apple technology to create engaging and innovative learning environments where students are encouraged to explore, create, collaborate, and solve meaningful problems.
-Across St. Vrain, technology is integrated as one of many tools supporting strong instruction, student creativity, and future-ready learning experiences. The four recognized schools represent different grade levels and learning environments, while sharing a commitment to providing students with opportunities to develop skills, pursue their interests, and engage deeply in their learning.
-For Longmont Estates Elementary and the Innovation Center, redesignation reflects an ongoing commitment to evolving their programs and learning experiences through innovative practices.
-At Longmont Estates Elementary, students engage with technology as part of classroom learning experiences that encourage creativity, communication, collaboration, and problem-solving.
-The Innovation Center provides students from across St. Vrain with advanced opportunities in areas including robotics, artificial intelligence, cybersecurity, aeronautics, entrepreneurship, media production, and other emerging fields. Through hands-on projects, industry partnerships, and authentic learning experiences, students are able to apply their learning to real-world challenges.
-Columbine Elementary and Soaring Heights PK–8 join the Apple Distinguished Schools community for the first time, recognizing the work of their students and educators to build innovative and engaging learning environments.
-The recognition of four St. Vrain schools highlights the district’s broader commitment to academic excellence by design and providing students with the tools, experiences, and opportunities to shape their futures.
-Apple Distinguished Schools are part of a global community of schools recognized for continuous innovation in teaching and learning and for creating exemplary learning experiences through the thoughtful use of Apple technology.
-See the Apple Distinguished Schools Directory
-
-Source: https://www.svvsd.org/2026/09/17/four-st-vrain-schools-recognized-as-apple-distinguished-schools/
-
-### St. Vrain Valley Schools Hosts Annual Musical Instrument Drive
-
-- Published: 2026-09-16T14:08:27-06:00
-- Source URL: https://www.svvsd.org/2026/09/16/st-vrain-valley-schools-hosts-annual-musical-instrument-drive/
-
-St. Vrain’s Fine Arts department is hosting its annual musical instrument collection drive. Members of the community are invited to donate gently used instruments to St. Vrain Valley Schools’ music program and receive a donation receipt from the St. Vrain Valley Schools Education Foundation.
-There are two drop-off dates at the Lincoln School building on
-619 Bowen St.
-in Longmont.
-Thursday, October 1 | 9:00 a.m. – 2:00 p.m.
-Friday, October 2 | 8:00 a.m. – 1:00 p.m.
-*Community members who are unable to drop off instruments during these timeframes are encourage to email
-bird_janay@svvsd.org
-to coordinate a different drop off time/location.
-Donated instruments are housed in the classroom for students to use during class or available for them to rent long-term. Additional instruments allow families to try out an instrument without making a purchase. More unique donations enhance the district’s music programming by introducing new styles of instruments into the classroom.
-After the drive, the Office of Fine Arts ensures all donations are cleaned, tuned, and repaired. Instruments are distributed to schools by a raffle system, which is held on a teacher professional development day.
-At this time, St. Vrain Valley Schools is not in need of upright pianos or keyboards. Please contact St. Vrain’s Fine Arts Coordinator, Janay Bird, for details at
-bird_janay@svvsd.org
-or 303-702-7916.
-
-Source: https://www.svvsd.org/2026/09/16/st-vrain-valley-schools-hosts-annual-musical-instrument-drive/
-
-### St. Vrain Students Earn Advanced Placement Honors
-
-- Published: 2026-09-15T09:56:25-06:00
-- Source URL: https://www.svvsd.org/2026/09/15/st-vrain-students-earn-advanced-placement-honors/
-
-Across St. Vrain Valley Schools, 1,239 students were recognized as AP Scholars for the 2025-2026 school year. To earn the title of AP Scholar, students must achieve a score of three or higher on at least three AP Exams. Among these scholars, a select group pursued an even higher level of distinction, completing rigorous research and seminar coursework to earn the AP Capstone Diploma and/or the AP Seminar and Research Certificate. These honors represent years of hard work and a dedication to learning that extends far beyond the classroom.
-The AP Capstone Diploma program is designed to help students build essential skills for college and beyond including critical thinking, research, collaboration, and effective communication. Both AP Seminar and AP Research are project-based courses, allowing students to showcase their knowledge through group projects, multimedia presentations, and sustained independent research completed over the course of the year.
-St. Vrain Valley Schools offers students a robust and comprehensive selection of 38 Advanced Placement courses across its high schools, including at New Meridian High School, St. Vrain Virtual High School, LaunchEd Virtual Academy, and through AGILE programming. In 2026, the district saw 3,087 students take 5,604 AP exams. Since 2016, AP exam participation in St. Vrain Valley Schools has grown by 109%.
-“This recognition emphasizes our district-wide commitment to the ‘AP for All’ initiative,” said Chris Gardner, AP Coordinator for St. Vrain Valley Schools. “In St. Vrain, we firmly believe that every student benefits from the rigor and opportunities offered by the Advanced Placement curriculum.”
-Through the development of advanced research skills and preparation for college-level academics, St. Vrain’s Advanced Placement program continues to equip students with the knowledge and competencies necessary for success beyond high school. The increasing number of AP Scholars stands as a testament to the academic excellence of students and the steadfast commitment of teachers, families, and school communities who support their achievement.
-Of the 1,239 AP Scholars across St. Vrain Valley Schools:
-70 students were awarded the AP Capstone Diploma by earning scores of three or higher in AP Seminar, AP Research, and on four additional AP Exams.
-39 students were awarded the AP Seminar and Research Certificate by earning scores of three or higher in AP Seminar and AP Research.
-
-Source: https://www.svvsd.org/2026/09/15/st-vrain-students-earn-advanced-placement-honors/
-
-### St. Vrain Valley Schools to Host Q-Fest for Educators Exploring Quantum Education
-
-- Published: 2026-09-14T13:51:42-06:00
-- Source URL: https://www.svvsd.org/2026/09/14/qfest/
-
-Explore What’s Possible With Quantum Education
-Quantum technology is changing the world – and educators have an opportunity to help shape what comes next. At Q-Fest, explore hands-on technology, connect with others in the field, and discover ways to bring quantum concepts into the classroom.
-At Q-Fest, attendees can expect to:
-Explore:
-Learn about the basics of quantum technology and why it matters for the future of STEM education through accessible, engaging sessions.
-Experience:
-Try hands-on activities, games, and interactive technology that bring quantum concepts to life.
-Connect:
-Meet educators, researchers, and industry professionals who are exploring new possibilities in quantum education.
-Create:
-Develop activities and ideas you can adapt for your classroom.
-Attendees will leave with:
-Practical resources:
-Hands-on activities, digital resources, and ideas to support quantum learning in the classroom.
-A stronger understanding:
-A foundation in key quantum concepts and their potential applications.
-New connections:
-Opportunities to stay connected with educators and professionals working in quantum technology and STEM education.
-Ideas to take back to students:
-New ways to introduce students to quantum concepts and explore where they could lead.
-Salary and licensure credit will be available, and we’ll provide refreshments and light snacks.
-Shaping the Future of PreK-12 STEM
-Saturday, October 3, 2026 | 9:00 a.m. to 12:30 p.m.
-Innovation Center, 33 Quail Road, Longmont, CO
-Ready to lead the quantum movement at your school?
-Registration is required. Please use
-this form
-to reserve your spot today!
-
-Source: https://www.svvsd.org/2026/09/14/qfest/
-
-### Japanese Delegation Explores Cybersecurity and AI Education in St. Vrain
-
-- Published: 2026-09-08T10:37:35-06:00
-- Source URL: https://www.svvsd.org/2026/09/08/japanese-delegation-explores-cybersecurity-and-ai-education-in-st-vrain/
-
-St. Vrain Valley Schools recently welcomed a delegation of educators and professionals from Japan for an in-depth look at how students are preparing for future opportunities in cybersecurity and artificial intelligence.
-In partnership with the
-Boulder Council for International Visitors
-, the district hosted the delegation at Silver Creek High School and the Innovation Center, where visitors learned about the programs, partnerships, and hands-on experiences that are helping St. Vrain students build skills for rapidly evolving technology fields. The visiting group consisted largely of university professors and educators interested in learning more about how cybersecurity and AI are introduced to students at the high school level.
-At Silver Creek High School, students and staff from RaptorTECH, the school’s P-TECH program, shared how the program creates a comprehensive pathway from high school to college and career. Through a partnership with Aims Community College, RaptorTECH students have the opportunity to earn an associate degree alongside their high school diploma while developing advanced skills in cybersecurity and technology.
-The presentation also highlighted the importance of internships and industry-connected learning experiences, which allow students to apply their skills in professional settings and build the confidence, experience, and connections that can help prepare them for the next stages of their education and careers.
-The delegation then visited St. Vrain’s Innovation Center, where students, alumni, and instructors shared their perspectives on the district’s growing cybersecurity and artificial intelligence programs. Through demonstrations and conversations, visitors gained a firsthand look at how students are engaging with emerging technologies through authentic projects, mentorship, and hands-on learning.
-A highlight of the visit was an experience aboard the Innovation Center’s Cyber Explorer Lab, part of St. Vrain’s mobile education initiative. The converted school bus serves as a traveling cybersecurity classroom designed primarily for middle school students. Through an interactive escape-room-style experience, students work together to solve challenges while learning foundational cybersecurity concepts in an engaging and approachable way.
-The Cyber Explorer Lab left a strong impression on the visiting delegation, who were particularly interested in how St. Vrain is making complex technology concepts accessible to younger students and creating early opportunities for exploration.
-Throughout the visit, delegates connected directly with St. Vrain students and educators, exchanging questions and perspectives about technology education in the United States and Japan. As a gesture of appreciation, members of the delegation also shared Japanese treats and small tokens with students and staff.
-The visit provided an opportunity not only to showcase St. Vrain’s work in cybersecurity and AI, but also to build international connections around a shared goal: preparing students with the knowledge, experiences, and skills they will need to thrive in an increasingly technology-driven world.
-See the full photo album
-
-Source: https://www.svvsd.org/2026/09/08/japanese-delegation-explores-cybersecurity-and-ai-education-in-st-vrain/
-
-### Superintendent’s Update: Welcome to the 2026-27 School Year
-
-- Published: 2026-08-28T13:12:59-06:00
-- Source URL: https://www.svvsd.org/2026/08/28/superintendents-update-welcome-to-the-2026-27-school-year/
-
-Across St. Vrain Valley Schools, educators and staff have been preparing for a successful year focused on learning, growth, and connection. As students settle into new routines, build relationships, and embrace new opportunities, we look forward to all that the 2026-27 school year will bring.
+Find the best fit for your family with St. Vrain’s Options website. This interactive tool helps families explore schools across St. Vrain based on academic interests, focus programs and pathways, athletics and activities, school culture and location, and more.
+Explore Your Options
 Superintendent’s Update
-Dear St. Vrain Valley Community,
-Welcome to the 2026-2027 school year. There is real joy in these first weeks of August, when our buildings fill again with students in the hallways and teachers greeting familiar faces and new ones at classroom doors. I want to begin by thanking you for the trust you place in our schools and for the partnership that made my first year as your superintendent such a rewarding experience. I am looking forward to the year ahead with all of you.
-Everything we do in St. Vrain rests on a single commitment, that each and every student will be recognized for their unique talents and aspirations and receive an exceptional PreK-12 experience, so that they graduate with a strong competitive advantage. That is what we mean when we talk about the
-St. Vrain Advantage
-. It is the promise we make to every family who enrolls a child with us, and it shapes how we design innovative programs, hire the very best teachers, build and maintain beautiful facilities, and prioritize the safety and well-being of every child. Our teachers and staff are the heart of this work, and supporting them is one of my highest priorities. St. Vrain maintains among the highest base teacher pay in Colorado, and we have been recognized by Forbes as a Best-In-State Employer again for the second year, which helps us bring exceptional educators into our classrooms and keep them here.
-This summer, our buildings were full of activity as thousands of students continued learning through Project Launch, which provides four additional weeks of rigorous instruction in math and language arts, while hundreds more pursued advanced STEM and Career and Technical Education experiences through the Innovation Center and the Career Elevation and Technology Center. Our teachers and staff spent much of the past few months in professional learning of their own, including our
-Teach to Reach
-conference on the instructional strategies that unleash the potential of every child. And through your continued investment in the 2024 bond, construction advanced across the district on the new Big Sky PK-8 in Mead, our new high school in Frederick, the Innovation Center expansion, a new CTE Center, a new elementary school in Erie, secure entry and safety improvements, stadium projects at Skyline and Silver Creek, and infrastructure work at schools throughout our community. We are grateful for your support, which allows us to provide our students with world-class facilities.
-I have spent my entire career in public education because of what a public school system can be for the community around it. We open our doors to every child who lives here, whatever their circumstances or their ambitions, and we build around each of them the programs, relationships and support they need to thrive. That is the
-Public School Advantage
-, and I see it in our schools every day, from a preschooler sounding out letters to a senior presenting original research to a room full of engineers. It is a privilege to be part of it, and it is something we will continue to champion loudly and unapologetically.
-This fall, I will again host open community meetings in several of our geographic areas, and I hope you will join me. The conversations I had with families last year stayed with me, and I want to hear from you again about what is working in our schools and where we can better serve you.
-To our families, thank you for trusting us with your children. To our teachers and staff, thank you for the care and skill you bring to this work every day. Together, we will make this a joyful and successful year for every student in our St. Vrain schools.
-Sincerely,
+Fall is always an exciting and busy time across St. Vrain, with our schools filled with learning, activities, performances, and celebrations. As I visit schools and connect with our community, I am inspired by the energy and enthusiasm of our students. I am also grateful for our teachers and staff, who create welcoming environments where every child is supported and challenged to reach their full potential.
+I have appreciated connecting with many community members at recent events including Leadership St. Vrain and our Superintendent Town Hall meetings. Your questions and ideas are important to me, and these conversations help us continue to strengthen our schools and better serve our students and families.
+As we look ahead to the open enrollment window from December 1-15, I encourage families to
+explore our extensive portfolio of exceptional educational options
+and find the right fit for their student’s interests and passions. All schools are hosting open houses and tours, where families can meet teachers and staff, visit classrooms, and discover what makes each school community unique.
+Our community’s investment through the 2024 bond is bringing exciting improvements to our schools. The new elementary school in Erie has officially been named
+Colliers Hill Elementary
+, and we look forward to welcoming students and families next school year. Construction is underway on the new high school and career and technical education facility in Frederick, scheduled to open in fall 2028. Across all of our communities, bond projects are improving existing schools through updated learning spaces, secure entrances, playgrounds, athletic facilities, and essential building systems.
+Our students have given us much to celebrate. Congratulations to our high school seniors named
+National Merit Scholarship semifinalists
+and to the
+Lyons Middle/Senior High School softball team
+on winning the Class 3A State Championship. We are proud of our student-athletes as they finish their fall seasons and our music and performing arts students who share their exceptional talent with us. I encourage our community to attend an upcoming performance and visit
+advantage.svvsd.org
+to discover events, celebrations, and stories from across our district.
+October is National Principals Month, and I am deeply grateful for the leadership and care our principals bring to their school communities. The week of November 9, we will celebrate our classified employees – our bus drivers, custodians, nutrition services staff, paraprofessionals, office staff, technology professionals, and so many others. Thank you to these exceptional teams for all you do to enhance our system.
+To our families and community members, thank you for your partnership and the trust you place in our schools. Together, we are creating exceptional opportunities for our students and building a strong future for our community.
+With gratitude,
 Jackie Kapushion, Ed.D.
-Superin...
+Superintendent, St. Vrain Valley Schools
+Featured Stories
+Open House Dates 2026
+Across St. Vrain Valley Schools, open houses offer families a chance to step inside classrooms, meet dedicated teachers, and discover the unique opportunities available in each school.
+View all open house dates.
+The Public School Advantage
+Dr. Jackie Kapushion shares why strong public schools are essential to opportunity for every child and to the strength of our communities. Drawing on nearly four decades in education, she reflects on the importance of protecting public education and the promise it represents for future generations.
+Read more in St. Vrainnovation Magazine.
+St. Vrain Valley Schools Named K-12 Partner in Colorado’s New NASA Aerospace Workforce Hub
+S...
 
-Source: https://www.svvsd.org/2026/08/28/superintendents-update-welcome-to-the-2026-27-school-year/
+Source: https://www.svvsd.org/2026/10/30/superintendents-update-discover-your-path-2/
 
-### Reminder: Free or reduced benefit applications available
+### Three St. Vrain Leaders Named to District Administration’s Top 100 K-12 Leaders List
 
-- Published: 2026-08-24T14:12:06-06:00
-- Source URL: https://www.svvsd.org/2026/08/24/reminder-free-reduced-price-meal-applications-available-2/
+- Published: 2026-10-28T16:19:31-06:00
+- Source URL: https://www.svvsd.org/2026/10/28/three-st-vrain-leaders-named-to-district-administrations-top-100-k-12-leaders-list/
 
-Families who believe they may qualify for free or reduced eligibility benefits are encouraged to complete an application by Oct. 1 if they have not already done so. While all St. Vrain Valley students in preschool through grade twelve receive one free breakfast and lunch each day at participating schools through Colorado’s Healthy School Meals for All program, completing the application can provide additional benefits for families and schools.
-Families who qualify receive valuable savings such as waived or reduced school fees, discounts on college entrance exams and applications, reduced rates for internet and utilities, and access to the Summer-EBT program.
-When more households apply, St. Vrain schools receive increased federal funding that supports classrooms, after-school programs, preschool opportunities, technology, and additional snacks and meals outside regular school hours. While the Oct. 1 deadline offers additional benefits, free or reduced-price meal applications are continuously accepted and processed throughout the school year, and families are invited to apply or reapply at any time. They can be
-completed online
-, or paper copies are available at Nutrition Services, 2929 Clover Basin Dr., Longmont, CO 80503. The application is completely confidential and not shared with any other agency or organization. To learn more, visit the
-Nutrition Services webpage
-.
+Superintendent Dr. Jackie Kapushion, Assistant Superintendent of Innovation Joe McBreen, and Chief Technology Officer Michelle Bourgeois have been named to
+District Administration’s 2026–27 DA 100 list
+of influential K–12 education leaders.
+District Administration is a national education publication serving school district leaders across the United States. Its annual DA 100 list recognizes individuals whose work is helping shape the future of K-12 education.
 
-Source: https://www.svvsd.org/2026/08/24/reminder-free-reduced-price-meal-applications-available-2/
+Source: https://www.svvsd.org/2026/10/28/three-st-vrain-leaders-named-to-district-administrations-top-100-k-12-leaders-list/
 
-### Silver Creek High School to Present 48-Hour Production of Mamma Mia
+### Fifth Grade Students Participate in Morning Math at Eagle Crest Elementary
 
-- Published: 2026-08-21T11:45:23-06:00
-- Source URL: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
+- Published: 2026-10-27T15:23:43-06:00
+- Source URL: https://www.svvsd.org/2026/10/27/fifth-grade-students-participate-in-morning-math-at-eagle-crest-elementary/
 
-Silver Creek High School Drama students will take on an ambitious theatrical challenge Aug. 29 by casting, rehearsing and performing the full-length musical
-Mamma Mia
-in just 48 hours.
-The 48-Hour Musical will serve as the opening production of Silver Creek’s 2026-27 performing arts season. Students will have two days to prepare the production, providing a unique opportunity to develop their skills in collaboration, performance and production under a tight deadline.
-The performance will also launch a fundraising campaign for the Silver Creek theatre program. A local organization has contributed $5,000 to begin the campaign, and the Silver Creek community is being invited to match or exceed that contribution. Funds raised will help provide resources and support for the theatre program throughout the school year.
-Admission to the performance is free, with donations accepted before and during the event. If you would like to make a donation, you can do so by
-following this link
-.
-The performance will begin at 6:30 p.m. Aug. 29 at Silver Creek High School. Doors open at 6 p.m.
+At Eagle Crest Elementary, some of the best learning happens before the school day officially begins.
+This fall, longtime Eagle Crest teacher Dave Gaccetta brought back a special opportunity for fifth grade students: accelerated morning math sessions that meets Monday, Wednesday, and Friday mornings from 7:45-8:25 a.m. The extra time gives students who are ready for an additional challenge the opportunity to stretch their mathematical thinking, explore more advanced concepts, and learn alongside peers who share their enthusiasm for math. It also helps prepare students for advanced math coursework in middle school by building their confidence and strengthening their problem-solving skills.
+For Eagle Crest, the experience is especially meaningful because of the teacher leading it. Mr. Gaccetta has been part of the Eagle Crest community for more than 27 years and has taught generations of students. His deep knowledge of mathematics, combined with his genuine enjoyment of working with children, makes the morning class something students look forward to each week.
+The early start does not seem to deter them. Students arrive ready to think, problem-solve, collaborate, and tackle challenging mathematical ideas before most of the school has even arrived.
+Principal Amanda Holden says opportunities like this reflect Eagle Crest’s commitment to knowing students well and providing meaningful opportunities for every learner to grow.
+“We want students to be challenged, curious, and excited about what they are capable of doing,” Holden said. “Having Mr. Gaccetta share his expertise and passion for mathematics with our students is a wonderful example of what makes Eagle Crest such a special place.”
 
-Source: https://www.svvsd.org/2026/08/21/silver-creek-high-school-to-present-48-hour-production-of-mamma-mia/
+Source: https://www.svvsd.org/2026/10/27/fifth-grade-students-participate-in-morning-math-at-eagle-crest-elementary/
+
+### Coal Ridge Expands Music Opportunities for Students
+
+- Published: 2026-10-27T07:44:06-06:00
+- Source URL: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
+
+Coal Ridge Middle School is expanding its music program with new opportunities for students to develop their musical skills and connect with fellow musicians. This year, Band Director Kyle Waggoner launched a pep band and drumline club, which meets Wednesdays after school. The program gives students a goal to work toward while connecting classroom instruction with the excitement of performing at school events. An advanced orchestra club, which meets Tuesdays after school, provides another opportunity for students to deepen their musical experience.
+Students at Coal Ridge Middle School welcome their peers during October’s High Five Friday.
+Waggoner said student interest and consistent attendance have helped the new club build momentum. The ensembles also create opportunities for middle school students to prepare for high school music programs and learn alongside older musicians. “I am excited to continue seeing this program grow and excel,” Waggoner said. “Every day we strive to learn a little bit more about music and to have fun while we learn.”
+With more opportunities on the horizon, Coal Ridge hopes to welcome additional students into its music program and continue building a strong foundation for future musical experiences.
+
+Source: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
+
+### Lyons Lions Capture 3A State Softball Championship with 10–3 Victory Over D’Evelyn
+
+- Published: 2026-10-24T18:09:14-06:00
+- Source URL: https://www.svvsd.org/2026/10/24/lyons-lions-capture-3a-state-softball-championship-with-10-3-victory-over-develyn/
+
+The Lyons Lions are state champions!
+In a championship performance defined by determination, teamwork, and an unmistakable sense of joy, the Lyons Middle/Senior High School softball team captured the 2026 Colorado Class 3A State Championship on Saturday, October 24, defeating D’Evelyn High School 10–3.
+While the final score reflected the Lions’ dominance on the field, the story of their championship extends far beyond the runs scored. It is a story of a team whose success was built on years of friendship, dedication, leadership, and a culture of unwavering support for one another.
+From the opening inning, the Lions played with the confidence of a team ready for the moment. They jumped out to an impressive 8–0 lead, combining strong play with the energy and enthusiasm that have become hallmarks of this team.
+Even with a state championship on the line, the Lyons dugout was filled with smiles, cheers, and familiar chants. Teammates celebrated one another, encouraged each other through every play, and embraced the opportunity to compete together on the biggest stage of their season.
+That spirit was especially evident when the Lions faced their greatest challenge of the game.
+After building their commanding lead, Lyons saw D’Evelyn rally with three runs in the sixth inning, narrowing the score to 8–3. With momentum potentially shifting, the Lions responded with the same composure and confidence that had carried them throughout the championship.
+There was no hesitation. No visible doubt.
+Instead, Lyons answered with two additional runs, extending its lead to 10–3 before closing out the game and securing the state title.
+The victory was a testament to the leadership of the team’s seniors, who helped set the tone for a championship season. Their experience, commitment, and example provided a foundation for success, while contributions from players across the roster demonstrated the strength of a team united by a common goal.
+Behind the Lions’ success was a dedicated coaching staff that fostered a culture of confidence, teamwork, and trust. Their leadership helped create an environment where players could embrace challenges, support one another, and find joy in the game. That foundation was evident throughout the championship, reflecting the lasting impact of coaches who invest in their athletes both on and off the field.
+Equally powerful was the support surrounding the Lions throughout their championship journey.
+Families, fellow students, school administrators, and members of the Lyons community came together to cheer on the team, creating an atmosphere that reflected the pride and connection of a close-knit school community.
+Their presence served as a reminder that championships are rarely achieved alone. Behind every successful team are years of encouragement, countless hours of practice, dedicated coaches, supportive families, and a school community that believes in its students.
+For Lyons, Saturday’s victory represented more than a championship trophy. It was a celebration of the relationships, traditions, and experiences that make high school athletics such an important part of the student experience.
+The Lions demonstrated that competing at the highest level and finding joy in the game are not mutually exclusive. Even under the pressure of a state championship, they played with enthusiasm, celebrated each other’s successes, and embraced every moment together.
+Congratulations to the Lyons Lions softball team, their coaches, families, and the entire Lyons community on an outstanding achievement and a well-deserved 2026 Class 3A State Championship!
+See the photo album here
+
+Source: https://www.svvsd.org/2026/10/24/lyons-lions-capture-3a-state-softball-championship-with-10-3-victory-over-develyn/
+
+### Lyons Middle Senior Among Colorado’s Top-Performing Schools on State Performance Framework
+
+- Published: 2026-10-23T10:25:08-06:00
+- Source URL: https://www.svvsd.org/2026/10/23/lyons-middle-senior-among-colorados-top-performing-schools-on-state-performance-framework/
+
+Lyons Middle Senior High School ranked No. 2 among 120 Colorado middle/senior high schools on the Colorado Department of Education’s School Performance Framework, which measures academic achievement, student growth, and postsecondary readiness.
+The ranking reflects the school’s commitment to high expectations and strong relationships that help students feel supported and engaged in their learning.
+“I attribute Lyons’ high performance rankings to our outstanding teachers and staff and the community of students we serve with strong goals,” said Principal Chris Frank. “Our students strive for academic excellence each and every day, and our teachers do amazing work at supporting each one of them.”
+The school’s close-knit community encourages students to take academic risks and explore new ideas. Annamarie Strzyz, a Language Arts teacher, said educators challenge students to think creatively while providing the support they need to succeed. “Students get to feel more comfortable taking risks, which makes them braver, more innovative thinkers.”
+Individual attention also helps students navigate challenges. Teachers build relationships with students, making it easier to recognize when they need additional support. “Being a small school, kids tend to not really slip through the cracks,” said Math and Science teacher, Pat Bacalis. “With the dedication of the staff and the high expectations they have, kids get a lot of individual attention.”
+That support extends beyond the classroom. Teachers encourage students to pursue their interests and stay involved in school activities. Senior Wilma Spencer said teachers take an active interest in learning more about student events and regularly ask about their progress.
+The ranking recognizes the efforts of Lyons students and educators to create a learning environment where students feel connected, supported, and prepared for what comes next.
+
+Source: https://www.svvsd.org/2026/10/23/lyons-middle-senior-among-colorados-top-performing-schools-on-state-performance-framework/
+
+### Supporting Student Growth Through iBlock at Lyons Elementary
+
+- Published: 2026-10-23T10:23:55-06:00
+- Source URL: https://www.svvsd.org/2026/10/23/supporting-student-growth-through-iblock-at-lyons-elementary/
+
+At Lyons Elementary, each grade level has an approximately 30-minute iBlock period built into its daily schedule, providing dedicated time for small-group instruction, enrichment, and individualized learning. Literacy and math specialists, a Gifted and Talented teacher, English Language Development (ELD) staff, and other educators use this time to build on classroom learning and help students develop skills at their own pace.
+“iBlock allows us to be intentional about how we support each student’s growth,” said Lyons Elementary Principal Katie Gustafson. “Whether students are building foundational skills or exploring an area of interest, the goal is to help them continue making progress.”
+Students at Lyons Elementary work outside during their iBlock period.
+Literacy paraprofessional Yelena Hughes works with small groups of four to six students on reading, writing, fluency, vocabulary, and comprehension. Through interactive notebooks, students organize their thinking and explore new vocabulary as they read. For example, while studying
+Lawn Boy
+by Gary Paulsen, students designed an improved lawn mower for the main character, building or drawing models and creating advertisements that connect reading comprehension with creativity and critical thinking.
+Two students at Lyons Elementary work together to read during their iBlock period.
+In math, paraprofessional Suzie Kruse uses student data, assessments, and classroom observations to provide individualized instruction in foundational skills, fact fluency, and problem-solving strategies. A student who understands a math concept but needs additional support with basic facts can receive targeted practice at a pace that builds confidence and independence. “Students engage deeply during iBlock because the environment feels supportive, personal, and safe,” Kruse said. “They receive immediate feedback and they get more time to talk through their thinking.”
+Through iBlock, Lyons Elementary educators can help students develop a deeper understanding of what they are learning while building confidence in their abilities. These experiences help students recognize their progress and approach new challenges with greater independence.
+
+Source: https://www.svvsd.org/2026/10/23/supporting-student-growth-through-iblock-at-lyons-elementary/
+
+### ProStart Students Serve Local Seniors Through Community Partnership
+
+- Published: 2026-10-23T10:21:17-06:00
+- Source URL: https://www.svvsd.org/2026/10/23/prostart-students-serve-local-seniors-through-community-partnership/
+
+During class on Tuesday, Oct. 13, students in the ProStart Culinary program at the Career Elevation and Technology Center (CETC) worked alongside their peers and culinary instructors Hope Nazzaro and Yvonne Justice to prepare free take-away meals for local seniors. The meal featured meatloaf, glazed carrots, mashed potatoes, seared broccoli and iced white cake. Through a partnership with the Longmont Senior Center, students will continue preparing free evening meals for community members ages 55 and older on select Fridays and Tuesdays through the end of the year.
+ProStart Chef Instructor Hope Nazzaro prepares October’s free take-away meals for local seniors.
+The partnership gives students an opportunity to apply their culinary skills while making a meaningful impact in the community. “This experience goes beyond teaching students how to cook; they are learning what it takes to prepare quality, nutritious meals on a larger scale while developing teamwork, accountability and pride in their work,” Nazzaro said. “Most importantly, they are seeing firsthand how their culinary skills can make a difference in the lives of people in our community.”
+A ProStart student garnishes October’s free take-away meals for seniors with chives.
+For student Lucy Calvetti, knowing the meals bring joy to local seniors makes the experience especially rewarding. “Knowing that something we cooked is putting a smile on a senior’s face makes everything we do in the kitchen so much more meaningful,” Calvetti said.
+
+Source: https://www.svvsd.org/2026/10/23/prostart-students-serve-local-seniors-through-community-partnership/
+
+### Erie Middle School’s Heather Moore Recognized for Excellence in Science Teaching
+
+- Published: 2026-10-22T16:33:55-06:00
+- Source URL: https://www.svvsd.org/2026/10/22/erie-middle-schools-heather-moore-recognized-for-excellence-in-science-teaching/
+
+Heather Moore, a STEM teacher at Erie Middle School, has been named the Colorado Association of Science Teachers’ 2026 Excellence in Secondary Science Teaching Awardee.
+Moore teaches Intro to Tech, Computer Science, and Gateway to STEM, bringing years of science classroom experience to the school’s elective offerings. According to Principal Andrea Smith, that background adds rigor and intentionality to students’ learning.
+While the award recognizes Moore’s teaching, Smith emphasized that her contributions extend beyond her own classroom.
+“I am really proud of the work that Heather has done in the classroom, but I am most impressed by her constant reflection and willingness to partner with our leadership team as we build a more systemic and streamlined approach to teaching our STEM electives,” Smith said.
+Through that collaboration, Moore is helping Erie Middle strengthen how its STEM courses connect and support student learning. Her willingness to reflect on her practice and refine instruction makes her a valued partner in that work.
+The recognition celebrates Moore’s contributions to science education and the expertise she brings to Erie Middle’s STEM classrooms every day.
+
+Source: https://www.svvsd.org/2026/10/22/erie-middle-schools-heather-moore-recognized-for-excellence-in-science-teaching/
+
+### Longmont High School Educator Annie Gorenstein-Falkenberg Earns NSPA 2026 Pioneer Award
+
+- Published: 2026-10-21T13:15:29-06:00
+- Source URL: https://www.svvsd.org/2026/10/21/longmont-high-school-educator-annie-gorenstein-falkenberg-earns-nspa-2026-pioneer-award/
+
+Every student has a story to tell, and Longmont High School educator Annie Gorenstein-Falkenberg is dedicated to helping students find the confidence and skills to tell it. Through her work as an English teacher and journalism adviser, she has created opportunities for students to grow as writers, leaders and storytellers. That commitment to student growth and journalistic excellence has earned Gorenstein-Falkenberg the National Scholastic Press Association’s (NSPA) 2026 Pioneer Award, the organization’s highest honor. The award recognizes journalism educators and advocates who have made significant, long-term contributions to scholastic journalism through leadership, mentorship and a commitment to student press freedom.
+Throughout her 19-year teaching career, including 12 years at Longmont High School, Gorenstein-Falkenberg has focused on creating opportunities for students to develop their confidence, explore their interests and take ownership of their work. She encourages student journalists to step outside their comfort zones, whether that means conducting a challenging interview or covering important issues within their school community.
+“I am honored to be recognized as an NSPA Pioneer and to be included in a group with outstanding advisers that I greatly admire,” Gorenstein-Falkenberg said. “Advising the hundreds of students who have been on yearbook staff at Longmont High School has been one of the most rewarding parts of my teaching career.”
+Ms. Gorenstein-Falkenberg works with students as they go through a review process of their yearbook layouts.
+Her student-centered approach has helped Longmont High School’s yearbook program achieve significant growth and national recognition. Under her leadership, the program has expanded in both enrollment and publication sales while earning four NSPA Pacemaker Finalist awards and three Columbia Scholastic Press Association Silver Crowns. These accomplishments reflect a culture of creativity, collaboration and journalistic excellence that encourages students to produce meaningful, high-quality work.
+“The yearbook celebrates our community, and the student-led staffs that I have had the honor of advising work tirelessly to tell the stories of Longmont High in many ways, making each yearbook different from the year before while always maintaining a high standard for quality and journalistic integrity,” Gorenstein-Falkenberg said. “I feel so fortunate to get to learn about all of the amazing things happening in our community through the work of my students.”
+
+Source: https://www.svvsd.org/2026/10/21/longmont-high-school-educator-annie-gorenstein-falkenberg-earns-nspa-2026-pioneer-award/
 
 ### District alerts
 
@@ -1558,38 +1407,19 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 ### Assessment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
-- Last modified: 2026-09-02T09:59:05-06:00
+- Last modified: 2026-10-22T11:43:59-06:00
 
 Overview
 The Assessment Department’s core responsibility is overseeing all federal, state, and district assessments while delivering actionable data analytics that power informed decision-making across our schools. We believe that assessment-informed instruction is a critical engine behind our standard of excellence for teaching and learning. By leveraging timely, accurate data, educators can meet each student where they are on their unique academic journey, tailoring instruction so every child can achieve success.
-To capture the full picture of student progress, our district relies on a balanced approach using distinct types of assessments.
-Assessments fall into two main categories:
-Assessment FOR Learning
-, which guides daily classroom instruction, and
-Assessment OF Learning,
-which evaluates overall progress and program effectiveness.
-Assessment
-FOR
-Learning
-Diagnostic Assessments:
-Used to identify what a student does or does not yet know, diagnose learning gaps, and highlight individual academic strengths before or during instruction.
-Formative Assessments:
-Used to measure how and what a student is learning in real time, providing immediate feedback to both students and teachers. These are administered frequently within the classroom context to directly inform daily instructional decisions.
-Assessment
-OF
-Learning
-Interim Assessments:
-Administered periodically throughout the school year to track student growth and achievement across specific standards. Because these assessments are common across grade levels and groups, results can be compared to evaluate progress over time.
-Summative Assessments:
-Administered at the end of a unit, semester, or school year to certify student achievement across a broad collection of standards. Results are used to evaluate overall success and guide decisions regarding program and instructional effectiveness.
-Ultimately, these varied assessments work together to strengthen our practices at every level—from the classroom to district leadership.
+Mission
+The mission of the Assessment Department is to promote continuous improvement by providing valid, reliable, and actionable assessment data that informs instructional decision-making and propels student success.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
 
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-09-24T09:49:08-06:00
+- Last modified: 2026-10-29T14:25:08-06:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -1600,7 +1430,7 @@ Assessment Schedules by Grade Level
 Elementary Assessment Schedules
 Middle School Assessment Schedules
 High School Assessment Schedules
-Definitions:
+Assessments in St. Vrain:
 Advanced Placement
 An
 AP
@@ -1609,7 +1439,17 @@ Learn more about Advanced Placement
 WIDA ACCESS
 WIDA
 ACCESS
-is a large-scale English language proficiency assessment given annually to kindergarten through 12th graders who have been identified as English Learners (EL) to monitor students’ progress in learning academic English. It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
+is a large-scale English language proficiency assessment given annually to kindergarten through 12th graders who have been identified as English Learners (EL) to monitor students’ progress in learning academic English.
+Grade(s):
+K-12
+Requirement Level:
+Federal/State Required Assessment
+Estimated Time Required:
+Kindergarten (1 hour); Grades 1-12 (approximately 3.5 hours)
+Assessment Window:
+January 11, 2027 – February 11, 2027
+How Results are Used:
+It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
 Colorado Measures of Academic Success (CMAS)
 includes assessments for English language arts (ELA), math, science, and social studies.
 CoAlt
@@ -1637,195 +1477,72 @@ CogAT/NGAT
 are universal screeners assessments used to support identification of students with exceptional cognitive abilities. The screeners contribute to a body of evidence for identifying students for gifted services or placement in talent development programming.
 DRDP-K
 is an observation-based assessment that is designed to track a student’s kindergarten readiness and developmental progress.
-Elementary School Assessment Schedule 2025-2026
-WIDA ACCESS (K-12): January 20 – 23, 2026
-Full Window: January 12 – February 13, 2026
-CMAS (CoAlt/DLM):
-April 6 – 24, 2026 (official state window)
+Elementary School Assessment Schedule 2026-2027
+WIDA ACCESS (K-12 English Learners)
+: SVVS Window: January 19 – 22, 2027
+Full Window: January 19 – February 22, 2027
+CMAS (CoAlt/DLM): SVVS Window: April 8 – 16, 2027
+Full Window: April 5 – 23, 2027
 ELA & Math – Grades 3-8
-Science – 3 units (Gr. 5) and Social Studies – 1 unit (Gr. 4) at select schools
-ELEMENTARY:
-Grades 3-5 Unit Times:
-ELA Units 1, 2, 3 – 90 minutes each
-Math Units 1, 2, 3 – 65 minutes each
-Science Units 1, 2, 3 and Social Studies Unit 1 – 65 minutes each
-4/
-6
-No Testing
-4/
+Science – Grade 5
+READ Act (Early Literacy K-3)
+– DIBELS 8th (Grade K) and i-Ready Inform (Grades 1-3)
+Fall Window: August 18 – September 4, 2026
+Winter: November 30 – December 18, 2026
+Spring: May 3 – 20, 2027
+DRDP-K (Kindergarten Readiness
+)
+Observation Window: August 18 – October 16, 2026
+CogAT/Naglieri (Gifted and Talented Screener)
+2nd Grade: September-October; varies by school
+5th Grade: October-November; varies by school
+Middle School Assessment Schedule 2026-2027
+WIDA ACCESS (K-12 English Learners)
+: SVVS Window: January 19 – 22, 2027
+Full Window: January 19 – February 22, 2027
+i-Ready Inform (Grades 1-8)
+Fall Window: August 18 – September 4, 2026
+Winter: November 30 – December 18, 2026
+Spring: May 3 – 20, 2027
+CMAS (CoAlt/DLM): SVVS Window: April 8 – 16, 2027
+Full Window: April 5 – 23, 2027
+ELA & Math – Grades 3-8
+Science – (Grade 8) and Social Studies (Grade 7)
+High School Assessment Schedule 2026-202
 7
-Unit 1
-Math – 3rd – 5th
-4/8
-Unit 2
-Math – 3rd – 5th
-4/9
-Unit 3
-Math – 3rd – 5th
-4/10
-Unit 1
-ELA – 3rd – 5th
-4/13
-Unit 2
-ELA – 3rd – 5th
-4/14
-Unit 3
-ELA – 3rd – 5th
-4/15
-Unit 1
-Science-5th
-SS* – 4th
-4/16
-Unit 2
-Science -5th
-4/17
-Unit 3
-Science -5th
-4/20
-Makeups
-4/21
-Makeups
-4/22
-Makeups
-4/23
-Makeups
-4/24
-Makeups – End of CMAS testing window
-*Select schools will participate in Social Studies. Contact your school directly.
-Middle School Assessment Schedule 2025-2026
-WIDA ACCESS (K-12): January 20 – 23, 2026
-Full Window: January 12 – February 13, 2026
-CMAS (CoAlt/DLM):
-April 6 – April 24, 2026 (official state window)
-ELA & Math – Grades 6-8
-Science – Grade 8
-Social Studies – Grade 7 at select schools
-MIDDLE SCHOOL:
-Grades 6-8 Unit Times:
-ELA Units 1, 2, 3 – 90 minutes each
-Math Units 1, 2, 3 – 65 minutes each
-Science Units 1, 2, 3 and Social Studies Unit 1 – 65 minutes each
-4/
-6
-No Testing
-4/
-7
-Unit 1
-Math – 6th – 8th
-4/
-8
-Unit 2
-Math – 6th – 8th
-4/9
-Unit 3
-Math – 6th-8th
-4/1
-0
-Unit 1
-ELA – 6th-8th
-4/1
-3
-Unit 2
-ELA – 6th-8th
-4/1
-4
-Unit 3
-ELA – 6th-8th
-4/1
-5
-Unit 1
-Science – 8th
-SS* – 7th
-4/1
-6
-Unit 2
-Science – 8th
-4/1
-7
-Unit 3
-Science – 8th
-4/2
-0
-Makeups
-4/2
-1
-Makeups
-4/2
-2
-Makeups
-4/2
-3
-Makeups
-4/2
-4
-Makeups – End of CMAS testing window
-*Select schools will participate in Social Studies. Contact your school directly.
-High School Assessment Schedule 2025-202
-6
-11th Grade NMSQT: October 8, 2025
+NMSQT (Grade 11): October 7, 2026
 PSAT Practice Test for 9th and 10th grades
-WIDA ACCESS (K-12): January 20-23, 2026
-Full Window: January 12 – February 12, 2026
-P/SAT Practice Tests: February 11, 2026
+WIDA ACCESS (K-12 English Learners): SVVS Window: January 19 – 22, 2027
+Full Window: January 19 – February 22, 2027
+P/SAT Practice Tests: February 24, 2027
 9th, 10th, & 11th grades
-Grades 9 & 10 PSAT:
-(2 hours 15 min)
-Primary Test Date:
-April 15, 2026
-Make-up Window until
-April 24, 2026
-Full Window:
-April 13 – 24, 2026
-Grade 11 SAT:
-(2 hours 15 min)
-Primary Test Date:
-April 14, 2026
-Make-up Window until
-April 24, 2026
-Full Window: April 13 – 24, 2026
-CMAS (CoAlt/DLM)
+PSAT 9 & PSAT 10
+–
+(DLM for students participating in alternate assessments)
 :
-Unit 1 & 2 – 50 minutes each
-Science (Gr. 11) Primary Test Date:
+Primary Test Date:
+April 14, 2027
+Make-up Window until
+April 23, 2027
+Full Window:
+April 12 – 23, 2027
+SAT Grade 11
+–
+(DLM for students participating in alternate assessments)
+:
+Primary Test Date:
+April 13, 2027
+Make-up Window until
+April 23, 2027
+Full Window:
+April 12 – 23, 2027
+CMAS
+(CoAlt) Science:
+Primary Test Date:
 April 17, 2026
 AP Testing:
-(3 hours per exam)
 Primary Window:
-May 4 – 15, 2026
-4/1
-3
-P/SAT window begins
-4/1
-4*
-SAT – 11th
-4/1
-5*
-PSAT – 9th & 10th
-4/1
-6
-Makeups
-4/1
-7
-CMAS Unit 1 & 2
-Science – 11th
-4/2
-0
-Makeups
-4/2
-1
-Makeups
-4/2
-2
-Makeups
-4/2
-3
-Makeups
-4/2
-4
-Makeups – End of testing window
-*
-April 14 and April 15
-are asynchronous instructional days for only high school students – (only students testing attend school)
+May 3 – 21, 2027
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
 
@@ -1922,7 +1639,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-09-21T09:24:01-06:00
+- Last modified: 2026-10-21T13:08:24-06:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
@@ -7694,7 +7411,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-10-02T14:49:00-06:00
+- Last modified: 2026-10-15T15:13:41-06:00
 
 District Accounts
 Assessment (X)
@@ -7962,6 +7679,7 @@ Northridge Elementary School (X)
 Red Hawk Elementary School
 Red Hawk Elementary School (Facebook)
 Red Hawk Elementary School (X)
+Red Hawk Elementary School Art (Instagram)
 Red Hawk Elementary School Music (Facebook)
 Red Hawk Elementary School Music (Instagram)
 Rocky Mountain Elementary
@@ -8680,7 +8398,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/
 ### 2026-2027 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
-- Last modified: 2026-08-03T08:32:43-06:00
+- Last modified: 2026-10-19T09:18:53-06:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers exceptional preschool programs across the district, giving families more opportunities for consistent learning and connection. Families can choose from a variety of high-quality options, including half-day morning and afternoon sessions, with full-day programs available at select schools.
@@ -8698,7 +8416,6 @@ Full-day session (8:55 a.m. – 3:30 p.m.)
 Highlands Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:55-3:35 p.m.)
-Full-day session (8:55 a.m. – 3:35 p.m.)
 Red Hawk Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:50-3:30 p.m.)
@@ -9666,22 +9383,72 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-10-05T12:50:45-06:00
+- Last modified: 2026-10-22T13:02:28-06:00
 
-Welcome to Your Employee Benefits
-St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
-2026 benefits enrollment guide
-Benefits App:
-A quick reference for benefits phone numbers, websites, links to find your ID cards, and links to find a provider.
-open benefits app
-View more information about:
-Medical, Pharmacy, and HRA
-Dental
-Vision
-Flexible Spending Accounts (FSAs)
-Life and Disability Insurance
-Employee Assistance Program (EAP)
-Wellness Program
+Benefits Open Enrollment: Nov 2-13
+During Benefits Open Enrollment, you may log into
+iv.svvsd.org
+and make changes as needed to your district insurance plans for the period covering January 1, 2027 through June 30, 2027.
+2027 (January-June) Open Enrollment Guide
+This Open Enrollment is for a six-month coverage period, and Open Enrollment will be held again in the Spring of 2027 to make your elections for the new July – June plan year.
+Enrollment is not required this year if you are satisfied with your current elections. Except for the Flexible Spending Accounts, your current elections will automatically continue in 2027 if you do not make any changes during Open Enrollment.
+Premiums are published in the Open Enrollment Guide. There will be no changes to employee premiums on medical, dental, or vision for the January – June coverage period. However, life insurance and disability premiums may increase if your age has reached a higher cost tier.
+There are no new plans or changes to plans for the six-month coverage period.
+2027 Benefits Year Change
+3-minute Video: Benefits Year Change Explained
+In 2027, St. Vrain Valley Schools will permanently change its benefits plan year from a January-December cycle to a July-June cycle, aligning our benefits year with the academic calendar.
+As a result of this change to our plan year cycle, the elections you make this November will cover just
+the first
+six months of 2027
+— January 1 through June 30. The same benefit plans will be available with no increases to premiums for the six-month period. We will then hold Open Enrollment again in the spring so you can make your elections for the new July-June plan year.
+Open Enrollment will be held in the spring of each year going forward, and will no longer be offered in the fall.
+The 3-minute video above explains the plan year change and how deductibles, dental, vision, and other benefits will work during the six-month plan year.
+Health Plan Documents
+2027 (January – June) Plan Documents
+St. Vrain Valley Schools Summary Plan Description (SPD)
+Kaiser DHMO Summary of Benefits and Coverage
+UMR Direct Care Summary of Benefits and Coverage
+UMR Choice Plus HRA Summary of Benefits and Coverage
+Delta Dental Plan Summary
+VSP Vision Plan Summary
+2026 Plan Documents
+Kaiser DHMO Summary of Benefits and Coverage
+Kaiser DHMO Evidence of Coverage
+(Full Coverage Details)
+Kaiser Prescription Drug Listing
+UMR Direct Care Summary of Benefits and Coverage
+UMR Choice Plus HRA Summary of Benefits and Coverage
+HRA Plan Document
+UMR Summary Plan Description
+(Full Coverage Details)
+CVS Prescription Drug Formulary (UMR Plans)
+Delta Dental Plan Summary
+VSP Vision Plan Summary
+The Hartford Short Term Disability Policy Document
+The Hartford Basic Life Policy Document – Certified/Classified
+The Hartford Basic Life Policy Document – Administrative/Professional/Technical
+The Hartford Voluntary Life Policy Document
+Benefits Enrollment Help
+If you would like to make benefits changes and need in-person assistance, or have questions about the plan year change, schedule an appointment at one of our Open Enrollment Labs at the ESC Boardroom at 395 S. Pratt Pkwy, Longmont, CO 80501 on one of the following dates.
+Monday, November 2: 2:30pm – 6:00pm
+Wednesday, November 4: 7:00am – 11:00am
+Tuesday, November 10: 3:30pm – 6:00pm
+Schedule Open Enrollment assistance with Lori Holt
+Schedule Open Enrollment assistance with Leticia Tapia
+Lori Holt
+Benefits Technician
+Benefits Eligibility & Enrollment – Employees with the last name A-L
+303-682-7337
+holt_lori@svvsd.org
+Leticia Tapia
+Benefits Technician
+Benefits Eligibility & Enrollment – Employees with the last name M-Z
+303-682-7383
+tapia_leticia@svvsd.org
+Kristina De Ezpeleta
+Benefits Manager
+303-682-7341
+deezpeleta_kristina@svvsd.org
 View Your Current Benefits
 Sign in to
 iv.svvsd.org
@@ -9700,42 +9467,6 @@ Notice of Health Insurance Marketplace Coverage Options
 Medicare Part D Creditable Coverage Notice
 Your Rights and Protections from Surprise Medical Bills
 read health plan notices
-Health Plan Coverage Documents
-The plan documents provide detailed information about the coverages and limitations of your benefit plans. It is important to review them to understand what your plan
-will and will not cover
-and what you can expect to pay for covered services.
-Kaiser DHMO Summary of Benefits and Coverage
-Kaiser DHMO Evidence of Coverage
-(Full Coverage Details)
-Kaiser Prescription Drug Listing
-UMR Direct Care Summary of Benefits and Coverage
-UMR Choice Plus HRA Summary of Benefits and Coverage
-HRA Plan Document
-UMR Summary Plan Description
-(Full Coverage Details)
-CVS Prescription Drug Formulary (UMR Plans)
-Delta Dental Plan Summary
-VSP Vision Plan Summary
-The Hartford Short Term Disability Policy Document
-The Hartford Basic Life Policy Document – Certified/Classified
-The Hartford Basic Life Policy Document – Administrative/Professional/Technical
-The Hartford Voluntary Life Policy Document
-Benefits Assistance
-A member of the benefits team can provide expert assistance with enrollment and questions.
-Lori Holt
-Benefits Technician
-Benefits Eligibility & Enrollment – Employees with the last name A-L
-303-682-7337
-holt_lori@svvsd.org
-Leticia Tapia
-Benefits Technician
-Benefits Eligibility & Enrollment – Employees with the last name M-Z
-303-682-7383
-tapia_leticia@svvsd.org
-Kristina De Ezpeleta
-Benefits Manager
-303-682-7341
-deezpeleta_kristina@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/
 
@@ -10032,55 +9763,16 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-09-21T11:51:16-06:00
+- Last modified: 2026-10-22T13:25:47-06:00
 
 Staff Wellness Calendar: Fall 2026
-2026 Staff Flu Shots and Biometrics Clinics
-Benefits-eligible employees are invited to attend an on-site flu shot and biometrics clinic presented by KerixHealth. Take a proactive step toward your preventive wellness and learn more about your health.
-Employees who participate in a biometrics screening will receive a $40 King Soopers gift card at the event!
-Tuesday, September 29, 2026
-7:00 – 11:00 AM
-Silver Creek High School Library
-4901 Nelson Rd, Longmont
-Tuesday, September 29, 2026
-3:30 – 6:00 PM
-Frederick High School Library
-5690 Tipple Pkwy, Longmont
-Wednesday, September 30
-, 2026
-7:00 – 11:00 AM
-ESC Board Room
-395 S. Pratt Pkwy, Longmont
-Thursday, October 1
-, 2026
-3:30 – 6:00 PM
-Erie Middle School Media Center
-650 Main St, Erie
-Saturday, October 3
-, 2026
-7:00 – 11:00 AM
-ESC Board Room
-395 S. Pratt Pkwy, Longmont
-Tuesday, October 6
-, 2026
-3:30 – 6:00 PM
-Coal Ridge Middle School Commons
-6201 Booth Dr, Longmont
-click here to register for biometrics/flu shots
-Any benefits-eligible employee (Certified, Classified, Administrative, Professional, Technical positions working at least 17.5 hours per week), whether enrolled in benefits or not, is eligible to attend the biometrics and flu shots event.
-Kaiser members and their covered dependents can also get a walk-in flu shot at Kaiser locations the entire months of September & October. Visit
-Kp.org/flu
-.
 Mammogram Events
 In observance of Breast Cancer Awareness Month, SVVSD will sponsor our annual NO-COST mammogram events for women age 40+ who are enrolled in the district’s UMR or Kaiser health plans – spouses included!
 If you haven’t had your breast cancer screening in the last year, this event is the most fun way to check it off your list. Enjoy refreshments and a bag stuffed with goodies and gift cards.
 By Appointment Only.
 UMR Members:
-Saturday, October 10, 2026 8:00 am – noon
-UCHealth Longs Peak, 1760 E. Ken Pratt Blvd Ste 202
-Call
-844-723-2778 to schedule
-. Mention that you would like an appointment for the Mochas and Mammos event with St. Vrain Valley Schools.
+Saturday, October 10, 2026 8:00 am – noon –
+This event has ended.
 Kaiser Members:
 November 10, 11, & 12, 2026, Afternoons & Evenings
 Kaiser Permanente Longmont Campus, 2345 Bent Way
@@ -10809,7 +10501,7 @@ Laney Miller
 .
 Laney Miller
 Human Resources Technician
-303-682-7282
+303-682-7291
 miller_laney@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
@@ -10871,7 +10563,7 @@ Human Resources Hiring Specialist
 kocourek_katarina@svvsd.org
 Laney Miller
 Human Resources Technician
-303-682-7282
+303-682-7291
 miller_laney@svvsd.org
 Bruna Omati
 Human Resources Specialist
@@ -11295,7 +10987,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Recruiting Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
-- Last modified: 2026-09-11T12:10:16-06:00
+- Last modified: 2026-10-29T13:28:37-06:00
 
 St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email: humanresources@svvsd.org
 Workforce Boulder County 55+ Job Fair
@@ -11303,8 +10995,11 @@ Workforce Boulder County 55+ Job Fair
 AAEE National Education Career Fair
 : October 19, 2026, at Kansas City Marriott Country Club Plaza, Kansas City, MO
 K-12 Educator Employment Fair Days
-: November 12, 2026, at the University of Northern Colorado, Golden, CO
-Colorado Education Recruitment Fair (CERF): March 6, 2027, at Westminster Public Schools, CO
+: November 12, 2026, at the University of Northern Colorado, Greeley, CO
+Futures and Frontiers
+: February 3, 2027, at Colorado School of Mines, Golden, CO
+Colorado Education Recruitment Fair (CERF)
+: March 6, 2027, at Westminster High School, Westminster, CO
 
 Source: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
 
@@ -14029,7 +13724,7 @@ Source: https://www.svvsd.org/departments/priority-programs/
 ### Dyslexia Task Force
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
-- Last modified: 2026-06-15T12:29:33-06:00
+- Last modified: 2026-10-27T12:52:17-06:00
 
 OVERVIEW
 The goal of St. Vrain Valley Schools’ Dyslexia Task Force is to provide high quality support to students with dyslexic characteristics. The model of support includes using current research, evidence-based interventions and early identification screeners to support students identified as dyslexic, or who have characteristics of dyslexia.
@@ -14046,12 +13741,11 @@ Parent awareness and education events
 Professional development opportunities for teachers and administrators
 Resources for classroom and literacy teachers regarding identification, instruction and accommodations for students with dyslexic characteristics
 Dyslexia 101:
-Coming Fall 2026
-YES! Events:
-Coming Fall 2026
-Upcoming Dyslexia Simulations:
-Details available
-Fall 2026
+Coming
+Soon
+YES! Ambassadors and Dyslexia Simulation COMBO Event- Students and caregivers join us
+October 28th, 7:00-8:30 pm
+. This event has been rescheduled to a better date-please check back soon!
 
 Source: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
 
@@ -14385,7 +14079,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-10-12T13:55:10-06:00
+- Last modified: 2026-10-29T13:37:38-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -14397,7 +14091,9 @@ THIS FORM
 and it will be reviewed for possible credit. We no longer require that certificates be added to your SVVS transcript in order to use them for a latera move.
 If you need to make a payment for a professional development course/certificate
 CLICK HERE
-. Payment must be made prior to the start of the class.
+. **Payment must be made prior to the start of the class unless it will be covered by your school or department. If your fee is being paid by your school or a department, please select Building/Department Paying from the Payment Type dropdown, and enter your school or department name in the PO field.
+Refunds:
+You have 24 hours after the course start date to request a refund.
 Learn more
 Upcoming Events & Opportunities
 Program Logistics & Timeline:
@@ -14631,7 +14327,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-09-21T11:17:06-06:00
+- Last modified: 2026-10-27T08:29:32-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -15839,7 +15535,7 @@ Source: https://www.svvsd.org/departments/special-education/
 
 Meet the Team
 Leadership Team
-Laura Hess
+Laura Hess, Ph.D.
 Assistant Superintendent of Special Education
 303-682-7327
 hess_laura@svvsd.org
@@ -17241,9 +16937,9 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-09-24T10:42:57-06:00
+- Last modified: 2026-10-22T17:12:59-06:00
 
-The referral period for Gifted and Talented Services is now open. Please complete the following form to refer your student. The referral period ends on September 30th, 2026.
+The referral period for Gifted and Talented Services is now closed. Please contact the Site Leader or GT Teacher at your school if you have further questions.
 Gifted and Talented Referral Form
 Gifted and Talented Services Vision and Mission
 We envision
@@ -17357,7 +17053,7 @@ Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/r
 ### School Contacts
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
-- Last modified: 2026-09-14T15:15:15-06:00
+- Last modified: 2026-10-20T12:33:13-06:00
 
 School Contacts
 Programming is a site based decision. Click on the school name in order to view their programming options. Contact the school directly with any questions regarding programming or services.
@@ -17491,10 +17187,8 @@ K-8/K-12 Schools
 Name
 Email Address
 Soaring Heights
-Kate Nelson PK-5
-Katie Kaminski 6-8
+Kate Nelson K-8
 nelson_kathryn@svvsd.org
-kaminski_katie@svvsd.org
 Thunder Valley K-8
 Kelli Frost
 frost_kelli@svvsd.org
@@ -18785,12 +18479,13 @@ Source: https://www.svvsd.org/departments/technology/sdp/educator-resources/
 ### Parent Resources
 
 - Canonical URL: https://www.svvsd.org/departments/technology/sdp/parent-resources/
-- Last modified: 2021-07-16T10:42:57-06:00
+- Last modified: 2026-10-23T14:17:24-06:00
 
 Student Data Privacy – Parent Resources
 How is Education Data Used?
 The use of data helps guide parents, teachers, schools, districts and state leaders as we work together to improve student achievement so all children graduate ready for college and career. While using data effectively to guide improvement in instruction and student achievement, the Colorado Department of Education and St. Vrain Valley School District takes seriously its moral and legal responsibility to protect student privacy and ensure data confidentiality. St.Vrain’s annual FERPA notification to parents is included in the
 St. Vrain Behavioral Codebook
+(Spanish Version)
 Schools and school districts have always collected data on students. Instead of paper files, much of that data is now collected through computers and online resources. While the systems for organizing and managing this information have changed over the years, St. Vrain’s commitment to confidentiality remains the same. It is our responsibility to ensure the security of each student’s education record and we take that responsibility very seriously. There are also existing federal and state laws in place that protect student information. St. Vrain has a comprehensive student data privacy policy that outlines security mechanisms that protect student data. A copy of our Student Information Privacy Policy can be viewed below. Please take a moment to review it and the other student data privacy resources available.
 Resources for Parents
 8 Things You Should Know about Student Data
@@ -18803,11 +18498,12 @@ The Data Quality Campaign
 Colorado Department of Education (CDE) has created and gathered the following resources to help parents understand what data is collected about students and how that data is used. If you have questions, contact the Data Privacy Office at
 dataprivacy@cde.state.co.us
 .
+Protecting Student Privacy Information
 Family Educational Rights and Privacy Act (FERPA) General Guidance for Parents
-About the Family Policy Compliance Office – U.S Dept. of Education (FPCO)
+CDE Data Collection Information
 A Parent’s Guide to Student Data Privacy
 , created by ConnectSafely, Future of Privacy Forum and the PTA
-What Data is Collected?
+State-Level Data Collection and Protection Fact Sheet
 
 Source: https://www.svvsd.org/departments/technology/sdp/parent-resources/
 
@@ -19647,12 +19343,10 @@ Source: https://www.svvsd.org/about/board-of-education/board-member-district-bou
 ### Board of Education Elections
 
 - Canonical URL: https://www.svvsd.org/about/board-of-education/board-of-education-elections/
-- Last modified: 2025-12-05T16:21:15-07:00
+- Last modified: 2026-10-26T06:41:49-06:00
 
 Elections
 Eligible St. Vrain Valley School District residents can vote in their county’s annual election to help determine how the District operates. The issues and/or positions appearing on the ballot that can affect the District will vary from year to year. They include: Board of Education positions, Mill Levy Overrides, School Bonds, and general representation in state and federal governments. In order to vote in any election, residents must be registered to vote.
-Notice of Board Vacancy – Director District C
-Notice & Application Information
 2025 Election Results
 Boulder County
 Broomfield County
@@ -20268,7 +19962,7 @@ IJOC-E – School Volunteer Application (Spanish)
 IK – Academic Achievement
 68 KB
 IKA – Grading/Assessment Systems
-96 KB
+50 KB
 IKA-R – Grading/Assessment Systems (Exemption Procedure and Information to Parents/Guardians)
 81 KB
 IKE – Ensuring All Students Meet Standards
@@ -20624,23 +20318,23 @@ Board of Education Study Session
 December 16, 2026
 Board of Education Regular Meeting
 December 9, 2026
-Board of Education Study Session
-December 9, 2026
 Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
 Board of Education Regular Meeting
 November 11, 2026
+Board of Education Study Session
+November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Regular Meeting
-October 28, 2026
 Board of Education Study Session
 October 28, 2026
-Board of Education Study Session – Canceled
-October 21, 2026
+Board of Education Regular Meeting
+October 28, 2026
 Joint Meeting with Longmont City Council
+October 21, 2026
+Board of Education Study Session – Canceled
 October 21, 2026
 Board of Education Regular Meeting
 October 14, 2026
@@ -20814,15 +20508,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-181/
 
-### Board of Education Study Session
-
-- Meeting date: December 9, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
 ### Board of Education Member Events for December
 
 - Meeting date: December 1, 2026
@@ -20850,6 +20535,15 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
 
+### Board of Education Study Session
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
 ### Board of Education Member Events for November
 
 - Meeting date: November 1, 2026
@@ -20858,15 +20552,6 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
-
-### Board of Education Regular Meeting
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 ### Board of Education Study Session
 
@@ -20877,14 +20562,14 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
-### Board of Education Study Session – Canceled
+### Board of Education Regular Meeting
 
-- Meeting date: October 21, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 ### Joint Meeting with Longmont City Council
 
@@ -20894,6 +20579,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/longmont-city-council-meeting-the-board-of-education/
+
+### Board of Education Study Session – Canceled
+
+- Meeting date: October 21, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
 
 ### Board of Education Regular Meeting
 

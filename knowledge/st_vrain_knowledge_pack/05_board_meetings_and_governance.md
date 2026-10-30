@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-15T07:21:41.290258-06:00
+generated_at: 2026-10-30T09:00:01.055573-06:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -119,12 +119,10 @@ Source: https://www.svvsd.org/about/board-of-education/board-member-district-bou
 ### Board of Education Elections
 
 - Canonical URL: https://www.svvsd.org/about/board-of-education/board-of-education-elections/
-- Last modified: 2025-12-05T16:21:15-07:00
+- Last modified: 2026-10-26T06:41:49-06:00
 
 Elections
 Eligible St. Vrain Valley School District residents can vote in their county’s annual election to help determine how the District operates. The issues and/or positions appearing on the ballot that can affect the District will vary from year to year. They include: Board of Education positions, Mill Levy Overrides, School Bonds, and general representation in state and federal governments. In order to vote in any election, residents must be registered to vote.
-Notice of Board Vacancy – Director District C
-Notice & Application Information
 2025 Election Results
 Boulder County
 Broomfield County
@@ -740,7 +738,7 @@ IJOC-E – School Volunteer Application (Spanish)
 IK – Academic Achievement
 68 KB
 IKA – Grading/Assessment Systems
-96 KB
+50 KB
 IKA-R – Grading/Assessment Systems (Exemption Procedure and Information to Parents/Guardians)
 81 KB
 IKE – Ensuring All Students Meet Standards
@@ -1096,23 +1094,23 @@ Board of Education Study Session
 December 16, 2026
 Board of Education Regular Meeting
 December 9, 2026
-Board of Education Study Session
-December 9, 2026
 Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
 Board of Education Regular Meeting
 November 11, 2026
+Board of Education Study Session
+November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Regular Meeting
-October 28, 2026
 Board of Education Study Session
 October 28, 2026
-Board of Education Study Session – Canceled
-October 21, 2026
+Board of Education Regular Meeting
+October 28, 2026
 Joint Meeting with Longmont City Council
+October 21, 2026
+Board of Education Study Session – Canceled
 October 21, 2026
 Board of Education Regular Meeting
 October 14, 2026
@@ -1286,15 +1284,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-181/
 
-### Board of Education Study Session
-
-- Meeting date: December 9, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
 ### Board of Education Member Events for December
 
 - Meeting date: December 1, 2026
@@ -1322,6 +1311,15 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
 
+### Board of Education Study Session
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
 ### Board of Education Member Events for November
 
 - Meeting date: November 1, 2026
@@ -1330,15 +1328,6 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
-
-### Board of Education Regular Meeting
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 ### Board of Education Study Session
 
@@ -1349,14 +1338,14 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
-### Board of Education Study Session – Canceled
+### Board of Education Regular Meeting
 
-- Meeting date: October 21, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 ### Joint Meeting with Longmont City Council
 
@@ -1366,6 +1355,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/longmont-city-council-meeting-the-board-of-education/
+
+### Board of Education Study Session – Canceled
+
+- Meeting date: October 21, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-119/
 
 ### Board of Education Regular Meeting
 

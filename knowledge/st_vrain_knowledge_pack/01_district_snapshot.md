@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-15T07:21:41.290258-06:00
+generated_at: 2026-10-30T09:00:01.055573-06:00
 coverage_window_days: 90
 section_title: District snapshot
 ---
@@ -45,7 +45,7 @@ Source: https://www.svvsd.org/about/district-overview/
 ### The St. Vrain Advantage
 
 - Canonical URL: https://www.svvsd.org/about/district-overview/by-the-numbers-a-strong-competitive-advantage/
-- Last modified: 2026-02-17T11:01:22-07:00
+- Last modified: 2026-10-26T11:22:48-06:00
 
 By the Numbers: The St. Vrain Advantage
 St. Vrain Valley Schools is a nationally recognized leader in academic achievement, innovation, and student opportunity. Located just 30 miles north of Denver in one of Colorado’s fastest-growing regions, our district serves more than 33,000 students and is the largest employer across 411 square miles.
@@ -104,7 +104,7 @@ All middle schools in St. Vrain offer competitive athletic opportunities, engagi
 10,000 Pieces of Art
 All schools in St. Vrain offer high quality visual arts courses, with over 10,000 pieces of art displayed each spring at the Districtwide Art Show.
 181 All-State Musicians
-St. Vrain’s commitment to music education has earned national distinction, with the NAMM Foundation honoring the district with the Best Communities for Music Education award for four consecutive years since 2021. This year, 181 students were selected for the prestigious and competitive Colorado All-State Choir, Band, and Orchestra ensembles.
+St. Vrain’s commitment to music education has earned national distinction, with the NAMM Foundation honoring the district with the Best Communities for Music Education award for six consecutive years since 2021. This year, 181 students were selected for the prestigious and competitive Colorado All-State Choir, Band, and Orchestra ensembles.
 70 Focus Programs
 St. Vrain Valley Schools has over 70 instructional focus programs and open enrollment policies that let students and families select the school that will best meet their needs and interests.
 Outstanding Community and Staff
@@ -136,7 +136,7 @@ St. Vrain has a robust transportation department, driving close to 2 million mil
 Last year, St. Vrain’s nutrition services department served over 2.6 million meals to students, and is on track to double that number for the 23-24 school year.
 State and National Awards
 St. Vrain was recognized as one of four school districts in Colorado — and 373 in North America — to make the College Board’s Annual AP District Honor Roll, along with 8 high schools recognized as AP Honor Roll schools in 2023.
-NAMM Best Communities for Music Education Districts in 2023, 2022, and 2021
+NAMM Best Communities for Music Education Districts in 2026, 2025, 2024, 2023, 2022, and 2021
 Colorado Succeeds Prize, 2019 Excellence Award for Technology Enabled Learning
 The Learning Counsel, awarded a Top 10 Digital District in 2019
 2019 Colorado Technology Association’s Project of the Year

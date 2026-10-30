@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-15T07:21:41.290258-06:00
+generated_at: 2026-10-30T09:00:01.055573-06:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -105,38 +105,19 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/
 ### Assessment
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
-- Last modified: 2026-09-02T09:59:05-06:00
+- Last modified: 2026-10-22T11:43:59-06:00
 
 Overview
 The Assessment Department’s core responsibility is overseeing all federal, state, and district assessments while delivering actionable data analytics that power informed decision-making across our schools. We believe that assessment-informed instruction is a critical engine behind our standard of excellence for teaching and learning. By leveraging timely, accurate data, educators can meet each student where they are on their unique academic journey, tailoring instruction so every child can achieve success.
-To capture the full picture of student progress, our district relies on a balanced approach using distinct types of assessments.
-Assessments fall into two main categories:
-Assessment FOR Learning
-, which guides daily classroom instruction, and
-Assessment OF Learning,
-which evaluates overall progress and program effectiveness.
-Assessment
-FOR
-Learning
-Diagnostic Assessments:
-Used to identify what a student does or does not yet know, diagnose learning gaps, and highlight individual academic strengths before or during instruction.
-Formative Assessments:
-Used to measure how and what a student is learning in real time, providing immediate feedback to both students and teachers. These are administered frequently within the classroom context to directly inform daily instructional decisions.
-Assessment
-OF
-Learning
-Interim Assessments:
-Administered periodically throughout the school year to track student growth and achievement across specific standards. Because these assessments are common across grade levels and groups, results can be compared to evaluate progress over time.
-Summative Assessments:
-Administered at the end of a unit, semester, or school year to certify student achievement across a broad collection of standards. Results are used to evaluate overall success and guide decisions regarding program and instructional effectiveness.
-Ultimately, these varied assessments work together to strengthen our practices at every level—from the classroom to district leadership.
+Mission
+The mission of the Assessment Department is to promote continuous improvement by providing valid, reliable, and actionable assessment data that informs instructional decision-making and propels student success.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/
 
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-09-24T09:49:08-06:00
+- Last modified: 2026-10-29T14:25:08-06:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -147,7 +128,7 @@ Assessment Schedules by Grade Level
 Elementary Assessment Schedules
 Middle School Assessment Schedules
 High School Assessment Schedules
-Definitions:
+Assessments in St. Vrain:
 Advanced Placement
 An
 AP
@@ -156,7 +137,17 @@ Learn more about Advanced Placement
 WIDA ACCESS
 WIDA
 ACCESS
-is a large-scale English language proficiency assessment given annually to kindergarten through 12th graders who have been identified as English Learners (EL) to monitor students’ progress in learning academic English. It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
+is a large-scale English language proficiency assessment given annually to kindergarten through 12th graders who have been identified as English Learners (EL) to monitor students’ progress in learning academic English.
+Grade(s):
+K-12
+Requirement Level:
+Federal/State Required Assessment
+Estimated Time Required:
+Kindergarten (1 hour); Grades 1-12 (approximately 3.5 hours)
+Assessment Window:
+January 11, 2027 – February 11, 2027
+How Results are Used:
+It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
 Colorado Measures of Academic Success (CMAS)
 includes assessments for English language arts (ELA), math, science, and social studies.
 CoAlt
@@ -184,195 +175,72 @@ CogAT/NGAT
 are universal screeners assessments used to support identification of students with exceptional cognitive abilities. The screeners contribute to a body of evidence for identifying students for gifted services or placement in talent development programming.
 DRDP-K
 is an observation-based assessment that is designed to track a student’s kindergarten readiness and developmental progress.
-Elementary School Assessment Schedule 2025-2026
-WIDA ACCESS (K-12): January 20 – 23, 2026
-Full Window: January 12 – February 13, 2026
-CMAS (CoAlt/DLM):
-April 6 – 24, 2026 (official state window)
+Elementary School Assessment Schedule 2026-2027
+WIDA ACCESS (K-12 English Learners)
+: SVVS Window: January 19 – 22, 2027
+Full Window: January 19 – February 22, 2027
+CMAS (CoAlt/DLM): SVVS Window: April 8 – 16, 2027
+Full Window: April 5 – 23, 2027
 ELA & Math – Grades 3-8
-Science – 3 units (Gr. 5) and Social Studies – 1 unit (Gr. 4) at select schools
-ELEMENTARY:
-Grades 3-5 Unit Times:
-ELA Units 1, 2, 3 – 90 minutes each
-Math Units 1, 2, 3 – 65 minutes each
-Science Units 1, 2, 3 and Social Studies Unit 1 – 65 minutes each
-4/
-6
-No Testing
-4/
+Science – Grade 5
+READ Act (Early Literacy K-3)
+– DIBELS 8th (Grade K) and i-Ready Inform (Grades 1-3)
+Fall Window: August 18 – September 4, 2026
+Winter: November 30 – December 18, 2026
+Spring: May 3 – 20, 2027
+DRDP-K (Kindergarten Readiness
+)
+Observation Window: August 18 – October 16, 2026
+CogAT/Naglieri (Gifted and Talented Screener)
+2nd Grade: September-October; varies by school
+5th Grade: October-November; varies by school
+Middle School Assessment Schedule 2026-2027
+WIDA ACCESS (K-12 English Learners)
+: SVVS Window: January 19 – 22, 2027
+Full Window: January 19 – February 22, 2027
+i-Ready Inform (Grades 1-8)
+Fall Window: August 18 – September 4, 2026
+Winter: November 30 – December 18, 2026
+Spring: May 3 – 20, 2027
+CMAS (CoAlt/DLM): SVVS Window: April 8 – 16, 2027
+Full Window: April 5 – 23, 2027
+ELA & Math – Grades 3-8
+Science – (Grade 8) and Social Studies (Grade 7)
+High School Assessment Schedule 2026-202
 7
-Unit 1
-Math – 3rd – 5th
-4/8
-Unit 2
-Math – 3rd – 5th
-4/9
-Unit 3
-Math – 3rd – 5th
-4/10
-Unit 1
-ELA – 3rd – 5th
-4/13
-Unit 2
-ELA – 3rd – 5th
-4/14
-Unit 3
-ELA – 3rd – 5th
-4/15
-Unit 1
-Science-5th
-SS* – 4th
-4/16
-Unit 2
-Science -5th
-4/17
-Unit 3
-Science -5th
-4/20
-Makeups
-4/21
-Makeups
-4/22
-Makeups
-4/23
-Makeups
-4/24
-Makeups – End of CMAS testing window
-*Select schools will participate in Social Studies. Contact your school directly.
-Middle School Assessment Schedule 2025-2026
-WIDA ACCESS (K-12): January 20 – 23, 2026
-Full Window: January 12 – February 13, 2026
-CMAS (CoAlt/DLM):
-April 6 – April 24, 2026 (official state window)
-ELA & Math – Grades 6-8
-Science – Grade 8
-Social Studies – Grade 7 at select schools
-MIDDLE SCHOOL:
-Grades 6-8 Unit Times:
-ELA Units 1, 2, 3 – 90 minutes each
-Math Units 1, 2, 3 – 65 minutes each
-Science Units 1, 2, 3 and Social Studies Unit 1 – 65 minutes each
-4/
-6
-No Testing
-4/
-7
-Unit 1
-Math – 6th – 8th
-4/
-8
-Unit 2
-Math – 6th – 8th
-4/9
-Unit 3
-Math – 6th-8th
-4/1
-0
-Unit 1
-ELA – 6th-8th
-4/1
-3
-Unit 2
-ELA – 6th-8th
-4/1
-4
-Unit 3
-ELA – 6th-8th
-4/1
-5
-Unit 1
-Science – 8th
-SS* – 7th
-4/1
-6
-Unit 2
-Science – 8th
-4/1
-7
-Unit 3
-Science – 8th
-4/2
-0
-Makeups
-4/2
-1
-Makeups
-4/2
-2
-Makeups
-4/2
-3
-Makeups
-4/2
-4
-Makeups – End of CMAS testing window
-*Select schools will participate in Social Studies. Contact your school directly.
-High School Assessment Schedule 2025-202
-6
-11th Grade NMSQT: October 8, 2025
+NMSQT (Grade 11): October 7, 2026
 PSAT Practice Test for 9th and 10th grades
-WIDA ACCESS (K-12): January 20-23, 2026
-Full Window: January 12 – February 12, 2026
-P/SAT Practice Tests: February 11, 2026
+WIDA ACCESS (K-12 English Learners): SVVS Window: January 19 – 22, 2027
+Full Window: January 19 – February 22, 2027
+P/SAT Practice Tests: February 24, 2027
 9th, 10th, & 11th grades
-Grades 9 & 10 PSAT:
-(2 hours 15 min)
-Primary Test Date:
-April 15, 2026
-Make-up Window until
-April 24, 2026
-Full Window:
-April 13 – 24, 2026
-Grade 11 SAT:
-(2 hours 15 min)
-Primary Test Date:
-April 14, 2026
-Make-up Window until
-April 24, 2026
-Full Window: April 13 – 24, 2026
-CMAS (CoAlt/DLM)
+PSAT 9 & PSAT 10
+–
+(DLM for students participating in alternate assessments)
 :
-Unit 1 & 2 – 50 minutes each
-Science (Gr. 11) Primary Test Date:
+Primary Test Date:
+April 14, 2027
+Make-up Window until
+April 23, 2027
+Full Window:
+April 12 – 23, 2027
+SAT Grade 11
+–
+(DLM for students participating in alternate assessments)
+:
+Primary Test Date:
+April 13, 2027
+Make-up Window until
+April 23, 2027
+Full Window:
+April 12 – 23, 2027
+CMAS
+(CoAlt) Science:
+Primary Test Date:
 April 17, 2026
 AP Testing:
-(3 hours per exam)
 Primary Window:
-May 4 – 15, 2026
-4/1
-3
-P/SAT window begins
-4/1
-4*
-SAT – 11th
-4/1
-5*
-PSAT – 9th & 10th
-4/1
-6
-Makeups
-4/1
-7
-CMAS Unit 1 & 2
-Science – 11th
-4/2
-0
-Makeups
-4/2
-1
-Makeups
-4/2
-2
-Makeups
-4/2
-3
-Makeups
-4/2
-4
-Makeups – End of testing window
-*
-April 14 and April 15
-are asynchronous instructional days for only high school students – (only students testing attend school)
+May 3 – 21, 2027
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
 
@@ -469,7 +337,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-09-21T09:24:01-06:00
+- Last modified: 2026-10-21T13:08:24-06:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
@@ -6241,7 +6109,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-10-02T14:49:00-06:00
+- Last modified: 2026-10-15T15:13:41-06:00
 
 District Accounts
 Assessment (X)
@@ -6509,6 +6377,7 @@ Northridge Elementary School (X)
 Red Hawk Elementary School
 Red Hawk Elementary School (Facebook)
 Red Hawk Elementary School (X)
+Red Hawk Elementary School Art (Instagram)
 Red Hawk Elementary School Music (Facebook)
 Red Hawk Elementary School Music (Instagram)
 Rocky Mountain Elementary
@@ -7227,7 +7096,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/
 ### 2026-2027 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
-- Last modified: 2026-08-03T08:32:43-06:00
+- Last modified: 2026-10-19T09:18:53-06:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers exceptional preschool programs across the district, giving families more opportunities for consistent learning and connection. Families can choose from a variety of high-quality options, including half-day morning and afternoon sessions, with full-day programs available at select schools.
@@ -7245,7 +7114,6 @@ Full-day session (8:55 a.m. – 3:30 p.m.)
 Highlands Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:55-3:35 p.m.)
-Full-day session (8:55 a.m. – 3:35 p.m.)
 Red Hawk Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:50-3:30 p.m.)
@@ -8213,22 +8081,72 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-10-05T12:50:45-06:00
+- Last modified: 2026-10-22T13:02:28-06:00
 
-Welcome to Your Employee Benefits
-St. Vrain Valley Schools is committed to maintaining a competitive and affordable benefits program that supports the health and wellbeing of our employees and their families. Whether you’re a new hire enrolling in benefits for the first time, experiencing a change in your family, or looking for general benefits help, the links above and below will help navigate you through your benefits resources.
-2026 benefits enrollment guide
-Benefits App:
-A quick reference for benefits phone numbers, websites, links to find your ID cards, and links to find a provider.
-open benefits app
-View more information about:
-Medical, Pharmacy, and HRA
-Dental
-Vision
-Flexible Spending Accounts (FSAs)
-Life and Disability Insurance
-Employee Assistance Program (EAP)
-Wellness Program
+Benefits Open Enrollment: Nov 2-13
+During Benefits Open Enrollment, you may log into
+iv.svvsd.org
+and make changes as needed to your district insurance plans for the period covering January 1, 2027 through June 30, 2027.
+2027 (January-June) Open Enrollment Guide
+This Open Enrollment is for a six-month coverage period, and Open Enrollment will be held again in the Spring of 2027 to make your elections for the new July – June plan year.
+Enrollment is not required this year if you are satisfied with your current elections. Except for the Flexible Spending Accounts, your current elections will automatically continue in 2027 if you do not make any changes during Open Enrollment.
+Premiums are published in the Open Enrollment Guide. There will be no changes to employee premiums on medical, dental, or vision for the January – June coverage period. However, life insurance and disability premiums may increase if your age has reached a higher cost tier.
+There are no new plans or changes to plans for the six-month coverage period.
+2027 Benefits Year Change
+3-minute Video: Benefits Year Change Explained
+In 2027, St. Vrain Valley Schools will permanently change its benefits plan year from a January-December cycle to a July-June cycle, aligning our benefits year with the academic calendar.
+As a result of this change to our plan year cycle, the elections you make this November will cover just
+the first
+six months of 2027
+— January 1 through June 30. The same benefit plans will be available with no increases to premiums for the six-month period. We will then hold Open Enrollment again in the spring so you can make your elections for the new July-June plan year.
+Open Enrollment will be held in the spring of each year going forward, and will no longer be offered in the fall.
+The 3-minute video above explains the plan year change and how deductibles, dental, vision, and other benefits will work during the six-month plan year.
+Health Plan Documents
+2027 (January – June) Plan Documents
+St. Vrain Valley Schools Summary Plan Description (SPD)
+Kaiser DHMO Summary of Benefits and Coverage
+UMR Direct Care Summary of Benefits and Coverage
+UMR Choice Plus HRA Summary of Benefits and Coverage
+Delta Dental Plan Summary
+VSP Vision Plan Summary
+2026 Plan Documents
+Kaiser DHMO Summary of Benefits and Coverage
+Kaiser DHMO Evidence of Coverage
+(Full Coverage Details)
+Kaiser Prescription Drug Listing
+UMR Direct Care Summary of Benefits and Coverage
+UMR Choice Plus HRA Summary of Benefits and Coverage
+HRA Plan Document
+UMR Summary Plan Description
+(Full Coverage Details)
+CVS Prescription Drug Formulary (UMR Plans)
+Delta Dental Plan Summary
+VSP Vision Plan Summary
+The Hartford Short Term Disability Policy Document
+The Hartford Basic Life Policy Document – Certified/Classified
+The Hartford Basic Life Policy Document – Administrative/Professional/Technical
+The Hartford Voluntary Life Policy Document
+Benefits Enrollment Help
+If you would like to make benefits changes and need in-person assistance, or have questions about the plan year change, schedule an appointment at one of our Open Enrollment Labs at the ESC Boardroom at 395 S. Pratt Pkwy, Longmont, CO 80501 on one of the following dates.
+Monday, November 2: 2:30pm – 6:00pm
+Wednesday, November 4: 7:00am – 11:00am
+Tuesday, November 10: 3:30pm – 6:00pm
+Schedule Open Enrollment assistance with Lori Holt
+Schedule Open Enrollment assistance with Leticia Tapia
+Lori Holt
+Benefits Technician
+Benefits Eligibility & Enrollment – Employees with the last name A-L
+303-682-7337
+holt_lori@svvsd.org
+Leticia Tapia
+Benefits Technician
+Benefits Eligibility & Enrollment – Employees with the last name M-Z
+303-682-7383
+tapia_leticia@svvsd.org
+Kristina De Ezpeleta
+Benefits Manager
+303-682-7341
+deezpeleta_kristina@svvsd.org
 View Your Current Benefits
 Sign in to
 iv.svvsd.org
@@ -8247,42 +8165,6 @@ Notice of Health Insurance Marketplace Coverage Options
 Medicare Part D Creditable Coverage Notice
 Your Rights and Protections from Surprise Medical Bills
 read health plan notices
-Health Plan Coverage Documents
-The plan documents provide detailed information about the coverages and limitations of your benefit plans. It is important to review them to understand what your plan
-will and will not cover
-and what you can expect to pay for covered services.
-Kaiser DHMO Summary of Benefits and Coverage
-Kaiser DHMO Evidence of Coverage
-(Full Coverage Details)
-Kaiser Prescription Drug Listing
-UMR Direct Care Summary of Benefits and Coverage
-UMR Choice Plus HRA Summary of Benefits and Coverage
-HRA Plan Document
-UMR Summary Plan Description
-(Full Coverage Details)
-CVS Prescription Drug Formulary (UMR Plans)
-Delta Dental Plan Summary
-VSP Vision Plan Summary
-The Hartford Short Term Disability Policy Document
-The Hartford Basic Life Policy Document – Certified/Classified
-The Hartford Basic Life Policy Document – Administrative/Professional/Technical
-The Hartford Voluntary Life Policy Document
-Benefits Assistance
-A member of the benefits team can provide expert assistance with enrollment and questions.
-Lori Holt
-Benefits Technician
-Benefits Eligibility & Enrollment – Employees with the last name A-L
-303-682-7337
-holt_lori@svvsd.org
-Leticia Tapia
-Benefits Technician
-Benefits Eligibility & Enrollment – Employees with the last name M-Z
-303-682-7383
-tapia_leticia@svvsd.org
-Kristina De Ezpeleta
-Benefits Manager
-303-682-7341
-deezpeleta_kristina@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/
 
@@ -8579,55 +8461,16 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-09-21T11:51:16-06:00
+- Last modified: 2026-10-22T13:25:47-06:00
 
 Staff Wellness Calendar: Fall 2026
-2026 Staff Flu Shots and Biometrics Clinics
-Benefits-eligible employees are invited to attend an on-site flu shot and biometrics clinic presented by KerixHealth. Take a proactive step toward your preventive wellness and learn more about your health.
-Employees who participate in a biometrics screening will receive a $40 King Soopers gift card at the event!
-Tuesday, September 29, 2026
-7:00 – 11:00 AM
-Silver Creek High School Library
-4901 Nelson Rd, Longmont
-Tuesday, September 29, 2026
-3:30 – 6:00 PM
-Frederick High School Library
-5690 Tipple Pkwy, Longmont
-Wednesday, September 30
-, 2026
-7:00 – 11:00 AM
-ESC Board Room
-395 S. Pratt Pkwy, Longmont
-Thursday, October 1
-, 2026
-3:30 – 6:00 PM
-Erie Middle School Media Center
-650 Main St, Erie
-Saturday, October 3
-, 2026
-7:00 – 11:00 AM
-ESC Board Room
-395 S. Pratt Pkwy, Longmont
-Tuesday, October 6
-, 2026
-3:30 – 6:00 PM
-Coal Ridge Middle School Commons
-6201 Booth Dr, Longmont
-click here to register for biometrics/flu shots
-Any benefits-eligible employee (Certified, Classified, Administrative, Professional, Technical positions working at least 17.5 hours per week), whether enrolled in benefits or not, is eligible to attend the biometrics and flu shots event.
-Kaiser members and their covered dependents can also get a walk-in flu shot at Kaiser locations the entire months of September & October. Visit
-Kp.org/flu
-.
 Mammogram Events
 In observance of Breast Cancer Awareness Month, SVVSD will sponsor our annual NO-COST mammogram events for women age 40+ who are enrolled in the district’s UMR or Kaiser health plans – spouses included!
 If you haven’t had your breast cancer screening in the last year, this event is the most fun way to check it off your list. Enjoy refreshments and a bag stuffed with goodies and gift cards.
 By Appointment Only.
 UMR Members:
-Saturday, October 10, 2026 8:00 am – noon
-UCHealth Longs Peak, 1760 E. Ken Pratt Blvd Ste 202
-Call
-844-723-2778 to schedule
-. Mention that you would like an appointment for the Mochas and Mammos event with St. Vrain Valley Schools.
+Saturday, October 10, 2026 8:00 am – noon –
+This event has ended.
 Kaiser Members:
 November 10, 11, & 12, 2026, Afternoons & Evenings
 Kaiser Permanente Longmont Campus, 2345 Bent Way
@@ -9356,7 +9199,7 @@ Laney Miller
 .
 Laney Miller
 Human Resources Technician
-303-682-7282
+303-682-7291
 miller_laney@svvsd.org
 
 Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
@@ -9418,7 +9261,7 @@ Human Resources Hiring Specialist
 kocourek_katarina@svvsd.org
 Laney Miller
 Human Resources Technician
-303-682-7282
+303-682-7291
 miller_laney@svvsd.org
 Bruna Omati
 Human Resources Specialist
@@ -9842,7 +9685,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Recruiting Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
-- Last modified: 2026-09-11T12:10:16-06:00
+- Last modified: 2026-10-29T13:28:37-06:00
 
 St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email: humanresources@svvsd.org
 Workforce Boulder County 55+ Job Fair
@@ -9850,8 +9693,11 @@ Workforce Boulder County 55+ Job Fair
 AAEE National Education Career Fair
 : October 19, 2026, at Kansas City Marriott Country Club Plaza, Kansas City, MO
 K-12 Educator Employment Fair Days
-: November 12, 2026, at the University of Northern Colorado, Golden, CO
-Colorado Education Recruitment Fair (CERF): March 6, 2027, at Westminster Public Schools, CO
+: November 12, 2026, at the University of Northern Colorado, Greeley, CO
+Futures and Frontiers
+: February 3, 2027, at Colorado School of Mines, Golden, CO
+Colorado Education Recruitment Fair (CERF)
+: March 6, 2027, at Westminster High School, Westminster, CO
 
 Source: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
 
@@ -12576,7 +12422,7 @@ Source: https://www.svvsd.org/departments/priority-programs/
 ### Dyslexia Task Force
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
-- Last modified: 2026-06-15T12:29:33-06:00
+- Last modified: 2026-10-27T12:52:17-06:00
 
 OVERVIEW
 The goal of St. Vrain Valley Schools’ Dyslexia Task Force is to provide high quality support to students with dyslexic characteristics. The model of support includes using current research, evidence-based interventions and early identification screeners to support students identified as dyslexic, or who have characteristics of dyslexia.
@@ -12593,12 +12439,11 @@ Parent awareness and education events
 Professional development opportunities for teachers and administrators
 Resources for classroom and literacy teachers regarding identification, instruction and accommodations for students with dyslexic characteristics
 Dyslexia 101:
-Coming Fall 2026
-YES! Events:
-Coming Fall 2026
-Upcoming Dyslexia Simulations:
-Details available
-Fall 2026
+Coming
+Soon
+YES! Ambassadors and Dyslexia Simulation COMBO Event- Students and caregivers join us
+October 28th, 7:00-8:30 pm
+. This event has been rescheduled to a better date-please check back soon!
 
 Source: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
 
@@ -12932,7 +12777,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-10-12T13:55:10-06:00
+- Last modified: 2026-10-29T13:37:38-06:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -12944,7 +12789,9 @@ THIS FORM
 and it will be reviewed for possible credit. We no longer require that certificates be added to your SVVS transcript in order to use them for a latera move.
 If you need to make a payment for a professional development course/certificate
 CLICK HERE
-. Payment must be made prior to the start of the class.
+. **Payment must be made prior to the start of the class unless it will be covered by your school or department. If your fee is being paid by your school or a department, please select Building/Department Paying from the Payment Type dropdown, and enter your school or department name in the PO field.
+Refunds:
+You have 24 hours after the course start date to request a refund.
 Learn more
 Upcoming Events & Opportunities
 Program Logistics & Timeline:
@@ -13178,7 +13025,7 @@ Source: https://www.svvsd.org/departments/professional-development/classified-pt
 ### ELPD Requirements
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/clde-requirements/
-- Last modified: 2026-09-21T11:17:06-06:00
+- Last modified: 2026-10-27T08:29:32-06:00
 
 English Learner PD Requirements – Information for Educators
 To help better support students in Colorado who are English language learners, the State Board of Education adopted rules in June 2018 requiring educators with
@@ -14386,7 +14233,7 @@ Source: https://www.svvsd.org/departments/special-education/
 
 Meet the Team
 Leadership Team
-Laura Hess
+Laura Hess, Ph.D.
 Assistant Superintendent of Special Education
 303-682-7327
 hess_laura@svvsd.org
@@ -15788,9 +15635,9 @@ Source: https://www.svvsd.org/departments/student-services/digital-learning-acad
 ### Gifted and Talented
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/
-- Last modified: 2026-09-24T10:42:57-06:00
+- Last modified: 2026-10-22T17:12:59-06:00
 
-The referral period for Gifted and Talented Services is now open. Please complete the following form to refer your student. The referral period ends on September 30th, 2026.
+The referral period for Gifted and Talented Services is now closed. Please contact the Site Leader or GT Teacher at your school if you have further questions.
 Gifted and Talented Referral Form
 Gifted and Talented Services Vision and Mission
 We envision
@@ -15904,7 +15751,7 @@ Source: https://www.svvsd.org/departments/student-services/gifted-and-talented/r
 ### School Contacts
 
 - Canonical URL: https://www.svvsd.org/departments/student-services/gifted-and-talented/school-contacts/
-- Last modified: 2026-09-14T15:15:15-06:00
+- Last modified: 2026-10-20T12:33:13-06:00
 
 School Contacts
 Programming is a site based decision. Click on the school name in order to view their programming options. Contact the school directly with any questions regarding programming or services.
@@ -16038,10 +15885,8 @@ K-8/K-12 Schools
 Name
 Email Address
 Soaring Heights
-Kate Nelson PK-5
-Katie Kaminski 6-8
+Kate Nelson K-8
 nelson_kathryn@svvsd.org
-kaminski_katie@svvsd.org
 Thunder Valley K-8
 Kelli Frost
 frost_kelli@svvsd.org
@@ -17332,12 +17177,13 @@ Source: https://www.svvsd.org/departments/technology/sdp/educator-resources/
 ### Parent Resources
 
 - Canonical URL: https://www.svvsd.org/departments/technology/sdp/parent-resources/
-- Last modified: 2021-07-16T10:42:57-06:00
+- Last modified: 2026-10-23T14:17:24-06:00
 
 Student Data Privacy – Parent Resources
 How is Education Data Used?
 The use of data helps guide parents, teachers, schools, districts and state leaders as we work together to improve student achievement so all children graduate ready for college and career. While using data effectively to guide improvement in instruction and student achievement, the Colorado Department of Education and St. Vrain Valley School District takes seriously its moral and legal responsibility to protect student privacy and ensure data confidentiality. St.Vrain’s annual FERPA notification to parents is included in the
 St. Vrain Behavioral Codebook
+(Spanish Version)
 Schools and school districts have always collected data on students. Instead of paper files, much of that data is now collected through computers and online resources. While the systems for organizing and managing this information have changed over the years, St. Vrain’s commitment to confidentiality remains the same. It is our responsibility to ensure the security of each student’s education record and we take that responsibility very seriously. There are also existing federal and state laws in place that protect student information. St. Vrain has a comprehensive student data privacy policy that outlines security mechanisms that protect student data. A copy of our Student Information Privacy Policy can be viewed below. Please take a moment to review it and the other student data privacy resources available.
 Resources for Parents
 8 Things You Should Know about Student Data
@@ -17350,11 +17196,12 @@ The Data Quality Campaign
 Colorado Department of Education (CDE) has created and gathered the following resources to help parents understand what data is collected about students and how that data is used. If you have questions, contact the Data Privacy Office at
 dataprivacy@cde.state.co.us
 .
+Protecting Student Privacy Information
 Family Educational Rights and Privacy Act (FERPA) General Guidance for Parents
-About the Family Policy Compliance Office – U.S Dept. of Education (FPCO)
+CDE Data Collection Information
 A Parent’s Guide to Student Data Privacy
 , created by ConnectSafely, Future of Privacy Forum and the PTA
-What Data is Collected?
+State-Level Data Collection and Protection Fact Sheet
 
 Source: https://www.svvsd.org/departments/technology/sdp/parent-resources/
 
