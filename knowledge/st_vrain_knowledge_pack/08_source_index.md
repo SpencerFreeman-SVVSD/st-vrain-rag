@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-30T09:00:01.055573-06:00
+generated_at: 2026-10-31T08:29:18.892469-06:00
 coverage_window_days: 90
 section_title: Source Index
 ---

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-30T09:00:01.055573-06:00
+generated_at: 2026-10-31T08:29:18.892469-06:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -9572,36 +9572,38 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/flex-spending
 ### Life and Disability Insurance
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/life-and-disability-insurance/
-- Last modified: 2025-07-28T15:34:22-06:00
+- Last modified: 2026-10-30T15:11:29-06:00
 
 For Your Protection
 St. Vrain Valley Schools paid life and AD&D insurance programs protect employees for the “you never know” circumstances. Eligible employees may purchase optional employee, spouse and child life insurance and employee short-term disability coverage. Participation in a community pool of hours in a Sick Leave Bank is also available.
 Life Insurance
 Regular employees who work 10 hours or more per week are eligible for district-paid life and AD&D coverage:
-Classified and Certified Employees
-qualify for $40,000 of district-paid life/AD&D insurance
-APT
-Employees
-qualify for $150,000 of district-paid life/AD&D insurance
-Optional Life Insurance
-– Regular employees who work 17.5 hours or more per week qualify to purchase additional life insurance:
+Classified and Certified employees qualify for $40,000 of district-paid life/AD&D insurance
+Administrative, Professional, and Technical qualify for $150,000 of district-paid life/AD&D insurance
+Voluntary Life Insurance – Regular employees who work 17.5 hours or more per week qualify to purchase additional life insurance:
 Employee
 – Coverage can be purchased in $10,000 increments up to $500,000 (may require proof of good health)
 Spouse
 – Coverage can be purchased in $5,000 increments up to $250,000 (may require proof of good health)
 Children
 – Coverage can be purchased in $2,000 increments up to $10,000
-Disability Insurance
-Regular employees who work 17.5 hours or more per week can purchase optional short-term disability insurance that will replace up to 60% of their pre-disability income when they are unable to work due to a qualified illness or non-work-related injury
+Basic (District-Paid) Life and AD&D Coverage Document – Certified & Classified Employees
+Basic Life (District-Paid) Life and AD&D Coverage Document – Administrative/Professional/Technical Employees
+Voluntary Life Coverage Document
+Short-Term Disability Insurance
+Regular active employees who work 17.5 hours or more per week can purchase optional short-term disability insurance, either during their New Hire enrollment period or Open Enrollment. This coverage replaces up to 60% of your pre-disability income, up to $1,500 per week, when you are unable to work due to a qualified illness or non-work-related injury.
+Short-Term Disability Coverage Document
 PERA Disability
-(upon vesting) – PERA members with five or more years of earned service credit are covered, at no additional premium cost, by a two-tier disability program consisting of:
-Short-Term Disability Program – Click
-here
-to view a brief video on PERA disability coverage
+Employees with 5 or more years of earned PERA service credit are covered, at no additional premium cost, by a two-tier disability program consisting of:
+PERA Short-Term Disability Program
 Disability Retirement Program
-*For additional information on the PERA disability programs, contact PERA at 800-759-7372.
+For additional information on the PERA disability programs, contact PERA at 800-759-7372 or visit
+copera.org
+.
 Sick Leave Bank
-Eligible employees may participate in one of two voluntary sick leave banks that allow employees to donate a portion of their paid time off into a Sick Leave Bank to assist other participating employees when an extended illness or injury renders them unable to work. Call 303-682-7297 for additional information.
+Eligible employees may participate in one of two voluntary sick leave banks that allow employees to donate a portion of their paid time off into a Sick Leave Bank to assist other participating employees when an extended illness or injury renders them unable to work. Participation in the Sick Leave Bank can be elected at New Hire or Open Enrollment.
+The requirements and rules for participation in the Sick Leave Bank are found in the
+SVVEA Master Agreement and Employee Handbooks.
 
 Source: https://www.svvsd.org/departments/human-resources/benefits/life-and-disability-insurance/
 
