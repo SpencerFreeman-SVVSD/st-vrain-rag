@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-10-31T08:29:18.892469-06:00
+generated_at: 2026-11-01T08:01:26.130325-07:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
