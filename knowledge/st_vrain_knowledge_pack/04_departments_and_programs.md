@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-01T08:01:26.130325-07:00
+generated_at: 2026-11-04T09:13:34.207981-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -117,7 +117,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-10-29T14:25:08-06:00
+- Last modified: 2026-11-02T08:52:33-07:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -130,10 +130,19 @@ Middle School Assessment Schedules
 High School Assessment Schedules
 Assessments in St. Vrain:
 Advanced Placement
-An
-AP
-(Advanced Placement) exam is a college-level test taken by high school students to measure their mastery of specific academic subjects.
-Learn more about Advanced Placement
+Advanced Placement (AP)
+standardized data is used to measure a student’s mastery of college-level course content, allowing universities to award college credit or advanced placement
+Grades:
+9 – 12
+Requirement Level:
+District – student-led decision
+Estimated Time Required:
+Varies by exam – approximately 3-4 hours
+Assessment Date:
+May 3 – 14, 2027
+How Results are Used:
+Data is used to measure a student’s mastery of college-level course content
+Learn more about Advanced Placement in St. Vrain
 WIDA ACCESS
 WIDA
 ACCESS
@@ -155,18 +164,47 @@ is an alternative test in science and social studies for special education stude
 Dynamic Learning Maps (DLM)
 alternate assessment program is designed to measure what students with significant cognitive disabilities know and can do in English language arts and math.
 SAT
-is a college entrance exam.
-All Colorado 9th, 10th, and 11th-grade students participate in the SAT Suite of Assessments. This includes the SAT test for 11th-grade students and the PSAT test for 9th- and 10th-grade students, which will be taken in mid-April. These tests are required by the Colorado Department of Education and provide students with an opportunity to measure their academic progress in English and Mathematics. For more information on these assessments, visit
-College Board
-and the
-Colorado Department of Education
-.
-Spring 2026 SAT, PSAT 10 and PSAT 9 test scores are now available through students’ College Board accounts.
-Please contact your student’s school for more information on these assessment events.
+The
+SAT
+serves as a standard curriculum-based college entrance exam measuring overall college and career readiness.
+Grade:
+11
+Requirement Level:
+Federal/State Required Assessment
+Estimated Time Required:
+Approximately 2 hours and 15 minutes
+Assessment Date:
+April 13, 2027
+How Results are Used:
+Utilized in high school academic advising, college recruitment/admissions, course placement, and merit scholarships.
 PSAT
-is a college readiness test with sections in reading/writing and math.
+The
+PSAT
+evaluates college and career readiness and serves as structured preparation for the 11th-grade SAT.
+Grades:
+9 and 10
+Requirement Level:
+Federal/State Required Assessment
+Estimated Time Required:
+Approximately 2 hours and 15 minutes
+Assessment Date:
+April 14, 2027
+How Results are Used:
+Identifies core baseline knowledge, skills, and conceptual understandings essential for post-secondary readiness.
 National Merit Scholarship Qualifying Test (NMSQT)
-is the PSAT qualifying test for the National Merit® Scholarship Program, an academic competition for recognition and scholarships that began in 1955. Approximately 1.6 million high school students enter the program each year.
+The
+PSAT/NMSQT
+is the PSAT qualifying test for the National Merit® Scholarship Program
+Grade:
+11
+Requirement Level:
+District
+Estimated Time Required:
+Approximately 2 hours and 15 minutes
+Assessment Date:
+October 7, 2026
+How Results are Used:
+The National Merit Scholarship Qualifying Test (NMSQT) data is primarily used to screen high school juniors for National Merit scholarships and recognition, while providing educators with a diagnostic tool to assess college readiness and identify gaps in core academic standards
 DIBELS 8th
 (Dynamic Indicators of Basic Early Literacy Skills) is a set of procedures and measures for assessing the acquisition of literacy skills.
 i-Ready
@@ -4336,7 +4374,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-09-28T11:11:12-06:00
+- Last modified: 2026-11-03T12:13:51-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
@@ -4532,7 +4570,7 @@ Dr. Katarina Pliego and Erick Finnestead
 Skyline High School (SHS)
 Brian Crim and Anthony Barela
 Twin Peaks Classical Academy (TPCA)
-Chelsea Ong and Alycia Burns, Dr. Aaron Moe
+Regan Kane and Alycia Burns, Dr. Aaron Moe
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
 
@@ -6109,7 +6147,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-10-15T15:13:41-06:00
+- Last modified: 2026-11-02T08:52:17-07:00
 
 District Accounts
 Assessment (X)
@@ -6122,8 +6160,6 @@ Career Elevation and Technology Center ProStart (Instagram)
 Community Schools (X)
 Community Schools (Facebook)
 District Technology Services (X)
-District Technology Services – Ceran (Facebook)
-District Technology Services – Ceran (X)
 District Technology Services – Digital Curriculum (X)
 Early Childhood (Preschool) (Instagram)
 Early Childhood (Preschool) (Facebook)
@@ -7695,7 +7731,7 @@ Source: https://www.svvsd.org/departments/financial-services/financial-resources
 ### Financial Services Team
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/financial-services-team/
-- Last modified: 2023-09-27T15:12:20-06:00
+- Last modified: 2026-11-02T15:31:21-07:00
 
 Financial Services Team
 Tony Whiteley
@@ -7709,10 +7745,6 @@ Kimberly Woolett
 Executive Administrative Assistant to Chief Financial Officer
 303-682-7203
 Woolett_Kimberly@svvsd.org
-Chara Worthington
-Procurement Assistant
-303-702-7921
-worthington_chara@svvsd.org
 Justin Petrone
 Executive Director Budget & Finance
 303-682-7287
@@ -7795,7 +7827,7 @@ Source: https://www.svvsd.org/departments/financial-services/purchasing/
 ### Procurement Team
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/purchasing/meet-the-team/
-- Last modified: 2026-07-23T15:14:16-06:00
+- Last modified: 2026-11-02T15:31:36-07:00
 
 Procurement Team
 Tim Wellmann, NIGP-CPP, CPPB
@@ -7818,10 +7850,6 @@ Laura Wamsley
 Procurement Specialist
 303-702-7715
 wamsley_laura@svvsd.org
-Bill Oliver
-Senior Procurement Specialist
-303-682-7294
-oliver_william@svvsd.org
 Chara Worthington
 Procurement Assistant
 303-702-7921
@@ -12779,7 +12807,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-10-29T13:37:38-06:00
+- Last modified: 2026-11-02T08:34:03-07:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -12796,11 +12824,6 @@ Refunds:
 You have 24 hours after the course start date to request a refund.
 Learn more
 Upcoming Events & Opportunities
-Program Logistics & Timeline:
-The Structure: A 30-credit program (24 CU Denver credits + 6 St. Vrain in-district credits) delivered across 5 scaffolded phases.
-The Timeline: Cohort begins Spring 2027 and graduates in Fall 2028
-Application Deadline: November 1, 2026.
-St. Vrain Instructors: Suzy Evans, Matt Moulton, Casey Luker, Greg George, Jodi Garner and Carolyn Clifford
 Please check out our online catalog for Professional Development sessions open for registration.
 Check out our PD Catalog Here
 Join the Conversation
