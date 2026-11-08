@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-04T09:13:34.207981-07:00
+generated_at: 2026-11-08T08:06:14.220007-07:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,56 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Longmont High Students Score in Top 10% on National Business Exams
+
+- Published: 2026-11-06T14:14:45-07:00
+- Source URL: https://www.svvsd.org/2026/11/06/longmont-high-students-score-in-top-10-on-national-business-exams/
+
+Forty-two students at Longmont High School scored in the top 10% nationwide on rigorous exams testing their business knowledge. The exams are part of the school’s High School of Business program, a national accelerated business administration program of
+MBA Research & Curriculum Center
+. More than 7,000 students across the country participated in the program during the 2025-26 school year.
+Students in Longmont High’s High School of Business program complete real, hands-on business projects through a series of six courses. The program also offers internships and opportunities to earn college credits.
+As members of Colorado’s largest Future Business Leaders of America chapter, students participate in academic competitions and leadership development opportunities. The Trojan Podcast Network and a sports marketing course provide additional ways to explore media production, corporate partnerships, social media marketing, and event management.
+These experiences prepare students for college business administration programs and careers in business while providing a foundation for those interested in starting a business of their own.
+Learn More about Longmont’s High School of Business Program
+
+Source: https://www.svvsd.org/2026/11/06/longmont-high-students-score-in-top-10-on-national-business-exams/
+
+### Second Graders Discover Science Close to Home at Sandstone Ranch
+
+- Published: 2026-11-06T13:11:40-07:00
+- Source URL: https://www.svvsd.org/2026/11/06/second-graders-discover-science-close-to-home-at-sandstone-ranch/
+
+Gathered around a container of pond water, Longmont Estates Elementary second graders leaned closer. They slowed down, watching intently as they discovered the small creatures living in the water. Along the pond’s shore, a snapping turtle sunning itself inspired another quiet gathering. Students observed in awe, careful to leave it undisturbed.
+These moments of discovery shaped a recent field trip to Sandstone Ranch, where students explored how the natural world connects to what they are learning in their classrooms.
+“This field trip connects with second grade’s study of habitats and plant and animal adaptations,” said Kyle Houghton, a second-grade teacher at Longmont Estates Elementary.
+Longmont Estates is one of 25 schools participating in the program, which is offered at no cost to schools. According to Mike O’Toole, St. Vrain Valley Schools’ science coordinator, more than 12,000 second graders have participated over the past 15 years. The experience gives students an opportunity to explore the natural resources within their own community, supported by City of Longmont volunteers who share their time and love of nature.
+Students rotated through four stations, each offering a different way to investigate the landscape and the living things that depend on it.
+At the water station, students examined pond life and learned how wildlife populations can provide clues about water quality. A container of pond water became an opportunity to pause, look closely, and discover life they might otherwise have overlooked.
+Another station connected the landscape to the area’s geological history. Students learned about Sandstone Ranch’s rock formations while practicing their cardinal directions with the help of a memorable phrase: “Never Eat Soggy Waffles.”
+Binoculars offered a closer look at another part of the habitat. Students searched for bird nests in trees and along cliffs, learning how birds build shelters and use the landscape to meet their needs.
+At the barn and surrounding fields, students considered what life might have been like when the area was settled and explored ways to find food. They learned how different types of scat can help identify and track animals, swept nets through the grass to catch grasshoppers, and had the opportunity to try commercially prepared, cooked and seasoned crickets.
+For many, tasting a cricket was simply a chance to try something new. A few particularly enthusiastic students enjoyed the experience enough to ask for more.
+Throughout the day, volunteers helped students connect their discoveries to a larger understanding of the environment, encouraging them to observe carefully and respect the wildlife around them. O’Toole emphasized his appreciation for the volunteers and the value of helping children explore the community they call home.
+For the second graders, that exploration brought classroom science into focus. Whether peering into pond water, locating a nest through binoculars, or quietly watching a turtle, students experienced the joy of discovering how much there is to learn close to home.
+See the photo album
+
+Source: https://www.svvsd.org/2026/11/06/second-graders-discover-science-close-to-home-at-sandstone-ranch/
+
+### Innovation Center to Host Free Screening of “Snowball Express” November 13
+
+- Published: 2026-11-05T10:36:51-07:00
+- Source URL: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
+
+Families and community members are invited to a free screening of Disney’s “Snowball Express” on Friday, November 13, at St. Vrain Valley Schools’ Innovation Center, 33 Quail Road in Longmont.
+Hosted by the Innovation Center’s Creative Content Team, the event is part of the Colorado 150 Film Festival, celebrating Colorado’s 150th anniversary through films made in Colorado, about Colorado, or by Coloradans.
+Disney’s family comedy follows Johnny Baxter, a New York accountant who moves his family to Colorado after inheriting a rundown hotel. His efforts to turn it into a ski lodge lead to snowy mishaps and a snowmobile race. The movie also has a Colorado connection behind the scenes: it was filmed in the Colorado Rockies, including a race sequence in Crested Butte. “Snowball Express” is rated G for general audiences.
+The event runs from 5–7:30 p.m. Doors open at 5 p.m., and the screening begins at 5:30 p.m. Admission is free, with seating available on a first-come, first-served basis.
+Voluntary donations will support Creative Content Team students attending the Austin Film Festival’s Young Filmmakers Program, where they can participate in workshops, receive mentorship, and connect with film industry professionals.
+Join the Creative Content Team for an evening of film and community while supporting opportunities for St. Vrain’s young filmmakers.
+
+Source: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
 
 ### Superintendent’s Update: Discover Your Path
 
@@ -143,47 +193,6 @@ In math, paraprofessional Suzie Kruse uses student data, assessments, and classr
 Through iBlock, Lyons Elementary educators can help students develop a deeper understanding of what they are learning while building confidence in their abilities. These experiences help students recognize their progress and approach new challenges with greater independence.
 
 Source: https://www.svvsd.org/2026/10/23/supporting-student-growth-through-iblock-at-lyons-elementary/
-
-### ProStart Students Serve Local Seniors Through Community Partnership
-
-- Published: 2026-10-23T10:21:17-06:00
-- Source URL: https://www.svvsd.org/2026/10/23/prostart-students-serve-local-seniors-through-community-partnership/
-
-During class on Tuesday, Oct. 13, students in the ProStart Culinary program at the Career Elevation and Technology Center (CETC) worked alongside their peers and culinary instructors Hope Nazzaro and Yvonne Justice to prepare free take-away meals for local seniors. The meal featured meatloaf, glazed carrots, mashed potatoes, seared broccoli and iced white cake. Through a partnership with the Longmont Senior Center, students will continue preparing free evening meals for community members ages 55 and older on select Fridays and Tuesdays through the end of the year.
-ProStart Chef Instructor Hope Nazzaro prepares October’s free take-away meals for local seniors.
-The partnership gives students an opportunity to apply their culinary skills while making a meaningful impact in the community. “This experience goes beyond teaching students how to cook; they are learning what it takes to prepare quality, nutritious meals on a larger scale while developing teamwork, accountability and pride in their work,” Nazzaro said. “Most importantly, they are seeing firsthand how their culinary skills can make a difference in the lives of people in our community.”
-A ProStart student garnishes October’s free take-away meals for seniors with chives.
-For student Lucy Calvetti, knowing the meals bring joy to local seniors makes the experience especially rewarding. “Knowing that something we cooked is putting a smile on a senior’s face makes everything we do in the kitchen so much more meaningful,” Calvetti said.
-
-Source: https://www.svvsd.org/2026/10/23/prostart-students-serve-local-seniors-through-community-partnership/
-
-### Erie Middle School’s Heather Moore Recognized for Excellence in Science Teaching
-
-- Published: 2026-10-22T16:33:55-06:00
-- Source URL: https://www.svvsd.org/2026/10/22/erie-middle-schools-heather-moore-recognized-for-excellence-in-science-teaching/
-
-Heather Moore, a STEM teacher at Erie Middle School, has been named the Colorado Association of Science Teachers’ 2026 Excellence in Secondary Science Teaching Awardee.
-Moore teaches Intro to Tech, Computer Science, and Gateway to STEM, bringing years of science classroom experience to the school’s elective offerings. According to Principal Andrea Smith, that background adds rigor and intentionality to students’ learning.
-While the award recognizes Moore’s teaching, Smith emphasized that her contributions extend beyond her own classroom.
-“I am really proud of the work that Heather has done in the classroom, but I am most impressed by her constant reflection and willingness to partner with our leadership team as we build a more systemic and streamlined approach to teaching our STEM electives,” Smith said.
-Through that collaboration, Moore is helping Erie Middle strengthen how its STEM courses connect and support student learning. Her willingness to reflect on her practice and refine instruction makes her a valued partner in that work.
-The recognition celebrates Moore’s contributions to science education and the expertise she brings to Erie Middle’s STEM classrooms every day.
-
-Source: https://www.svvsd.org/2026/10/22/erie-middle-schools-heather-moore-recognized-for-excellence-in-science-teaching/
-
-### Longmont High School Educator Annie Gorenstein-Falkenberg Earns NSPA 2026 Pioneer Award
-
-- Published: 2026-10-21T13:15:29-06:00
-- Source URL: https://www.svvsd.org/2026/10/21/longmont-high-school-educator-annie-gorenstein-falkenberg-earns-nspa-2026-pioneer-award/
-
-Every student has a story to tell, and Longmont High School educator Annie Gorenstein-Falkenberg is dedicated to helping students find the confidence and skills to tell it. Through her work as an English teacher and journalism adviser, she has created opportunities for students to grow as writers, leaders and storytellers. That commitment to student growth and journalistic excellence has earned Gorenstein-Falkenberg the National Scholastic Press Association’s (NSPA) 2026 Pioneer Award, the organization’s highest honor. The award recognizes journalism educators and advocates who have made significant, long-term contributions to scholastic journalism through leadership, mentorship and a commitment to student press freedom.
-Throughout her 19-year teaching career, including 12 years at Longmont High School, Gorenstein-Falkenberg has focused on creating opportunities for students to develop their confidence, explore their interests and take ownership of their work. She encourages student journalists to step outside their comfort zones, whether that means conducting a challenging interview or covering important issues within their school community.
-“I am honored to be recognized as an NSPA Pioneer and to be included in a group with outstanding advisers that I greatly admire,” Gorenstein-Falkenberg said. “Advising the hundreds of students who have been on yearbook staff at Longmont High School has been one of the most rewarding parts of my teaching career.”
-Ms. Gorenstein-Falkenberg works with students as they go through a review process of their yearbook layouts.
-Her student-centered approach has helped Longmont High School’s yearbook program achieve significant growth and national recognition. Under her leadership, the program has expanded in both enrollment and publication sales while earning four NSPA Pacemaker Finalist awards and three Columbia Scholastic Press Association Silver Crowns. These accomplishments reflect a culture of creativity, collaboration and journalistic excellence that encourages students to produce meaningful, high-quality work.
-“The yearbook celebrates our community, and the student-led staffs that I have had the honor of advising work tirelessly to tell the stories of Longmont High in many ways, making each yearbook different from the year before while always maintaining a high standard for quality and journalistic integrity,” Gorenstein-Falkenberg said. “I feel so fortunate to get to learn about all of the amazing things happening in our community through the work of my students.”
-
-Source: https://www.svvsd.org/2026/10/21/longmont-high-school-educator-annie-gorenstein-falkenberg-earns-nspa-2026-pioneer-award/
 
 ### District alerts
 

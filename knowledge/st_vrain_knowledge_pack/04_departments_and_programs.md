@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-04T09:13:34.207981-07:00
+generated_at: 2026-11-08T08:06:14.220007-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -117,7 +117,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-11-02T08:52:33-07:00
+- Last modified: 2026-11-04T17:21:56-07:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -159,10 +159,44 @@ How Results are Used:
 It provides educators and parents with information about the English language proficiency level in the language domains of Listening, Speaking, Reading, and Writing.
 Colorado Measures of Academic Success (CMAS)
 includes assessments for English language arts (ELA), math, science, and social studies.
+Grades:
+3-8 and 11
+Requirement Level:
+State
+Estimated Time Required:
+Varies by exam and grade level
+English Language Arts (3 – 8): approximately 4.5 hrs
+Math: approximately (3 – 8) 2.5 – 3 hours
+Science (5, 8 & 11): approximately 2 hours
+Social Studies (4 & 7): approximately 2 hours
+Assessment Date:
+May 3 – 14, 2027
+How Results are Used:
+Provides a picture of student academic progress to schools, districts, teachers, parents, and the community.
 CoAlt
-is an alternative test in science and social studies for special education students who are working toward alternate standards.
+alternate assessment program is designed to measure what students with significant cognitive disabilities know and can do in science and social studies. This is the alternate assessment replacement for CMAS science and social studies.
+Grades:
+4, 5, 7, 8, 11 (Science: 5, 8, 11 and Social Studies: 4, 7)
+Requirement Level:
+Federal/State
+Estimated Time Required:
+Approximately 1 hour
+Assessment Date:
+April 5 – April 23
+How Results are Used:
+Provides a common measure of academic achievement for students with significant cognitive disabilities in science and social studies.
 Dynamic Learning Maps (DLM)
-alternate assessment program is designed to measure what students with significant cognitive disabilities know and can do in English language arts and math.
+alternate assessment program is designed to measure what students with significant cognitive disabilities know and can do in English language arts and math. This is the alternate assessment replacement for CMAS, PSAT and SAT.
+Grades:
+3-11
+Requirement Level:
+Federal/State
+Estimated Time Required:
+Approx. 15 mins per testlet (6–9 testlets total, depending on independence level of student)
+Assessment Date:
+April 5 – April 23
+How Results are Used:
+Provides a common measure of academic achievement for students with significant cognitive disabilities in math and English language arts.
 SAT
 The
 SAT
@@ -207,12 +241,67 @@ How Results are Used:
 The National Merit Scholarship Qualifying Test (NMSQT) data is primarily used to screen high school juniors for National Merit scholarships and recognition, while providing educators with a diagnostic tool to assess college readiness and identify gaps in core academic standards
 DIBELS 8th
 (Dynamic Indicators of Basic Early Literacy Skills) is a set of procedures and measures for assessing the acquisition of literacy skills.
+Grade:
+Kindergarten
+Requirement Level:
+State/District (READ Act) and then students in grades 1 – 8 identified with a READ Plan
+Estimated Time Required:
+Approximately 30 minutes per assessment window
+Assessment Date:
+Fall:
+August 18 – September 4
+Winter:
+November 30 – December 18
+Spring:
+May 3-May 20
+How Results are Used:
+Data is used to support identification of early literacy skill development and satisfies READ Act mandated literacy requirements by the state.
 i-Ready
 is an adaptive diagnostic assessment that pinpoints students’ needs down to the sub-skill level in math and reading.
+Grade(s):
+1-8;
+Requirement Level:
+State/District Required Assessment
+Grades 1-3 Reading (State READ ACT Assessment)
+Grades 4-8 Reading and 1-8 math (District Assessment)
+Estimated Time Required:
+Approximately 45–120 mins dependent upon grade level
+Assessment Window:
+Fall:
+August 18 – September 4
+Winter:
+November 30 – December 18
+Spring:
+May 3-May 20
+How Results are Used:
+Data is analyzed by educators, school and district leaders to guide instruction, and to support the identification of small-group and individualized student needs. The data is also used to monitor progress of both student achievement and growth throughout the year.
 CogAT/NGAT
 are universal screeners assessments used to support identification of students with exceptional cognitive abilities. The screeners contribute to a body of evidence for identifying students for gifted services or placement in talent development programming.
+Grade(s):
+2 & 5
+Requirement Level:
+State Required Assessment
+Estimated Time Required:
+This is completed through teacher observations only
+Assessment Window:
+2nd grade:
+September – October and
+5th grade:
+October – November; varies by school
+How Results are Used:
+The results contribute to a body of evidence for identifying students for gifted services or placement in talent development programming.
 DRDP-K
 is an observation-based assessment that is designed to track a student’s kindergarten readiness and developmental progress.
+Grade(s):
+K
+Requirement Level:
+State Required Assessment (Kindergarten Readiness)
+Estimated Time Required:
+observational; no direct student time
+Assessment Window:
+First day of school through mid-October
+How Results are Used:
+Teachers track and monitor a student’s kindergarten readiness and developmental progress
 Elementary School Assessment Schedule 2026-2027
 WIDA ACCESS (K-12 English Learners)
 : SVVS Window: January 19 – 22, 2027
@@ -6147,7 +6236,7 @@ Source: https://www.svvsd.org/departments/communications/social-media-guidelines
 ### Social Media Directory
 
 - Canonical URL: https://www.svvsd.org/departments/communications/social-media-guidelines/social-media-directory/
-- Last modified: 2026-11-02T08:52:17-07:00
+- Last modified: 2026-11-05T09:11:05-07:00
 
 District Accounts
 Assessment (X)
@@ -6228,6 +6317,9 @@ Coal Ridge Middle School Bands (Facebook)
 Columbine Elementary School
 Columbine Elementary (Facebook)
 Columbine Elementary (X)
+Columbine Elementary Mariachi (Facebook)
+Columbine Elementary Mariachi (
+Instagram)
 Eagle Crest Elementary School
 Eagle Crest Elementary (Facebook)
 Eagle Crest Elementary (X)
@@ -8159,6 +8251,7 @@ If you would like to make benefits changes and need in-person assistance, or hav
 Monday, November 2: 2:30pm – 6:00pm
 Wednesday, November 4: 7:00am – 11:00am
 Tuesday, November 10: 3:30pm – 6:00pm
+All Open Enrollment Lab appointments are currently full, but you may still make an appointment by phone or in-person:
 Schedule Open Enrollment assistance with Lori Holt
 Schedule Open Enrollment assistance with Leticia Tapia
 Lori Holt
@@ -8491,7 +8584,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/vision/
 ### Staff Wellness
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-staff-wellness/
-- Last modified: 2026-10-22T13:25:47-06:00
+- Last modified: 2026-11-05T12:01:55-07:00
 
 Staff Wellness Calendar: Fall 2026
 Mammogram Events
@@ -8505,21 +8598,12 @@ Kaiser Members:
 November 10, 11, & 12, 2026, Afternoons & Evenings
 Kaiser Permanente Longmont Campus, 2345 Bent Way
 Schedule Here for the Kaiser member event
-Walktober 2026
-Get ready to take advantage of autumn’s cool temperatures to step out to better health. The 2026 St. Vrain Valley Schools
-Walktober
-activity challenge will be open from October 1 – 31, 2026
-for all staff!
-September 14: Registration opens
-October 1: First day to log activity
-October 11: Registration deadline
-October 31: Challenge ends
-Don’t forget to download the Walktober app to connect your device, easily record steps and activities, form teams, and share adventures! Weekly prizes awarded for participation!
-Register for Walktober
 Year-Round Programs
 Health Coaching
 Active & Fit Direct Gym Membership FAQs
-Active & Fit Direct Website
+To access Active & Fit, log into
+iv.svvsd.org
+> click on Resources > Active & Fit
 Employee Assistance Program
 Wellness Resources
 Our Mission
@@ -12452,7 +12536,7 @@ Source: https://www.svvsd.org/departments/priority-programs/
 ### Dyslexia Task Force
 
 - Canonical URL: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
-- Last modified: 2026-10-27T12:52:17-06:00
+- Last modified: 2026-11-04T15:31:12-07:00
 
 OVERVIEW
 The goal of St. Vrain Valley Schools’ Dyslexia Task Force is to provide high quality support to students with dyslexic characteristics. The model of support includes using current research, evidence-based interventions and early identification screeners to support students identified as dyslexic, or who have characteristics of dyslexia.
@@ -12467,13 +12551,11 @@ Dyslexia awareness and education opportunities
 Dyslexia sensitivity simulations and presentations
 Parent awareness and education events
 Professional development opportunities for teachers and administrators
-Resources for classroom and literacy teachers regarding identification, instruction and accommodations for students with dyslexic characteristics
+Resources for classroom and literacy teachers regarding identification, instruction, and accommodations for students with dyslexic characteristics
 Dyslexia 101:
 Coming
 Soon
-YES! Ambassadors and Dyslexia Simulation COMBO Event- Students and caregivers join us
-October 28th, 7:00-8:30 pm
-. This event has been rescheduled to a better date-please check back soon!
+YES! Ambassadors and Dyslexia Simulation COMBO Event- Students and caregivers join us November 18th- 6-7:30 pm. Click for details and registration information
 
 Source: https://www.svvsd.org/departments/priority-programs/dyslexia-task-force/
 
@@ -13747,7 +13829,7 @@ Source: https://www.svvsd.org/departments/professional-development/registration-
 ### Accessing Your SVVSD Transcript
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/request-your-transcript/
-- Last modified: 2023-04-06T09:01:54-06:00
+- Last modified: 2026-11-04T10:27:04-07:00
 
 How to Access Your SVVSD Transcript
 **This form is for
@@ -13767,8 +13849,6 @@ View Log
 Choose
 Printer Friendly Version
 . This version of your transcript has an official signature and can be used for license renewal with CDE and salary movement with SVVSD Human Resources
-Use the form below if you are having difficulty accessing your SVVSD transcript.
-Loading…
 Lateral Move Information
 Certified staff members may submit requests of Lateral Salary Movement in accordance with the provisions of Article 32 of the Agreement. Requirements for non-degree vocational teachers are in accordance with the provisions of Article 34 of the Agreement. All lateral moves are done through
 Human Resources
