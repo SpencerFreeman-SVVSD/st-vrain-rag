@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-08T08:06:14.220007-07:00
+generated_at: 2026-11-12T09:45:55.868411-07:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -257,7 +257,7 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 ### Inclement Weather
 
 - Canonical URL: https://www.svvsd.org/schools/inclement-weather/
-- Last modified: 2026-08-18T15:56:47-06:00
+- Last modified: 2026-11-10T16:51:01-07:00
 
 Inclement Weather
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
@@ -403,27 +403,27 @@ Synchronous learning will be Webex, where students check in with teachers, take 
 Students will be marked as “present” if they join the Webex virtual meeting. Otherwise, students will be marked absent, and absences will be excused if parents call their students out for the day. Asynchronous school work will be posted in Schoology.
 About Virtual Office Hours
 Classroom and academic support teachers will hold virtual office hours so students have an optional, scheduled time to virtually check in with teachers, ask questions, and receive help on their school work. Additionally, teachers will check their email throughout the day to support parents and students with any questions that arise.
-Coal Ridge Middle School
+Big Sky PK-8 (Middle School)
 Students will attend the classes scheduled for the day of closure at the following times.
-8:30-8:50
-(Webex)
-Synchronous Learning
-Period 1
 8:55-9:15
 (Webex)
 Synchronous Learning
-Period 2
+Period 1
 9:20-9:40
 (Webex)
 Synchronous Learning
-Period 3
+Period 2
 9:45-10:05
 (Webex)
 Synchronous Learning
-Period 4
+Elective Period 3
 10:10-10:30
 (Webex)
-Synchronous Learni...
+Synchronous Learning
+Period 4
+10:35-10:55
+(Webex)
+Syn...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 

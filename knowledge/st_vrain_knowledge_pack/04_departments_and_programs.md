@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-08T08:06:14.220007-07:00
+generated_at: 2026-11-12T09:45:55.868411-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -464,7 +464,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-10-21T13:08:24-06:00
+- Last modified: 2026-11-11T09:42:44-07:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
@@ -564,7 +564,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### State Assessment Results
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/state-assessment-results/
-- Last modified: 2026-09-04T12:12:57-06:00
+- Last modified: 2026-11-11T09:53:00-07:00
 
 State Assessment Results
 How to access your student’s CMAS scores in Pearson Family Portal
@@ -596,8 +596,6 @@ Student login credentials required
 College Board Parent Guides:
 Understanding the Score Report
 College Board – Parent Help Center
-How to Find the 10 Digit State ID through the Parent Portal in Infinite Campus
-I would like the content from the link above to be seen here, if possible
 CMAS SASID Parent Instructions
 Parents need to access their Parent Portal in Infinite Campus.
 An Introduction to Infinite Campus for Parents
@@ -1400,7 +1398,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Futures by Design
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
-- Last modified: 2026-09-30T15:28:57-06:00
+- Last modified: 2026-11-09T10:21:21-07:00
 
 Futures by Design PK-12
 Creating explicit connections between today’s learning and tomorrow’s future is part of the St. Vrain Advantage.
@@ -1436,6 +1434,35 @@ futures.svvsd.org
 CLICK HERE TO DOWNLOAD THE FUTURES BY DESIGN BROCHURE
 CLICK HERE TO DOWNLOAD THE CAREER FUTURES
 CLICK HERE TO DOWNLOAD THE DURABLE SKILLS
+How Can Families Support Durable Skills?
+Students learn more than academics at school. They develop the skills to solve problems, collaborate, communicate, navigate challenges, and contribute to their communities.
+St. Vrain’s six Durable Skills provide a shared language for these essential capabilities. Valued by employers, colleges, and communities, these skills can be taught, practiced, and strengthened over time.
+Students build these skills through everyday experiences, such as solving problems together, working through disagreements, setting goals, and learning from mistakes.
+Families can support this growth through simple conversations. Try asking your child:
+Which Durable Skill did you use today?
+What was challenging, and how did you handle it?
+How did you help someone or work with others?
+What skill would you like to keep practicing?
+When schools and families work together to reinforce Durable Skills, students build the confidence and capabilities to thrive in school, their communities, and the future.
+The following questions can be discussed at home as an extension of each Durable Skill beyond the classroom and school.
+Self-Aware Leader
+What made you feel happy or proud today?
+What was hard today, and what helped you keep trying?
+Critical Thinker & Innovator
+What is something you wonder about?
+What are different ways we could solve a problem?
+Global Citizen
+How did you show respect today?
+How could we help someone this week?
+Collaborative Team Player
+What makes someone a good teammate?
+How can we give everyone a chance to share?
+Effective Communicator
+How can we show that we are listening?
+What can we do when we disagree?
+Future-Ready Professional
+What is one goal you have this week?
+What small step could help you reach it?
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
 
@@ -4460,174 +4487,168 @@ Erin Carpenter and Dr. Aaron Moe
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-choir/
 
-### High School Honor Orchestra
+### High School Honor Orchestra & Mariachi
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-11-03T12:13:51-07:00
+- Last modified: 2026-11-10T14:23:12-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
-We are proud to include a high school honor mariachi ensemble! Mariachi, a vibrant tradition of Mexican music, features violins, trumpets, guitars, vihuelas and guitarrónes. This ensemble will showcase our student musicians and the rich cultural heritage of our community.
+We are proud to include a high school honor mariachi ensemble in this event! Mariachi, a vibrant tradition of Mexican music, features violins, trumpets, guitars, vihuelas and guitarrónes. This ensemble will showcase our student musicians and the rich cultural heritage of our community.
 Plan your visit to the 2026 Concert
 Date & Time
-: Wednesday, November 19, 2026 at 7:00 pm
+: Thursday, November 19, 2026 at 7:00 pm
 Location
 : Erie High School Auditorium: 3180 County Road 5, Erie, CO 80516
+EHS Honors Guest Map
 Buy your Concert Tickets
 :
 HERE
 :
 https://gofan.co/event/6861133?schoolId=CO99685
-We’re busy prepping an amazing program for the upcoming year.
-Audition results for the 26/27 school year will be shared with students by October 2.
-In the meantime, review the 2025 program below.
-2025 Event Program
-Mariachi Ensemble
+2026 Event Program
+Congratulations to all of our students for being selected to this year’s honor ensembles! To view the song repertoire and a list of all selected students participating in the event, click on the ensemble listed below.
+Mariachi
 Order of pieces are subject to change:
-Florecitas Mexicanas – Miguel Martinez vers. Mariachi Vargas
-Hermoso Cariño – Fernando Malsonado arr. Jeff Nevin
-La Cigarra – Mariachi Vargas de Tecalitlán
+Cien Anos – Rubén Fuentes & Alberto Cervantes
+El Tirador – Silvestre Vargas & Rubén Fuentes
+Sabes Una Cosa – Manuel Lozano Gallo & Rubén Fuentes
 Members are listed below in alphabetical order by instrument.
 Violin
-Cormac Easter, NHS
 Fernando Gurrola, SHS
-Angie Nieto, SHS
-Hailey Pulido Colis, LHS
-Danna Quiroz, NHS
+Hanaa Garcia-Osborn, EHS
+Sofia Cellario, LHS
+Danna Quiroz Arredondo, NHS
+Grace Garcia, MHS
+Jessica Vaca Perez, LHS
 Guitar
-Estrella Bustillos, LHS
-Manuel Valdez, SHS
-Jimena Valdez, SHS
+Oscar Gutierrez Hernadez, LHS
+Giovanni Barron Olivares, SHS
+Estrella Bustillos, SHS
 Guitarron
-Moi Carreón, SHS
-Lex Lepe, NHS
-Harp
-Jasper Kuester, LHS
+Jose Canche Cabrera, LHS
+Moises Carreon, SHS
 Trumpet
-Connor Lindsay, LHS
-Jenna Waligora, SHS
+Eva Fuhr , LHS
+Connor Lindsey, LHS
 Vihuela
-Audrey Prado King, SHS
-Orchestra Ensemble
+Juan Rocha-Silva, LHS
+Jason Martinez, SHS
+Orchestra
 Order of pieces are subject to change:
-Marche Slave – Tchaikovsky
-Chokfi’ – Jerod Impichchaachaaha’ Tate
-Symphony No. 2 IV Finale – Jean Sibelius
+Lullaby for string orchestra – George Gershwin, arr. Jeff Manookian
+The Planets, Jupiter – Gustav Holst
+Star Wars Medley – John Williams, arr. Burden
 Members are listed below in alphabetical order by instrument.
-Violin I
-Nat Alegria, SCHS
-Eldon Budiman, NHS
-Hannah Crill, SCHS
-Freesia Davis, SCHS
-Nora Dukart, FHS
-Winslow Gall, MHS
-Hanaa Garcia, EHS
-Carina McCall, LHS
-Meira McCall, LHS
-Lucas Menza, TPCA
-Vida Robles Salas, MHS
-Clarissa Román, SHS
-Adam Wegner, LHS
-Violin II
-Lara Grotegut, EHS
-Ameya Kaitharam Venkitesh, NHS
-Audrey LeMire, MHS
-Emma Litman, SCHS
-William Matthews, SHS
-Josh Moore, FHS
-Evyn Nelson, EHS
-Jeremy Patterson, MHS
-Kylie Paul, SHS
-Emily Payne, NHS
-Julia Provow, TPCA
-Michael Vassilyev, NHS
-Kate Walsh, SHS
-Viola
-Siobhan Chandrasekara, EHS
-Makayla Curfman, LHS
-Haley Eaton, FHS
-Fernando Gurrola, SHS
-Sarah Longenecker, SCHS
-Micah Marshall, NHS
-Vivian Meier, SCHS
-James Nichols, NHS
-Sam Perez, MHS
-Edward Plavidal, SCHS
-Addison Schuck, MHS
-Michelle Smith, SCHS
-Cello
-Shea Archie, SHS
-Jacob Hodek, FHS
-Zachery Johnson, NHS
-Ben Kohn, SCHS
-Ryan Larson, TPCA
-William Quinlan, NHS
-Henry Topham, SCHS
-Kayla Uemura, LHS
-Isaac Wicks, NHS
-Arthur Woodworth, EHS
-Double Bass
-Charlotte Castaneda, NHS
-Nove Cleveland, LHS
-Malachi Post, MHS
-Karrington Savage, FHS
-Peyton Weichel, MHS
-Bassoon
-Charlie Meier, FHS
-Salvador Montes, NHS
-Clarinet
-Matthew Legg, SHS
-Oliver Sitja Sichel, NHS
-Piccolo
-Erin Dinneen, SCHS
-Jiali Grier, EHS
 Flute
-Myla Boehnke, FHS
-Annalise Von Hatten, LHS
+Erin Dinneen, SCHS
+Genesis Salgado, SHS
+Piccolo
+Lilly Fable, SCHS
+Ivy Wise, NHS
 Oboe
-Mars Caraveo, NHS
-Ronja King, LHS
+Liam Legg, SCHS
+Margot Spencer, LyHS
+Clarinet
+Brianna Fehrn, MHS
+Matthew Legg, SHS
+Alyssa Stewart, MHS
+Bassoon
+Devon Mares, LHS
+Salvador Montes, NHS
+Soprano Saxophone
+Gavin Kim, SCHS
+Alto Saxophone
+Genesis Lauren, MHS
+Baritone Saxophone
+Kaiden Gercken, TPCA
+Dakota Valdez-Zimmerman, NHS
 Horn
-Emily Dunn, EHS
+Kelvin Atteberry, LHS
 Addison Henson, MHS
-Joseph Lee, LHS
-Logan Martin, MHS
-Cornet
-Ryan Davis, MHS
+Jack Nielson, TPCA
+Travis Pendelton, TPCA
 Trumpet
 Connor Lindsay, LHS
 Gabriel Thorson, LHS
 Trombone
 Porter Bodily, MHS
-Rachel Noyes, FHS
-Adam Walker, LyHS
+Tristan Perry, LHS
+Royal Thapa, TPCA
 Tuba
-Lila Marsolek, FHS
+Adam Knez, MHS
 Percussion
-Luke Greiner, FHS
-Spencer Gutierrez, FHS
+Amos Crill, SCHS
+Aaron Heydt, TPCA
+Landi Johnson, MHS
 Kawika Martinez, MHS
-Lorelei Sadler, MHS
-Congratulations to all of our students for being selected to this year’s honor ensembles!
-2025 Special Guests
-Elliot Moore – Orchestra Conductor & Guest Clinician
-Elliot Moore has served as Music Director of the Longmont Symphony Orchestra since 2017, where his leadership has brought remarkable growth in audience engagement, artistic achievement, and enthusiasm for symphonic music in Colorado. He is committed to accessibility and innovation, championing works by living composers, presenting sensory-friendly performances with the Boulder Ballet, and introducing regional audiences to symphonic works never before heard in the state.
-Moore made his Carnegie Hall debut in 2015 with the Blue Period Ensemble, conducting Bright Sheng’s
-Deep Red
-for Marimba and Ensemble and Mahler’s
-Das Lied von der Erde
-in Schoenberg and Riehn’s chamber transcription. His career includes guest appearances with orchestras in Mexico, Canada, and across the United States, as well as participation in Canada’s National Arts Centre Orchestra Conductors Program.
-Equally at home in the opera pit, he has conducted productions of Strauss’
-Ariadne auf Naxos
-and Verdi’s
-Falstaff
-, and led the world premiere of Ursula Kwong-Brown’s
-The First of Love
-. He previously served as Music Director of the Detroit Medical Orchestra.
-Originally from Alaska, Moore earned his Doctor of Musical Arts from the University of Michigan, where he was a Helen Wu Graduate Conducting Fellow. He began his training at the Conductors Retreat at Medomak with Kenneth Kiesler, later serving as Kiesler’s assistant at the Manhattan School of Music.
-Outside of music, Moore is a language enthusiast—fluent in French, conversational in Italian and German, with additional studies in Hebrew and Latin, and currently learning Spanish. He is also writing his first book,
-Exceeding Expectations: My Journey to the Podium
-. He lives in Colorado with his wife, Dr. Pauline Cichon, their three children, five dogs, and Maine Coon cat.
+Ethan Shipp, LHS
+Samuel Walker, NHS
+Harp
+Padraig Dinneen, SCHS
+Jasper Kuester, LHS
+Violin I
+Eldon Budiman, NHS
+Hannah Crill, SCHS
+Winslow Gall, MHS
+Hanaa Garcia-Osborn, EHS
+William Mathews, SHS
+Carina McCall, LHS
+Meira McCall, LHS
+Joshua Moore, FHS
+Emily Payne, NHS
+Clarissa Román, SHS
+Adam Wegner, LHS
+Violin II
+Nat Alegria, SCHS
+Ben Barton, EHS
+Ivan Chang, SCHS
+Luke Fillmer, NHS
+Jorah Foote, SCHS
+Lara Grotegut, EHS
+Ameya Kaitharam Venkitesh, NHS
+Ezra Kuzmich, EHS
+Audrey LeMire , MHS
+Rebecca Nardell, SCHS
+Evyn Nelson, EHS
+Julia Provow, TPCA
+Viola
+James Anderson, TPCA
+Violet Blair, NHS
+Siobhan Chandrasekara, EHS
+Makayla Curfman, LHS
+Maeve Dermody, SCHS
+Haley Eaton, FHS
+Fernando Gurrola, SHS
+Micah Marshall, NHS
+Vivian Meier, SCHS
+Mary Skidmore, EHS
+Michelle Smith, SCHS
+Cello
+Shea Archie, SHS
+Jacob Hodek, FHS
+Ben Kohn, SCHS
+Violet Kush, LHS
+Ryan Larson, TPCA
+Iris Lee, NHS
+Brooklyn Olivier, SCHS
+William Quinlan, NHS
+Henry Topham, SCHS
+Kayla Uemura, LHS
+Sam Winheld, LHS
+Arthur Woodworth, EHS
+Double Bass
+Charlie Casteneda, NHS
+Peyton Weichel, MHS
+Elise Wowk, NHS
+Malachi Post, MHS
+Nove Cleveland, LHS
+2026 Special Guests
+Rachel Waddell – Orchestra Conductor & Guest Clinician
+Guided by the belief that orchestras are living ecosystems shaped by human connection, American conductor Rachel Waddell brings a narrative, collaborative approach to her work on the podium. With over fourteen years of experience across professional, educational, and community ensembles, Rachel shapes programs and performances that reflect her belief in music as a vehicle for connection, imagination, and shared experience. An award-winning conductor who has led ensembles across the United States and internationally, she balances high artistic standards with humility, humanity, and a commitment to shaping the trajectory of symphonic music in the 21st century.
+Professionally, Rachel is building a dynamic and expanding conducting career across the United States and internationally, earning recognition for her clarity, narrative approach, and collaborative leadership on the podium. She has guest conducted the Rochester, Las Vegas, and Denver Philharmonics, the Greater Bridgeport Symphony Orchestra, and the Southwest Michigan Symphony Orchestra, and has been a finalist in multiple Music Director searches. Her professional foundation includes a transformative five-year tenure advancing from Assistant to Associate Conductor with the Canton Symphony Orchestra. Internationally, she was named a Carlos Miguel Prieto Conducting Fellow in 2025 and studied with Yannick Nézet-Séguin at Domaine Forget, where she was selected to share the podium with him in leading the Orchestre Métropolitain on a subscription concert. She also conducted selections from Così fan tutte in Vienna through the Vienna Opera Academy, performing with a professional ensemble in ticketed concerts following rehearsals at the Musikverein.
+A tireless advocate for musical access, Rachel’s commitment to educational excellence earned her recognition as a 2026 GRAMMY Museum Music Educator Award Semifinalist. She serves as Assistant Professor and Director of Orchestras at Colorado State University, following a highly successful six-year tenure as Director of Orchestral Activities at the University of Rochester. Concurrently the Music Director of the Longmont Youth Symphony, she is a highly sought-after guest conductor for honor ensembles, including the 2025 TMEA All-State Orchestra Sinfonietta. In 2026, she launches a new collaborative initiative with the Colorado Symphony through the inaugural CONCERT Program (Collaborative Orchestral Network for Community Education, Resources, and Training), designed to bridge the professional and academic orchestral spheres.
+Off the podium, Rachel champions institutional innovation. During the pandemic, she co-founded Conductors for Change, launching global seminars and award-winning programs that reimagine the role of orchestras in the United States. Her visionary approach to audience development has earned her the American Prize’s Vytautas Marijosius Memorial Award in Orchestral Programming in both 2020 and 2021. A voraciously curious learner dedicated to deepening her artistry and humanity, Rachel holds a DMA in Orchestral Conducting from the University of Nevada, Las Vegas, and is a member of The Recording Academy.
 Priscilla Arasaki – Mariachi Clinician
 Priscilla Arasaki
 is a violinist and dedicated mariachi educator based in Colorado. She is a full-time member of
@@ -4659,7 +4680,7 @@ Dr. Katarina Pliego and Erick Finnestead
 Skyline High School (SHS)
 Brian Crim and Anthony Barela
 Twin Peaks Classical Academy (TPCA)
-Regan Kane and Alycia Burns, Dr. Aaron Moe
+Regan Kane and Alycia Burns
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
 
@@ -7329,6 +7350,149 @@ UPK Qualifying Factors
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
 
+### 2027-2028 Preschool Registration
+
+- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
+- Last modified: 2026-11-11T10:31:26-07:00
+
+High-Quality Preschool Programs in St. Vrain
+St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
+All families interested in St. Vrain’s preschool programs must complete the St. Vrain Valley Schools Preschool Application. Families of children who will be 4 years old on or before Oct. 1, 2027, must also complete the Colorado Universal Preschool (UPK) application, available within the district’s preschool application.
+Preschool placements are offered on a first-come, first-served basis, as space is available. Registering early increases the opportunity for placement at a family’s school of choice.
+2027-2028 Preschool Registration Timeline
+Families interested in St. Vrain’s preschool programs must complete both the
+St. Vrain Valley Schools Preschool Application
+and the
+Colorado Universal Preschool (UPK) application
+for UPK placement. Children must be
+4 years old on or before Oct. 1, 2027
+, to qualify for UPK.
+St. Vrain Valley Schools Preschool Application
+Dec. 1, 2026:
+The district preschool application opens for
+all
+families, including those applying for tuition-based preschool for their 3-year-old.
+Colorado Universal Preschool (UPK) Application
+Children must be
+4 years old on or before Oct. 1, 2027
+, to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application.
+UPK Pre-registration (Continuity of Care)
+Dec. 1, 2026:
+UPK
+Pre-registration (Continuity of Care) opens for eligible families
+, including returning preschoolers who will be turning 4 years old on or before Oct. 1, 2027, children with siblings attending the district, and children of St. Vrain employees.
+Feb. 1, 2027:
+UPK notifies families of their Continuity of Care matches.
+General UPK Registration and Matching
+Dec. 8, 2026:
+General Colorado Universal Preschool (UPK) registration opens. Families who do not qualify for UPK pre-registration (Continuity of Care) can submit the St. Vrain Valley Schools Preschool Application beginning Dec. 1 and the UPK application beginning Dec. 8.
+Feb. 15, 2027:
+UPK conducts the first round of matching.
+Feb. 25, 2027:
+UPK notifies families of their first-round matches.
+March 16, 2027:
+UPK begins the second round of matching.
+March 23, 2027:
+UPK notifies families of their second-round matches.
+2027-2028 Preschool Rates
+Part-Time Preschool: $764.00/month
+Second Half of Full-Day Preschool (for families not qualifying for full-day through UPK): $811.00/month
+Full-Day Preschool: $1,537.00/month
+Universal Preschool Information:
+Colorado’s Universal Preschool (UPK) program provides free preschool for children who will be four-years-old on or before Oct 1 of the school year they are enrolling. Through UPK, families can receive up to 15 hours a week of state-funded preschool, with the option to add more hours through tuition.
+General UPK Information
+UPK – FAQ
+UPK Qualifying Factors
+2027-2028 Preschool Locations
+Erie
+Black Rock Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+Erie Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Highlands Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+Red Hawk Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Soaring Heights PK-8
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:30-3:10 p.m.)
+Full-day session (8:40 a.m. – 3:10 p.m.)
+Frederick
+Grand View Elementary
+Morning session (9:00-11:40 a.m.)
+Afternoon session (1:00-3:40 p.m.)
+Full-day session (9:00 a.m. – 3:40 p.m.)
+Spark! Discovery Preschool
+Morning session (8:30-11:10 a.m.)
+Afternoon session (12:25-3:05 p.m.)
+Full-day session (8:30 a.m. – 3:05 p.m.)
+Longmont
+Alpine Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Blue Mountain Elementary
+Morning session (8:45-11:45 a.m.)
+Afternoon session (12:30-3:30 p.m.)
+Burlington Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Central Elementary
+Morning session (8:35-11:15 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Columbine Elementary
+Full-day session (8:30 a.m. – 3:00 p.m.)
+Eagle Crest Elementary
+Full-day session (8:25 a.m. – 3:05 p.m.)
+Fall River Elementary
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:35-3:15 p.m.)
+Hygiene Elementary
+Morning session (9:10-11:50 a.m.)
+Afternoon session (1:05-3:45 p.m.)
+Indian Peaks Elementary
+Full-day session (9:10 a.m. – 3:50 p.m.)
+Longmont Estates Elementary
+Morning session (8:20-11:00 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Full-day session (8:20 a.m. – 3:00 p.m.)
+Mountain View Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Full-day session (8:25 a.m. – 3:00 p.m.)
+Northridge Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:25-3:05 p.m.)
+Full-day session (8:25 a.m. – 3:05 p.m.)
+Rocky Mountain Elementary
+Full-day session (8:40 a.m. – 3:15 p.m.)
+Timberline PK-8
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:25-3:15 p.m.)
+Lyons
+Lyons Elementary School
+Full-day session (8:05 a.m. – 2:50 p.m.)
+Mead
+Big Sky PK-8
+Morning session (8:25-11:25 a.m.)
+Afternoon session (12:25-3:25 p.m.)
+Full-day session (8:25 a.m. – 3:25 p.m.)
+Mead Elementary
+Morning session (8:45-11:25 a.m.)
+Afternoon session (12:45-3:25 p.m.)
+Niwot
+Niwot Elementary
+Morning session (9:00-11:40 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+
+Source: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
+
 ### Children with Disabilities Preschool Enrollment
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
@@ -8201,7 +8365,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-10-22T13:02:28-06:00
+- Last modified: 2026-11-06T09:07:49-07:00
 
 Benefits Open Enrollment: Nov 2-13
 During Benefits Open Enrollment, you may log into
@@ -9321,7 +9485,7 @@ Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2026-10-02T14:40:56-06:00
+- Last modified: 2026-11-10T12:32:34-07:00
 
 Human Resources Leadership Team
 Amanda Thompson
@@ -9332,10 +9496,6 @@ Elisa Goellner
 Executive Administrative Assistant
 303-682-7386
 goellner_elisa@svvsd.org
-Russell Fox
-Executive Director of Human Resources
-303-682-7406
-fox_russell@svvsd.org
 Sarah James
 Executive Director of Human Resources
 303-682-7248
@@ -9344,6 +9504,10 @@ Kate Slick
 Executive Director of Human Resources
 303-682-7377
 slick_katherine@svvsd.org
+Ty Valentine
+Executive Director of Human Resources
+303-682-7406
+valentine_ty@svvsd.org
 Brian Young
 Executive Director of Human Resources
 303-682-7237
@@ -16505,7 +16669,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-08-03T07:39:42-06:00
+- Last modified: 2026-11-06T08:28:58-07:00
 
 Click on the Circular Chart below to open a traditional version.
 
@@ -16882,7 +17046,7 @@ Source: https://www.svvsd.org/departments/technology/itac/
 ### Learning Technology Program
 
 - Canonical URL: https://www.svvsd.org/departments/technology/ltp/
-- Last modified: 2025-09-15T06:58:55-06:00
+- Last modified: 2026-11-06T09:26:20-07:00
 
 Program Overview
 In 2012, voters across our district approved a mill levy override that, among other improvements, greatly strengthens our District’s capacity to equip students with 21st century technology tools to give our students a critical advantage. In order to ensure that this investment aligns with instructional priorities and school needs, the

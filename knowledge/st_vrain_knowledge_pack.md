@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-08T08:06:14.220007-07:00
+generated_at: 2026-11-12T09:45:55.868411-07:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,93 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### St. Vrain Valley Schools Honor Veterans Through Learning, Remembrance, and Community Traditions
+
+- Published: 2026-11-11T11:15:45-07:00
+- Source URL: https://www.svvsd.org/2026/11/11/st-vrain-valley-schools-honor-veterans-through-learning-remembrance-and-community-traditions/
+
+From classroom visits and school ceremonies to musical performances and community events, students across St. Vrain Valley Schools recognize the service and sacrifices of military veterans.
+Under a clear November sky, students and staff at Longs Peak Middle School gathered around the school’s flagpole Wednesday morning for a Veterans Day tradition that has connected generations of students with local military veterans.
+With the entire school assembled outside, community veterans joined students for a flag-raising ceremony recognizing the service, dedication, and sacrifices of those who have served in the United States Armed Forces.
+The ceremony was one of many Veterans Day observances taking place across St. Vrain Valley Schools, where students participated in activities designed to deepen their understanding of military service, American history, civic responsibility, and the importance of honoring veterans.
+Throughout the district, schools marked the occasion through special breakfasts, classroom visits from veterans, student performances, and commemorative ceremonies. Students also extended their appreciation beyond school walls, with high school marching bands participating in Longmont’s annual Veterans Day Parade.
+At Longs Peak Middle School, the day’s events reflected a particularly meaningful tradition of remembrance and community connection.
+Principal Karin Blough joined longtime community veteran Ralph Bozella in leading the morning ceremony. Bozella, a U.S. Army veteran who served in Vietnam and has dedicated decades to supporting fellow veterans, has helped organize Veterans Day observances at Longs Peak since 1995.
+As students gathered around the flagpole, the school’s choir performed the national anthem. Students then assisted visiting veterans in raising the American flag, participating directly in a ceremony that connected the school’s daily traditions with the significance of Veterans Day.
+Veteran Steve Butner also addressed the students, speaking about the meaning of the American flag and the importance of Veterans Day as an opportunity to honor those who have served in the United States Armed Forces. His remarks encouraged students to reflect on the service and sacrifices of military members and their families.
+The ceremony concluded with the entire school reciting the Pledge of Allegiance, a familiar part of the school day given additional significance by the presence of the veterans being honored.
+Following the outdoor ceremony, veterans gathered in the school library for a special breakfast hosted in their honor. Students continued the morning’s tribute with a medley of patriotic songs performed by the school choir, creating an opportunity for veterans, educators, and members of the school community to connect.
+A Lasting Legacy of Service
+Among the guests were Rick and Debbie Anderson, whose annual participation carries particular significance for the Longs Peak Middle School community.
+Their son, Christopher “Doc” Anderson, was a former Longs Peak student who went on to serve as a U.S. Navy hospital corpsman assigned to the Marine Corps. Anderson was killed in action in Iraq on December 4, 2006, at the age of 24.
+His service and sacrifice remain part of the school’s history through a dedicated tribute within its longstanding veterans memorial mural. The display serves as a lasting reminder of the personal stories behind military service and the connections between the school, its alumni, and the broader community.
+The Anderson family’s continued presence at the annual ceremony helps carry that legacy forward, allowing new generations of students to recognize that the history they learn is also connected to people and families in their own community.
+For students, these personal connections offer an opportunity to develop empathy, gratitude, and an understanding of the sacrifices made by service members and their families.
+Learning Through Service and Community Connection
+Across St. Vrain Valley Schools...
+
+Source: https://www.svvsd.org/2026/11/11/st-vrain-valley-schools-honor-veterans-through-learning-remembrance-and-community-traditions/
+
+### A New Era for Skyline Athletics
+
+- Published: 2026-11-10T15:40:18-07:00
+- Source URL: https://www.svvsd.org/2026/11/10/a-new-era-for-skyline-athletics/
+
+Four league championships, new facilities, and a renewed approach to athletics have given Skyline High School plenty to celebrate this fall.
+Skyline High School has a few new championship banners to hang.
+The Falcons finished the fall season with four Colorado League titles, including a boys golf championship that had been 25 years in the making, a pair of cross country titles, and a girls volleyball championship that ended a 16-year drought.
+For Assistant Principal and Athletic Director Alan Culpepper, who joined Skyline this year, the results have been exciting. But what’s been even more encouraging is watching students and coaches begin to recognize what their programs are capable of accomplishing.
+“It’s not just one thing to be competitive, but to actually win games and win matches and win races. It takes a different mindset,” Culpepper said.
+That shift has come during a year of significant change for Skyline athletics. A move to the Colorado League for most sports, a new stadium, a renovated gymnasium, and new leadership have brought fresh opportunities for students and coaches alike.
+A Fall Worth Celebrating
+The boys golf team started things off with Skyline’s first league championship in 25 years. The Falcons dominated the league tournament, sweeping the top five individual positions. Zack Lacrosse also qualified for the state tournament, continuing his success among Colorado’s top high school golfers.
+Cross country followed with two more championships, although those titles came down to much closer finishes.
+Both the boys and girls teams won their respective league championships by narrow margins. On the girls side, runners who had competed at the junior varsity level during parts of the season stepped into varsity roles for the championship meet, helping secure the team title.
+The races were so close that every position mattered.
+For Culpepper, the experience was particularly rewarding. The school doesn’t even have an existing cross country championship banner to update. They’ll need to order a new one.
+Girls volleyball added another highlight to the season, winning its first league championship in approximately 16 years and earning a trip to regionals.
+The team was young, with as many as three freshmen starting at times, but continued to improve throughout the season. Head coach Kevin Ratzlaff was named the league’s Co-Coach of the Year, and freshman Naomi Victor earned Player of the Year honors.
+At regionals, Skyline faced some of the state’s strongest competition, including top-ranked Lewis-Palmer. The Falcons battled through difficult matches and showed they could compete against high-level programs.
+Boys soccer also made significant strides. The Falcons finished just one spot outside the state playoff field, ranking 33rd when 32 teams qualified. Although the team narrowly missed the postseason, several players earned All-League recognition after a season filled with competitive matches.
+Football also showed growth this fall while competing in a challenging league. Under the leadership of head coach Justin Vogt and his staff, the Falcons continued to build their program, increasing student participation and emphasizing hard work, accountability, and teamwork. Culpepper praised the coaching staff for keeping students engaged and focused on improvement throughout the season, reinforcing that success isn’t measured by wins and losses alone.
+More Than Winning
+Culpepper knows a thing or two about competition.
+Before moving into education and athletic leadership, he represented the United States in two Olympic Games, competed on four World Championships teams, won the U.S. Olympic Marathon Trials, and finished fourth in the Boston Marathon.
+Looking back, he doesn’t focus much on the individual results. What stands out is the work it took to get there.
+“It really boiled down to that pursuit of excellence more than anything else,” Culpepper said. “I was always pushing to get the most out of myself.”
+It’s an approach he...
+
+Source: https://www.svvsd.org/2026/11/10/a-new-era-for-skyline-athletics/
+
+### 2027-28 Preschool Registration Begins Dec. 1 & Dec. 8
+
+- Published: 2026-11-09T14:17:00-07:00
+- Source URL: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
+
+St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
+Registration Timeline:
+Continuity of Care pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees.
+General registration opens Dec. 8, 2026.
+The Colorado Universal Preschool application is included in St. Vrain’s application form and families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
+2027-28 Preschool Registration Information and Locations
+Universal Preschool Information:
+Colorado’s Universal Preschool (UPK) program provides free preschool for children who will be four-years-old on or before Oct 1 of the school year they are enrolling. Through UPK, families can receive up to 15 hours a week of state-funded preschool, with the option to add more hours through tuition.
+General UPK Information
+UPK – FAQ
+UPK Qualifying Factors
+Registration Process Support Sessions:
+Open house events will be available to support families with the
+2027
+–
+28 preschool registration process.
+Computers and one-on-one assistance will be available to help families complete the St. Vrain Valley Schools Preschool Application and, for children who will be 4 years old on or before Oct. 1, 2027, the Colorado Universal Preschool (UPK) application. Walk-ins are welcome!
+View the full list of support session dates and times here:
+Support Sessions
+.
+Learn More About St. Vrain’s High-Quality Preschool Options
+
+Source: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
+
 ### Longmont High Students Score in Top 10% on National Business Exams
 
 - Published: 2026-11-06T14:14:45-07:00
@@ -618,64 +705,6 @@ Waggoner said student interest and consistent attendance have helped the new clu
 With more opportunities on the horizon, Coal Ridge hopes to welcome additional students into its music program and continue building a strong foundation for future musical experiences.
 
 Source: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
-
-### Lyons Lions Capture 3A State Softball Championship with 10–3 Victory Over D’Evelyn
-
-- Published: 2026-10-24T18:09:14-06:00
-- Source URL: https://www.svvsd.org/2026/10/24/lyons-lions-capture-3a-state-softball-championship-with-10-3-victory-over-develyn/
-
-The Lyons Lions are state champions!
-In a championship performance defined by determination, teamwork, and an unmistakable sense of joy, the Lyons Middle/Senior High School softball team captured the 2026 Colorado Class 3A State Championship on Saturday, October 24, defeating D’Evelyn High School 10–3.
-While the final score reflected the Lions’ dominance on the field, the story of their championship extends far beyond the runs scored. It is a story of a team whose success was built on years of friendship, dedication, leadership, and a culture of unwavering support for one another.
-From the opening inning, the Lions played with the confidence of a team ready for the moment. They jumped out to an impressive 8–0 lead, combining strong play with the energy and enthusiasm that have become hallmarks of this team.
-Even with a state championship on the line, the Lyons dugout was filled with smiles, cheers, and familiar chants. Teammates celebrated one another, encouraged each other through every play, and embraced the opportunity to compete together on the biggest stage of their season.
-That spirit was especially evident when the Lions faced their greatest challenge of the game.
-After building their commanding lead, Lyons saw D’Evelyn rally with three runs in the sixth inning, narrowing the score to 8–3. With momentum potentially shifting, the Lions responded with the same composure and confidence that had carried them throughout the championship.
-There was no hesitation. No visible doubt.
-Instead, Lyons answered with two additional runs, extending its lead to 10–3 before closing out the game and securing the state title.
-The victory was a testament to the leadership of the team’s seniors, who helped set the tone for a championship season. Their experience, commitment, and example provided a foundation for success, while contributions from players across the roster demonstrated the strength of a team united by a common goal.
-Behind the Lions’ success was a dedicated coaching staff that fostered a culture of confidence, teamwork, and trust. Their leadership helped create an environment where players could embrace challenges, support one another, and find joy in the game. That foundation was evident throughout the championship, reflecting the lasting impact of coaches who invest in their athletes both on and off the field.
-Equally powerful was the support surrounding the Lions throughout their championship journey.
-Families, fellow students, school administrators, and members of the Lyons community came together to cheer on the team, creating an atmosphere that reflected the pride and connection of a close-knit school community.
-Their presence served as a reminder that championships are rarely achieved alone. Behind every successful team are years of encouragement, countless hours of practice, dedicated coaches, supportive families, and a school community that believes in its students.
-For Lyons, Saturday’s victory represented more than a championship trophy. It was a celebration of the relationships, traditions, and experiences that make high school athletics such an important part of the student experience.
-The Lions demonstrated that competing at the highest level and finding joy in the game are not mutually exclusive. Even under the pressure of a state championship, they played with enthusiasm, celebrated each other’s successes, and embraced every moment together.
-Congratulations to the Lyons Lions softball team, their coaches, families, and the entire Lyons community on an outstanding achievement and a well-deserved 2026 Class 3A State Championship!
-See the photo album here
-
-Source: https://www.svvsd.org/2026/10/24/lyons-lions-capture-3a-state-softball-championship-with-10-3-victory-over-develyn/
-
-### Lyons Middle Senior Among Colorado’s Top-Performing Schools on State Performance Framework
-
-- Published: 2026-10-23T10:25:08-06:00
-- Source URL: https://www.svvsd.org/2026/10/23/lyons-middle-senior-among-colorados-top-performing-schools-on-state-performance-framework/
-
-Lyons Middle Senior High School ranked No. 2 among 120 Colorado middle/senior high schools on the Colorado Department of Education’s School Performance Framework, which measures academic achievement, student growth, and postsecondary readiness.
-The ranking reflects the school’s commitment to high expectations and strong relationships that help students feel supported and engaged in their learning.
-“I attribute Lyons’ high performance rankings to our outstanding teachers and staff and the community of students we serve with strong goals,” said Principal Chris Frank. “Our students strive for academic excellence each and every day, and our teachers do amazing work at supporting each one of them.”
-The school’s close-knit community encourages students to take academic risks and explore new ideas. Annamarie Strzyz, a Language Arts teacher, said educators challenge students to think creatively while providing the support they need to succeed. “Students get to feel more comfortable taking risks, which makes them braver, more innovative thinkers.”
-Individual attention also helps students navigate challenges. Teachers build relationships with students, making it easier to recognize when they need additional support. “Being a small school, kids tend to not really slip through the cracks,” said Math and Science teacher, Pat Bacalis. “With the dedication of the staff and the high expectations they have, kids get a lot of individual attention.”
-That support extends beyond the classroom. Teachers encourage students to pursue their interests and stay involved in school activities. Senior Wilma Spencer said teachers take an active interest in learning more about student events and regularly ask about their progress.
-The ranking recognizes the efforts of Lyons students and educators to create a learning environment where students feel connected, supported, and prepared for what comes next.
-
-Source: https://www.svvsd.org/2026/10/23/lyons-middle-senior-among-colorados-top-performing-schools-on-state-performance-framework/
-
-### Supporting Student Growth Through iBlock at Lyons Elementary
-
-- Published: 2026-10-23T10:23:55-06:00
-- Source URL: https://www.svvsd.org/2026/10/23/supporting-student-growth-through-iblock-at-lyons-elementary/
-
-At Lyons Elementary, each grade level has an approximately 30-minute iBlock period built into its daily schedule, providing dedicated time for small-group instruction, enrichment, and individualized learning. Literacy and math specialists, a Gifted and Talented teacher, English Language Development (ELD) staff, and other educators use this time to build on classroom learning and help students develop skills at their own pace.
-“iBlock allows us to be intentional about how we support each student’s growth,” said Lyons Elementary Principal Katie Gustafson. “Whether students are building foundational skills or exploring an area of interest, the goal is to help them continue making progress.”
-Students at Lyons Elementary work outside during their iBlock period.
-Literacy paraprofessional Yelena Hughes works with small groups of four to six students on reading, writing, fluency, vocabulary, and comprehension. Through interactive notebooks, students organize their thinking and explore new vocabulary as they read. For example, while studying
-Lawn Boy
-by Gary Paulsen, students designed an improved lawn mower for the main character, building or drawing models and creating advertisements that connect reading comprehension with creativity and critical thinking.
-Two students at Lyons Elementary work together to read during their iBlock period.
-In math, paraprofessional Suzie Kruse uses student data, assessments, and classroom observations to provide individualized instruction in foundational skills, fact fluency, and problem-solving strategies. A student who understands a math concept but needs additional support with basic facts can receive targeted practice at a pace that builds confidence and independence. “Students engage deeply during iBlock because the environment feels supportive, personal, and safe,” Kruse said. “They receive immediate feedback and they get more time to talk through their thinking.”
-Through iBlock, Lyons Elementary educators can help students develop a deeper understanding of what they are learning while building confidence in their abilities. These experiences help students recognize their progress and approach new challenges with greater independence.
-
-Source: https://www.svvsd.org/2026/10/23/supporting-student-growth-through-iblock-at-lyons-elementary/
 
 ### District alerts
 
@@ -934,7 +963,7 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 ### Inclement Weather
 
 - Canonical URL: https://www.svvsd.org/schools/inclement-weather/
-- Last modified: 2026-08-18T15:56:47-06:00
+- Last modified: 2026-11-10T16:51:01-07:00
 
 Inclement Weather
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
@@ -1080,27 +1109,27 @@ Synchronous learning will be Webex, where students check in with teachers, take 
 Students will be marked as “present” if they join the Webex virtual meeting. Otherwise, students will be marked absent, and absences will be excused if parents call their students out for the day. Asynchronous school work will be posted in Schoology.
 About Virtual Office Hours
 Classroom and academic support teachers will hold virtual office hours so students have an optional, scheduled time to virtually check in with teachers, ask questions, and receive help on their school work. Additionally, teachers will check their email throughout the day to support parents and students with any questions that arise.
-Coal Ridge Middle School
+Big Sky PK-8 (Middle School)
 Students will attend the classes scheduled for the day of closure at the following times.
-8:30-8:50
-(Webex)
-Synchronous Learning
-Period 1
 8:55-9:15
 (Webex)
 Synchronous Learning
-Period 2
+Period 1
 9:20-9:40
 (Webex)
 Synchronous Learning
-Period 3
+Period 2
 9:45-10:05
 (Webex)
 Synchronous Learning
-Period 4
+Elective Period 3
 10:10-10:30
 (Webex)
-Synchronous Learni...
+Synchronous Learning
+Period 4
+10:35-10:55
+(Webex)
+Syn...
 
 Source: https://www.svvsd.org/schools/inclement-weather/
 
@@ -1775,7 +1804,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-10-21T13:08:24-06:00
+- Last modified: 2026-11-11T09:42:44-07:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
@@ -1875,7 +1904,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### State Assessment Results
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/state-assessment-results/
-- Last modified: 2026-09-04T12:12:57-06:00
+- Last modified: 2026-11-11T09:53:00-07:00
 
 State Assessment Results
 How to access your student’s CMAS scores in Pearson Family Portal
@@ -1907,8 +1936,6 @@ Student login credentials required
 College Board Parent Guides:
 Understanding the Score Report
 College Board – Parent Help Center
-How to Find the 10 Digit State ID through the Parent Portal in Infinite Campus
-I would like the content from the link above to be seen here, if possible
 CMAS SASID Parent Instructions
 Parents need to access their Parent Portal in Infinite Campus.
 An Introduction to Infinite Campus for Parents
@@ -2711,7 +2738,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Futures by Design
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
-- Last modified: 2026-09-30T15:28:57-06:00
+- Last modified: 2026-11-09T10:21:21-07:00
 
 Futures by Design PK-12
 Creating explicit connections between today’s learning and tomorrow’s future is part of the St. Vrain Advantage.
@@ -2747,6 +2774,35 @@ futures.svvsd.org
 CLICK HERE TO DOWNLOAD THE FUTURES BY DESIGN BROCHURE
 CLICK HERE TO DOWNLOAD THE CAREER FUTURES
 CLICK HERE TO DOWNLOAD THE DURABLE SKILLS
+How Can Families Support Durable Skills?
+Students learn more than academics at school. They develop the skills to solve problems, collaborate, communicate, navigate challenges, and contribute to their communities.
+St. Vrain’s six Durable Skills provide a shared language for these essential capabilities. Valued by employers, colleges, and communities, these skills can be taught, practiced, and strengthened over time.
+Students build these skills through everyday experiences, such as solving problems together, working through disagreements, setting goals, and learning from mistakes.
+Families can support this growth through simple conversations. Try asking your child:
+Which Durable Skill did you use today?
+What was challenging, and how did you handle it?
+How did you help someone or work with others?
+What skill would you like to keep practicing?
+When schools and families work together to reinforce Durable Skills, students build the confidence and capabilities to thrive in school, their communities, and the future.
+The following questions can be discussed at home as an extension of each Durable Skill beyond the classroom and school.
+Self-Aware Leader
+What made you feel happy or proud today?
+What was hard today, and what helped you keep trying?
+Critical Thinker & Innovator
+What is something you wonder about?
+What are different ways we could solve a problem?
+Global Citizen
+How did you show respect today?
+How could we help someone this week?
+Collaborative Team Player
+What makes someone a good teammate?
+How can we give everyone a chance to share?
+Effective Communicator
+How can we show that we are listening?
+What can we do when we disagree?
+Future-Ready Professional
+What is one goal you have this week?
+What small step could help you reach it?
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
 
@@ -5771,174 +5827,168 @@ Erin Carpenter and Dr. Aaron Moe
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-choir/
 
-### High School Honor Orchestra
+### High School Honor Orchestra & Mariachi
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-11-03T12:13:51-07:00
+- Last modified: 2026-11-10T14:23:12-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
-We are proud to include a high school honor mariachi ensemble! Mariachi, a vibrant tradition of Mexican music, features violins, trumpets, guitars, vihuelas and guitarrónes. This ensemble will showcase our student musicians and the rich cultural heritage of our community.
+We are proud to include a high school honor mariachi ensemble in this event! Mariachi, a vibrant tradition of Mexican music, features violins, trumpets, guitars, vihuelas and guitarrónes. This ensemble will showcase our student musicians and the rich cultural heritage of our community.
 Plan your visit to the 2026 Concert
 Date & Time
-: Wednesday, November 19, 2026 at 7:00 pm
+: Thursday, November 19, 2026 at 7:00 pm
 Location
 : Erie High School Auditorium: 3180 County Road 5, Erie, CO 80516
+EHS Honors Guest Map
 Buy your Concert Tickets
 :
 HERE
 :
 https://gofan.co/event/6861133?schoolId=CO99685
-We’re busy prepping an amazing program for the upcoming year.
-Audition results for the 26/27 school year will be shared with students by October 2.
-In the meantime, review the 2025 program below.
-2025 Event Program
-Mariachi Ensemble
+2026 Event Program
+Congratulations to all of our students for being selected to this year’s honor ensembles! To view the song repertoire and a list of all selected students participating in the event, click on the ensemble listed below.
+Mariachi
 Order of pieces are subject to change:
-Florecitas Mexicanas – Miguel Martinez vers. Mariachi Vargas
-Hermoso Cariño – Fernando Malsonado arr. Jeff Nevin
-La Cigarra – Mariachi Vargas de Tecalitlán
+Cien Anos – Rubén Fuentes & Alberto Cervantes
+El Tirador – Silvestre Vargas & Rubén Fuentes
+Sabes Una Cosa – Manuel Lozano Gallo & Rubén Fuentes
 Members are listed below in alphabetical order by instrument.
 Violin
-Cormac Easter, NHS
 Fernando Gurrola, SHS
-Angie Nieto, SHS
-Hailey Pulido Colis, LHS
-Danna Quiroz, NHS
+Hanaa Garcia-Osborn, EHS
+Sofia Cellario, LHS
+Danna Quiroz Arredondo, NHS
+Grace Garcia, MHS
+Jessica Vaca Perez, LHS
 Guitar
-Estrella Bustillos, LHS
-Manuel Valdez, SHS
-Jimena Valdez, SHS
+Oscar Gutierrez Hernadez, LHS
+Giovanni Barron Olivares, SHS
+Estrella Bustillos, SHS
 Guitarron
-Moi Carreón, SHS
-Lex Lepe, NHS
-Harp
-Jasper Kuester, LHS
+Jose Canche Cabrera, LHS
+Moises Carreon, SHS
 Trumpet
-Connor Lindsay, LHS
-Jenna Waligora, SHS
+Eva Fuhr , LHS
+Connor Lindsey, LHS
 Vihuela
-Audrey Prado King, SHS
-Orchestra Ensemble
+Juan Rocha-Silva, LHS
+Jason Martinez, SHS
+Orchestra
 Order of pieces are subject to change:
-Marche Slave – Tchaikovsky
-Chokfi’ – Jerod Impichchaachaaha’ Tate
-Symphony No. 2 IV Finale – Jean Sibelius
+Lullaby for string orchestra – George Gershwin, arr. Jeff Manookian
+The Planets, Jupiter – Gustav Holst
+Star Wars Medley – John Williams, arr. Burden
 Members are listed below in alphabetical order by instrument.
-Violin I
-Nat Alegria, SCHS
-Eldon Budiman, NHS
-Hannah Crill, SCHS
-Freesia Davis, SCHS
-Nora Dukart, FHS
-Winslow Gall, MHS
-Hanaa Garcia, EHS
-Carina McCall, LHS
-Meira McCall, LHS
-Lucas Menza, TPCA
-Vida Robles Salas, MHS
-Clarissa Román, SHS
-Adam Wegner, LHS
-Violin II
-Lara Grotegut, EHS
-Ameya Kaitharam Venkitesh, NHS
-Audrey LeMire, MHS
-Emma Litman, SCHS
-William Matthews, SHS
-Josh Moore, FHS
-Evyn Nelson, EHS
-Jeremy Patterson, MHS
-Kylie Paul, SHS
-Emily Payne, NHS
-Julia Provow, TPCA
-Michael Vassilyev, NHS
-Kate Walsh, SHS
-Viola
-Siobhan Chandrasekara, EHS
-Makayla Curfman, LHS
-Haley Eaton, FHS
-Fernando Gurrola, SHS
-Sarah Longenecker, SCHS
-Micah Marshall, NHS
-Vivian Meier, SCHS
-James Nichols, NHS
-Sam Perez, MHS
-Edward Plavidal, SCHS
-Addison Schuck, MHS
-Michelle Smith, SCHS
-Cello
-Shea Archie, SHS
-Jacob Hodek, FHS
-Zachery Johnson, NHS
-Ben Kohn, SCHS
-Ryan Larson, TPCA
-William Quinlan, NHS
-Henry Topham, SCHS
-Kayla Uemura, LHS
-Isaac Wicks, NHS
-Arthur Woodworth, EHS
-Double Bass
-Charlotte Castaneda, NHS
-Nove Cleveland, LHS
-Malachi Post, MHS
-Karrington Savage, FHS
-Peyton Weichel, MHS
-Bassoon
-Charlie Meier, FHS
-Salvador Montes, NHS
-Clarinet
-Matthew Legg, SHS
-Oliver Sitja Sichel, NHS
-Piccolo
-Erin Dinneen, SCHS
-Jiali Grier, EHS
 Flute
-Myla Boehnke, FHS
-Annalise Von Hatten, LHS
+Erin Dinneen, SCHS
+Genesis Salgado, SHS
+Piccolo
+Lilly Fable, SCHS
+Ivy Wise, NHS
 Oboe
-Mars Caraveo, NHS
-Ronja King, LHS
+Liam Legg, SCHS
+Margot Spencer, LyHS
+Clarinet
+Brianna Fehrn, MHS
+Matthew Legg, SHS
+Alyssa Stewart, MHS
+Bassoon
+Devon Mares, LHS
+Salvador Montes, NHS
+Soprano Saxophone
+Gavin Kim, SCHS
+Alto Saxophone
+Genesis Lauren, MHS
+Baritone Saxophone
+Kaiden Gercken, TPCA
+Dakota Valdez-Zimmerman, NHS
 Horn
-Emily Dunn, EHS
+Kelvin Atteberry, LHS
 Addison Henson, MHS
-Joseph Lee, LHS
-Logan Martin, MHS
-Cornet
-Ryan Davis, MHS
+Jack Nielson, TPCA
+Travis Pendelton, TPCA
 Trumpet
 Connor Lindsay, LHS
 Gabriel Thorson, LHS
 Trombone
 Porter Bodily, MHS
-Rachel Noyes, FHS
-Adam Walker, LyHS
+Tristan Perry, LHS
+Royal Thapa, TPCA
 Tuba
-Lila Marsolek, FHS
+Adam Knez, MHS
 Percussion
-Luke Greiner, FHS
-Spencer Gutierrez, FHS
+Amos Crill, SCHS
+Aaron Heydt, TPCA
+Landi Johnson, MHS
 Kawika Martinez, MHS
-Lorelei Sadler, MHS
-Congratulations to all of our students for being selected to this year’s honor ensembles!
-2025 Special Guests
-Elliot Moore – Orchestra Conductor & Guest Clinician
-Elliot Moore has served as Music Director of the Longmont Symphony Orchestra since 2017, where his leadership has brought remarkable growth in audience engagement, artistic achievement, and enthusiasm for symphonic music in Colorado. He is committed to accessibility and innovation, championing works by living composers, presenting sensory-friendly performances with the Boulder Ballet, and introducing regional audiences to symphonic works never before heard in the state.
-Moore made his Carnegie Hall debut in 2015 with the Blue Period Ensemble, conducting Bright Sheng’s
-Deep Red
-for Marimba and Ensemble and Mahler’s
-Das Lied von der Erde
-in Schoenberg and Riehn’s chamber transcription. His career includes guest appearances with orchestras in Mexico, Canada, and across the United States, as well as participation in Canada’s National Arts Centre Orchestra Conductors Program.
-Equally at home in the opera pit, he has conducted productions of Strauss’
-Ariadne auf Naxos
-and Verdi’s
-Falstaff
-, and led the world premiere of Ursula Kwong-Brown’s
-The First of Love
-. He previously served as Music Director of the Detroit Medical Orchestra.
-Originally from Alaska, Moore earned his Doctor of Musical Arts from the University of Michigan, where he was a Helen Wu Graduate Conducting Fellow. He began his training at the Conductors Retreat at Medomak with Kenneth Kiesler, later serving as Kiesler’s assistant at the Manhattan School of Music.
-Outside of music, Moore is a language enthusiast—fluent in French, conversational in Italian and German, with additional studies in Hebrew and Latin, and currently learning Spanish. He is also writing his first book,
-Exceeding Expectations: My Journey to the Podium
-. He lives in Colorado with his wife, Dr. Pauline Cichon, their three children, five dogs, and Maine Coon cat.
+Ethan Shipp, LHS
+Samuel Walker, NHS
+Harp
+Padraig Dinneen, SCHS
+Jasper Kuester, LHS
+Violin I
+Eldon Budiman, NHS
+Hannah Crill, SCHS
+Winslow Gall, MHS
+Hanaa Garcia-Osborn, EHS
+William Mathews, SHS
+Carina McCall, LHS
+Meira McCall, LHS
+Joshua Moore, FHS
+Emily Payne, NHS
+Clarissa Román, SHS
+Adam Wegner, LHS
+Violin II
+Nat Alegria, SCHS
+Ben Barton, EHS
+Ivan Chang, SCHS
+Luke Fillmer, NHS
+Jorah Foote, SCHS
+Lara Grotegut, EHS
+Ameya Kaitharam Venkitesh, NHS
+Ezra Kuzmich, EHS
+Audrey LeMire , MHS
+Rebecca Nardell, SCHS
+Evyn Nelson, EHS
+Julia Provow, TPCA
+Viola
+James Anderson, TPCA
+Violet Blair, NHS
+Siobhan Chandrasekara, EHS
+Makayla Curfman, LHS
+Maeve Dermody, SCHS
+Haley Eaton, FHS
+Fernando Gurrola, SHS
+Micah Marshall, NHS
+Vivian Meier, SCHS
+Mary Skidmore, EHS
+Michelle Smith, SCHS
+Cello
+Shea Archie, SHS
+Jacob Hodek, FHS
+Ben Kohn, SCHS
+Violet Kush, LHS
+Ryan Larson, TPCA
+Iris Lee, NHS
+Brooklyn Olivier, SCHS
+William Quinlan, NHS
+Henry Topham, SCHS
+Kayla Uemura, LHS
+Sam Winheld, LHS
+Arthur Woodworth, EHS
+Double Bass
+Charlie Casteneda, NHS
+Peyton Weichel, MHS
+Elise Wowk, NHS
+Malachi Post, MHS
+Nove Cleveland, LHS
+2026 Special Guests
+Rachel Waddell – Orchestra Conductor & Guest Clinician
+Guided by the belief that orchestras are living ecosystems shaped by human connection, American conductor Rachel Waddell brings a narrative, collaborative approach to her work on the podium. With over fourteen years of experience across professional, educational, and community ensembles, Rachel shapes programs and performances that reflect her belief in music as a vehicle for connection, imagination, and shared experience. An award-winning conductor who has led ensembles across the United States and internationally, she balances high artistic standards with humility, humanity, and a commitment to shaping the trajectory of symphonic music in the 21st century.
+Professionally, Rachel is building a dynamic and expanding conducting career across the United States and internationally, earning recognition for her clarity, narrative approach, and collaborative leadership on the podium. She has guest conducted the Rochester, Las Vegas, and Denver Philharmonics, the Greater Bridgeport Symphony Orchestra, and the Southwest Michigan Symphony Orchestra, and has been a finalist in multiple Music Director searches. Her professional foundation includes a transformative five-year tenure advancing from Assistant to Associate Conductor with the Canton Symphony Orchestra. Internationally, she was named a Carlos Miguel Prieto Conducting Fellow in 2025 and studied with Yannick Nézet-Séguin at Domaine Forget, where she was selected to share the podium with him in leading the Orchestre Métropolitain on a subscription concert. She also conducted selections from Così fan tutte in Vienna through the Vienna Opera Academy, performing with a professional ensemble in ticketed concerts following rehearsals at the Musikverein.
+A tireless advocate for musical access, Rachel’s commitment to educational excellence earned her recognition as a 2026 GRAMMY Museum Music Educator Award Semifinalist. She serves as Assistant Professor and Director of Orchestras at Colorado State University, following a highly successful six-year tenure as Director of Orchestral Activities at the University of Rochester. Concurrently the Music Director of the Longmont Youth Symphony, she is a highly sought-after guest conductor for honor ensembles, including the 2025 TMEA All-State Orchestra Sinfonietta. In 2026, she launches a new collaborative initiative with the Colorado Symphony through the inaugural CONCERT Program (Collaborative Orchestral Network for Community Education, Resources, and Training), designed to bridge the professional and academic orchestral spheres.
+Off the podium, Rachel champions institutional innovation. During the pandemic, she co-founded Conductors for Change, launching global seminars and award-winning programs that reimagine the role of orchestras in the United States. Her visionary approach to audience development has earned her the American Prize’s Vytautas Marijosius Memorial Award in Orchestral Programming in both 2020 and 2021. A voraciously curious learner dedicated to deepening her artistry and humanity, Rachel holds a DMA in Orchestral Conducting from the University of Nevada, Las Vegas, and is a member of The Recording Academy.
 Priscilla Arasaki – Mariachi Clinician
 Priscilla Arasaki
 is a violinist and dedicated mariachi educator based in Colorado. She is a full-time member of
@@ -5970,7 +6020,7 @@ Dr. Katarina Pliego and Erick Finnestead
 Skyline High School (SHS)
 Brian Crim and Anthony Barela
 Twin Peaks Classical Academy (TPCA)
-Regan Kane and Alycia Burns, Dr. Aaron Moe
+Regan Kane and Alycia Burns
 
 Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
 
@@ -8640,6 +8690,149 @@ UPK Qualifying Factors
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-preschool-registration/
 
+### 2027-2028 Preschool Registration
+
+- Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
+- Last modified: 2026-11-11T10:31:26-07:00
+
+High-Quality Preschool Programs in St. Vrain
+St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
+All families interested in St. Vrain’s preschool programs must complete the St. Vrain Valley Schools Preschool Application. Families of children who will be 4 years old on or before Oct. 1, 2027, must also complete the Colorado Universal Preschool (UPK) application, available within the district’s preschool application.
+Preschool placements are offered on a first-come, first-served basis, as space is available. Registering early increases the opportunity for placement at a family’s school of choice.
+2027-2028 Preschool Registration Timeline
+Families interested in St. Vrain’s preschool programs must complete both the
+St. Vrain Valley Schools Preschool Application
+and the
+Colorado Universal Preschool (UPK) application
+for UPK placement. Children must be
+4 years old on or before Oct. 1, 2027
+, to qualify for UPK.
+St. Vrain Valley Schools Preschool Application
+Dec. 1, 2026:
+The district preschool application opens for
+all
+families, including those applying for tuition-based preschool for their 3-year-old.
+Colorado Universal Preschool (UPK) Application
+Children must be
+4 years old on or before Oct. 1, 2027
+, to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application.
+UPK Pre-registration (Continuity of Care)
+Dec. 1, 2026:
+UPK
+Pre-registration (Continuity of Care) opens for eligible families
+, including returning preschoolers who will be turning 4 years old on or before Oct. 1, 2027, children with siblings attending the district, and children of St. Vrain employees.
+Feb. 1, 2027:
+UPK notifies families of their Continuity of Care matches.
+General UPK Registration and Matching
+Dec. 8, 2026:
+General Colorado Universal Preschool (UPK) registration opens. Families who do not qualify for UPK pre-registration (Continuity of Care) can submit the St. Vrain Valley Schools Preschool Application beginning Dec. 1 and the UPK application beginning Dec. 8.
+Feb. 15, 2027:
+UPK conducts the first round of matching.
+Feb. 25, 2027:
+UPK notifies families of their first-round matches.
+March 16, 2027:
+UPK begins the second round of matching.
+March 23, 2027:
+UPK notifies families of their second-round matches.
+2027-2028 Preschool Rates
+Part-Time Preschool: $764.00/month
+Second Half of Full-Day Preschool (for families not qualifying for full-day through UPK): $811.00/month
+Full-Day Preschool: $1,537.00/month
+Universal Preschool Information:
+Colorado’s Universal Preschool (UPK) program provides free preschool for children who will be four-years-old on or before Oct 1 of the school year they are enrolling. Through UPK, families can receive up to 15 hours a week of state-funded preschool, with the option to add more hours through tuition.
+General UPK Information
+UPK – FAQ
+UPK Qualifying Factors
+2027-2028 Preschool Locations
+Erie
+Black Rock Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+Erie Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Highlands Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+Red Hawk Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Soaring Heights PK-8
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:30-3:10 p.m.)
+Full-day session (8:40 a.m. – 3:10 p.m.)
+Frederick
+Grand View Elementary
+Morning session (9:00-11:40 a.m.)
+Afternoon session (1:00-3:40 p.m.)
+Full-day session (9:00 a.m. – 3:40 p.m.)
+Spark! Discovery Preschool
+Morning session (8:30-11:10 a.m.)
+Afternoon session (12:25-3:05 p.m.)
+Full-day session (8:30 a.m. – 3:05 p.m.)
+Longmont
+Alpine Elementary
+Morning session (8:55-11:35 a.m.)
+Afternoon session (12:50-3:30 p.m.)
+Full-day session (8:55 a.m. – 3:30 p.m.)
+Blue Mountain Elementary
+Morning session (8:45-11:45 a.m.)
+Afternoon session (12:30-3:30 p.m.)
+Burlington Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Central Elementary
+Morning session (8:35-11:15 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Columbine Elementary
+Full-day session (8:30 a.m. – 3:00 p.m.)
+Eagle Crest Elementary
+Full-day session (8:25 a.m. – 3:05 p.m.)
+Fall River Elementary
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:35-3:15 p.m.)
+Hygiene Elementary
+Morning session (9:10-11:50 a.m.)
+Afternoon session (1:05-3:45 p.m.)
+Indian Peaks Elementary
+Full-day session (9:10 a.m. – 3:50 p.m.)
+Longmont Estates Elementary
+Morning session (8:20-11:00 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Full-day session (8:20 a.m. – 3:00 p.m.)
+Mountain View Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:20-3:00 p.m.)
+Full-day session (8:25 a.m. – 3:00 p.m.)
+Northridge Elementary
+Morning session (8:25-11:05 a.m.)
+Afternoon session (12:25-3:05 p.m.)
+Full-day session (8:25 a.m. – 3:05 p.m.)
+Rocky Mountain Elementary
+Full-day session (8:40 a.m. – 3:15 p.m.)
+Timberline PK-8
+Morning session (8:40-11:20 a.m.)
+Afternoon session (12:25-3:15 p.m.)
+Lyons
+Lyons Elementary School
+Full-day session (8:05 a.m. – 2:50 p.m.)
+Mead
+Big Sky PK-8
+Morning session (8:25-11:25 a.m.)
+Afternoon session (12:25-3:25 p.m.)
+Full-day session (8:25 a.m. – 3:25 p.m.)
+Mead Elementary
+Morning session (8:45-11:25 a.m.)
+Afternoon session (12:45-3:25 p.m.)
+Niwot
+Niwot Elementary
+Morning session (9:00-11:40 a.m.)
+Afternoon session (12:55-3:35 p.m.)
+
+Source: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
+
 ### Children with Disabilities Preschool Enrollment
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/children-with-disabilities-preschool-enrollment/
@@ -9512,7 +9705,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits-previous/fmla
 ### Employee Health Benefits
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/benefits/
-- Last modified: 2026-10-22T13:02:28-06:00
+- Last modified: 2026-11-06T09:07:49-07:00
 
 Benefits Open Enrollment: Nov 2-13
 During Benefits Open Enrollment, you may log into
@@ -10632,7 +10825,7 @@ Source: https://www.svvsd.org/departments/human-resources/employee-self-service/
 ### Human Resources Team
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/human-resources-team/
-- Last modified: 2026-10-02T14:40:56-06:00
+- Last modified: 2026-11-10T12:32:34-07:00
 
 Human Resources Leadership Team
 Amanda Thompson
@@ -10643,10 +10836,6 @@ Elisa Goellner
 Executive Administrative Assistant
 303-682-7386
 goellner_elisa@svvsd.org
-Russell Fox
-Executive Director of Human Resources
-303-682-7406
-fox_russell@svvsd.org
 Sarah James
 Executive Director of Human Resources
 303-682-7248
@@ -10655,6 +10844,10 @@ Kate Slick
 Executive Director of Human Resources
 303-682-7377
 slick_katherine@svvsd.org
+Ty Valentine
+Executive Director of Human Resources
+303-682-7406
+valentine_ty@svvsd.org
 Brian Young
 Executive Director of Human Resources
 303-682-7237
@@ -17816,7 +18009,7 @@ Source: https://www.svvsd.org/departments/technology/ai-guidance-ethos/
 ### DTS Org Chart
 
 - Canonical URL: https://www.svvsd.org/departments/technology/dts-org-chart/
-- Last modified: 2026-08-03T07:39:42-06:00
+- Last modified: 2026-11-06T08:28:58-07:00
 
 Click on the Circular Chart below to open a traditional version.
 
@@ -18193,7 +18386,7 @@ Source: https://www.svvsd.org/departments/technology/itac/
 ### Learning Technology Program
 
 - Canonical URL: https://www.svvsd.org/departments/technology/ltp/
-- Last modified: 2025-09-15T06:58:55-06:00
+- Last modified: 2026-11-06T09:26:20-07:00
 
 Program Overview
 In 2012, voters across our district approved a mill levy override that, among other improvements, greatly strengthens our District’s capacity to equip students with 21st century technology tools to give our students a critical advantage. In order to ensure that this investment aligns with instructional priorities and school needs, the
@@ -22584,7 +22777,7 @@ Source: https://cedar2.cde.state.co.us/documents/DPF2025/Official/0470-1-Year-Of
 
 - District snapshot pages: 8
 - School pages: 14
-- Department and program pages: 343
+- Department and program pages: 344
 - Governance pages: 18
 - Board year index pages: 2
 - Board meeting entries: 81
