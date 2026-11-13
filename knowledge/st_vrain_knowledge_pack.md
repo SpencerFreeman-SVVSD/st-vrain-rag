@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-12T09:45:55.868411-07:00
+generated_at: 2026-11-13T09:14:08.479858-07:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -555,16 +555,19 @@ Source: https://www.svvsd.org/2026/11/10/a-new-era-for-skyline-athletics/
 - Source URL: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
 
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
-Registration Timeline:
-Continuity of Care pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees.
-General registration opens Dec. 8, 2026.
-The Colorado Universal Preschool application is included in St. Vrain’s application form and families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
+St. Vrain Valley Schools Preschool Application:
+Dec. 1, 2026: The district preschool application opens Dec. 1, 2026 for all families, including those applying for tuition-based preschool for their 3-year-old.
+Colorado Universal Preschool (UPK) Application
+:
+Children must be
+4 years old on or before Oct. 1, 2027
+, to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application. Families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
+Universal Preschool (UPK) Registration Timeline:
+UPK
+continuity of care
+pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees. Families must identify their school of choice in their application.
+UPK general registration opens Dec. 8, 2026.
 2027-28 Preschool Registration Information and Locations
-Universal Preschool Information:
-Colorado’s Universal Preschool (UPK) program provides free preschool for children who will be four-years-old on or before Oct 1 of the school year they are enrolling. Through UPK, families can receive up to 15 hours a week of state-funded preschool, with the option to add more hours through tuition.
-General UPK Information
-UPK – FAQ
-UPK Qualifying Factors
 Registration Process Support Sessions:
 Open house events will be available to support families with the
 2027
@@ -1211,23 +1214,24 @@ Middle
 Grades 9–12
 High
 Area 1 Schools
-Douglas Bissonette
-Area Assistant Superintendent – Area 1
+Dina Perfetti-Deany, Ed.D.
+Chief of School Leadership
 Adrienne Pequeen
 Executive Administrative Assistant
 pequeen_adrienne@svvsd.org
 303-702-7548
-bissonette_douglas@svvsd.org
-Frederick Feeder
-Frederick High School
-Coal Ridge Middle School
-*
-Thunder Valley K-8
-Centennial Elementary School
-*
-Legacy Elementary School
-Prairie Ridge Elementary School
-Spark! Discovery Preschool
+perfettideany_dina@svvsd.org
+Erie Feeder
+Colliers Hill Elementary School,
+Opening Fall 2027
+Erie High School
+Erie Middle School
+Black Rock Elementary School
+Erie Elementary School
+Red Hawk Elementary School
+Grand View Elementary School
+Soaring Heights PK-8
+Highlands Elementary
 Area 2 Schools
 Matt Buchler
 Area Assistant Superintendent – Area 2
@@ -1245,40 +1249,19 @@ Hygiene Elementary School
 Mountain View Elementary School
 Northridge Elementary School
 Sanborn Elementary School
-Silver Creek Feeder
-Silver Creek High School
-Altona Middle School
-Blue Mountain Elementary School
-Eagle Crest Elementary School
-Longmont Estates Elementary School*
+Frederick Feeder
+Frederick High School
+Coal Ridge Middle School
+*
+Thunder Valley K-8
+Centennial Elementary School
+*
+Legacy Elementary School
+Prairie Ridge Elementary School
+Spark! Discovery Preschool
 Area 3 Schools
-Dina Perfetti-Deany, Ed.D.
-Chief of School Leadership
-Adrienne Pequeen
-Executive Administrative Assistant
-pequeen_adrienne@svvsd.org
-303-702-7548
-perfettideany_dina@svvsd.org
-Erie Feeder
-Elementary 29
-Our New PK-5 School in Erie’s Collier Hill Neighborhood, Opening Fall 2027
-Erie High School
-Erie Middle School
-Black Rock Elementary School
-Erie Elementary School
-Red Hawk Elementary School
-Grand View Elementary School
-Soaring Heights PK-8
-Highlands Elementary
-Niwot Feeder
-Niwot High School
-Sunset Middle School
-Burlington Elementary School
-Indian Peaks Elementary School
-Niwot Elementary School
-Area 4 Schools
 Karla Allenbach
-Area Assistant Superintendent – Area 4
+Area Assistant Superintendent – Area 3
 Adrienne Pequeen
 Executive Administrative Assistant
 pequeen_adrienne@svvsd.org
@@ -1297,6 +1280,26 @@ Alpine Elementary School
 Columbine Elementary
 Fall River Elementary School
 Rocky Mountain Elementary School
+Area 4 Schools
+Russell Fox, Ed.D.
+Executive Director of School Leadership
+Adrienne Pequeen
+Executive Administrative Assistant
+pequeen_adrienne@svvsd.org
+303-702-7546
+fox_russell@svvsd.org
+Silver Creek Feeder
+Silver Creek High School
+Altona Middle School
+Blue Mountain Elementary School
+Eagle Crest Elementary School
+Longmont Estates Elementary School*
+Niwot Feeder
+Niwot High School
+Sunset Middle School
+Burlington Elementary School
+Indian Peaks Elementary School
+Niwot Elementary School
 Area 5 Schools
 Kerri McDermid, Ed.D.
 Chief of Staff and Strategic Priorities
@@ -5869,14 +5872,14 @@ Guitarron
 Jose Canche Cabrera, LHS
 Moises Carreon, SHS
 Trumpet
-Eva Fuhr , LHS
+Eva Fuhr, LHS
 Connor Lindsey, LHS
 Vihuela
 Juan Rocha-Silva, LHS
 Jason Martinez, SHS
 Orchestra
 Order of pieces are subject to change:
-Lullaby for string orchestra – George Gershwin, arr. Jeff Manookian
+Lullaby for string orchestra – George Gershwin, arr. Manookian
 The Planets, Jupiter – Gustav Holst
 Star Wars Medley – John Williams, arr. Burden
 Members are listed below in alphabetical order by instrument.
@@ -5978,7 +5981,6 @@ Kayla Uemura, LHS
 Sam Winheld, LHS
 Arthur Woodworth, EHS
 Double Bass
-Charlie Casteneda, NHS
 Peyton Weichel, MHS
 Elise Wowk, NHS
 Malachi Post, MHS
@@ -8693,7 +8695,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-pr
 ### 2027-2028 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
-- Last modified: 2026-11-11T10:31:26-07:00
+- Last modified: 2026-11-11T15:08:42-07:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
@@ -8769,8 +8771,8 @@ Morning session (9:00-11:40 a.m.)
 Afternoon session (1:00-3:40 p.m.)
 Full-day session (9:00 a.m. – 3:40 p.m.)
 Spark! Discovery Preschool
-Morning session (8:30-11:10 a.m.)
-Afternoon session (12:25-3:05 p.m.)
+Morning session (8:30-11:30 a.m.)
+Afternoon session (12:15-3:15 p.m.)
 Full-day session (8:30 a.m. – 3:05 p.m.)
 Longmont
 Alpine Elementary
@@ -8912,12 +8914,47 @@ Universal Preschool Program
 The Colorado Department of Early Childhood (CDEC) offers free preschool programming for all in district four-year-old children who will enter kindergarten the following school year. Eligible children must be 4 years old on or before Oct. 1 of the school year in which they are enrolling and may receive between 10 and 15 hours of preschool programming per week.
 Funding is also available for some three-year-old children with qualifying factors. Families of three-year-old children should submit a district preschool application. Families of eligible four-year-old children must complete both the district preschool application and the Universal Preschool Colorado (UPK) parent application linked below.
 Four-year-old children with qualifying factors may be considered for additional UPK funding to access full-day preschool programming if additional hours become available. Supporting documentation is required to verify qualifying factors.
-Should you have questions about Universal Preschool, please reach out to our local coordinating Local Coordinating Organization, the Early Childhood Council of Boulder County, at 720-548-3987.
-https://upk.colorado.gov/
-Special Needs/Disabilities
+If you have questions about Colorado Universal Preschool (UPK), please call the UPK Helpdesk at
+303-866-5223
+or visit
+upk.colorado.gov
+.
+Universal Preschool Program Policies
+Developmental and Health Screenings
+: As part of preschool enrollment, children may participate in voluntary developmental and health screenings. To schedule a developmental screening, please speak with your child’s teacher.
+Translation and Interpretation Services
+:
+St. Vrain Valley Schools’ Translation and Interpretation Services liaisons help schools and departments communicate with families in their preferred language. To request translation or interpretation services, please contact your school’s main office. Contact information is available in the
+St. Vrain Valley Schools directory
+. For more information, visit the
+Translation and Interpretation Services webpage
+.
+Special Education and Support for Children with Disabilities
+:
+St. Vrain Valley Schools’ preschool programs work with the Special Education Department to identify, evaluate, and support children with disabilities. Families, special education staff, and classroom teachers work together to determine the services and supports that meet each child’s individual needs. If you have concerns about your child’s development, please speak with your child’s teacher.
+Family and Community Engagement
+: We partner with families and community members to support children’s learning and development.
+Language Support
+— We provide access to interpreters and other language resources as needed to support communication with families.
+Cultural Sharing
+— We invite families to share their cultural traditions and home practices with the classroom community.
+Goal Setting
+— We work with families to set individual learning and developmental goals for their children.
+Program Decision-Making
+— We invite families and community partners to provide input on how the preschool program operates.
+Transitions
+— We involve families when their children move between classrooms or transition to a new school.
+Feedback
+— We invite families to share feedback on their interactions with the program and its staff.
+Annual CDEC Family Survey:
+Each spring, the Colorado Department of Early Childhood (CDEC) conducts a family survey. Families will receive information about how to participate and share feedback on their involvement in the preschool program and the supports available for their child’s healthy development.
+If you ave questions or need additional support regarding these policies, please submit a ticket to the
+UPK Contact Center
+.
+Special Education and Support for Children with Disabilities
 St. Vrain Valley Schools preschools work collaboratively with the Special Education Department in the assessment, identification and programming of children with disabilities. We partner with families, special education staff and classroom teachers to determine the best program and supports for each child based on their individual needs.
 If you have concerns about your child’s development, please speak with your child’s teacher.
-Translation Services
+Translation and Interpretation Services
 The Translation and Interpretation Services Liaisons support our schools’ and departments’ efforts to communicate with families who speak or prefer other languages. To request translation and/or interpretation services, please contact your school’s main office.
 Click here
 for contact information for all schools.
@@ -8941,20 +8978,7 @@ Within 30 calendar days of admission, and within 30 calendar days following the 
 Toileting
 Children attending preschool are generally expected to be toilet trained, while recognizing that occasional accidents are a normal part of development. In the event of a toileting accident, staff will assist the student with changing, and soiled clothing will be sent home.
 Parents/guardians must provide an extra set of clothing for their student each day in case of accidents. Extra clothing must be placed directly in the student’s backpack and may not be sent in a Ziploc bag, plastic bag, or any other separate bag to ensure it is readily accessible when needed.
-If a student experiences ongoing toileting accidents, the preschool team will collaborate with the family to determine appropriate supports and discuss the student’s individual needs and continued success in the program.
-In accordance with the Americans with Disabilities Act (ADA) and the Individuals with Disabilities Education Act (IDEA), students with disabilities will not be excluded from District preschool programs due to a lack of successful toilet training. Diapering will be conducted in accordance with state health department and child care licensing requirements.
-Preschool Supply List
-1 Box (10 ct.) Washable Colored Broad Tip Markers
-4 Glue Sticks
-1 Tray of Washable Watercolors
-1 Box (16 ct) Crayons
-2 Cans (3 or 4oz) of Play-Doh
-Box of Tissue (optional classroom donation)
-Child Behavior Guidance
-Our aim is to promote a positive learning environment where all students can succeed academically, socially, and emotionally. Our preschool classrooms use positive behavior supports and developmentally appropriate guidance strategies aligned with Second Step® Early Learning, our social-emotional curriculum. If you have any questions regarding these guidelines, please ask your child’s teacher. In challenging situations, teachers will use positive guidance, redirection, and logical/natural consequences.
-Teaching staff will teach desired classroom expectations. Students will also be taught appropriate ways to express their needs and manage their emotions. Instructional and/or environmental changes along with individual student accommodations will be made in hopes to deescalate undesirable behaviors If a child displays a pattern of negative behavior or has a serious behavior, a meeting will take place with parents to colaborate and discuss next steps and as deemed appropriate, a Child Behavior Plan will be developed. The district has Early Childhood Coaches for supporting children and faculty in such situations. The district also employs behavior consultants or other specialists as needed, who may be asked to collaborate with the staff and parents.
-Student Supervision, Authorized Pick-Up
-Classroom teaching staff will ensure that each parent/guardian signs in their child upon arrival and departure from the classroom daily. Teachers will continuously monitor the presence of children throughout the preschool day in the classroom, on the playground, and on field trips. Children will have their name to face head count taken before and after each transition. Please assist them by following the school’s proc...
+If a student experiences ongoing toileting accidents, the preschool team will collaborate with the family to determine appropriate supports...
 
 Source: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
 
@@ -15848,17 +15872,17 @@ Assistant Superintendent of Special Education
 hess_laura@svvsd.org
 Emily Scott
 Executive Director of Special Education
-Big Sky PK-8, Erie Elementary, Northridge, Soaring Heights, Apex
+Big Sky PK-8, Apex
 720-652-8214
 scott_emily@svvsd.org
 Amanda Ferguson
 Director of Special Education – Secondary
-Erie HS, Frederick HS, Longmont HS, Lyons MS/HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, Skyline HS, St. Vrain Virtual HS
+Erie HS, Longmont HS, Lyons MS/HS, Mead HS, New Meridian HS, Niwot HS, Silver Creek HS, St. Vrain Virtual HS
 303-702-7640
 ferguson_amanda@svvsd.org
 Meredith Pogonyi
 Director of Special Education – Elementary
-Lyons ES, Mead ES, Prairie Ridge,
+Centennial, Legacy, Mead ES, Prairie Ridge, Sanborn,
 Child Find, Spark! Discovery Preschool
 720-652-8216
 pogonyi_meredith@svvsd.org
@@ -15874,19 +15898,19 @@ Altona MS, Coal Ridge MS, Erie MS, Longs Peak MS, Mead MS, Sunset MS, Trail Ridg
 neessen_eric@svvsd.org
 Nathalie Tuhari-Katz
 Assistant Director of Special Education
-Aspen Ridge Preparatory, Firestone Charter Academy, Flagstaff Academy, St. Vrain Community Montessori, Soaring Heights, Thunder Valley, Timberline, Twin Peaks Charter Academy,
+Soaring Heights, Thunder Valley, Timberline, Frederick HS, Skyline HS
 303-702-7689
 tuharikatz_nathalie@svvsd.org
 Benjamin Yamato
 Assistant Director of Special Education
-Black Rock, Blue Mountain, Burlington, Eagle Crest, Grandview, Highlands, Indian Peaks, Longmont Estates, Niwot ES, Red Hawk,
+Black Rock, Blue Mountain, Burlington, Eagle Crest, Erie Elementary, Grandview, Highlands, Indian Peaks, Longmont Estates, Niwot ES, Red Hawk,
 303-702-7687
 yamato_benjamin@svvsd.org
-Stephanie Zechmann
+Amber Vanzant
 Assistant Director of Special Education
-Alpine, Centennial, Central, Columbine, Fall River, Hygiene, Legacy, Mountain View, Sanborn, Rocky Mountain,
+Central, Hygiene, Northridge, Alpine, Fall River, Rocky Mountain, Columbine, Mountain View, Burlington, Lyons Elementary
 303-702-7683
-zechmann_stephanie@svvsd.org
+vanzant_amber@svvsd.org
 Administrative Support
 Charity Dostal
 Executive Assistant to Laura Hess
@@ -19548,11 +19572,11 @@ District: E, Term: 2023 – 2029
 Contact: 303-817-9077 | gilligan_jocelyn@svvsd.org
 About: Jocelyn Gilligan brings a global perspective and deep financial expertise to her role on the St. Vrain Valley School District Board of Education, where she currently serves as Treasurer. After earning her B.S. in Finance from the University of Colorado, Jocelyn began her career with Ernst & Young in New York City, later expanding her work to Shanghai and Hong Kong. During this time, she earned both the Chartered Financial Analyst (CFA) and the Certificate in Investment Performance Measurement (CIPM) designations. Now based in Longmont, Colorado, Jocelyn and her husband co-founded a consulting firm that helps investment managers around the world comply with the Global Investment Performance Standards (GIPS®). Under her leadership, the firm has supported hundreds of investment firms in promoting transparency and integrity in financial reporting. Jocelyn also serves on the Board of Directors for High Plains Bank as Secretary and is a Board Member for the Women in Performance Measurement Network. In addition to her professional accomplishments, Jocelyn is an active community volunteer, previously serving on the Executive Board of the Central Elementary PTO and advocating for safer routes to schools. She and her husband are raising four children in Longmont who attend schools in the St. Vrain Valley School District. As both a parent and board member, she is committed to supporting educational excellence and responsible stewardship across the district.
 
-Member: Jim Berthold
+Member: Jacqueline
 Role: Vice President
-District: C, Term: 2019 – 2027
-Contact: 720-771-0605 | berthold_james@svvsd.org
-About: Jim Berthold was sworn in on November 14, 2019 for a four-year term on the Board. He retired from the Department of Justice in 2002 after 32 years. He is also a proud veteran. From 2009-2014, he served as Lead Driver for the SVVSD Transportation Department. Jim has participated in Leadership St. Vrain and Grassroots St. Vrain. Jim was born and raised in Pittsburgh, PA, and graduated with a B.A. in Economics from the University of Pittsburgh. Jim has lived in Longmont since 1993 and has two daughters who attended St. Vrain Valley Schools. He is committed to supporting the SVVSD Mission Statement “assuring that all students in the District have an equal opportunity to be educated in a safe learning environment so that they may develop to their highest potential and become contributing citizens.”
+District: A, Term: 2023 – 2027
+Contact: 206-596-1946 | weiss_jacqueline@svvsd.org
+About: Jacqueline joined the SVVSD school board in 2023. She serves to further the mission of SVVSD and due to her passion for providing the best public education to all students and supporting teachers and school employees. As a teacher of 12 years, she has firsthand experience with how policies and school board actions affect learning and school culture. Jacqueline’s expertise as a seasoned and celebrated classroom teacher, her reputation in her community, and her desire to serve her community without ulterior motives drive her experience as an SVVSD school board member. Jacqueline is a lifelong learner who is zealous about the power of education and the importance of equal access for all students. After earning her Bachelor of Arts in Music and Master of Arts in Teaching from Colorado College, Jacqueline taught at numerous schools in K-12 and middle school positions as a band, choir, general music teacher, music director, and department head. She also served her students as a district championship-winning soccer coach, grade-level advisor, and sponsor of various after-school clubs and programs. Throughout her 12-year career in the classroom, she served on several leadership committees to provide the best possible education to all students while advocating for more robust resources for schools and teachers. In her time in the classroom, Jacqueline was recognized for excellence as an educator with several awards, most recently, Teacher of The Year for the 2021-2022 school year at Sunset Middle School in the St. Vrain Valley School District. Jacqueline is a full-time mother to her young daughter, a member of the Longmont Concert Band, and serves on the Lyons Urban Renewal Authority Board. She enjoys spending time with her family, friends, and dogs, listening to, seeing, or performing music, doing all the ‘outdoorsy’ Colorado things (hiking, mountain biking, skiing, running, backpacking, fishing, gardening), cooking, reading, and enjoying all that our incredible surroundings have to offer.
 
 Member: Sarah Hurianek
 Role: Secretary
@@ -19560,21 +19584,19 @@ District: F, Term: 2021 – 2029
 Contact: 303-217-1011 | hurianek_sarah@svvsd.org
 About: Sarah Hurianek was sworn in on December 1, 2021 for a four-year term on the Board. Sarah grew up in upstate New York and moved to Colorado in 1993. She graduated from Skyline High School and has worked in early childhood education for over 20 years. She and her husband live in Mead where their two children attend St. Vrain Valley Schools. Sarah is involved with the Mead Parent Advisory Committee and serves as the Spring Fundraiser’s Chair. She also served as a guardian with the High Plains Honor Flight, a program that supports local veterans. Sarah is committed to supporting the district’s forward progress.
 
-Member: Jacqueline
-Role: Treasurer
-District: A, Term: 2023 – 2027
-Contact: 206-596-1946 | weiss_jacqueline@svvsd.org
-About: Jacqueline joined the SVVSD school board in 2023. She serves to further the mission of SVVSD and due to her passion for providing the best public education to all students and supporting teachers and school employees. As a teacher of 12 years, she has firsthand experience with how policies and school board actions affect learning and school culture. Jacqueline’s expertise as a seasoned and celebrated classroom teacher, her reputation in her community, and her desire to serve her community without ulterior motives drive her experience as an SVVSD school board member. Jacqueline is a lifelong learner who is zealous about the power of education and the importance of equal access for all students. After earning her Bachelor of Arts in Music and Master of Arts in Teaching from Colorado College, Jacqueline taught at numerous schools in K-12 and middle school positions as a band, choir, general music teacher, music director, and department head. She also served her students as a district championship-winning soccer coach, grade-level advisor, and sponsor of various after-school clubs and programs. Throughout her 12-year career in the classroom, she served on several leadership committees to provide the best possible education to all students while advocating for more robust resources for schools and teachers. In her time in the classroom, Jacqueline was recognized for excellence as an educator with several awards, most recently, Teacher of The Year for the 2021-2022 school year at Sunset Middle School in the St. Vrain Valley School District. Jacqueline is a full-time mother to her young daughter, a member of the Longmont Concert Band, and serves on the Lyons Urban Renewal Authority Board. She enjoys spending time with her family, friends, and dogs, listening to, seeing, or performing music, doing all the ‘outdoorsy’ Colorado things (hiking, mountain biking, skiing, running, backpacking, fishing, gardening), cooking, reading, and enjoying all that our incredible surroundings have to offer.
-
 Member: Geno Lechuga
 Role: Assistant Secretary
 District: G, Term: 2023 – 2027
 Contact: 303-775-8103 | lechuga_geno@svvsd.org
-About: Geno was appointed to the SVVSD Board in November 2023. He and his wife Caitlin and their two children (Dante and Ava) live in Firestone. Since 2007, Geno has been a youth football and basketball coach at the High School, Middle School, and Elementary School levels. To add, him and his family coordinated, organized, and ran a reduced cost kids sports camp for the last eight years. The Lechuga family along with several businesses and volunteers of the Tri-Town community have touched the lives of over 2000 kids through this volunteer effort. Geno is also a motivational speaker for the youth. He has spoken at schools and churches around the state. His passion and mission is to serve and be a value for the leaders of tomorrow. Geno holds a BA in Business from the University of Northern Colorado and, having lived in Mexico City in 2001, is bilingual in Spanish and English. Geno spent significant time overseas working as a civilian for the Department of Defense, and was stationed in La Maddalena, Italy at one point. However, since 2008, Geno has worked in the Safety Industry and is a Director of Sales for a world class brand in this sector. Geno and his wife of 20 years both graduated from Lyons High School, and continue to serve their community. Geno hasn’t fully stepped away from youth sports, you can find him at the Frederick High School basketball games as the Public Announcer for all home varsity games. Member Meosha Babbs District: D, Term: 2021 – 2029
-Contact: 832-971-8062 | babbs_meosha@svvsd.org
-About: MEMBER Hadley Solomon District: B, Term 2025 – 2029
+About: Geno was appointed to the SVVSD Board in November 2023. He and his wife Caitlin and their two children (Dante and Ava) live in Firestone. Since 2007, Geno has been a youth football and basketball coach at the High School, Middle School, and Elementary School levels. To add, him and his family coordinated, organized, and ran a reduced cost kids sports camp for the last eight years. The Lechuga family along with several businesses and volunteers of the Tri-Town community have touched the lives of over 2000 kids through this volunteer effort. Geno is also a motivational speaker for the youth. He has spoken at schools and churches around the state. His passion and mission is to serve and be a value for the leaders of tomorrow. Geno holds a BA in Business from the University of Northern Colorado and, having lived in Mexico City in 2001, is bilingual in Spanish and English. Geno spent significant time overseas working as a civilian for the Department of Defense, and was stationed in La Maddalena, Italy at one point. However, since 2008, Geno has worked in the Safety Industry and is a Director of Sales for a world class brand in this sector. Geno and his wife of 20 years both graduated from Lyons High School, and continue to serve their community. Geno hasn’t fully stepped away from youth sports, you can find him at the Frederick High School basketball games as the Public Announcer for all home varsity games.
+
+Member: Hadley Solomon
+Role: treasurer
+District: B, Term 2025 – 2029
 Contact: 303-870-2241 | solomon_hadley@svvsd.org
-About: Hadley Solomon was sworn into the St. Vrain Valley School District Board, District B seat, on December 3rd, 2025. She holds a lifelong belief that education can change lives. To her, it is the great equalizer, giving every child the foundation to think critically, build a good life, and connect with others. Hadley also believes that strong public schools are the heart of a strong community. She grew up in Colorado and is a mother of four children who have all attended SVVSD schools. As President of Niwot Elementary PTAC and Sunset Middle School PAC, and the Online Auction Chair for the Niwot High School Education Foundation, Hadley worked to strengthen school-family partnerships. She also served as President of Grassroots St. Vrain, where she worked to educate the community and advocated for fair funding for public schools. In this role, she supported the passage of the 2016 bond and spoke at the Capitol to push for equitable funding for Colorado students. After obtaining a BA in Journalism at the University of Arizona, Hadley built a career focused on solving problems. Today, she helps companies grow strong, effective teams, and she will bring these same problem-solving and communication skills to support the district’s schools. Outside of work, Hadley enjoys cooking, reading, knitting, traveling, and spending time outdoors with her family.
+About: Hadley Solomon was sworn into the St. Vrain Valley School District Board, District B seat, on December 3rd, 2025. She holds a lifelong belief that education can change lives. To her, it is the great equalizer, giving every child the foundation to think critically, build a good life, and connect with others. Hadley also believes that strong public schools are the heart of a strong community. She grew up in Colorado and is a mother of four children who have all attended SVVSD schools. As President of Niwot Elementary PTAC and Sunset Middle School PAC, and the Online Auction Chair for the Niwot High School Education Foundation, Hadley worked to strengthen school-family partnerships. She also served as President of Grassroots St. Vrain, where she worked to educate the community and advocated for fair funding for public schools. In this role, she supported the passage of the 2016 bond and spoke at the Capitol to push for equitable funding for Colorado students. After obtaining a BA in Journalism at the University of Arizona, Hadley built a career focused on solving problems. Today, she helps companies grow strong, effective teams, and she will bring these same problem-solving and communication skills to support the district’s schools. Outside of work, Hadley enjoys cooking, reading, knitting, traveling, and spending time outdoors with her family. Member Meosha Babbs District: D, Term: 2021 – 2029
+Contact: 832-971-8062 | babbs_meosha@svvsd.org
+About: Member Annie Larner District: C, Term: 2026 – 2027 About Annie Larner was appointed to the St. Vrain Valley Schools Board of Education to represent Director District C in November of 2026. Annie grew up in Longmont and attended St. Vrain Valley Schools from elementary through high school. Her mother spent her career as a literacy paraprofessional in the district, and Annie’s two sons now attend St. Vrain schools. Annie studied at the University of Colorado Boulder, where she earned a B.A. in Communication and Germanic Studies and was as scholar of the Presidents Leadership Class. She is a commercial real estate broker with Market Real Estate, where she helps businesses and individuals in northern Colorado navigate complex sales and leasing transactions. Before real estate, she spent more than a decade in marketing, communications, and community engagement, and running a small businesses. Known for her genuine connections and entrepreneurial spirit, Annie is deeply rooted in the Longmont community. She mentors students in Longmont High School’s P-TECH program, volunteers with her church, and co-hosts SideDish Longmont, a podcast about local news, business, and civic life. She also founded the Saint Vrain Chorus, an auditioned community choir based in Longmont. In her leisure time, she enjoys traveling with her family, playing board games, and relaxing on her back patio. Annie believes a strong public school district is the backbone of a thriving community, and she is committed to ensuring St. Vrain’s success reaches every student in every school.
 
 Source: https://www.svvsd.org/about/board-of-education/
 
@@ -20323,7 +20345,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-36 KB
+28 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students
@@ -20629,15 +20651,15 @@ Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
-Board of Education Regular Meeting
-November 11, 2026
 Board of Education Study Session
+November 11, 2026
+Board of Education Regular Meeting
 November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Study Session
-October 28, 2026
 Board of Education Regular Meeting
+October 28, 2026
+Board of Education Study Session
 October 28, 2026
 Joint Meeting with Longmont City Council
 October 21, 2026
@@ -20833,15 +20855,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-121/
 
-### Board of Education Regular Meeting
-
-- Meeting date: November 11, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
-
 ### Board of Education Study Session
 
 - Meeting date: November 11, 2026
@@ -20850,6 +20863,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+### Board of Education Regular Meeting
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
 
 ### Board of Education Member Events for November
 
@@ -20860,15 +20882,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
 
-### Board of Education Study Session
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: October 28, 2026
@@ -20877,6 +20890,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
+
+### Board of Education Study Session
+
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
 ### Joint Meeting with Longmont City Council
 
@@ -21581,6 +21603,7 @@ District Financial Audits
 The District is audited annually on its financial performance. National independent auditing firm of CliftonLarsonAllen LLP provided financial services to the District since fiscal year 2019.
 Annual Comprehensive Financial Report
 The Annual Comprehensive Financial Report (ACFR) is mandated by both local policy and state statutes. These policies and statutes require that the District issue an annual report on its financial position and activity, and that the financial statements be audited by an independent firm of certified public accountants.
+Annual Comprehensive Financial Report, Year Ended June 30, 2026
 Annual Comprehensive Financial Report, Year Ended June 30, 2025
 Annual Comprehensive Financial Report, Year Ended June 30, 2024
 Annual Comprehensive Financial Report, Year Ended June 30, 2023
@@ -21632,6 +21655,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 
 Financial Data File
 The FY25-26 data file is required to be posted no later than March 1, 2027.
+Fiscal Year 2025-2026
 Fiscal Year 2024-2025
 Fiscal Year 2023-2024
 Fiscal Year 2022-2023
@@ -21844,7 +21868,10 @@ February
 March
 April
 May
-June (the Annual Comprehensive Financial Report, Year Ended June 30, 2026, will be posted in place of a monthly financial report and is expected to be presented to the Board on October 28th)
+June (the
+Annual Comprehensive Financial Report, Year Ended June 30, 2026
+, is presented in place of a monthly financial report)
+July – September
 2025
 January
 February

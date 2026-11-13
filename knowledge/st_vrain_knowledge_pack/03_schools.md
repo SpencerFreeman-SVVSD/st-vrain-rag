@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-12T09:45:55.868411-07:00
+generated_at: 2026-11-13T09:14:08.479858-07:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -505,23 +505,24 @@ Middle
 Grades 9–12
 High
 Area 1 Schools
-Douglas Bissonette
-Area Assistant Superintendent – Area 1
+Dina Perfetti-Deany, Ed.D.
+Chief of School Leadership
 Adrienne Pequeen
 Executive Administrative Assistant
 pequeen_adrienne@svvsd.org
 303-702-7548
-bissonette_douglas@svvsd.org
-Frederick Feeder
-Frederick High School
-Coal Ridge Middle School
-*
-Thunder Valley K-8
-Centennial Elementary School
-*
-Legacy Elementary School
-Prairie Ridge Elementary School
-Spark! Discovery Preschool
+perfettideany_dina@svvsd.org
+Erie Feeder
+Colliers Hill Elementary School,
+Opening Fall 2027
+Erie High School
+Erie Middle School
+Black Rock Elementary School
+Erie Elementary School
+Red Hawk Elementary School
+Grand View Elementary School
+Soaring Heights PK-8
+Highlands Elementary
 Area 2 Schools
 Matt Buchler
 Area Assistant Superintendent – Area 2
@@ -539,40 +540,19 @@ Hygiene Elementary School
 Mountain View Elementary School
 Northridge Elementary School
 Sanborn Elementary School
-Silver Creek Feeder
-Silver Creek High School
-Altona Middle School
-Blue Mountain Elementary School
-Eagle Crest Elementary School
-Longmont Estates Elementary School*
+Frederick Feeder
+Frederick High School
+Coal Ridge Middle School
+*
+Thunder Valley K-8
+Centennial Elementary School
+*
+Legacy Elementary School
+Prairie Ridge Elementary School
+Spark! Discovery Preschool
 Area 3 Schools
-Dina Perfetti-Deany, Ed.D.
-Chief of School Leadership
-Adrienne Pequeen
-Executive Administrative Assistant
-pequeen_adrienne@svvsd.org
-303-702-7548
-perfettideany_dina@svvsd.org
-Erie Feeder
-Elementary 29
-Our New PK-5 School in Erie’s Collier Hill Neighborhood, Opening Fall 2027
-Erie High School
-Erie Middle School
-Black Rock Elementary School
-Erie Elementary School
-Red Hawk Elementary School
-Grand View Elementary School
-Soaring Heights PK-8
-Highlands Elementary
-Niwot Feeder
-Niwot High School
-Sunset Middle School
-Burlington Elementary School
-Indian Peaks Elementary School
-Niwot Elementary School
-Area 4 Schools
 Karla Allenbach
-Area Assistant Superintendent – Area 4
+Area Assistant Superintendent – Area 3
 Adrienne Pequeen
 Executive Administrative Assistant
 pequeen_adrienne@svvsd.org
@@ -591,6 +571,26 @@ Alpine Elementary School
 Columbine Elementary
 Fall River Elementary School
 Rocky Mountain Elementary School
+Area 4 Schools
+Russell Fox, Ed.D.
+Executive Director of School Leadership
+Adrienne Pequeen
+Executive Administrative Assistant
+pequeen_adrienne@svvsd.org
+303-702-7546
+fox_russell@svvsd.org
+Silver Creek Feeder
+Silver Creek High School
+Altona Middle School
+Blue Mountain Elementary School
+Eagle Crest Elementary School
+Longmont Estates Elementary School*
+Niwot Feeder
+Niwot High School
+Sunset Middle School
+Burlington Elementary School
+Indian Peaks Elementary School
+Niwot Elementary School
 Area 5 Schools
 Kerri McDermid, Ed.D.
 Chief of Staff and Strategic Priorities

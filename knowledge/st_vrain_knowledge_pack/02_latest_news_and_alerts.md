@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-12T09:45:55.868411-07:00
+generated_at: 2026-11-13T09:14:08.479858-07:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -72,16 +72,19 @@ Source: https://www.svvsd.org/2026/11/10/a-new-era-for-skyline-athletics/
 - Source URL: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
 
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
-Registration Timeline:
-Continuity of Care pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees.
-General registration opens Dec. 8, 2026.
-The Colorado Universal Preschool application is included in St. Vrain’s application form and families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
+St. Vrain Valley Schools Preschool Application:
+Dec. 1, 2026: The district preschool application opens Dec. 1, 2026 for all families, including those applying for tuition-based preschool for their 3-year-old.
+Colorado Universal Preschool (UPK) Application
+:
+Children must be
+4 years old on or before Oct. 1, 2027
+, to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application. Families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
+Universal Preschool (UPK) Registration Timeline:
+UPK
+continuity of care
+pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees. Families must identify their school of choice in their application.
+UPK general registration opens Dec. 8, 2026.
 2027-28 Preschool Registration Information and Locations
-Universal Preschool Information:
-Colorado’s Universal Preschool (UPK) program provides free preschool for children who will be four-years-old on or before Oct 1 of the school year they are enrolling. Through UPK, families can receive up to 15 hours a week of state-funded preschool, with the option to add more hours through tuition.
-General UPK Information
-UPK – FAQ
-UPK Qualifying Factors
 Registration Process Support Sessions:
 Open house events will be available to support families with the
 2027

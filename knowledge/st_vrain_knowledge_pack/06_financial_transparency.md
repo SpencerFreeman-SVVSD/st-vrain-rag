@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-12T09:45:55.868411-07:00
+generated_at: 2026-11-13T09:14:08.479858-07:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -59,6 +59,7 @@ District Financial Audits
 The District is audited annually on its financial performance. National independent auditing firm of CliftonLarsonAllen LLP provided financial services to the District since fiscal year 2019.
 Annual Comprehensive Financial Report
 The Annual Comprehensive Financial Report (ACFR) is mandated by both local policy and state statutes. These policies and statutes require that the District issue an annual report on its financial position and activity, and that the financial statements be audited by an independent firm of certified public accountants.
+Annual Comprehensive Financial Report, Year Ended June 30, 2026
 Annual Comprehensive Financial Report, Year Ended June 30, 2025
 Annual Comprehensive Financial Report, Year Ended June 30, 2024
 Annual Comprehensive Financial Report, Year Ended June 30, 2023
@@ -110,6 +111,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 
 Financial Data File
 The FY25-26 data file is required to be posted no later than March 1, 2027.
+Fiscal Year 2025-2026
 Fiscal Year 2024-2025
 Fiscal Year 2023-2024
 Fiscal Year 2022-2023
@@ -322,7 +324,10 @@ February
 March
 April
 May
-June (the Annual Comprehensive Financial Report, Year Ended June 30, 2026, will be posted in place of a monthly financial report and is expected to be presented to the Board on October 28th)
+June (the
+Annual Comprehensive Financial Report, Year Ended June 30, 2026
+, is presented in place of a monthly financial report)
+July – September
 2025
 January
 February

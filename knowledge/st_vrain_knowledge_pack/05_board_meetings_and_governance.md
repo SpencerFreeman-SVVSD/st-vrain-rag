@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-12T09:45:55.868411-07:00
+generated_at: 2026-11-13T09:14:08.479858-07:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -17,11 +17,11 @@ District: E, Term: 2023 – 2029
 Contact: 303-817-9077 | gilligan_jocelyn@svvsd.org
 About: Jocelyn Gilligan brings a global perspective and deep financial expertise to her role on the St. Vrain Valley School District Board of Education, where she currently serves as Treasurer. After earning her B.S. in Finance from the University of Colorado, Jocelyn began her career with Ernst & Young in New York City, later expanding her work to Shanghai and Hong Kong. During this time, she earned both the Chartered Financial Analyst (CFA) and the Certificate in Investment Performance Measurement (CIPM) designations. Now based in Longmont, Colorado, Jocelyn and her husband co-founded a consulting firm that helps investment managers around the world comply with the Global Investment Performance Standards (GIPS®). Under her leadership, the firm has supported hundreds of investment firms in promoting transparency and integrity in financial reporting. Jocelyn also serves on the Board of Directors for High Plains Bank as Secretary and is a Board Member for the Women in Performance Measurement Network. In addition to her professional accomplishments, Jocelyn is an active community volunteer, previously serving on the Executive Board of the Central Elementary PTO and advocating for safer routes to schools. She and her husband are raising four children in Longmont who attend schools in the St. Vrain Valley School District. As both a parent and board member, she is committed to supporting educational excellence and responsible stewardship across the district.
 
-Member: Jim Berthold
+Member: Jacqueline
 Role: Vice President
-District: C, Term: 2019 – 2027
-Contact: 720-771-0605 | berthold_james@svvsd.org
-About: Jim Berthold was sworn in on November 14, 2019 for a four-year term on the Board. He retired from the Department of Justice in 2002 after 32 years. He is also a proud veteran. From 2009-2014, he served as Lead Driver for the SVVSD Transportation Department. Jim has participated in Leadership St. Vrain and Grassroots St. Vrain. Jim was born and raised in Pittsburgh, PA, and graduated with a B.A. in Economics from the University of Pittsburgh. Jim has lived in Longmont since 1993 and has two daughters who attended St. Vrain Valley Schools. He is committed to supporting the SVVSD Mission Statement “assuring that all students in the District have an equal opportunity to be educated in a safe learning environment so that they may develop to their highest potential and become contributing citizens.”
+District: A, Term: 2023 – 2027
+Contact: 206-596-1946 | weiss_jacqueline@svvsd.org
+About: Jacqueline joined the SVVSD school board in 2023. She serves to further the mission of SVVSD and due to her passion for providing the best public education to all students and supporting teachers and school employees. As a teacher of 12 years, she has firsthand experience with how policies and school board actions affect learning and school culture. Jacqueline’s expertise as a seasoned and celebrated classroom teacher, her reputation in her community, and her desire to serve her community without ulterior motives drive her experience as an SVVSD school board member. Jacqueline is a lifelong learner who is zealous about the power of education and the importance of equal access for all students. After earning her Bachelor of Arts in Music and Master of Arts in Teaching from Colorado College, Jacqueline taught at numerous schools in K-12 and middle school positions as a band, choir, general music teacher, music director, and department head. She also served her students as a district championship-winning soccer coach, grade-level advisor, and sponsor of various after-school clubs and programs. Throughout her 12-year career in the classroom, she served on several leadership committees to provide the best possible education to all students while advocating for more robust resources for schools and teachers. In her time in the classroom, Jacqueline was recognized for excellence as an educator with several awards, most recently, Teacher of The Year for the 2021-2022 school year at Sunset Middle School in the St. Vrain Valley School District. Jacqueline is a full-time mother to her young daughter, a member of the Longmont Concert Band, and serves on the Lyons Urban Renewal Authority Board. She enjoys spending time with her family, friends, and dogs, listening to, seeing, or performing music, doing all the ‘outdoorsy’ Colorado things (hiking, mountain biking, skiing, running, backpacking, fishing, gardening), cooking, reading, and enjoying all that our incredible surroundings have to offer.
 
 Member: Sarah Hurianek
 Role: Secretary
@@ -29,21 +29,19 @@ District: F, Term: 2021 – 2029
 Contact: 303-217-1011 | hurianek_sarah@svvsd.org
 About: Sarah Hurianek was sworn in on December 1, 2021 for a four-year term on the Board. Sarah grew up in upstate New York and moved to Colorado in 1993. She graduated from Skyline High School and has worked in early childhood education for over 20 years. She and her husband live in Mead where their two children attend St. Vrain Valley Schools. Sarah is involved with the Mead Parent Advisory Committee and serves as the Spring Fundraiser’s Chair. She also served as a guardian with the High Plains Honor Flight, a program that supports local veterans. Sarah is committed to supporting the district’s forward progress.
 
-Member: Jacqueline
-Role: Treasurer
-District: A, Term: 2023 – 2027
-Contact: 206-596-1946 | weiss_jacqueline@svvsd.org
-About: Jacqueline joined the SVVSD school board in 2023. She serves to further the mission of SVVSD and due to her passion for providing the best public education to all students and supporting teachers and school employees. As a teacher of 12 years, she has firsthand experience with how policies and school board actions affect learning and school culture. Jacqueline’s expertise as a seasoned and celebrated classroom teacher, her reputation in her community, and her desire to serve her community without ulterior motives drive her experience as an SVVSD school board member. Jacqueline is a lifelong learner who is zealous about the power of education and the importance of equal access for all students. After earning her Bachelor of Arts in Music and Master of Arts in Teaching from Colorado College, Jacqueline taught at numerous schools in K-12 and middle school positions as a band, choir, general music teacher, music director, and department head. She also served her students as a district championship-winning soccer coach, grade-level advisor, and sponsor of various after-school clubs and programs. Throughout her 12-year career in the classroom, she served on several leadership committees to provide the best possible education to all students while advocating for more robust resources for schools and teachers. In her time in the classroom, Jacqueline was recognized for excellence as an educator with several awards, most recently, Teacher of The Year for the 2021-2022 school year at Sunset Middle School in the St. Vrain Valley School District. Jacqueline is a full-time mother to her young daughter, a member of the Longmont Concert Band, and serves on the Lyons Urban Renewal Authority Board. She enjoys spending time with her family, friends, and dogs, listening to, seeing, or performing music, doing all the ‘outdoorsy’ Colorado things (hiking, mountain biking, skiing, running, backpacking, fishing, gardening), cooking, reading, and enjoying all that our incredible surroundings have to offer.
-
 Member: Geno Lechuga
 Role: Assistant Secretary
 District: G, Term: 2023 – 2027
 Contact: 303-775-8103 | lechuga_geno@svvsd.org
-About: Geno was appointed to the SVVSD Board in November 2023. He and his wife Caitlin and their two children (Dante and Ava) live in Firestone. Since 2007, Geno has been a youth football and basketball coach at the High School, Middle School, and Elementary School levels. To add, him and his family coordinated, organized, and ran a reduced cost kids sports camp for the last eight years. The Lechuga family along with several businesses and volunteers of the Tri-Town community have touched the lives of over 2000 kids through this volunteer effort. Geno is also a motivational speaker for the youth. He has spoken at schools and churches around the state. His passion and mission is to serve and be a value for the leaders of tomorrow. Geno holds a BA in Business from the University of Northern Colorado and, having lived in Mexico City in 2001, is bilingual in Spanish and English. Geno spent significant time overseas working as a civilian for the Department of Defense, and was stationed in La Maddalena, Italy at one point. However, since 2008, Geno has worked in the Safety Industry and is a Director of Sales for a world class brand in this sector. Geno and his wife of 20 years both graduated from Lyons High School, and continue to serve their community. Geno hasn’t fully stepped away from youth sports, you can find him at the Frederick High School basketball games as the Public Announcer for all home varsity games. Member Meosha Babbs District: D, Term: 2021 – 2029
-Contact: 832-971-8062 | babbs_meosha@svvsd.org
-About: MEMBER Hadley Solomon District: B, Term 2025 – 2029
+About: Geno was appointed to the SVVSD Board in November 2023. He and his wife Caitlin and their two children (Dante and Ava) live in Firestone. Since 2007, Geno has been a youth football and basketball coach at the High School, Middle School, and Elementary School levels. To add, him and his family coordinated, organized, and ran a reduced cost kids sports camp for the last eight years. The Lechuga family along with several businesses and volunteers of the Tri-Town community have touched the lives of over 2000 kids through this volunteer effort. Geno is also a motivational speaker for the youth. He has spoken at schools and churches around the state. His passion and mission is to serve and be a value for the leaders of tomorrow. Geno holds a BA in Business from the University of Northern Colorado and, having lived in Mexico City in 2001, is bilingual in Spanish and English. Geno spent significant time overseas working as a civilian for the Department of Defense, and was stationed in La Maddalena, Italy at one point. However, since 2008, Geno has worked in the Safety Industry and is a Director of Sales for a world class brand in this sector. Geno and his wife of 20 years both graduated from Lyons High School, and continue to serve their community. Geno hasn’t fully stepped away from youth sports, you can find him at the Frederick High School basketball games as the Public Announcer for all home varsity games.
+
+Member: Hadley Solomon
+Role: treasurer
+District: B, Term 2025 – 2029
 Contact: 303-870-2241 | solomon_hadley@svvsd.org
-About: Hadley Solomon was sworn into the St. Vrain Valley School District Board, District B seat, on December 3rd, 2025. She holds a lifelong belief that education can change lives. To her, it is the great equalizer, giving every child the foundation to think critically, build a good life, and connect with others. Hadley also believes that strong public schools are the heart of a strong community. She grew up in Colorado and is a mother of four children who have all attended SVVSD schools. As President of Niwot Elementary PTAC and Sunset Middle School PAC, and the Online Auction Chair for the Niwot High School Education Foundation, Hadley worked to strengthen school-family partnerships. She also served as President of Grassroots St. Vrain, where she worked to educate the community and advocated for fair funding for public schools. In this role, she supported the passage of the 2016 bond and spoke at the Capitol to push for equitable funding for Colorado students. After obtaining a BA in Journalism at the University of Arizona, Hadley built a career focused on solving problems. Today, she helps companies grow strong, effective teams, and she will bring these same problem-solving and communication skills to support the district’s schools. Outside of work, Hadley enjoys cooking, reading, knitting, traveling, and spending time outdoors with her family.
+About: Hadley Solomon was sworn into the St. Vrain Valley School District Board, District B seat, on December 3rd, 2025. She holds a lifelong belief that education can change lives. To her, it is the great equalizer, giving every child the foundation to think critically, build a good life, and connect with others. Hadley also believes that strong public schools are the heart of a strong community. She grew up in Colorado and is a mother of four children who have all attended SVVSD schools. As President of Niwot Elementary PTAC and Sunset Middle School PAC, and the Online Auction Chair for the Niwot High School Education Foundation, Hadley worked to strengthen school-family partnerships. She also served as President of Grassroots St. Vrain, where she worked to educate the community and advocated for fair funding for public schools. In this role, she supported the passage of the 2016 bond and spoke at the Capitol to push for equitable funding for Colorado students. After obtaining a BA in Journalism at the University of Arizona, Hadley built a career focused on solving problems. Today, she helps companies grow strong, effective teams, and she will bring these same problem-solving and communication skills to support the district’s schools. Outside of work, Hadley enjoys cooking, reading, knitting, traveling, and spending time outdoors with her family. Member Meosha Babbs District: D, Term: 2021 – 2029
+Contact: 832-971-8062 | babbs_meosha@svvsd.org
+About: Member Annie Larner District: C, Term: 2026 – 2027 About Annie Larner was appointed to the St. Vrain Valley Schools Board of Education to represent Director District C in November of 2026. Annie grew up in Longmont and attended St. Vrain Valley Schools from elementary through high school. Her mother spent her career as a literacy paraprofessional in the district, and Annie’s two sons now attend St. Vrain schools. Annie studied at the University of Colorado Boulder, where she earned a B.A. in Communication and Germanic Studies and was as scholar of the Presidents Leadership Class. She is a commercial real estate broker with Market Real Estate, where she helps businesses and individuals in northern Colorado navigate complex sales and leasing transactions. Before real estate, she spent more than a decade in marketing, communications, and community engagement, and running a small businesses. Known for her genuine connections and entrepreneurial spirit, Annie is deeply rooted in the Longmont community. She mentors students in Longmont High School’s P-TECH program, volunteers with her church, and co-hosts SideDish Longmont, a podcast about local news, business, and civic life. She also founded the Saint Vrain Chorus, an auditioned community choir based in Longmont. In her leisure time, she enjoys traveling with her family, playing board games, and relaxing on her back patio. Annie believes a strong public school district is the backbone of a thriving community, and she is committed to ensuring St. Vrain’s success reaches every student in every school.
 
 Source: https://www.svvsd.org/about/board-of-education/
 
@@ -792,7 +790,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-36 KB
+28 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students
@@ -1098,15 +1096,15 @@ Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
-Board of Education Regular Meeting
-November 11, 2026
 Board of Education Study Session
+November 11, 2026
+Board of Education Regular Meeting
 November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Study Session
-October 28, 2026
 Board of Education Regular Meeting
+October 28, 2026
+Board of Education Study Session
 October 28, 2026
 Joint Meeting with Longmont City Council
 October 21, 2026
@@ -1302,15 +1300,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-121/
 
-### Board of Education Regular Meeting
-
-- Meeting date: November 11, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
-
 ### Board of Education Study Session
 
 - Meeting date: November 11, 2026
@@ -1319,6 +1308,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+### Board of Education Regular Meeting
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
 
 ### Board of Education Member Events for November
 
@@ -1329,15 +1327,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
 
-### Board of Education Study Session
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: October 28, 2026
@@ -1346,6 +1335,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
+
+### Board of Education Study Session
+
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
 ### Joint Meeting with Longmont City Council
 
