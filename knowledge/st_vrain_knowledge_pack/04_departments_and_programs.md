@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-13T09:14:08.479858-07:00
+generated_at: 2026-11-14T07:59:30.444593-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -7440,8 +7440,8 @@ Blue Mountain Elementary
 Morning session (8:45-11:45 a.m.)
 Afternoon session (12:30-3:30 p.m.)
 Burlington Elementary
-Morning session (8:25-11:05 a.m.)
-Afternoon session (12:20-3:00 p.m.)
+Morning session (8:25-11:25 a.m.)
+Afternoon session (12:10-3:10 p.m.)
 Central Elementary
 Morning session (8:35-11:15 a.m.)
 Afternoon session (12:20-3:00 p.m.)
@@ -13091,6 +13091,8 @@ Refunds:
 You have 24 hours after the course start date to request a refund.
 Learn more
 Upcoming Events & Opportunities
+.
+Click here for more information and to register!
 Please check out our online catalog for Professional Development sessions open for registration.
 Check out our PD Catalog Here
 Join the Conversation
