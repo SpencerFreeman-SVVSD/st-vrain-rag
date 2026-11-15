@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-14T07:59:30.444593-07:00
+generated_at: 2026-11-15T08:37:04.071854-07:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -9,7 +9,7 @@ section_title: Board meetings and governance
 ### Board of Education
 
 - Canonical URL: https://www.svvsd.org/about/board-of-education/
-- Last modified: 2026-06-03T12:11:31-06:00
+- Last modified: 2026-11-12T14:47:21-07:00
 
 Member: Jocelyn Gilligan
 Role: President
@@ -790,7 +790,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-28 KB
+36 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students
@@ -1096,15 +1096,15 @@ Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
-Board of Education Study Session
-November 11, 2026
 Board of Education Regular Meeting
+November 11, 2026
+Board of Education Study Session
 November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Regular Meeting
-October 28, 2026
 Board of Education Study Session
+October 28, 2026
+Board of Education Regular Meeting
 October 28, 2026
 Joint Meeting with Longmont City Council
 October 21, 2026
@@ -1300,15 +1300,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-121/
 
-### Board of Education Study Session
-
-- Meeting date: November 11, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: November 11, 2026
@@ -1317,6 +1308,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
+
+### Board of Education Study Session
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
 
 ### Board of Education Member Events for November
 
@@ -1327,15 +1327,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
 
-### Board of Education Regular Meeting
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
-
 ### Board of Education Study Session
 
 - Meeting date: October 28, 2026
@@ -1344,6 +1335,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
+
+### Board of Education Regular Meeting
+
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 ### Joint Meeting with Longmont City Council
 

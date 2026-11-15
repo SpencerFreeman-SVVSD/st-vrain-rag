@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-14T07:59:30.444593-07:00
+generated_at: 2026-11-15T08:37:04.071854-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -1448,21 +1448,93 @@ The following questions can be discussed at home as an extension of each Durable
 Self-Aware Leader
 What made you feel happy or proud today?
 What was hard today, and what helped you keep trying?
+Everyday opportunities to practice with your
+elementary
+student:
+Decide how to respond when frustrated, disappointed, or upset with a sibling.
+Share something they are proud of or something they have learned to do well.
+Talk about something that did not go as planned and what they might try differently next time.
+Everyday opportunities to practice with your
+middle school
+student:
+Think about a recent decision and how it affected themselves and others.
+Check in with a parent or trusted adult about a personal strength or an area they want to improve.
+Acknowledge when they make a mistake, apologize when appropriate, and work to make things right.
 Critical Thinker & Innovator
 What is something you wonder about?
 What are different ways we could solve a problem?
+Everyday opportunities to practice with your
+elementary
+student:
+Figure out how to organize toys, make room for something new, or solve a small problem around the house.
+Help prepare a meal and think about what could be changed if a recipe does not turn out as expected.
+Create a new game, build something with household materials, or find a way to make an everyday task easier.
+Everyday opportunities to practice with your
+middle school
+student:
+Identify a household challenge and propose a solution, such as improving a shared space or reducing food waste.
+Choose a meal, consider dietary needs and preferences, plan ingredients, and adjust based on the available budget.
+Try different strategies to fix a problem before asking someone else to solve it.
 Global Citizen
 How did you show respect today?
 How could we help someone this week?
+Everyday opportunities to practice with your
+elementary
+student:
+Help clean up a park, playground, neighborhood, or other community space.
+Sort recycling, turn off unused lights, conserve water, or help care for a garden.
+Welcome someone new, include a sibling or friend in an activity, or make sure others feel they belong.
+Everyday opportunities to practice with your
+middle school
+student:
+Learn about a local need or concern and identify a way to help.
+Participate in a community service project, volunteer opportunity, or neighborhood initiative.
+Learn about an issue from multiple viewpoints and discuss why people may see it differently.
 Collaborative Team Player
 What makes someone a good teammate?
 How can we give everyone a chance to share?
+Everyday opportunities to practice with your
+elementary
+student:
+Practice listening, taking turns explaining their ideas, and finding a solution with a sibling.
+Help a sibling or family member clean a room, prepare dinner, or complete a project.
+Share ideas and listen to others when deciding on a family activity or meal.
+Everyday opportunities to practice with your
+middle school
+student:
+Work with siblings or family members to plan and complete a household project.
+Help a younger sibling with homework, practice a skill, or learn something new without simply doing it for them.
+Help plan a trip, celebration, or weekend activity by gathering ideas and finding common ground.
 Effective Communicator
 How can we show that we are listening?
 What can we do when we disagree?
+Everyday opportunities to practice with your
+elementary
+student:
+Use kind words, say please and thank you, and disagree respectfully.
+Use words to explain when they need help, feel frustrated, or have a different idea.
+Practice listening to a family member without interrupting and asking questions to learn more.
+Everyday opportunities to practice with your
+middle school
+student:
+Share opinions and ideas about current events, books, school experiences, or family decisions while listening to other perspectives.
+Communicate their needs, ask questions, and respectfully seek help when necessary.
+Think about tone, audience, privacy, and the impact of digital messages before posting or sending them.
 Future-Ready Professional
 What is one goal you have this week?
 What small step could help you reach it?
+Everyday opportunities to practice with your
+elementary
+student:
+Choose something they want to learn or improve, such as reading more books, learning to ride a bike, or practicing a sport.
+Take responsibility for getting ready in the morning, packing a backpack, or preparing for bedtime.
+Break a bigger task, such as cleaning a room or completing a project, into smaller steps.
+Everyday opportunities to practice with your
+middle school
+student:
+Keep track of assignments, activities, responsibilities, and deadlines using a calendar or planner.
+Manage homework, chores, personal belongings, and commitments with increasing independence.
+Plan how to save and spend money toward something they want or need.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
 
@@ -4490,7 +4562,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra & Mariachi
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-11-10T14:23:12-07:00
+- Last modified: 2026-11-12T16:11:02-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
@@ -7525,7 +7597,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childh
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-08-18T13:49:45-06:00
+- Last modified: 2026-11-12T15:50:53-07:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience.

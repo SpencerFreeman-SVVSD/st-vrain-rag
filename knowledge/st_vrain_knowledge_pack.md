@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-14T07:59:30.444593-07:00
+generated_at: 2026-11-15T08:37:04.071854-07:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -1198,7 +1198,7 @@ Source: https://www.svvsd.org/schools/school-calendar/
 ### School Feeders
 
 - Canonical URL: https://www.svvsd.org/schools/school-feeders/
-- Last modified: 2026-09-29T11:21:41-06:00
+- Last modified: 2026-11-12T15:29:04-07:00
 
 School Feeders
 Students in St. Vrain Valley Schools typically follow the neighborhood school feeder patterns below as they advance from elementary school to middle school to high school (schools marked with * feed in to more than one school). In addition to high-quality neighborhood schools, students can open enroll into any school in the district.
@@ -2791,21 +2791,93 @@ The following questions can be discussed at home as an extension of each Durable
 Self-Aware Leader
 What made you feel happy or proud today?
 What was hard today, and what helped you keep trying?
+Everyday opportunities to practice with your
+elementary
+student:
+Decide how to respond when frustrated, disappointed, or upset with a sibling.
+Share something they are proud of or something they have learned to do well.
+Talk about something that did not go as planned and what they might try differently next time.
+Everyday opportunities to practice with your
+middle school
+student:
+Think about a recent decision and how it affected themselves and others.
+Check in with a parent or trusted adult about a personal strength or an area they want to improve.
+Acknowledge when they make a mistake, apologize when appropriate, and work to make things right.
 Critical Thinker & Innovator
 What is something you wonder about?
 What are different ways we could solve a problem?
+Everyday opportunities to practice with your
+elementary
+student:
+Figure out how to organize toys, make room for something new, or solve a small problem around the house.
+Help prepare a meal and think about what could be changed if a recipe does not turn out as expected.
+Create a new game, build something with household materials, or find a way to make an everyday task easier.
+Everyday opportunities to practice with your
+middle school
+student:
+Identify a household challenge and propose a solution, such as improving a shared space or reducing food waste.
+Choose a meal, consider dietary needs and preferences, plan ingredients, and adjust based on the available budget.
+Try different strategies to fix a problem before asking someone else to solve it.
 Global Citizen
 How did you show respect today?
 How could we help someone this week?
+Everyday opportunities to practice with your
+elementary
+student:
+Help clean up a park, playground, neighborhood, or other community space.
+Sort recycling, turn off unused lights, conserve water, or help care for a garden.
+Welcome someone new, include a sibling or friend in an activity, or make sure others feel they belong.
+Everyday opportunities to practice with your
+middle school
+student:
+Learn about a local need or concern and identify a way to help.
+Participate in a community service project, volunteer opportunity, or neighborhood initiative.
+Learn about an issue from multiple viewpoints and discuss why people may see it differently.
 Collaborative Team Player
 What makes someone a good teammate?
 How can we give everyone a chance to share?
+Everyday opportunities to practice with your
+elementary
+student:
+Practice listening, taking turns explaining their ideas, and finding a solution with a sibling.
+Help a sibling or family member clean a room, prepare dinner, or complete a project.
+Share ideas and listen to others when deciding on a family activity or meal.
+Everyday opportunities to practice with your
+middle school
+student:
+Work with siblings or family members to plan and complete a household project.
+Help a younger sibling with homework, practice a skill, or learn something new without simply doing it for them.
+Help plan a trip, celebration, or weekend activity by gathering ideas and finding common ground.
 Effective Communicator
 How can we show that we are listening?
 What can we do when we disagree?
+Everyday opportunities to practice with your
+elementary
+student:
+Use kind words, say please and thank you, and disagree respectfully.
+Use words to explain when they need help, feel frustrated, or have a different idea.
+Practice listening to a family member without interrupting and asking questions to learn more.
+Everyday opportunities to practice with your
+middle school
+student:
+Share opinions and ideas about current events, books, school experiences, or family decisions while listening to other perspectives.
+Communicate their needs, ask questions, and respectfully seek help when necessary.
+Think about tone, audience, privacy, and the impact of digital messages before posting or sending them.
 Future-Ready Professional
 What is one goal you have this week?
 What small step could help you reach it?
+Everyday opportunities to practice with your
+elementary
+student:
+Choose something they want to learn or improve, such as reading more books, learning to ride a bike, or practicing a sport.
+Take responsibility for getting ready in the morning, packing a backpack, or preparing for bedtime.
+Break a bigger task, such as cleaning a room or completing a project, into smaller steps.
+Everyday opportunities to practice with your
+middle school
+student:
+Keep track of assignments, activities, responsibilities, and deadlines using a calendar or planner.
+Manage homework, chores, personal belongings, and commitments with increasing independence.
+Plan how to save and spend money toward something they want or need.
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
 
@@ -5833,7 +5905,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra & Mariachi
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-11-10T14:23:12-07:00
+- Last modified: 2026-11-12T16:11:02-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
@@ -8868,7 +8940,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/early-childh
 ### Preschool Handbook
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/preschool-handbook/
-- Last modified: 2026-08-18T13:49:45-06:00
+- Last modified: 2026-11-12T15:50:53-07:00
 
 Welcome to Preschool in St. Vrain
 On behalf of our teaching staff, district early childhood team, and myself – Welcome! We are honored you have selected St. Vrain’s early childhood programming to meet your student’s preschool needs. We look forward to our partnership within the school year in making your preschoolers time with us a highly successful experience.
@@ -19566,7 +19638,7 @@ Source: https://www.svvsd.org/programs/summer-programs/
 ### Board of Education
 
 - Canonical URL: https://www.svvsd.org/about/board-of-education/
-- Last modified: 2026-06-03T12:11:31-06:00
+- Last modified: 2026-11-12T14:47:21-07:00
 
 Member: Jocelyn Gilligan
 Role: President
@@ -20347,7 +20419,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-28 KB
+36 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students
@@ -20653,15 +20725,15 @@ Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
-Board of Education Study Session
-November 11, 2026
 Board of Education Regular Meeting
+November 11, 2026
+Board of Education Study Session
 November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Regular Meeting
-October 28, 2026
 Board of Education Study Session
+October 28, 2026
+Board of Education Regular Meeting
 October 28, 2026
 Joint Meeting with Longmont City Council
 October 21, 2026
@@ -20857,15 +20929,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-121/
 
-### Board of Education Study Session
-
-- Meeting date: November 11, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: November 11, 2026
@@ -20874,6 +20937,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
+
+### Board of Education Study Session
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
 
 ### Board of Education Member Events for November
 
@@ -20884,15 +20956,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
 
-### Board of Education Regular Meeting
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
-
 ### Board of Education Study Session
 
 - Meeting date: October 28, 2026
@@ -20901,6 +20964,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
+
+### Board of Education Regular Meeting
+
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
 
 ### Joint Meeting with Longmont City Council
 
@@ -21599,7 +21671,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Financial Audits
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/district-financial-audits-2/
-- Last modified: 2026-01-16T16:32:27-07:00
+- Last modified: 2026-11-12T14:34:14-07:00
 
 District Financial Audits
 The District is audited annually on its financial performance. National independent auditing firm of CliftonLarsonAllen LLP provided financial services to the District since fiscal year 2019.
@@ -21653,7 +21725,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Financial Data File
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/financial-data-file-2/
-- Last modified: 2026-07-01T07:16:11-06:00
+- Last modified: 2026-11-12T16:00:40-07:00
 
 Financial Data File
 The FY25-26 data file is required to be posted no later than March 1, 2027.
@@ -21858,7 +21930,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-08-11T12:18:39-06:00
+- Last modified: 2026-11-12T14:40:13-07:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.

@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-14T07:59:30.444593-07:00
+generated_at: 2026-11-15T08:37:04.071854-07:00
 coverage_window_days: 90
 section_title: Financial transparency
 ---
@@ -53,7 +53,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### District Financial Audits
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/district-financial-audits-2/
-- Last modified: 2026-01-16T16:32:27-07:00
+- Last modified: 2026-11-12T14:34:14-07:00
 
 District Financial Audits
 The District is audited annually on its financial performance. National independent auditing firm of CliftonLarsonAllen LLP provided financial services to the District since fiscal year 2019.
@@ -107,7 +107,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Financial Data File
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/financial-data-file-2/
-- Last modified: 2026-07-01T07:16:11-06:00
+- Last modified: 2026-11-12T16:00:40-07:00
 
 Financial Data File
 The FY25-26 data file is required to be posted no later than March 1, 2027.
@@ -312,7 +312,7 @@ Source: https://www.svvsd.org/departments/financial-services/required-financial-
 ### Monthly and Quarterly Financial Reports
 
 - Canonical URL: https://www.svvsd.org/departments/financial-services/required-financial-transparency/monthly-and-quarterly-financial-reports/
-- Last modified: 2026-08-11T12:18:39-06:00
+- Last modified: 2026-11-12T14:40:13-07:00
 
 Monthly and Quarterly Financial Reports
 In order to keep the public fully informed on the District’s financial actions and health, the District makes reports and audits available. The documentation provides intimate details on fiscal spending, budget amounts, and operations within the District.

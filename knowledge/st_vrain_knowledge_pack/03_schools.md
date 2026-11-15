@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-14T07:59:30.444593-07:00
+generated_at: 2026-11-15T08:37:04.071854-07:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -489,7 +489,7 @@ Source: https://www.svvsd.org/schools/school-calendar/
 ### School Feeders
 
 - Canonical URL: https://www.svvsd.org/schools/school-feeders/
-- Last modified: 2026-09-29T11:21:41-06:00
+- Last modified: 2026-11-12T15:29:04-07:00
 
 School Feeders
 Students in St. Vrain Valley Schools typically follow the neighborhood school feeder patterns below as they advance from elementary school to middle school to high school (schools marked with * feed in to more than one school). In addition to high-quality neighborhood schools, students can open enroll into any school in the district.
