@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-15T08:37:04.071854-07:00
+generated_at: 2026-11-18T10:11:47.599052-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -464,7 +464,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-11-11T09:42:44-07:00
+- Last modified: 2026-11-13T10:18:40-07:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
@@ -1398,7 +1398,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Futures by Design
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
-- Last modified: 2026-11-09T10:21:21-07:00
+- Last modified: 2026-11-14T17:38:15-07:00
 
 Futures by Design PK-12
 Creating explicit connections between today’s learning and tomorrow’s future is part of the St. Vrain Advantage.
@@ -7424,7 +7424,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-pr
 ### 2027-2028 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
-- Last modified: 2026-11-11T15:08:42-07:00
+- Last modified: 2026-11-13T14:54:15-07:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
@@ -7479,6 +7479,10 @@ Erie
 Black Rock Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:55-3:35 p.m.)
+Colliers Hill Elementary
+Morning session (8:25-11:25 a.m.)
+Afternoon session (12:00-3:00 p.m.)
+Full-day session (8:25-3:00 p.m.)
 Erie Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:50-3:30 p.m.)
@@ -9108,6 +9112,9 @@ View all employee calendars
 Certified Resources
 Lateral Moves
 Guidelines
+How to Check Original Teacher Licensure
+How to View My OPD Transcript
+Lateral Moves User Guide
 Request Form
 FAQs
 Request a Sub
@@ -9368,7 +9375,6 @@ Certified Employee Forms
 Guidelines for Lateral Salary Movement
 Request for Lateral Salary Movement
 Lateral Movement Frequently Asked Questions
-PD Credit Verification outside of St. Vrain Valley Schools
 Employee Certification System
 Resignation Form
 Peer Observation Credit Form
@@ -9782,6 +9788,9 @@ Certified Lateral Salary Moves
 Certified employees that meet the requirements can qualify for lateral salary movement on the Certified Salary Schedule. Employees can use St. Vrain Valley Schools Professional Development credits or graduate level university credits that are relevant to their teaching area for lateral salary moves. These moves are available to Certified Employees twice a year. Deadlines are October 15th, with courses being completed by September 1st, and February 15th, with courses being completed by January 1st. The pay difference will be made retroactive to the beginning of the contract year and to the beginning of the new calendar year respectively.
 Lateral Moves
 Guidelines
+How to Check Original Teacher Licensure
+How to View My OPD Transcript
+Lateral Moves User Guideline
 Request Form
 FAQs
 Professional Development
@@ -10065,8 +10074,12 @@ AAEE National Education Career Fair
 : October 19, 2026, at Kansas City Marriott Country Club Plaza, Kansas City, MO
 K-12 Educator Employment Fair Days
 : November 12, 2026, at the University of Northern Colorado, Greeley, CO
+UNK Education Opportunities
+: January 21, 2027, at the University of Nebraska Kearney, Kearney NE
 Futures and Frontiers
 : February 3, 2027, at Colorado School of Mines, Golden, CO
+Jobs in Education Fair
+: February 16, 2027, at The University of Arizona, Tucson, AZ
 Colorado Education Recruitment Fair (CERF)
 : March 6, 2027, at Westminster High School, Westminster, CO
 
@@ -13146,7 +13159,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-11-02T08:34:03-07:00
+- Last modified: 2026-11-13T12:09:24-07:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -14593,7 +14606,7 @@ Source: https://www.svvsd.org/departments/special-education/
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/special-education/about-us/
-- Last modified: 2025-07-17T21:01:15-06:00
+- Last modified: 2026-11-13T08:43:19-07:00
 
 Meet the Team
 Leadership Team

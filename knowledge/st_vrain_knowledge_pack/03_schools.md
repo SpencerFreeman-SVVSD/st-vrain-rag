@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-15T08:37:04.071854-07:00
+generated_at: 2026-11-18T10:11:47.599052-07:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -47,7 +47,6 @@ Source: https://www.svvsd.org/schools/enrollment/
 
 Please select the school year and charter school that you wish to register with.
 Aspen Ridge Preparatory 2026-2027
-Carbon Valley Charter 2026-2027
 Firestone Charter Academy 2026-2027
 Flagstaff Academy 2026-2027
 St. Vrain Community Montessori Enrollment
@@ -130,7 +129,7 @@ Source: https://www.svvsd.org/schools/enrollment/enrollment-statistics/
 ### New Student Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/new-student-registration/
-- Last modified: 2026-05-28T14:06:01-06:00
+- Last modified: 2026-11-16T09:16:28-07:00
 
 New Student Registration
 Online Registration is a great option for families that are new to St. Vrain Valley Schools. Parents and Guardians fill out an online application that includes information about members of the household, emergency contacts and student data. Application processing will be handled by Central Registration and notification will be sent via email as an application moves through the approval process. Processing time will vary based on time of the year and demand. Upon application approval, it is necessary for the family to contact the school(s) to complete the registration process.
@@ -139,7 +138,9 @@ You are registering at your Neighborhood School
 You are registering at a Charter School
 You have been approved on Open Enrollment
 Your student is 5 on or before Oct. 1 and you are registering for Kindergarten
+**Please make sure you select the correct school year you are intending to register for.
 2026-2027 School Year K-12 Registration
+2027-2028 School Year K-12 Registration
 Charter School Registration
 **Please apply for open enrollment if you wish for your student to attend a school other than your neighborhood school for grades K – 12.
 Preschool does not need to Open Enroll.
@@ -153,7 +154,7 @@ To be completed by the parent or legal guardian of a student who has never atten
 When?
 Any time of the year, even the summer.
 How?
-Click the “New Student Registration” button above and complete the online registration form, you will need to upload the birth certificate and other documentation.
+Click the “New Student Registration” button above and complete the online registration form, you will need to upload the birth certificate immunizations and proof of residency.
 Additional Information
 After you complete the online registration, you will need to contact your student’s attendance area school or the school in which you have open enrolled into to complete the enrollment process. If you have any other questions or concerns, please contact the Central Registration line at 303-702-7940.
 
@@ -162,7 +163,7 @@ Source: https://www.svvsd.org/schools/enrollment/new-student-registration/
 ### Open Enrollment
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/open-enrollment/
-- Last modified: 2026-09-28T12:19:27-06:00
+- Last modified: 2026-11-16T13:12:34-07:00
 
 Open Enrollment
 Open Enrollment is an opportunity to request that your student attend a school of choice, which is outside of their attendance area. Students who do not live within district boundaries, but want to attend a school in St. Vrain, need to complete the Open Enrollment form.
@@ -194,14 +195,52 @@ Applicants who have been approved for open enrollment should visit the requested
 After the open enrollment timeline, St. Vrain will continue to accept open enrollment applications on a rolling basis.
 What?
 An opportunity to request that your student attends a school of choice, which is different than their designated attendance area school.
+Q: How do I apply for open enrollment?
+A:
+. The open enrollment process is an online application that can be located at
+https://svvsdcoc.scriborder.com/
+. The online application will go “live” at 6am on December 1st, 2026.
+Q: When will I know if my open enrollment request is approved?
+A:
+Per school board policy, December 1st, 2026 is the earliest an open enrollment application can be submitted for 2027-2028 school year. Applications are accepted on a first come, first served basis through December 16,2026. Parents will be notified by January 17, 2027 as to whether or not they have been accepted. If accepted, parents have until January 31, 2027 to accept the open enrollment spot.
+Q: It’s after December 16th, is it too late to submit an open enrollment
+application for the upcoming school year?
+A:
+While the initial open enrollment period runs from December 1st, 2026 – December 16, 2026, applications may be submitted after December 16, but they may be subject to a wait list. In addition, certain grades or special programs may not have availability.
+Q: May I submit an open enrollment application to more than one school?
+A:
+Yes, you may request open enrollment at more than one St. Vrain Valley School. Each school must receive your open enrollment request and we ask you to prioritize your school choices. While you may submit applications to more than one school, your student will only be allowed to enroll (build a schedule, etc…) in one SVVSD school.
+Q: If my child is approved for open enrollment, does the school district provide transportation to/from school?
+A:
+Transportation for open enrolled or non SVVSD students is the responsibility of the parent/guardian.
+Q: If my child is approved for open enrollment at a school, do I have to reapply each school year?
+A:
+No, you do not need to reapply for open enrollment each year as long as you stay at the same school. In years where new schools are opening and boundary changes are made, you may be asked to reapply for open enrollment simply due to new boundaries being established.
+Q: If an older child attends a school, is open enrollment approval
+guaranteed for a younger sibling? Do I have to apply for my younger
+child?
+A:
+Open enrollment will be approved for a younger sibling if there is at least one year of concurrent enrollment with the older sibling. Parents
+DO
+need to apply for open enrollment for their younger child even if an older sibling is already attending. Be sure to fill out the section on the application regarding the older sibling currently attending the school.
+Q: May I submit one application for all students in my family?
+A:
+No, an open enrollment request must be submitted for each student in your family.
+Q: If my child is accepted as an open enrolled student, do they lose the option of enrolling at their school of residence?
+A:
+No, you do not lose the option of enrolling at your school of residence if you change your mind regarding open enrollment. However, board policy states students switch schools at designated grading periods (eg: at semesters/quarters, etc).
+Q: If my child is accepted to an elementary school does that guarantee acceptance at the feeder middle school and high school?
+A:
+No, the open enrollment process starts over at each new building and students applying at the new building are subject to the first-come, first-serve policy along with all other students applying. District Policy does not guarantee a spot at the next school level.
+Q: The student/teacher ratio may determine whether I want to confirm my student’s open enrollment approval, how do I know what the
+student/teacher ratio is?
+A:
+Although the district has guidelines regarding student/teacher ratio, it is best to contact the school you are interested in for specifics regarding class sizes and student/teacher ratios.
 Open Enrollment Reminders
 All schools allow open enrollment, however some schools may not have space available for open enrollment. Each year the Board of Education reviews school populations, enrollment projections, building capacities and staff sizes and determines what schools can permit open enrollment.
 Transportation for open enrolled or non SVVSD students is the responsibility of the parent/guardian.
 Students whose applications are denied or whose applications were submitted after the December 15 deadline will be added to the waitlist of the requested school. Board policy also provides the opportunity of appeal.
 Students wishing to apply for Open Enrollment/Nonresident for the current school year – Contact schools for more information.
-Open Enrollment FAQs
-English
-Spanish
 Explore Your Options
 Elementary School Options
 Middle School Options
@@ -257,7 +296,7 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 ### Inclement Weather
 
 - Canonical URL: https://www.svvsd.org/schools/inclement-weather/
-- Last modified: 2026-11-10T16:51:01-07:00
+- Last modified: 2026-11-16T08:26:17-07:00
 
 Inclement Weather
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.

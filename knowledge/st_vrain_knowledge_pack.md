@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-15T08:37:04.071854-07:00
+generated_at: 2026-11-18T10:11:47.599052-07:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,79 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Elevate Your High School Experience: Join the Career Elevation & Technology Center and Innovation Center Open Houses, Dec. 2
+
+- Published: 2026-11-18T08:37:26-07:00
+- Source URL: https://www.svvsd.org/2026/11/18/elevate-your-high-school-experience-join-the-career-elevation-technology-center-and-innovation-center-open-houses-dec-2/
+
+St. Vrain Valley Schools offers numerous opportunities for students to engage more deeply in their career interests and extended learning through industry certifications, career and technical education training, advanced technology courses, and more.
+We invite you to attend the open houses for the Career Elevation & Technology Center and Innovation Center to learn more about courses and other programs that are available to high school students across the district. Our two district career and technical education centers have partnered to present families with a dual event, allowing them to visit both centers and explore St. Vrain’s comprehensive CTE offerings in one evening. Spanish interpretation will be available. As a reminder, transportation is provided from students’ home high schools during the school year to both centers. The course request window for next school year is Dec. 2, 2026 to Feb. 2, 2027. Please visit our
+Guide to High School Options
+to learn more about our outstanding portfolio of high school options and the courses and other programs that are available to students across St. Vrain Valley Schools.
+​————————————–
+Career Elevation and Technology Center | cetc.svvsd.org
+Open House: Dec. 2 from 3:30 – 7:00 p.m.
+The Career Elevation and Technology Center (CETC) offers eight dynamic career and technical education programs. These programs immerse students in real-world, hands-on learning experiences across high-wage, high-growth, and high-demand career pathways, with robust post-secondary options that include opportunities to earn college credits. In addition to coursework, students in grades 9-12 gain access to a wide range of work-based learning opportunities, such as internships and apprenticeships. Students can choose from a variety of focus areas, including:
+Advanced Manufacturing, including Engineering & Machining
+Agriscience
+Automotive and Diesel Technologies
+Health Sciences
+Interactive Media
+Pre-Law
+Prostart and Culinary Arts
+Welding & Fabrication
+Visit our
+Guide to High School Options
+or
+Course Requests
+to learn more.
+​————————————–
+Innovation Center | innovation.svvsd.org
+Open House: Dec. 2 from 3:30 – 7:00 p.m.
+The Innovation Center (IC) offers diverse, hands-on opportunities to explore a variety of careers and to develop your skills and knowledge. The IC provides access to industry-standard equipment as well as the chance to earn industry certifications and college credits. Additionally, through after-school project teams, students can earn pay as well as apply their classroom learning to authentic, client-based work. Students in grades 9-12 are welcome; no prior experience is needed for any of the following IC pathway options.
+Aeronautics
+Artificial Intelligence
+Bioscience
+Cybersecurity
+Design
+Entrepreneurship
+Game Development
+Music Innovation
+Industry-Recognized Certifications
+PTEACH (Pathways to Teaching)
+Robotics
+Video Arts
+Visit our
+Guide to High School Options
+or
+Course Requests
+to learn more.
+
+Source: https://www.svvsd.org/2026/11/18/elevate-your-high-school-experience-join-the-career-elevation-technology-center-and-innovation-center-open-houses-dec-2/
+
+### Northridge and Columbine Students Meet the Authors Behind the Books
+
+- Published: 2026-11-16T13:53:26-07:00
+- Source URL: https://www.svvsd.org/2026/11/16/northridge-and-columbine-students-meet-the-authors-behind-the-books/
+
+Patty Cisneros Prevo’s two Paralympic gold medals made their way from student to student at Northridge Elementary. Then the students headed outside to the basketball court, where they took turns trying out the sports wheelchairs she had brought. They were all smiles as they discovered how much skill it takes to play wheelchair basketball.
+Cisneros Prevo visited Northridge the same day author Jolene Gutiérrez visited Columbine Elementary. Both visits grew out of St. Vrain Valley Schools’ partnership with the University of Colorado Boulder’s Children’s Book Festival.
+At Northridge, Cisneros Prevo held students’ attention as she talked about daily life as a wheelchair user and challenged assumptions about what people who use wheelchairs can do. She shared two of her books. In
+All of Apolonia
+, a girl brings her cousins and teammates together for a game of wheelchair basketball on her birthday.
+Tenacious
+introduces readers to 15 athletes with disabilities and shares the joys and challenges they experience in their sports and daily lives.
+On the court, students had fun finding out for themselves how challenging the game could be. The gold medals they’d just passed around took on new meaning once they’d had a turn in the chairs.
+At Columbine, the room buzzed when Gutiérrez surprised students with their own copies of
+Unbreakable: A Japanese American Family in an American Incarceration Camp
+, a book she co-wrote with Minoru Tonai. She signed each copy to the student receiving it, and students were eager to open their books and look through them with friends.
+Gutiérrez spoke with the whole group about the writing process and how writers keep learning and improving. She told students she spent 12 years writing before publishing her first book, sharing what it took to stick with a dream that was years in the making. Afterward, she stayed for lunch with a small group of fifth graders.
+Spending time with the people behind the books gave students something to carry into the next story they read. They might pause a little longer over a character’s choices or ask a friend what they noticed on the same page. That same curiosity can shape how they listen when someone tells a story of their own.
+See the photos from Columbine
+See the photos from Northridge
+
+Source: https://www.svvsd.org/2026/11/16/northridge-and-columbine-students-meet-the-authors-behind-the-books/
+
 ### St. Vrain Valley Schools Honor Veterans Through Learning, Remembrance, and Community Traditions
 
 - Published: 2026-11-11T11:15:45-07:00
@@ -683,32 +756,6 @@ District Administration is a national education publication serving school distr
 
 Source: https://www.svvsd.org/2026/10/28/three-st-vrain-leaders-named-to-district-administrations-top-100-k-12-leaders-list/
 
-### Fifth Grade Students Participate in Morning Math at Eagle Crest Elementary
-
-- Published: 2026-10-27T15:23:43-06:00
-- Source URL: https://www.svvsd.org/2026/10/27/fifth-grade-students-participate-in-morning-math-at-eagle-crest-elementary/
-
-At Eagle Crest Elementary, some of the best learning happens before the school day officially begins.
-This fall, longtime Eagle Crest teacher Dave Gaccetta brought back a special opportunity for fifth grade students: accelerated morning math sessions that meets Monday, Wednesday, and Friday mornings from 7:45-8:25 a.m. The extra time gives students who are ready for an additional challenge the opportunity to stretch their mathematical thinking, explore more advanced concepts, and learn alongside peers who share their enthusiasm for math. It also helps prepare students for advanced math coursework in middle school by building their confidence and strengthening their problem-solving skills.
-For Eagle Crest, the experience is especially meaningful because of the teacher leading it. Mr. Gaccetta has been part of the Eagle Crest community for more than 27 years and has taught generations of students. His deep knowledge of mathematics, combined with his genuine enjoyment of working with children, makes the morning class something students look forward to each week.
-The early start does not seem to deter them. Students arrive ready to think, problem-solve, collaborate, and tackle challenging mathematical ideas before most of the school has even arrived.
-Principal Amanda Holden says opportunities like this reflect Eagle Crest’s commitment to knowing students well and providing meaningful opportunities for every learner to grow.
-“We want students to be challenged, curious, and excited about what they are capable of doing,” Holden said. “Having Mr. Gaccetta share his expertise and passion for mathematics with our students is a wonderful example of what makes Eagle Crest such a special place.”
-
-Source: https://www.svvsd.org/2026/10/27/fifth-grade-students-participate-in-morning-math-at-eagle-crest-elementary/
-
-### Coal Ridge Expands Music Opportunities for Students
-
-- Published: 2026-10-27T07:44:06-06:00
-- Source URL: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
-
-Coal Ridge Middle School is expanding its music program with new opportunities for students to develop their musical skills and connect with fellow musicians. This year, Band Director Kyle Waggoner launched a pep band and drumline club, which meets Wednesdays after school. The program gives students a goal to work toward while connecting classroom instruction with the excitement of performing at school events. An advanced orchestra club, which meets Tuesdays after school, provides another opportunity for students to deepen their musical experience.
-Students at Coal Ridge Middle School welcome their peers during October’s High Five Friday.
-Waggoner said student interest and consistent attendance have helped the new club build momentum. The ensembles also create opportunities for middle school students to prepare for high school music programs and learn alongside older musicians. “I am excited to continue seeing this program grow and excel,” Waggoner said. “Every day we strive to learn a little bit more about music and to have fun while we learn.”
-With more opportunities on the horizon, Coal Ridge hopes to welcome additional students into its music program and continue building a strong foundation for future musical experiences.
-
-Source: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
-
 ### District alerts
 
 No recent alert items were found within the configured coverage window.
@@ -756,7 +803,6 @@ Source: https://www.svvsd.org/schools/enrollment/
 
 Please select the school year and charter school that you wish to register with.
 Aspen Ridge Preparatory 2026-2027
-Carbon Valley Charter 2026-2027
 Firestone Charter Academy 2026-2027
 Flagstaff Academy 2026-2027
 St. Vrain Community Montessori Enrollment
@@ -839,7 +885,7 @@ Source: https://www.svvsd.org/schools/enrollment/enrollment-statistics/
 ### New Student Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/new-student-registration/
-- Last modified: 2026-05-28T14:06:01-06:00
+- Last modified: 2026-11-16T09:16:28-07:00
 
 New Student Registration
 Online Registration is a great option for families that are new to St. Vrain Valley Schools. Parents and Guardians fill out an online application that includes information about members of the household, emergency contacts and student data. Application processing will be handled by Central Registration and notification will be sent via email as an application moves through the approval process. Processing time will vary based on time of the year and demand. Upon application approval, it is necessary for the family to contact the school(s) to complete the registration process.
@@ -848,7 +894,9 @@ You are registering at your Neighborhood School
 You are registering at a Charter School
 You have been approved on Open Enrollment
 Your student is 5 on or before Oct. 1 and you are registering for Kindergarten
+**Please make sure you select the correct school year you are intending to register for.
 2026-2027 School Year K-12 Registration
+2027-2028 School Year K-12 Registration
 Charter School Registration
 **Please apply for open enrollment if you wish for your student to attend a school other than your neighborhood school for grades K – 12.
 Preschool does not need to Open Enroll.
@@ -862,7 +910,7 @@ To be completed by the parent or legal guardian of a student who has never atten
 When?
 Any time of the year, even the summer.
 How?
-Click the “New Student Registration” button above and complete the online registration form, you will need to upload the birth certificate and other documentation.
+Click the “New Student Registration” button above and complete the online registration form, you will need to upload the birth certificate immunizations and proof of residency.
 Additional Information
 After you complete the online registration, you will need to contact your student’s attendance area school or the school in which you have open enrolled into to complete the enrollment process. If you have any other questions or concerns, please contact the Central Registration line at 303-702-7940.
 
@@ -871,7 +919,7 @@ Source: https://www.svvsd.org/schools/enrollment/new-student-registration/
 ### Open Enrollment
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/open-enrollment/
-- Last modified: 2026-09-28T12:19:27-06:00
+- Last modified: 2026-11-16T13:12:34-07:00
 
 Open Enrollment
 Open Enrollment is an opportunity to request that your student attend a school of choice, which is outside of their attendance area. Students who do not live within district boundaries, but want to attend a school in St. Vrain, need to complete the Open Enrollment form.
@@ -903,14 +951,52 @@ Applicants who have been approved for open enrollment should visit the requested
 After the open enrollment timeline, St. Vrain will continue to accept open enrollment applications on a rolling basis.
 What?
 An opportunity to request that your student attends a school of choice, which is different than their designated attendance area school.
+Q: How do I apply for open enrollment?
+A:
+. The open enrollment process is an online application that can be located at
+https://svvsdcoc.scriborder.com/
+. The online application will go “live” at 6am on December 1st, 2026.
+Q: When will I know if my open enrollment request is approved?
+A:
+Per school board policy, December 1st, 2026 is the earliest an open enrollment application can be submitted for 2027-2028 school year. Applications are accepted on a first come, first served basis through December 16,2026. Parents will be notified by January 17, 2027 as to whether or not they have been accepted. If accepted, parents have until January 31, 2027 to accept the open enrollment spot.
+Q: It’s after December 16th, is it too late to submit an open enrollment
+application for the upcoming school year?
+A:
+While the initial open enrollment period runs from December 1st, 2026 – December 16, 2026, applications may be submitted after December 16, but they may be subject to a wait list. In addition, certain grades or special programs may not have availability.
+Q: May I submit an open enrollment application to more than one school?
+A:
+Yes, you may request open enrollment at more than one St. Vrain Valley School. Each school must receive your open enrollment request and we ask you to prioritize your school choices. While you may submit applications to more than one school, your student will only be allowed to enroll (build a schedule, etc…) in one SVVSD school.
+Q: If my child is approved for open enrollment, does the school district provide transportation to/from school?
+A:
+Transportation for open enrolled or non SVVSD students is the responsibility of the parent/guardian.
+Q: If my child is approved for open enrollment at a school, do I have to reapply each school year?
+A:
+No, you do not need to reapply for open enrollment each year as long as you stay at the same school. In years where new schools are opening and boundary changes are made, you may be asked to reapply for open enrollment simply due to new boundaries being established.
+Q: If an older child attends a school, is open enrollment approval
+guaranteed for a younger sibling? Do I have to apply for my younger
+child?
+A:
+Open enrollment will be approved for a younger sibling if there is at least one year of concurrent enrollment with the older sibling. Parents
+DO
+need to apply for open enrollment for their younger child even if an older sibling is already attending. Be sure to fill out the section on the application regarding the older sibling currently attending the school.
+Q: May I submit one application for all students in my family?
+A:
+No, an open enrollment request must be submitted for each student in your family.
+Q: If my child is accepted as an open enrolled student, do they lose the option of enrolling at their school of residence?
+A:
+No, you do not lose the option of enrolling at your school of residence if you change your mind regarding open enrollment. However, board policy states students switch schools at designated grading periods (eg: at semesters/quarters, etc).
+Q: If my child is accepted to an elementary school does that guarantee acceptance at the feeder middle school and high school?
+A:
+No, the open enrollment process starts over at each new building and students applying at the new building are subject to the first-come, first-serve policy along with all other students applying. District Policy does not guarantee a spot at the next school level.
+Q: The student/teacher ratio may determine whether I want to confirm my student’s open enrollment approval, how do I know what the
+student/teacher ratio is?
+A:
+Although the district has guidelines regarding student/teacher ratio, it is best to contact the school you are interested in for specifics regarding class sizes and student/teacher ratios.
 Open Enrollment Reminders
 All schools allow open enrollment, however some schools may not have space available for open enrollment. Each year the Board of Education reviews school populations, enrollment projections, building capacities and staff sizes and determines what schools can permit open enrollment.
 Transportation for open enrolled or non SVVSD students is the responsibility of the parent/guardian.
 Students whose applications are denied or whose applications were submitted after the December 15 deadline will be added to the waitlist of the requested school. Board policy also provides the opportunity of appeal.
 Students wishing to apply for Open Enrollment/Nonresident for the current school year – Contact schools for more information.
-Open Enrollment FAQs
-English
-Spanish
 Explore Your Options
 Elementary School Options
 Middle School Options
@@ -966,7 +1052,7 @@ Source: https://www.svvsd.org/schools/enrollment/staff-resources-2/
 ### Inclement Weather
 
 - Canonical URL: https://www.svvsd.org/schools/inclement-weather/
-- Last modified: 2026-11-10T16:51:01-07:00
+- Last modified: 2026-11-16T08:26:17-07:00
 
 Inclement Weather
 We would like to share important inclement weather information so that your family can be prepared in the event severe weather impacts our normal school schedules and operations.
@@ -1807,7 +1893,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Research in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/research-in-st-vrain/
-- Last modified: 2026-11-11T09:42:44-07:00
+- Last modified: 2026-11-13T10:18:40-07:00
 
 Research in St. Vrain
 St. Vrain Valley Schools recognizes the value of educational research conducted by staff members as well as non-school personnel and/or agencies. However, because such projects invariably involve school personnel and interrupt class instructional time, it is necessary to carefully evaluate the merits of each project before permission is granted. All research studies carried out within the school system using district or school data of any kind or staff/students as subjects must be approved in advance.
@@ -2741,7 +2827,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Futures by Design
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/futures-by-design/
-- Last modified: 2026-11-09T10:21:21-07:00
+- Last modified: 2026-11-14T17:38:15-07:00
 
 Futures by Design PK-12
 Creating explicit connections between today’s learning and tomorrow’s future is part of the St. Vrain Advantage.
@@ -8767,7 +8853,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-pr
 ### 2027-2028 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
-- Last modified: 2026-11-11T15:08:42-07:00
+- Last modified: 2026-11-13T14:54:15-07:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
@@ -8822,6 +8908,10 @@ Erie
 Black Rock Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:55-3:35 p.m.)
+Colliers Hill Elementary
+Morning session (8:25-11:25 a.m.)
+Afternoon session (12:00-3:00 p.m.)
+Full-day session (8:25-3:00 p.m.)
 Erie Elementary
 Morning session (8:55-11:35 a.m.)
 Afternoon session (12:50-3:30 p.m.)
@@ -10451,6 +10541,9 @@ View all employee calendars
 Certified Resources
 Lateral Moves
 Guidelines
+How to Check Original Teacher Licensure
+How to View My OPD Transcript
+Lateral Moves User Guide
 Request Form
 FAQs
 Request a Sub
@@ -10711,7 +10804,6 @@ Certified Employee Forms
 Guidelines for Lateral Salary Movement
 Request for Lateral Salary Movement
 Lateral Movement Frequently Asked Questions
-PD Credit Verification outside of St. Vrain Valley Schools
 Employee Certification System
 Resignation Form
 Peer Observation Credit Form
@@ -11125,6 +11217,9 @@ Certified Lateral Salary Moves
 Certified employees that meet the requirements can qualify for lateral salary movement on the Certified Salary Schedule. Employees can use St. Vrain Valley Schools Professional Development credits or graduate level university credits that are relevant to their teaching area for lateral salary moves. These moves are available to Certified Employees twice a year. Deadlines are October 15th, with courses being completed by September 1st, and February 15th, with courses being completed by January 1st. The pay difference will be made retroactive to the beginning of the contract year and to the beginning of the new calendar year respectively.
 Lateral Moves
 Guidelines
+How to Check Original Teacher Licensure
+How to View My OPD Transcript
+Lateral Moves User Guideline
 Request Form
 FAQs
 Professional Development
@@ -11408,8 +11503,12 @@ AAEE National Education Career Fair
 : October 19, 2026, at Kansas City Marriott Country Club Plaza, Kansas City, MO
 K-12 Educator Employment Fair Days
 : November 12, 2026, at the University of Northern Colorado, Greeley, CO
+UNK Education Opportunities
+: January 21, 2027, at the University of Nebraska Kearney, Kearney NE
 Futures and Frontiers
 : February 3, 2027, at Colorado School of Mines, Golden, CO
+Jobs in Education Fair
+: February 16, 2027, at The University of Arizona, Tucson, AZ
 Colorado Education Recruitment Fair (CERF)
 : March 6, 2027, at Westminster High School, Westminster, CO
 
@@ -14489,7 +14588,7 @@ Source: https://www.svvsd.org/departments/priority-programs/title-i/
 ### Professional Development
 
 - Canonical URL: https://www.svvsd.org/departments/professional-development/
-- Last modified: 2026-11-02T08:34:03-07:00
+- Last modified: 2026-11-13T12:09:24-07:00
 
 Office of Professional Development
 The Office of Professional Development provides ongoing support for all licensed, administrative, and classified personnel. Our goal is to build the capacity of all district employees through staff development that improves the learning of all the children we serve. The department also coordinates the induction program for personnel new to the district or their position.
@@ -15936,7 +16035,7 @@ Source: https://www.svvsd.org/departments/special-education/
 ### About Us
 
 - Canonical URL: https://www.svvsd.org/departments/special-education/about-us/
-- Last modified: 2025-07-17T21:01:15-06:00
+- Last modified: 2026-11-13T08:43:19-07:00
 
 Meet the Team
 Leadership Team
@@ -20419,7 +20518,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-36 KB
+28 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students
@@ -20725,15 +20824,15 @@ Board of Education Member Events for December
 December 1, 2026
 Board of Education Study Session
 November 18, 2026
-Board of Education Regular Meeting
-November 11, 2026
 Board of Education Study Session
+November 11, 2026
+Board of Education Regular Meeting
 November 11, 2026
 Board of Education Member Events for November
 November 1, 2026
-Board of Education Study Session
-October 28, 2026
 Board of Education Regular Meeting
+October 28, 2026
+Board of Education Study Session
 October 28, 2026
 Joint Meeting with Longmont City Council
 October 21, 2026
@@ -20929,15 +21028,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-121/
 
-### Board of Education Regular Meeting
-
-- Meeting date: November 11, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
-
 ### Board of Education Study Session
 
 - Meeting date: November 11, 2026
@@ -20946,6 +21036,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-1
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-122/
+
+### Board of Education Regular Meeting
+
+- Meeting date: November 11, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-180/
 
 ### Board of Education Member Events for November
 
@@ -20956,15 +21055,6 @@ The linked detail page did not expose enough unique text to inline beyond the ye
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-member-events-for-november-10/
 
-### Board of Education Study Session
-
-- Meeting date: October 28, 2026
-- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
-
-The linked detail page did not expose enough unique text to inline beyond the year index entry.
-
-Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
-
 ### Board of Education Regular Meeting
 
 - Meeting date: October 28, 2026
@@ -20973,6 +21063,15 @@ Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120
 The linked detail page did not expose enough unique text to inline beyond the year index entry.
 
 Source: https://www.svvsd.org/boardmeetings/board-of-education-regular-meeting-179/
+
+### Board of Education Study Session
+
+- Meeting date: October 28, 2026
+- Detail URL: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
+
+The linked detail page did not expose enough unique text to inline beyond the year index entry.
+
+Source: https://www.svvsd.org/boardmeetings/board-of-education-study-session-120/
 
 ### Joint Meeting with Longmont City Council
 

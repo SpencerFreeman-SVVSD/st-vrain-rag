@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-15T08:37:04.071854-07:00
+generated_at: 2026-11-18T10:11:47.599052-07:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,79 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Elevate Your High School Experience: Join the Career Elevation & Technology Center and Innovation Center Open Houses, Dec. 2
+
+- Published: 2026-11-18T08:37:26-07:00
+- Source URL: https://www.svvsd.org/2026/11/18/elevate-your-high-school-experience-join-the-career-elevation-technology-center-and-innovation-center-open-houses-dec-2/
+
+St. Vrain Valley Schools offers numerous opportunities for students to engage more deeply in their career interests and extended learning through industry certifications, career and technical education training, advanced technology courses, and more.
+We invite you to attend the open houses for the Career Elevation & Technology Center and Innovation Center to learn more about courses and other programs that are available to high school students across the district. Our two district career and technical education centers have partnered to present families with a dual event, allowing them to visit both centers and explore St. Vrain’s comprehensive CTE offerings in one evening. Spanish interpretation will be available. As a reminder, transportation is provided from students’ home high schools during the school year to both centers. The course request window for next school year is Dec. 2, 2026 to Feb. 2, 2027. Please visit our
+Guide to High School Options
+to learn more about our outstanding portfolio of high school options and the courses and other programs that are available to students across St. Vrain Valley Schools.
+​————————————–
+Career Elevation and Technology Center | cetc.svvsd.org
+Open House: Dec. 2 from 3:30 – 7:00 p.m.
+The Career Elevation and Technology Center (CETC) offers eight dynamic career and technical education programs. These programs immerse students in real-world, hands-on learning experiences across high-wage, high-growth, and high-demand career pathways, with robust post-secondary options that include opportunities to earn college credits. In addition to coursework, students in grades 9-12 gain access to a wide range of work-based learning opportunities, such as internships and apprenticeships. Students can choose from a variety of focus areas, including:
+Advanced Manufacturing, including Engineering & Machining
+Agriscience
+Automotive and Diesel Technologies
+Health Sciences
+Interactive Media
+Pre-Law
+Prostart and Culinary Arts
+Welding & Fabrication
+Visit our
+Guide to High School Options
+or
+Course Requests
+to learn more.
+​————————————–
+Innovation Center | innovation.svvsd.org
+Open House: Dec. 2 from 3:30 – 7:00 p.m.
+The Innovation Center (IC) offers diverse, hands-on opportunities to explore a variety of careers and to develop your skills and knowledge. The IC provides access to industry-standard equipment as well as the chance to earn industry certifications and college credits. Additionally, through after-school project teams, students can earn pay as well as apply their classroom learning to authentic, client-based work. Students in grades 9-12 are welcome; no prior experience is needed for any of the following IC pathway options.
+Aeronautics
+Artificial Intelligence
+Bioscience
+Cybersecurity
+Design
+Entrepreneurship
+Game Development
+Music Innovation
+Industry-Recognized Certifications
+PTEACH (Pathways to Teaching)
+Robotics
+Video Arts
+Visit our
+Guide to High School Options
+or
+Course Requests
+to learn more.
+
+Source: https://www.svvsd.org/2026/11/18/elevate-your-high-school-experience-join-the-career-elevation-technology-center-and-innovation-center-open-houses-dec-2/
+
+### Northridge and Columbine Students Meet the Authors Behind the Books
+
+- Published: 2026-11-16T13:53:26-07:00
+- Source URL: https://www.svvsd.org/2026/11/16/northridge-and-columbine-students-meet-the-authors-behind-the-books/
+
+Patty Cisneros Prevo’s two Paralympic gold medals made their way from student to student at Northridge Elementary. Then the students headed outside to the basketball court, where they took turns trying out the sports wheelchairs she had brought. They were all smiles as they discovered how much skill it takes to play wheelchair basketball.
+Cisneros Prevo visited Northridge the same day author Jolene Gutiérrez visited Columbine Elementary. Both visits grew out of St. Vrain Valley Schools’ partnership with the University of Colorado Boulder’s Children’s Book Festival.
+At Northridge, Cisneros Prevo held students’ attention as she talked about daily life as a wheelchair user and challenged assumptions about what people who use wheelchairs can do. She shared two of her books. In
+All of Apolonia
+, a girl brings her cousins and teammates together for a game of wheelchair basketball on her birthday.
+Tenacious
+introduces readers to 15 athletes with disabilities and shares the joys and challenges they experience in their sports and daily lives.
+On the court, students had fun finding out for themselves how challenging the game could be. The gold medals they’d just passed around took on new meaning once they’d had a turn in the chairs.
+At Columbine, the room buzzed when Gutiérrez surprised students with their own copies of
+Unbreakable: A Japanese American Family in an American Incarceration Camp
+, a book she co-wrote with Minoru Tonai. She signed each copy to the student receiving it, and students were eager to open their books and look through them with friends.
+Gutiérrez spoke with the whole group about the writing process and how writers keep learning and improving. She told students she spent 12 years writing before publishing her first book, sharing what it took to stick with a dream that was years in the making. Afterward, she stayed for lunch with a small group of fifth graders.
+Spending time with the people behind the books gave students something to carry into the next story they read. They might pause a little longer over a character’s choices or ask a friend what they noticed on the same page. That same curiosity can shape how they listen when someone tells a story of their own.
+See the photos from Columbine
+See the photos from Northridge
+
+Source: https://www.svvsd.org/2026/11/16/northridge-and-columbine-students-meet-the-authors-behind-the-books/
 
 ### St. Vrain Valley Schools Honor Veterans Through Learning, Remembrance, and Community Traditions
 
@@ -199,32 +272,6 @@ of influential K–12 education leaders.
 District Administration is a national education publication serving school district leaders across the United States. Its annual DA 100 list recognizes individuals whose work is helping shape the future of K-12 education.
 
 Source: https://www.svvsd.org/2026/10/28/three-st-vrain-leaders-named-to-district-administrations-top-100-k-12-leaders-list/
-
-### Fifth Grade Students Participate in Morning Math at Eagle Crest Elementary
-
-- Published: 2026-10-27T15:23:43-06:00
-- Source URL: https://www.svvsd.org/2026/10/27/fifth-grade-students-participate-in-morning-math-at-eagle-crest-elementary/
-
-At Eagle Crest Elementary, some of the best learning happens before the school day officially begins.
-This fall, longtime Eagle Crest teacher Dave Gaccetta brought back a special opportunity for fifth grade students: accelerated morning math sessions that meets Monday, Wednesday, and Friday mornings from 7:45-8:25 a.m. The extra time gives students who are ready for an additional challenge the opportunity to stretch their mathematical thinking, explore more advanced concepts, and learn alongside peers who share their enthusiasm for math. It also helps prepare students for advanced math coursework in middle school by building their confidence and strengthening their problem-solving skills.
-For Eagle Crest, the experience is especially meaningful because of the teacher leading it. Mr. Gaccetta has been part of the Eagle Crest community for more than 27 years and has taught generations of students. His deep knowledge of mathematics, combined with his genuine enjoyment of working with children, makes the morning class something students look forward to each week.
-The early start does not seem to deter them. Students arrive ready to think, problem-solve, collaborate, and tackle challenging mathematical ideas before most of the school has even arrived.
-Principal Amanda Holden says opportunities like this reflect Eagle Crest’s commitment to knowing students well and providing meaningful opportunities for every learner to grow.
-“We want students to be challenged, curious, and excited about what they are capable of doing,” Holden said. “Having Mr. Gaccetta share his expertise and passion for mathematics with our students is a wonderful example of what makes Eagle Crest such a special place.”
-
-Source: https://www.svvsd.org/2026/10/27/fifth-grade-students-participate-in-morning-math-at-eagle-crest-elementary/
-
-### Coal Ridge Expands Music Opportunities for Students
-
-- Published: 2026-10-27T07:44:06-06:00
-- Source URL: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
-
-Coal Ridge Middle School is expanding its music program with new opportunities for students to develop their musical skills and connect with fellow musicians. This year, Band Director Kyle Waggoner launched a pep band and drumline club, which meets Wednesdays after school. The program gives students a goal to work toward while connecting classroom instruction with the excitement of performing at school events. An advanced orchestra club, which meets Tuesdays after school, provides another opportunity for students to deepen their musical experience.
-Students at Coal Ridge Middle School welcome their peers during October’s High Five Friday.
-Waggoner said student interest and consistent attendance have helped the new club build momentum. The ensembles also create opportunities for middle school students to prepare for high school music programs and learn alongside older musicians. “I am excited to continue seeing this program grow and excel,” Waggoner said. “Every day we strive to learn a little bit more about music and to have fun while we learn.”
-With more opportunities on the horizon, Coal Ridge hopes to welcome additional students into its music program and continue building a strong foundation for future musical experiences.
-
-Source: https://www.svvsd.org/2026/10/27/coal-ridge-expands-music-opportunities-for-students/
 
 ### District alerts
 
