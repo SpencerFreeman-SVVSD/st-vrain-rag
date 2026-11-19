@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-18T10:11:47.599052-07:00
+generated_at: 2026-11-19T10:19:00.613531-07:00
 coverage_window_days: 90
 section_title: District snapshot
 ---

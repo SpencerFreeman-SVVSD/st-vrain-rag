@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-18T10:11:47.599052-07:00
+generated_at: 2026-11-19T10:19:00.613531-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -168,9 +168,9 @@ Varies by exam and grade level
 English Language Arts (3 – 8): approximately 4.5 hrs
 Math: approximately (3 – 8) 2.5 – 3 hours
 Science (5, 8 & 11): approximately 2 hours
-Social Studies (4 & 7): approximately 2 hours
+Social Studies (7): approximately 2 hours
 Assessment Date:
-May 3 – 14, 2027
+April 3 – 14, 2027
 How Results are Used:
 Provides a picture of student academic progress to schools, districts, teachers, parents, and the community.
 CoAlt

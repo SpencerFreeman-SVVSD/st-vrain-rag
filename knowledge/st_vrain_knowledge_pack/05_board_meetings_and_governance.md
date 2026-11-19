@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-18T10:11:47.599052-07:00
+generated_at: 2026-11-19T10:19:00.613531-07:00
 coverage_window_days: 90
 section_title: Board meetings and governance
 ---
@@ -790,7 +790,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-28 KB
+36 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students

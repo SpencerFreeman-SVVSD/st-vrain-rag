@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-18T10:11:47.599052-07:00
+generated_at: 2026-11-19T10:19:00.613531-07:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,45 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Central and Niwot Elementary Earn National i-Ready Awards for Exceptional Growth
+
+- Published: 2026-11-18T09:36:43-07:00
+- Source URL: https://www.svvsd.org/2026/11/18/central-and-niwot-elementary-earn-national-i-ready-awards-for-exceptional-growth/
+
+Central Elementary and Niwot Elementary have earned 2026 national i-Ready Super Stretch Schools Awards for exceptional student growth in reading. The two St. Vrain Valley schools are among just 74 schools nationwide and five in Colorado recognized in reading this year.
+The awards, presented by Curriculum Associates, recognize schools where at least 55% of students meet their Stretch Growth goals, with a minimum of 200 students participating in both beginning- and end-of-year assessments.
+i-Ready supports personalized learning in reading and mathematics. Its Growth Model includes two measures: Typical Growth, which reflects expected annual progress, and Stretch Growth, which sets an ambitious, individualized goal to help students reach or maintain grade-level proficiency.
+St. Vrain is also recognizing Lyons Elementary and Columbine Elementary for exceptional student growth. Both schools met the same benchmark of at least 55% of students reaching their Stretch Growth goals, but their assessment participation counts fell slightly below the 200-student minimum required for the national award.
+This year’s recognitions include:
+National i-Ready Super Stretch Schools Awards
+Central Elementary – Reading
+Niwot Elementary – Reading
+District Recognition for Exceptional Growth
+Lyons Elementary – Reading and Mathematics
+Columbine Elementary – Mathematics
+These recognitions highlight the work of St. Vrain’s students and educators to advance academic achievement through personalized instruction and ambitious learning goals.
+###
+
+Source: https://www.svvsd.org/2026/11/18/central-and-niwot-elementary-earn-national-i-ready-awards-for-exceptional-growth/
+
+### Innovation Center’s Jayme Sneider Named Colorado BioScience Association Educator of the Year
+
+- Published: 2026-11-18T09:24:03-07:00
+- Source URL: https://www.svvsd.org/2026/11/18/innovation-centers-jayme-sneider-named-colorado-bioscience-association-educator-of-the-year/
+
+Jayme Sneider, biosciences teacher at St. Vrain Valley Schools’ Innovation Center, has been named the Colorado BioScience Association’s 2026 Educator of the Year.
+Sneider was recognized for connecting classroom instruction with applied industry experience. Her curriculum emphasizes rigorous laboratory skills and prepares students to earn the industry-recognized BACE credential.
+The selection committee highlighted meaningful hands-on student projects that range from neural data analysis in 3D virtual reality with syGlass and the University of South Florida to clinical prototypes for UCHealth staff. Students also conduct biometric research through NASA HUNCH and use environmental DNA in conservation projects with Colorado Parks and Wildlife and the University of Colorado Boulder.
+The association also recognized Sneider’s commitment to making these opportunities accessible to diverse learners. Her approach helps more students see a future for themselves in bioscience and gain experience that supports their next steps after high school.
+Sneider was selected for recognition as part of the association’s
+23rd Annual Awards Celebration
+on Nov. 12 at the Denver Center for the Performing Arts’ Seawell Ballroom.
+For more information about bioscience opportunities at St. Vrain’s Innovation Center, visit
+innovation.svvsd.org
+.
+
+Source: https://www.svvsd.org/2026/11/18/innovation-centers-jayme-sneider-named-colorado-bioscience-association-educator-of-the-year/
 
 ### Elevate Your High School Experience: Join the Career Elevation & Technology Center and Innovation Center Open Houses, Dec. 2
 
@@ -220,58 +259,6 @@ Voluntary donations will support Creative Content Team students attending the Au
 Join the Creative Content Team for an evening of film and community while supporting opportunities for St. Vrain’s young filmmakers.
 
 Source: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
-
-### Superintendent’s Update: Discover Your Path
-
-- Published: 2026-10-30T08:52:15-06:00
-- Source URL: https://www.svvsd.org/2026/10/30/superintendents-update-discover-your-path-2/
-
-Find the best fit for your family with St. Vrain’s Options website. This interactive tool helps families explore schools across St. Vrain based on academic interests, focus programs and pathways, athletics and activities, school culture and location, and more.
-Explore Your Options
-Superintendent’s Update
-Fall is always an exciting and busy time across St. Vrain, with our schools filled with learning, activities, performances, and celebrations. As I visit schools and connect with our community, I am inspired by the energy and enthusiasm of our students. I am also grateful for our teachers and staff, who create welcoming environments where every child is supported and challenged to reach their full potential.
-I have appreciated connecting with many community members at recent events including Leadership St. Vrain and our Superintendent Town Hall meetings. Your questions and ideas are important to me, and these conversations help us continue to strengthen our schools and better serve our students and families.
-As we look ahead to the open enrollment window from December 1-15, I encourage families to
-explore our extensive portfolio of exceptional educational options
-and find the right fit for their student’s interests and passions. All schools are hosting open houses and tours, where families can meet teachers and staff, visit classrooms, and discover what makes each school community unique.
-Our community’s investment through the 2024 bond is bringing exciting improvements to our schools. The new elementary school in Erie has officially been named
-Colliers Hill Elementary
-, and we look forward to welcoming students and families next school year. Construction is underway on the new high school and career and technical education facility in Frederick, scheduled to open in fall 2028. Across all of our communities, bond projects are improving existing schools through updated learning spaces, secure entrances, playgrounds, athletic facilities, and essential building systems.
-Our students have given us much to celebrate. Congratulations to our high school seniors named
-National Merit Scholarship semifinalists
-and to the
-Lyons Middle/Senior High School softball team
-on winning the Class 3A State Championship. We are proud of our student-athletes as they finish their fall seasons and our music and performing arts students who share their exceptional talent with us. I encourage our community to attend an upcoming performance and visit
-advantage.svvsd.org
-to discover events, celebrations, and stories from across our district.
-October is National Principals Month, and I am deeply grateful for the leadership and care our principals bring to their school communities. The week of November 9, we will celebrate our classified employees – our bus drivers, custodians, nutrition services staff, paraprofessionals, office staff, technology professionals, and so many others. Thank you to these exceptional teams for all you do to enhance our system.
-To our families and community members, thank you for your partnership and the trust you place in our schools. Together, we are creating exceptional opportunities for our students and building a strong future for our community.
-With gratitude,
-Jackie Kapushion, Ed.D.
-Superintendent, St. Vrain Valley Schools
-Featured Stories
-Open House Dates 2026
-Across St. Vrain Valley Schools, open houses offer families a chance to step inside classrooms, meet dedicated teachers, and discover the unique opportunities available in each school.
-View all open house dates.
-The Public School Advantage
-Dr. Jackie Kapushion shares why strong public schools are essential to opportunity for every child and to the strength of our communities. Drawing on nearly four decades in education, she reflects on the importance of protecting public education and the promise it represents for future generations.
-Read more in St. Vrainnovation Magazine.
-St. Vrain Valley Schools Named K-12 Partner in Colorado’s New NASA Aerospace Workforce Hub
-S...
-
-Source: https://www.svvsd.org/2026/10/30/superintendents-update-discover-your-path-2/
-
-### Three St. Vrain Leaders Named to District Administration’s Top 100 K-12 Leaders List
-
-- Published: 2026-10-28T16:19:31-06:00
-- Source URL: https://www.svvsd.org/2026/10/28/three-st-vrain-leaders-named-to-district-administrations-top-100-k-12-leaders-list/
-
-Superintendent Dr. Jackie Kapushion, Assistant Superintendent of Innovation Joe McBreen, and Chief Technology Officer Michelle Bourgeois have been named to
-District Administration’s 2026–27 DA 100 list
-of influential K–12 education leaders.
-District Administration is a national education publication serving school district leaders across the United States. Its annual DA 100 list recognizes individuals whose work is helping shape the future of K-12 education.
-
-Source: https://www.svvsd.org/2026/10/28/three-st-vrain-leaders-named-to-district-administrations-top-100-k-12-leaders-list/
 
 ### District alerts
 
