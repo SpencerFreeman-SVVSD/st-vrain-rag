@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-19T10:19:00.613531-07:00
+generated_at: 2026-11-21T09:05:39.345825-07:00
 coverage_window_days: 90
 section_title: Schools
 ---
@@ -43,7 +43,7 @@ Source: https://www.svvsd.org/schools/enrollment/
 ### Charter School Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/charter-school-registration/
-- Last modified: 2026-05-28T14:22:02-06:00
+- Last modified: 2026-11-19T06:46:18-07:00
 
 Please select the school year and charter school that you wish to register with.
 Aspen Ridge Preparatory 2026-2027
@@ -129,7 +129,7 @@ Source: https://www.svvsd.org/schools/enrollment/enrollment-statistics/
 ### New Student Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/new-student-registration/
-- Last modified: 2026-11-16T09:16:28-07:00
+- Last modified: 2026-11-17T13:11:12-07:00
 
 New Student Registration
 Online Registration is a great option for families that are new to St. Vrain Valley Schools. Parents and Guardians fill out an online application that includes information about members of the household, emergency contacts and student data. Application processing will be handled by Central Registration and notification will be sent via email as an application moves through the approval process. Processing time will vary based on time of the year and demand. Upon application approval, it is necessary for the family to contact the school(s) to complete the registration process.
@@ -163,7 +163,7 @@ Source: https://www.svvsd.org/schools/enrollment/new-student-registration/
 ### Open Enrollment
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/open-enrollment/
-- Last modified: 2026-11-16T13:12:34-07:00
+- Last modified: 2026-11-17T08:34:51-07:00
 
 Open Enrollment
 Open Enrollment is an opportunity to request that your student attend a school of choice, which is outside of their attendance area. Students who do not live within district boundaries, but want to attend a school in St. Vrain, need to complete the Open Enrollment form.

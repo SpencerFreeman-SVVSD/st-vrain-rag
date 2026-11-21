@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-19T10:19:00.613531-07:00
+generated_at: 2026-11-21T09:05:39.345825-07:00
 source_count: 8
 source_urls:
   - https://www.svvsd.org/wp-sitemap.xml
@@ -491,6 +491,37 @@ Source: https://www.svvsd.org/about/district-overview/awards-recognitions/
 
 ### District news
 
+### Miles Has a Story
+
+- Published: 2026-11-20T11:54:42-07:00
+- Source URL: https://www.svvsd.org/2026/11/20/miles-has-a-story/
+
+When I asked Miles Bowling to introduce himself, the Mead Elementary fourth grader got right to it.
+“My name is Miles, and I built an adaptive playground and I have a story.”
+He could tell me exactly how long the playground took to build: five years, one month and 19 days. He remembered how nervous he was at the start, when there was so much money to raise and he had no idea whether they could do it. And when he talked about getting it done, he talked about the people who said yes.
+That’s what stayed with me about Miles. He had a clear sense of what he wanted to change, and he had spent years bringing other people into the work. You could hear how proud he was of what they had built together. You could also hear how much he was already thinking about what else they could do.
+Miles has cerebral palsy and uses a wheelchair. For years, the closest adaptive playground his family knew of was 45 minutes away. They wanted a place close to home where Miles could swing and play alongside his brothers and friends. They started with a lemonade stand to raise money for an accessible swing at their neighborhood park. That first fundraiser brought in $11,000.
+“We can go bigger than this,” Miles recalled thinking.
+His family partnered with Star Playgrounds, held two lemonade stands each summer and spoke to groups about why a playground designed for children of different abilities mattered. The effort raised $1.6 million in cash. With donated goods and services, his mom, Lauren Bowling, estimates the total value of the project at $3 million.
+“I’m just a mom who asked a question, and 1,001 people said, ‘Yes, how can we help?’” Lauren said.
+Miles’s teacher, Anne Hobson, remembers him describing the designs, the colors and how the equipment would work. She tried to picture it as he talked. When
+S’Miles Playground
+opened in Berthoud on Sept. 5, she was there to see what he’d been telling her about.
+At the
+Nov. 11 Board of Education meeting
+, a board member asked Miles which piece of equipment he was proudest of. He chose the yellow wheelchair swing. He explained how he could roll onto the platform, pull the ropes and get it moving himself.
+Lauren remembered watching him use it. Miles was nine, and it was the first time he could get onto a swing and make it go on his own. At the grand opening, she watched a 35-year-old visitor have that same experience.
+Miles remembers seeing teachers and friends from Mead at the opening. He also remembers spending so much of the day doing interviews that he barely got to play with his friends. After five years of telling people why it mattered for kids to be able to play together, he was ready to go play.
+In Hobson’s classroom, Miles talks openly about cerebral palsy and how he does things. When he uses his standing wheelchair, classmates know to bring over his standing desk. Hobson says his willingness to share has helped students become more understanding of one another. She also knows him as the kid who sticks with a hard writing assignment and has a few good jokes ready.
+“He’s pretty hilarious, too,” she said.
+Miles and Lauren started working on a book after looking for one he could share with his class on Cerebral Palsy Awareness Day. They read several together, and Miles wanted one that felt like his own life. So they wrote
+Miles’ Mighty Adventures
+. Miles and his brothers shared early copies with their classes. In third grade, he read it to the whole school, which he remembers as “a little nerve-wracking.”
+He brought the book to the board meeting, too. In one scene, a friend named Jack suggests changing the rules of tag so Miles can join. Some kids run, some walk and Miles moves in his wheelchair. They all get to play the same game.
+When I asked Miles what he hoped his classmates would learn from his story, he talked about understanding cerebral palsy and what it means to include someone. Then he put it in terms any kid at recess would understand. He wanted them to know that “playing with all kinds of p...
+
+Source: https://www.svvsd.org/2026/11/20/miles-has-a-story/
+
 ### Central and Niwot Elementary Earn National i-Ready Awards for Exceptional Growth
 
 - Published: 2026-11-18T09:36:43-07:00
@@ -661,24 +692,29 @@ It’s an approach he...
 
 Source: https://www.svvsd.org/2026/11/10/a-new-era-for-skyline-athletics/
 
-### 2027-28 Preschool Registration Begins Dec. 1 & Dec. 8
+### 2027-28 Preschool Registration Begins Dec. 8
 
 - Published: 2026-11-09T14:17:00-07:00
-- Source URL: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
+- Source URL: https://www.svvsd.org/2026/11/09/2027-28-preschool-registration-begins-december-8/
 
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
 St. Vrain Valley Schools Preschool Application:
-Dec. 1, 2026: The district preschool application opens Dec. 1, 2026 for all families, including those applying for tuition-based preschool for their 3-year-old.
+Dec. 8, 2026: The district preschool application opens Dec. 8, 2026 for all families, including those applying for tuition-based preschool for their 3-year-old.
 Colorado Universal Preschool (UPK) Application
 :
 Children must be
 4 years old on or before Oct. 1, 2027
 , to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application. Families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
 Universal Preschool (UPK) Registration Timeline:
+Due to changes in the State of Colorado’s Universal Preschool (UPK) registration timeline and requirements,
+all preschool registration windows will now open Dec. 8, 2026
+, including registration for families who qualify for Continuity of Care pre-registration.
 UPK
 continuity of care
-pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees. Families must identify their school of choice in their application.
+pre-registration opens Dec. 8, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees. Families must identify their school of choice in their application.
 UPK general registration opens Dec. 8, 2026.
+Families who qualify for continuity of care will continue to receive priority placement
+, provided they submit their application during the priority application window, December 8 through February 1.
 2027-28 Preschool Registration Information and Locations
 Registration Process Support Sessions:
 Open house events will be available to support families with the
@@ -691,7 +727,7 @@ Support Sessions
 .
 Learn More About St. Vrain’s High-Quality Preschool Options
 
-Source: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
+Source: https://www.svvsd.org/2026/11/09/2027-28-preschool-registration-begins-december-8/
 
 ### Longmont High Students Score in Top 10% on National Business Exams
 
@@ -728,20 +764,6 @@ For the second graders, that exploration brought classroom science into focus. W
 See the photo album
 
 Source: https://www.svvsd.org/2026/11/06/second-graders-discover-science-close-to-home-at-sandstone-ranch/
-
-### Innovation Center to Host Free Screening of “Snowball Express” November 13
-
-- Published: 2026-11-05T10:36:51-07:00
-- Source URL: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
-
-Families and community members are invited to a free screening of Disney’s “Snowball Express” on Friday, November 13, at St. Vrain Valley Schools’ Innovation Center, 33 Quail Road in Longmont.
-Hosted by the Innovation Center’s Creative Content Team, the event is part of the Colorado 150 Film Festival, celebrating Colorado’s 150th anniversary through films made in Colorado, about Colorado, or by Coloradans.
-Disney’s family comedy follows Johnny Baxter, a New York accountant who moves his family to Colorado after inheriting a rundown hotel. His efforts to turn it into a ski lodge lead to snowy mishaps and a snowmobile race. The movie also has a Colorado connection behind the scenes: it was filmed in the Colorado Rockies, including a race sequence in Crested Butte. “Snowball Express” is rated G for general audiences.
-The event runs from 5–7:30 p.m. Doors open at 5 p.m., and the screening begins at 5:30 p.m. Admission is free, with seating available on a first-come, first-served basis.
-Voluntary donations will support Creative Content Team students attending the Austin Film Festival’s Young Filmmakers Program, where they can participate in workshops, receive mentorship, and connect with film industry professionals.
-Join the Creative Content Team for an evening of film and community while supporting opportunities for St. Vrain’s young filmmakers.
-
-Source: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
 
 ### District alerts
 
@@ -786,7 +808,7 @@ Source: https://www.svvsd.org/schools/enrollment/
 ### Charter School Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/charter-school-registration/
-- Last modified: 2026-05-28T14:22:02-06:00
+- Last modified: 2026-11-19T06:46:18-07:00
 
 Please select the school year and charter school that you wish to register with.
 Aspen Ridge Preparatory 2026-2027
@@ -872,7 +894,7 @@ Source: https://www.svvsd.org/schools/enrollment/enrollment-statistics/
 ### New Student Registration
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/new-student-registration/
-- Last modified: 2026-11-16T09:16:28-07:00
+- Last modified: 2026-11-17T13:11:12-07:00
 
 New Student Registration
 Online Registration is a great option for families that are new to St. Vrain Valley Schools. Parents and Guardians fill out an online application that includes information about members of the household, emergency contacts and student data. Application processing will be handled by Central Registration and notification will be sent via email as an application moves through the approval process. Processing time will vary based on time of the year and demand. Upon application approval, it is necessary for the family to contact the school(s) to complete the registration process.
@@ -906,7 +928,7 @@ Source: https://www.svvsd.org/schools/enrollment/new-student-registration/
 ### Open Enrollment
 
 - Canonical URL: https://www.svvsd.org/schools/enrollment/open-enrollment/
-- Last modified: 2026-11-16T13:12:34-07:00
+- Last modified: 2026-11-17T08:34:51-07:00
 
 Open Enrollment
 Open Enrollment is an opportunity to request that your student attend a school of choice, which is outside of their attendance area. Students who do not live within district boundaries, but want to attend a school in St. Vrain, need to complete the Open Enrollment form.
@@ -1533,7 +1555,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-11-04T17:21:56-07:00
+- Last modified: 2026-11-18T11:09:38-07:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -2578,14 +2600,14 @@ $115 per 1.0 credit
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/ecredit-logistics/
 
-### Fall 2026 eCredit Recovery
+### Fall 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
 - Last modified: 2026-10-09T12:19:52-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Fall 2026 Registration – CLOSED
+Spring 2027 Registration – CLOSED
 Missed the registration window? – WAITLIST CLOSED
 Registration Dates:
 Fall 2026 eCredit Registration:
@@ -5386,7 +5408,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/loca
 ### Athletics, Activities, & Fine Arts
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/
-- Last modified: 2026-03-03T09:29:55-07:00
+- Last modified: 2026-11-20T07:51:08-07:00
 
 Athletics, Activities, and Fine Arts
 Student engagement is an important part of any comprehensive educational experience. Accordingly, St. Vrain offers a robust selection of co-curricular activities and enrichment options in every school throughout our district.
@@ -5978,7 +6000,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra & Mariachi
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-11-12T16:11:02-07:00
+- Last modified: 2026-11-19T15:43:26-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
@@ -6018,9 +6040,9 @@ Jose Canche Cabrera, LHS
 Moises Carreon, SHS
 Trumpet
 Eva Fuhr, LHS
-Connor Lindsey, LHS
+Connor Lindsay, LHS
 Vihuela
-Juan Rocha-Silva, LHS
+Juan José Rocha, LHS
 Jason Martinez, SHS
 Orchestra
 Order of pieces are subject to change:
@@ -6055,7 +6077,7 @@ Horn
 Kelvin Atteberry, LHS
 Addison Henson, MHS
 Jack Nielson, TPCA
-Travis Pendelton, TPCA
+Travis Pendleton, TPCA
 Trumpet
 Connor Lindsay, LHS
 Gabriel Thorson, LHS
@@ -6088,7 +6110,7 @@ Emily Payne, NHS
 Clarissa Román, SHS
 Adam Wegner, LHS
 Violin II
-Nat Alegria, SCHS
+Nat Alegria Chavez, SCHS
 Ben Barton, EHS
 Ivan Chang, SCHS
 Luke Fillmer, NHS
@@ -6157,7 +6179,7 @@ Becky Donoho and Ashlie Swanson
 Longmont High School (LHS)
 Jennifer Crim and Jeff McMurry
 Lyons High School (LyHS)
-Kristine Coniway and Chris Frank
+Elise Ehlert and Chris Frank
 Mead High School (MHS)
 Holli Young and Lindsay LaPorte
 Niwot High School (NHS)
@@ -8840,22 +8862,25 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-pr
 ### 2027-2028 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
-- Last modified: 2026-11-13T14:54:15-07:00
+- Last modified: 2026-11-19T15:53:09-07:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
 All families interested in St. Vrain’s preschool programs must complete the St. Vrain Valley Schools Preschool Application. Families of children who will be 4 years old on or before Oct. 1, 2027, must also complete the Colorado Universal Preschool (UPK) application, available within the district’s preschool application.
 Preschool placements are offered on a first-come, first-served basis, as space is available. Registering early increases the opportunity for placement at a family’s school of choice.
-2027-2028 Preschool Registration Timeline
-Families interested in St. Vrain’s preschool programs must complete both the
+2027-2028 Preschool Registration Timeline Update
+Due to changes in the State of Colorado’s Universal Preschool (UPK) registration timeline and requirements,
+all preschool registration windows will now open Dec. 8, 2026
+, including registration for families who qualify for Continuity of Care pre-registration.
+All families interested in St. Vrain’s preschool programs must complete the
 St. Vrain Valley Schools Preschool Application
-and the
+. Families seeking UPK placement must also complete the
 Colorado Universal Preschool (UPK) application
-for UPK placement. Children must be
+. Children must be
 4 years old on or before Oct. 1, 2027
 , to qualify for UPK.
 St. Vrain Valley Schools Preschool Application
-Dec. 1, 2026:
+Dec. 8, 2026:
 The district preschool application opens for
 all
 families, including those applying for tuition-based preschool for their 3-year-old.
@@ -8863,18 +8888,18 @@ Colorado Universal Preschool (UPK) Application
 Children must be
 4 years old on or before Oct. 1, 2027
 , to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application.
-UPK Pre-registration (Continuity of Care)
-Dec. 1, 2026:
-UPK
-Pre-registration (Continuity of Care) opens for eligible families
-, including returning preschoolers who will be turning 4 years old on or before Oct. 1, 2027, children with siblings attending the district, and children of St. Vrain employees.
+Dec. 8, 2026:
+UPK registration opens for
+all eligible families
+, including those who qualify for Continuity of Care pre-registration. Continuity of Care includes returning preschoolers, children with siblings attending the district, and children of St. Vrain employees.
+Continuity of Care priority placement:
+Eligible families will continue to receive priority placement if they submit their UPK application during the priority application window,
+Dec. 8, 2026, through Feb. 1, 2027
+.
 Feb. 1, 2027:
 UPK notifies families of their Continuity of Care matches.
-General UPK Registration and Matching
-Dec. 8, 2026:
-General Colorado Universal Preschool (UPK) registration opens. Families who do not qualify for UPK pre-registration (Continuity of Care) can submit the St. Vrain Valley Schools Preschool Application beginning Dec. 1 and the UPK application beginning Dec. 8.
 Feb. 15, 2027:
-UPK conducts the first round of matching.
+UPK conducts the first round of general matching.
 Feb. 25, 2027:
 UPK notifies families of their first-round matches.
 March 16, 2027:
@@ -10507,7 +10532,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
-- Last modified: 2026-10-12T08:38:37-06:00
+- Last modified: 2026-11-17T13:38:50-07:00
 
 Current Staff Resources
 Current St. Vrain Valley Schools employees can access a variety of resources and information to support them throughout the school year. Find important calendars, salary schedules, benefits information, professional development resources, employee forms and more below.
@@ -10780,7 +10805,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/forms/
-- Last modified: 2026-10-02T14:19:41-06:00
+- Last modified: 2026-11-17T13:41:09-07:00
 
 APT Employee Forms
 Resignation Form
@@ -11179,7 +11204,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2026-10-02T14:15:57-06:00
+- Last modified: 2026-11-17T13:35:44-07:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -11481,7 +11506,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Recruiting Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
-- Last modified: 2026-10-29T13:28:37-06:00
+- Last modified: 2026-11-17T08:23:17-07:00
 
 St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email: humanresources@svvsd.org
 Workforce Boulder County 55+ Job Fair
@@ -11504,7 +11529,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-10-08T07:51:16-06:00
+- Last modified: 2026-11-20T09:37:29-07:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -15944,7 +15969,7 @@ Source: https://www.svvsd.org/departments/safety/safety-security-staff-resources
 ### Student Data Transparency and Security Act
 
 - Canonical URL: https://www.svvsd.org/departments/safety/student-data-transparency-and-security-act/
-- Last modified: 2022-06-08T08:18:07-06:00
+- Last modified: 2026-11-20T09:56:00-07:00
 
 Student Data Transparency
 In St. Vrain Valley Schools we go above and beyond by adhering to all state and federal guidelines regarding student data privacy. We hold data privacy and security in high regard and takes action to ensure that our students’ data is handled securely in compliance with the Colorado Student Data Transparency and Security Act (
@@ -15952,7 +15977,7 @@ HB 16-1423
 ) and the Family Educational Rights and Privacy Act (
 FERPA
 ).​
-For questions regarding Student Data Transparency, please contact Manager of IT Service Delivery, Dan Magyar, at magyar_dan@svvsd.org or 303-702-7726.
+For questions regarding Student Data Transparency, please contact Senior Manager of IT Service Enablement, Dan Magyar, at magyar_dan@svvsd.org or 303-702-7726.
 Codex is a directory of the apps, programs, and websites, used in our classrooms and across the district. This handy resource includes program descriptions, support contact information, student data types shared, and much more.
 CODEX
 
@@ -20505,7 +20530,7 @@ JF-E – Admission and Denial of Admission
 JFABB – Admission of Non-Immigrant Foreign Exchange Students
 40 KB
 JFABB-E – Admission of Non-Immigrant Foreign Exchange Students
-36 KB
+28 KB
 JFABB-R – Admission of Non-Immigrant Foreign Students
 62 KB
 JFABD – Homeless Students

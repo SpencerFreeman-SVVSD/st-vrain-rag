@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-19T10:19:00.613531-07:00
+generated_at: 2026-11-21T09:05:39.345825-07:00
 coverage_window_days: 90
 section_title: Latest news and alerts
 ---
@@ -7,6 +7,37 @@ section_title: Latest news and alerts
 # Latest news and alerts
 
 ### District news
+
+### Miles Has a Story
+
+- Published: 2026-11-20T11:54:42-07:00
+- Source URL: https://www.svvsd.org/2026/11/20/miles-has-a-story/
+
+When I asked Miles Bowling to introduce himself, the Mead Elementary fourth grader got right to it.
+“My name is Miles, and I built an adaptive playground and I have a story.”
+He could tell me exactly how long the playground took to build: five years, one month and 19 days. He remembered how nervous he was at the start, when there was so much money to raise and he had no idea whether they could do it. And when he talked about getting it done, he talked about the people who said yes.
+That’s what stayed with me about Miles. He had a clear sense of what he wanted to change, and he had spent years bringing other people into the work. You could hear how proud he was of what they had built together. You could also hear how much he was already thinking about what else they could do.
+Miles has cerebral palsy and uses a wheelchair. For years, the closest adaptive playground his family knew of was 45 minutes away. They wanted a place close to home where Miles could swing and play alongside his brothers and friends. They started with a lemonade stand to raise money for an accessible swing at their neighborhood park. That first fundraiser brought in $11,000.
+“We can go bigger than this,” Miles recalled thinking.
+His family partnered with Star Playgrounds, held two lemonade stands each summer and spoke to groups about why a playground designed for children of different abilities mattered. The effort raised $1.6 million in cash. With donated goods and services, his mom, Lauren Bowling, estimates the total value of the project at $3 million.
+“I’m just a mom who asked a question, and 1,001 people said, ‘Yes, how can we help?’” Lauren said.
+Miles’s teacher, Anne Hobson, remembers him describing the designs, the colors and how the equipment would work. She tried to picture it as he talked. When
+S’Miles Playground
+opened in Berthoud on Sept. 5, she was there to see what he’d been telling her about.
+At the
+Nov. 11 Board of Education meeting
+, a board member asked Miles which piece of equipment he was proudest of. He chose the yellow wheelchair swing. He explained how he could roll onto the platform, pull the ropes and get it moving himself.
+Lauren remembered watching him use it. Miles was nine, and it was the first time he could get onto a swing and make it go on his own. At the grand opening, she watched a 35-year-old visitor have that same experience.
+Miles remembers seeing teachers and friends from Mead at the opening. He also remembers spending so much of the day doing interviews that he barely got to play with his friends. After five years of telling people why it mattered for kids to be able to play together, he was ready to go play.
+In Hobson’s classroom, Miles talks openly about cerebral palsy and how he does things. When he uses his standing wheelchair, classmates know to bring over his standing desk. Hobson says his willingness to share has helped students become more understanding of one another. She also knows him as the kid who sticks with a hard writing assignment and has a few good jokes ready.
+“He’s pretty hilarious, too,” she said.
+Miles and Lauren started working on a book after looking for one he could share with his class on Cerebral Palsy Awareness Day. They read several together, and Miles wanted one that felt like his own life. So they wrote
+Miles’ Mighty Adventures
+. Miles and his brothers shared early copies with their classes. In third grade, he read it to the whole school, which he remembers as “a little nerve-wracking.”
+He brought the book to the board meeting, too. In one scene, a friend named Jack suggests changing the rules of tag so Miles can join. Some kids run, some walk and Miles moves in his wheelchair. They all get to play the same game.
+When I asked Miles what he hoped his classmates would learn from his story, he talked about understanding cerebral palsy and what it means to include someone. Then he put it in terms any kid at recess would understand. He wanted them to know that “playing with all kinds of p...
+
+Source: https://www.svvsd.org/2026/11/20/miles-has-a-story/
 
 ### Central and Niwot Elementary Earn National i-Ready Awards for Exceptional Growth
 
@@ -178,24 +209,29 @@ It’s an approach he...
 
 Source: https://www.svvsd.org/2026/11/10/a-new-era-for-skyline-athletics/
 
-### 2027-28 Preschool Registration Begins Dec. 1 & Dec. 8
+### 2027-28 Preschool Registration Begins Dec. 8
 
 - Published: 2026-11-09T14:17:00-07:00
-- Source URL: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
+- Source URL: https://www.svvsd.org/2026/11/09/2027-28-preschool-registration-begins-december-8/
 
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
 St. Vrain Valley Schools Preschool Application:
-Dec. 1, 2026: The district preschool application opens Dec. 1, 2026 for all families, including those applying for tuition-based preschool for their 3-year-old.
+Dec. 8, 2026: The district preschool application opens Dec. 8, 2026 for all families, including those applying for tuition-based preschool for their 3-year-old.
 Colorado Universal Preschool (UPK) Application
 :
 Children must be
 4 years old on or before Oct. 1, 2027
 , to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application. Families are encouraged to apply early to increase the opportunity of placement at a family’s school of choice.
 Universal Preschool (UPK) Registration Timeline:
+Due to changes in the State of Colorado’s Universal Preschool (UPK) registration timeline and requirements,
+all preschool registration windows will now open Dec. 8, 2026
+, including registration for families who qualify for Continuity of Care pre-registration.
 UPK
 continuity of care
-pre-registration opens Dec. 1, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees. Families must identify their school of choice in their application.
+pre-registration opens Dec. 8, 2026 for eligible families including returning preschoolers, children with a sibling attending the requested school, and children of St. Vrain employees. Families must identify their school of choice in their application.
 UPK general registration opens Dec. 8, 2026.
+Families who qualify for continuity of care will continue to receive priority placement
+, provided they submit their application during the priority application window, December 8 through February 1.
 2027-28 Preschool Registration Information and Locations
 Registration Process Support Sessions:
 Open house events will be available to support families with the
@@ -208,7 +244,7 @@ Support Sessions
 .
 Learn More About St. Vrain’s High-Quality Preschool Options
 
-Source: https://www.svvsd.org/2026/11/09/2026-27-preschool-registration-begins-december-9/
+Source: https://www.svvsd.org/2026/11/09/2027-28-preschool-registration-begins-december-8/
 
 ### Longmont High Students Score in Top 10% on National Business Exams
 
@@ -245,20 +281,6 @@ For the second graders, that exploration brought classroom science into focus. W
 See the photo album
 
 Source: https://www.svvsd.org/2026/11/06/second-graders-discover-science-close-to-home-at-sandstone-ranch/
-
-### Innovation Center to Host Free Screening of “Snowball Express” November 13
-
-- Published: 2026-11-05T10:36:51-07:00
-- Source URL: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
-
-Families and community members are invited to a free screening of Disney’s “Snowball Express” on Friday, November 13, at St. Vrain Valley Schools’ Innovation Center, 33 Quail Road in Longmont.
-Hosted by the Innovation Center’s Creative Content Team, the event is part of the Colorado 150 Film Festival, celebrating Colorado’s 150th anniversary through films made in Colorado, about Colorado, or by Coloradans.
-Disney’s family comedy follows Johnny Baxter, a New York accountant who moves his family to Colorado after inheriting a rundown hotel. His efforts to turn it into a ski lodge lead to snowy mishaps and a snowmobile race. The movie also has a Colorado connection behind the scenes: it was filmed in the Colorado Rockies, including a race sequence in Crested Butte. “Snowball Express” is rated G for general audiences.
-The event runs from 5–7:30 p.m. Doors open at 5 p.m., and the screening begins at 5:30 p.m. Admission is free, with seating available on a first-come, first-served basis.
-Voluntary donations will support Creative Content Team students attending the Austin Film Festival’s Young Filmmakers Program, where they can participate in workshops, receive mentorship, and connect with film industry professionals.
-Join the Creative Content Team for an evening of film and community while supporting opportunities for St. Vrain’s young filmmakers.
-
-Source: https://www.svvsd.org/2026/11/05/innovation-center-to-host-free-screening-of-snowball-express-november-13/
 
 ### District alerts
 

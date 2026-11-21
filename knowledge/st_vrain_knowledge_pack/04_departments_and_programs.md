@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-19T10:19:00.613531-07:00
+generated_at: 2026-11-21T09:05:39.345825-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -117,7 +117,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/asse
 ### Student Assessments in St. Vrain
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/assessment/2023-2024-state-testing-assessment-schedule/
-- Last modified: 2026-11-04T17:21:56-07:00
+- Last modified: 2026-11-18T11:09:38-07:00
 
 Assessment in St. Vrain Valley Schools
 St. Vrain Valley Schools utilizes assessment data and additional data resources to identify ways to improve student achievement. The goal is to provide rich learning opportunities that engage students and prepare them for success in the 21st century.
@@ -1162,14 +1162,14 @@ $115 per 1.0 credit
 
 Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/ecredit-logistics/
 
-### Fall 2026 eCredit Recovery
+### Fall 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
 - Last modified: 2026-10-09T12:19:52-06:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
-Fall 2026 Registration – CLOSED
+Spring 2027 Registration – CLOSED
 Missed the registration window? – WAITLIST CLOSED
 Registration Dates:
 Fall 2026 eCredit Registration:
@@ -3970,7 +3970,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/loca
 ### Athletics, Activities, & Fine Arts
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/
-- Last modified: 2026-03-03T09:29:55-07:00
+- Last modified: 2026-11-20T07:51:08-07:00
 
 Athletics, Activities, and Fine Arts
 Student engagement is an important part of any comprehensive educational experience. Accordingly, St. Vrain offers a robust selection of co-curricular activities and enrichment options in every school throughout our district.
@@ -4562,7 +4562,7 @@ Source: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-art
 ### High School Honor Orchestra & Mariachi
 
 - Canonical URL: https://www.svvsd.org/departments/athletics-activites-fine-arts/fine-arts/performing-arts/district-wide-fine-arts-events/high-school-honor-orchestra/
-- Last modified: 2026-11-12T16:11:02-07:00
+- Last modified: 2026-11-19T15:43:26-07:00
 
 Event Details
 The High School Honor Orchestra Festival brings together the best high school musicians in SVVSD for intensive music making, including the opportunity to rehearse with renowned guest conductors and artists and culminating in a public concert.
@@ -4602,9 +4602,9 @@ Jose Canche Cabrera, LHS
 Moises Carreon, SHS
 Trumpet
 Eva Fuhr, LHS
-Connor Lindsey, LHS
+Connor Lindsay, LHS
 Vihuela
-Juan Rocha-Silva, LHS
+Juan José Rocha, LHS
 Jason Martinez, SHS
 Orchestra
 Order of pieces are subject to change:
@@ -4639,7 +4639,7 @@ Horn
 Kelvin Atteberry, LHS
 Addison Henson, MHS
 Jack Nielson, TPCA
-Travis Pendelton, TPCA
+Travis Pendleton, TPCA
 Trumpet
 Connor Lindsay, LHS
 Gabriel Thorson, LHS
@@ -4672,7 +4672,7 @@ Emily Payne, NHS
 Clarissa Román, SHS
 Adam Wegner, LHS
 Violin II
-Nat Alegria, SCHS
+Nat Alegria Chavez, SCHS
 Ben Barton, EHS
 Ivan Chang, SCHS
 Luke Fillmer, NHS
@@ -4741,7 +4741,7 @@ Becky Donoho and Ashlie Swanson
 Longmont High School (LHS)
 Jennifer Crim and Jeff McMurry
 Lyons High School (LyHS)
-Kristine Coniway and Chris Frank
+Elise Ehlert and Chris Frank
 Mead High School (MHS)
 Holli Young and Lindsay LaPorte
 Niwot High School (NHS)
@@ -7424,22 +7424,25 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-pr
 ### 2027-2028 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
-- Last modified: 2026-11-13T14:54:15-07:00
+- Last modified: 2026-11-19T15:53:09-07:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
 All families interested in St. Vrain’s preschool programs must complete the St. Vrain Valley Schools Preschool Application. Families of children who will be 4 years old on or before Oct. 1, 2027, must also complete the Colorado Universal Preschool (UPK) application, available within the district’s preschool application.
 Preschool placements are offered on a first-come, first-served basis, as space is available. Registering early increases the opportunity for placement at a family’s school of choice.
-2027-2028 Preschool Registration Timeline
-Families interested in St. Vrain’s preschool programs must complete both the
+2027-2028 Preschool Registration Timeline Update
+Due to changes in the State of Colorado’s Universal Preschool (UPK) registration timeline and requirements,
+all preschool registration windows will now open Dec. 8, 2026
+, including registration for families who qualify for Continuity of Care pre-registration.
+All families interested in St. Vrain’s preschool programs must complete the
 St. Vrain Valley Schools Preschool Application
-and the
+. Families seeking UPK placement must also complete the
 Colorado Universal Preschool (UPK) application
-for UPK placement. Children must be
+. Children must be
 4 years old on or before Oct. 1, 2027
 , to qualify for UPK.
 St. Vrain Valley Schools Preschool Application
-Dec. 1, 2026:
+Dec. 8, 2026:
 The district preschool application opens for
 all
 families, including those applying for tuition-based preschool for their 3-year-old.
@@ -7447,18 +7450,18 @@ Colorado Universal Preschool (UPK) Application
 Children must be
 4 years old on or before Oct. 1, 2027
 , to qualify for UPK. Families seeking UPK placement must complete both the district preschool application and the UPK application. The link to the UPK application is available within the district preschool application.
-UPK Pre-registration (Continuity of Care)
-Dec. 1, 2026:
-UPK
-Pre-registration (Continuity of Care) opens for eligible families
-, including returning preschoolers who will be turning 4 years old on or before Oct. 1, 2027, children with siblings attending the district, and children of St. Vrain employees.
+Dec. 8, 2026:
+UPK registration opens for
+all eligible families
+, including those who qualify for Continuity of Care pre-registration. Continuity of Care includes returning preschoolers, children with siblings attending the district, and children of St. Vrain employees.
+Continuity of Care priority placement:
+Eligible families will continue to receive priority placement if they submit their UPK application during the priority application window,
+Dec. 8, 2026, through Feb. 1, 2027
+.
 Feb. 1, 2027:
 UPK notifies families of their Continuity of Care matches.
-General UPK Registration and Matching
-Dec. 8, 2026:
-General Colorado Universal Preschool (UPK) registration opens. Families who do not qualify for UPK pre-registration (Continuity of Care) can submit the St. Vrain Valley Schools Preschool Application beginning Dec. 1 and the UPK application beginning Dec. 8.
 Feb. 15, 2027:
-UPK conducts the first round of matching.
+UPK conducts the first round of general matching.
 Feb. 25, 2027:
 UPK notifies families of their first-round matches.
 March 16, 2027:
@@ -9091,7 +9094,7 @@ Source: https://www.svvsd.org/departments/human-resources/benefits/welcome-to-st
 ### Current Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/
-- Last modified: 2026-10-12T08:38:37-06:00
+- Last modified: 2026-11-17T13:38:50-07:00
 
 Current Staff Resources
 Current St. Vrain Valley Schools employees can access a variety of resources and information to support them throughout the school year. Find important calendars, salary schedules, benefits information, professional development resources, employee forms and more below.
@@ -9364,7 +9367,7 @@ Source: https://www.svvsd.org/departments/human-resources/current-employees/eval
 ### Forms
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/current-employees/forms/
-- Last modified: 2026-10-02T14:19:41-06:00
+- Last modified: 2026-11-17T13:41:09-07:00
 
 APT Employee Forms
 Resignation Form
@@ -9763,7 +9766,7 @@ Source: https://www.svvsd.org/departments/human-resources/new-employee-informati
 ### Certified Employees
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/new-employee-information/certified-employees/
-- Last modified: 2026-10-02T14:15:57-06:00
+- Last modified: 2026-11-17T13:35:44-07:00
 
 New Employee Information
 Congratulations on your new position with St. Vrain Valley Schools!
@@ -10065,7 +10068,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Recruiting Events
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/recruiting-events-job-fairs/
-- Last modified: 2026-10-29T13:28:37-06:00
+- Last modified: 2026-11-17T08:23:17-07:00
 
 St. Vrain Valley Schools regularly attends recruiting events throughout the year. Upcoming events will be posted here as dates become available. For questions regarding St. Vrain’s event schedule please email: humanresources@svvsd.org
 Workforce Boulder County 55+ Job Fair
@@ -10088,7 +10091,7 @@ Source: https://www.svvsd.org/departments/human-resources/prospective-employees/
 ### Salary Schedules
 
 - Canonical URL: https://www.svvsd.org/departments/human-resources/prospective-employees/salary-schedules/
-- Last modified: 2026-10-08T07:51:16-06:00
+- Last modified: 2026-11-20T09:37:29-07:00
 
 Salary Schedules & Placements
 St. Vrain Valley Schools determines salary placement based on education and years of experience. All pertinent experience must be listed on the employment application in order to be counted. For education credit, official transcripts must be submitted for evaluation.
@@ -14528,7 +14531,7 @@ Source: https://www.svvsd.org/departments/safety/safety-security-staff-resources
 ### Student Data Transparency and Security Act
 
 - Canonical URL: https://www.svvsd.org/departments/safety/student-data-transparency-and-security-act/
-- Last modified: 2022-06-08T08:18:07-06:00
+- Last modified: 2026-11-20T09:56:00-07:00
 
 Student Data Transparency
 In St. Vrain Valley Schools we go above and beyond by adhering to all state and federal guidelines regarding student data privacy. We hold data privacy and security in high regard and takes action to ensure that our students’ data is handled securely in compliance with the Colorado Student Data Transparency and Security Act (
@@ -14536,7 +14539,7 @@ HB 16-1423
 ) and the Family Educational Rights and Privacy Act (
 FERPA
 ).​
-For questions regarding Student Data Transparency, please contact Manager of IT Service Delivery, Dan Magyar, at magyar_dan@svvsd.org or 303-702-7726.
+For questions regarding Student Data Transparency, please contact Senior Manager of IT Service Enablement, Dan Magyar, at magyar_dan@svvsd.org or 303-702-7726.
 Codex is a directory of the apps, programs, and websites, used in our classrooms and across the district. This handy resource includes program descriptions, support contact information, student data types shared, and much more.
 CODEX
 
