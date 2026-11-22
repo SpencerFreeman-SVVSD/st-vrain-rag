@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-21T09:05:39.345825-07:00
+generated_at: 2026-11-22T09:12:52.916753-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -1165,7 +1165,7 @@ Source: https://www.svvsd.org/departments/assessment-curriculum-instruction/curr
 ### Fall 2027 eCredit Recovery
 
 - Canonical URL: https://www.svvsd.org/departments/assessment-curriculum-instruction/curriculum/elearning/ecredit-recovery/fall-ecredit-recovery/
-- Last modified: 2026-10-09T12:19:52-06:00
+- Last modified: 2026-11-20T13:22:13-07:00
 
 Overview
 Students who have failed specific core courses have another opportunity for success through the SVVSD eCredit Recovery Program. St. Vrain Valley School District offers this hybrid credit recovery program that allows students to recover credit by retaking only the concepts in which they were previously unsuccessful through a blended learning model.
