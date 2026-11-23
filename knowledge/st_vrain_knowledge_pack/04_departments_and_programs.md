@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-22T09:12:52.916753-07:00
+generated_at: 2026-11-23T13:05:44.552311-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -7545,8 +7545,8 @@ Morning session (8:25-11:05 a.m.)
 Afternoon session (12:20-3:00 p.m.)
 Full-day session (8:25 a.m. – 3:00 p.m.)
 Northridge Elementary
-Morning session (8:25-11:05 a.m.)
-Afternoon session (12:25-3:05 p.m.)
+Morning session (8:15-11:15 a.m.)
+Afternoon session (12:05-3:05 p.m.)
 Full-day session (8:25 a.m. – 3:05 p.m.)
 Rocky Mountain Elementary
 Full-day session (8:40 a.m. – 3:15 p.m.)
