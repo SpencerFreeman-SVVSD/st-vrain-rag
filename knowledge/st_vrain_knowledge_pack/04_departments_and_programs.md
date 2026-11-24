@@ -1,5 +1,5 @@
 ---
-generated_at: 2026-11-23T13:05:44.552311-07:00
+generated_at: 2026-11-24T12:28:23.521059-07:00
 coverage_window_days: 90
 section_title: Departments and programs
 ---
@@ -7424,7 +7424,7 @@ Source: https://www.svvsd.org/departments/early-childhood/preschool/2026-2027-pr
 ### 2027-2028 Preschool Registration
 
 - Canonical URL: https://www.svvsd.org/departments/early-childhood/preschool/2027-2028-preschool-registration/
-- Last modified: 2026-11-19T15:53:09-07:00
+- Last modified: 2026-11-23T10:30:44-07:00
 
 High-Quality Preschool Programs in St. Vrain
 St. Vrain Valley Schools offers high-quality preschool programs across the district that support children’s learning, growth, and connection to their school community. Families can choose from half-day morning and afternoon sessions, with full-day programs available at select schools.
